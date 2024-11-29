@@ -1,0 +1,307 @@
+CRE002 22C3, Schäuble, Coral CDN, CACert
+00:00:00-0  Intro
+Tim 00:00:59-0 Hallo hier ist Chaosradio Express das Chaosradio für zwischendurch, jede Woche neu, eigentlich am Montag aber heute erst am Dienstag 
+Tim 00:01:05-0 weil der Montag ein Blue Monday war.
+Tim 00:01:07-0 Am Mikrofon Tim Pritlove und diese Woche gibts wieder viele frische neue Informationen vom Chaos Computer Club.
+00:01:15-7  Musik
+Tim 00:01:19-0 Im Hintergrund was ihr hört das sind Tough Chicks, www.toughchicks.de ein sehr schöner 
+Tim 00:01:25-5 Mix der passend zur geplanten Länge dieses Chaosradios, 
+Tim 00:01:28-5 was ein bisschen länger sein wird als die erste Ausgabe
+Tim 00:01:32-0 und ich hoffe auch das ich hier ein paar von den Kommentaren und dem Feedback was ich bekommen in der letzten 
+Tim 00:01:37-9 Woche für das ich mich sehr bedanke (em) einflechten kann.
+00:01:43-0  Musik
+Tim 00:02:07-6 In diesem Podcast gibt es ein bisschen Feedback zum Feedback, es gibt einen Ausblick auf den Kongress und 
+Tim 00:02:18-0 (em) ich stelle eine Technologie vor die für Podcasting sehr interessant ist und vor allem gibt es Neuigkeiten 
+Tim 00:02:27-5 zum 22. Chaos Comunication Congress.
+00:02:30-9  Musik
+Tim 00:02:42-8 Termine in dieser Woche, die liegen jetzt auch dringend an und zwar gleich morgen 
+Tim 00:02:47-5 gehts weiter mit der nächsten Ausgabe vom richtigen Chaosradio
+Tim 00:02:50-5  von drei Stunden Talkradio, Chaosradio live auf Fritz. 
+Tim 00:02:52-5 Chaosradio 108 um 22 Uhr Live-Empfang war im  Internet oder Ukw oder über Satellit je nach dem über welche Möglichkeiten man da versteht 
+Tim 00:02:57-5 (em) verfügt, es sollte eigentlich für jeden was dabei sein. 
+Tim 00:02:59-0 Thema, Thema ist die digitale Dekade ein Rückblick auf die letzten 10 Jahre, 
+Tim 00:03:03-0 (em) Technikentwicklung aber auch die letzten 10 Jahre Entwicklung Chaos Computer Club 
+Tim 00:03:06-0 da das jetzt unsere Jubiläumssendung ist zum 10. Geburtstag vom Chaosradio 
+Tim 00:03:10-6 wagen wir auch einen kleinen Rückblick auf unsere eigene Entwicklung ohne das zu sehr in Vordergrund stellen zu wollen 
+Tim 00:03:19-5 aber die paralelität ist für uns natürlich im besonderen Maße interessant und wie wir denken auch für euch.
+00:03:27-4  Musik
+Tim 00:03:42-7 Der 22. Chaos Comunication Congress hat jetzt auch eine neue Website und tatatata 
+Tim 00:03:51-1 der Fahrplan ist auch bereits vorgestellt für die Leute nicht wissen wovon ich rede, der Fahrplan 
+Tim 00:03:58-0 das ist unser Konferenzprogramm dort findet ihr alle interessanten, (äh) alle wichtigen, aktuellen, bestätigten Informationen 
+Tim 00:04:10-0 (..) zum Kongress. Ihr seht dort halt was für Vorträge laufen, wann sie laufen und (äh) es ist eine ganze Menge. 
+Tim 00:04:23-6 Ich werd hier in den Podcast mich auch noch mal bemühen einige einzelne Vorträge vorzustellen 
+Tim 00:04:27-0 dazu vielleicht noch ein paar Interviews zu führen. (..)
+Tim 00:04:28-9 (em) Los gehts am 26. (arr) Gott (..) los gehts am 27. NEIN das ist gut los gehts tatsächlich am 26. 
+Tim 00:04:34-3 da gibt's zwar noch keinen Konferenzprogramm aber bitte bitte bitte alle Leute die schon am 26. 
+Tim 00:04:37-9 in der Stadt sind und die Zeit haben sollten unbedingt schon am 26. vorbeikommen, warum, 
+Tim 00:04:41-0 um sich ein Ticket zu kaufen wir hatten in den letzten Jahren immer ein Problem an der Kasse 
+Tim 00:04:47-1 das wir, dem wir zwar auch schon ja entgegen gekommen sind letztes mal, in dem wir deutlich mehr Kassen aufgebaut haben. 
+Tim 00:04:54-9 Der ganze Check-in das ging alles sehr viel schneller und trotzdem war wieder eine riesen Schlange da, 
+Tim 00:05:00-9 was wir son bisschen nicht verstanden haben aber es lag einfach daran das sehr viele Leute der Meinung sind 
+Tim 00:05:07-5 es würde vollkommen ausreichen um 9:30 Uhr zukommen um dann um 10 Uhr  die Eröffnungsveranstaltung mit zubekommen. 
+Tim 00:05:14-5 So ist es nicht, sondern  es gibt immer einen riesen Schub und wir haben die Kassen schon vorher ab Nachmittag ungefair geöffnet 
+Tim 00:05:27-8 und wer einfach die Gelegenheit hat vorher schon vorbei zuschauen sollte das tun er wird es nicht bereuen wenn er dann am Donnerstag 
+Tim 00:05:36-5 (irrrr...) nein es ist überhaupt kein Donnerstag, 
+Tim 00:05:40-6 also am 27. reinkommt, oder ist ein Donnerstag? 
+Tim 00:05:44-9 Ist natürlich kein Donnerstag tatsächlich ist es ein Dienstag aber mit "D" fing es an. Also am 26. am Montag könnt ihr reinrauschen 
+Tim 00:05:58-1 (em) und euch ein Ticket sichern, könnt natürlich noch ein bisschen beim Aufbauen mithelfen wenn ihr unbedingt 
+Tim 00:06:04-0 (äh), wenn ihr Zeit habt, wenn ihr möchtet. 
+Tim 00:06:06-5 (em) Ansonsten gehts am 27. früh los, mit der (00:06:09-9  ???) von Joi Ito, später viele andere weitere Veranstaltungen in 4 Sälen dieses mal, 
+Tim 00:06:15-7 letztes mal hatten wir 6 Säle das war ein bisschen viel jetzt sind nur noch 4 dafür streckt sich das Programm auch auf (äh) 4 Tage. (...)
+Tim 00:06:20-9 Ja und ein Überblick über die Veranstaltung findet ihr im Web, eventsccc.de/kongress/2005/fahrplan und da wartet dann alles auf euch. 
+Tim 00:06:30-9 (em) Da kann man ne Weile rumklicken, wir werden hier in den nächsten Wochen einzelne Vorträge vorstellen als Entscheidungsgrundlage für euch.
+00:06:39-0  Musik
+Tim 00:06:54-0 Also 22. Caos Comunication Congress am 27. bis 30.Dezember. 
+Tim 00:07:00-0 Am letzten Tag gibt es auch noch eine Abschlussparty in der C-Base das ist in unmittelbarer Nähe und 
+Tim 00:07:07-0 (äh) dort gehts noch mal bis in die Puppen also um 20 Uhr ist 
+Tim 00:07:09-5 die Abschlussveranstaltung am letzten Tag und danach gehts quasi direkt weiter.
+Tim 00:07:14-0 Wer also Interesse daran hat den Kongress (ähm) für ein verlängerten Berlinaufenthalt zu nutzen, 
+Tim 00:07:22-8 dem bauen wir da eigentlich eine elegante Brücke denn 
+Tim 00:07:26-8 ja man kann sozusagen direkt vom Tannebaum weg zum Kongress huschen, 
+Tim 00:07:31-5 sich dann 4 Tage da drumm drücken und (ähm) sich informieren lassen und mit der Abschlussparty locker 
+Tim 00:07:40-5 in die Silvesterfestivitäten rein rollen das sollte eigentlich alle Partybedürfnisse befriedigen.
+00:07:49-0  Musik
+Tim 00:07:56-5 Wer nicht genug bekommen kann vom Kongress der möchte sich ja vielleicht auch als Engel einbringen. 
+Tim 00:08:01-2 Engel sind die Leute die uns bei der Organisation des Kongresses helfen als unkommerzielle Veranstaltung haben wir natürlich 
+Tim 00:08:06-3 (äh) großen Bedarf an freiwilligen Mithelfern. Viele wichtige Dinge auf dem Kongress werden von den Engeln überhaupt erst ermöglicht und 
+Tim 00:08:13-5 (ähm) wir bedanken und auch bei den Engeln in dem Wir
+Tim 00:08:18-0 das Kongress-Shirt gleich mit in die Tasche packen und noch ein paar andere Annehmlichkeiten, das könnt ihr alles 
+Tim 00:08:22-5 (äh) im publik-wiki nachschlagen und es gibt dort auch den Link auf die Engel Anmeldung. (...)
+Tim 00:08:28-5 Wer im Hackcenter da bei sein möchte, das Hackcenter wird dies Jahr etwas kleiner sein (em) für den eröffnet sich demnächst die 
+Tim 00:08:37-5 Hackcenter-Anmeldung dazu bitte das Webblog verfolgen. Ansonsten wer (äh) auch von Podcast nicht 
+Tim 00:08:46-8 (be) genug bekommen kann der möchte vielleicht auch bei Kongressradio.de mal nachschauen dort 
+Tim 00:08:55-1 (äh) gibt jetzt schon einige Podcasts und das wird sich dann noch deutlich steigern bis zum Kongress und dann eben auch direkt vom Kongress weg. 
+Tim 00:09:04-7 Podcasts demnächst wohl auch in englisch derzeit noch auf deutsch und (ähm) das kann ich euch nur empfehlen.
+00:09:13-5  Musik
+Tim 00:09:47-0 Joor was gibts sonst noch zu erzählen, wir haben (ähm) ja.. es gibt ne ganze Menge (kischer) 
+Tim 00:09:51-5 ach ja also es ne ganze Menge also das waren jetzt die guten Nachrichten
+Tim 00:09:54-0 Jetzt kommen wir mal zu den weniger guten Nachrichten ihr werdet´s vielleicht schon auf www.ccc.de gesehen haben, 
+Tim 00:09:57-0 wir haben uns da geäußert weil dies einfach mal nötig war.
+Tim 00:10:00-0 (ähm) Nötig war es sich zu äußern weil unser lieber neuer Innenminister Herr Schäuble sich geäußert hat, der meinte einfach mal so 
+Tim 00:10:06-4 "na ja jetzt haben wir ja dieses Autobahnmautsystem 
+Tim 00:10:10-9 damit wir die Verbrecher fangen und hoppala da haben wir ja schon ein System das kann ja alle Nummernschilder lesen na so was, 
+Tim 00:10:20-0 so ein Zufall aber auch und da könnte man doch es einfach mal einschalten 
+Tim 00:10:25-5 und überhaupt und die SPD wäre ja auch eigentlich der gleichen Auffassung".
+Tim 00:10:31-0 Na super das ist also die Rolle rückwärts, die man eigentlich von Anfang an 
+Tim 00:10:36-9 (ähm) vermuten durfte. Natürlich ist das Autobahnmautsystem so wies in Deutschland aufgebaut wurde 
+Tim 00:10:45-0 perfekt für eine Vollüberwachung aller, 
+Tim 00:10:50-0 aller Autobahnfahrer, aller Leute die sich eben auf Autobahnen, 
+Tim 00:10:55-3 auf öffentlichen Straßenland bewegen denn en wird einfach jedes Nummernschild (äh) gescant.
+Tim 00:11:03-9 Wer das noch nicht weis wie das funktioniert (..) 
+Tim 00:11:08-1 (ähm). Diese Mautbrücken werdet ihr sicherlich schon mal gesehen haben. 
+Tim 00:11:13-5 Das sind diese großen, riesigen Stahltrassen die quer über die Autobahn gespannt sind mit zahlreichen Kameras, 
+Tim 00:11:19-2 das ist eigentlich schon auszumachen mit diesem Glasfensterchen vorne dran 
+Tim 00:11:21-5 und wenn man dann daran vorbei fährt dann nimmt (ähm) das Kamerasystem das wahr
+Tim 00:11:24-8 und lokalisiert auf dem Videobild das Nummernschild und ist auch in der Lage das Nummerschild zu lesen. 
+Tim 00:11:28-2 Das geht natürlich deutlich einfacher vor allem seitdem die Nummerschilder ja in Europa da wies immer so schön heißt harmonisiert wurden.
+Tim 00:11:32-4 Diese (äh) wenn ihr euch schon immer mal gewundert habt warum diese Schrift eigentlich so ulkig aussieht 
+Tim 00:11:35-0 (äh) die wurde halt für die Erkennung auf solchen Bildern angepasst. 
+Tim 00:11:40-5 Also im Prinzip schon vor vielen Jahren als die Nummernschilder geändert wurden, 
+Tim 00:11:45-7 war im Prinzip der Weg schon ganz klar das man das ebenso machen möchte 
+Tim 00:11:50-2 und jetzt haben sie sich auch noch ihr Autobahnmautsystem dazu gebaut überall gibts diese Brücken 
+Tim 00:11:55-4 und im Prinzip ist man jetzt komplett erfassbar.
+Tim 00:12:00-0 Und auch wenn das natürlich offiziell nur für Lkws eingerichtet wurde, 
+Tim 00:12:05-7 also so zumindest die offizielle Sprachregelung ist es natürlich klar das ein Auto ganz genauso damit erfasst werden kann also ein PKW 
+Tim 00:12:15-3 und es wird auch getan nur werden die Daten halt nicht weitergeleitet sondern eben einfach fallen gelassen.
+Tim 00:12:21-0 Und dieser Vorstoß unseres Innenministers geht halt im Prinzip genau jetzt in die Richtung, 
+Tim 00:12:28-2 "na ja wenn die Daten sowieso schon darum liegen und wir müssen jetzt den bösen Mörder fangen können wir das machen, 
+Tim 00:12:35-7 brauchen wir ja nur einschalten, müssen wir ja nur ein Gesetzt beschließen".
+Tim 00:12:40-0 Ja und das werden sie sicherlich jetzt auch probieren und deswegen 
+Tim 00:12:41-9 (ähm) haben wir uns da auch gleich in einem entsprechenden Pressreales dagegen gewand, 
+Tim 00:12:45-6 weil wir das natürlich ganz anders sehen. 
+Tim 00:12:47-0 Also das ist einfach mal wieder ein weiterer Eingriff in die Privatsphäre ist. 
+Tim 00:12:52-0 Es hat die einfach nicht zu interessieren wo ich lang marschiere und 
+Tim 00:12:56-4 wenn natürlich der Zweck der Strafverfolgung eigentlich auch immer ganz honorich und ganz nachvollziehbar 
+Tim 00:13:03-9 erscheint auf den ersten Blick muss man sich eben 
+Tim 00:13:08-5 klar machen was die Folge davon ist.
+Tim 00:13:10-8 Irgend wann wird einfach die Totalüberwachung komplett normal sein und akzeptiert sein 
+Tim 00:13:13-9 und was dann passiert, na das könnt ihr euch zum 
+Tim 00:13:15-5 Beispiel in diesem Film "The Catalog" anschauen der im, vor zwei Tagen im Chaosradiofeed aufgetaucht ist. 
+Tim 00:13:18-8 Da ist es eigentlich sehr schön zu sehen. Im Prinzip genauso wie die Personen dort im Einkaufszentrum erkannt werden 
+Tim 00:13:21-6 genau so läuft es dann eben auch mit den Autos und bis wir dann auch wirklich im Einkaufzentrum so erkannt werden, 
+Tim 00:13:24-0 das wird wahrscheinlich gar nicht mehr so lange dauern.
+00:13:26-0  Musik
+Tim 00:14:06-4 Wer mit Podcasting schon mal rumgespielt hat oder wer auch ansonsten große Downloads im Internet anbietet der wird feststellen das 
+Tim 00:14:17-9 dass alles gar nicht so einfach ist mit der Bandbreite denn wenn man erst mal halbwegs populär ist 
+Tim 00:14:27-0 dann ohja dann es doch sehr an den Gebühren.
+Tim 00:14:30-0 Viele Leute haben natürlich wenn sie überhaupt über ein Server verfügen in der Regel doch ein limitiertes Kontingent, 
+Tim 00:14:39-5 das heißt man darf nur so und so viel Gigabits pro Monat übertragen und wenn das überschritten wird dann kostet es Geld 
+Tim 00:14:46-0 oder der Server wird abgeschaltet je nach dem wie halt der Vertrag konkret aussieht. 
+Tim 00:14:48-7 Und das ist natürlich dann sehr schwierig wenn man wirklich mal bekannt wird und irgendwas anzubieten hat was 
+Tim 00:14:52-5 (äh) viele Leute dann lesen wolle, sehen wollen, hören wollen je nach dem was es ist ob es Ton oder Bild oder Text ist und ja 
+Tim 00:14:57-2 (äh) meistens bleibt dann einem dann nur der Ausweg einen anderen Serverhoster zu finden oder seinen Vertrag zu überarbeiten 
+Tim 00:15:01-0 und vor allem im schlimmsten Fall muss man eben zu dem Zeitpunkt schon mal Geld zahlen 
+Tim 00:15:04-0 mit dem man so gar nicht gerechnet hat weil eben in den Monaten vorher nix lief. 
+Tim 00:15:08-1 Ja man wird halt relativ schnell zum Star heut zu Tage im Internet 
+Tim 00:15:15-9 (ähm) denn niemand weiß das ihr eigentlich ein Hund seit.
+Tim 00:15:24-1 Was kann man dagegen tun? (em) Es gibt... 
+Tim 00:15:30-1 also kommerzielle Anbieter wie (äh) Apple zum Beispiel die ja auch mit ihrem iTunes-Store zum Beispiel große download 
+Tim 00:15:37-8 (äh) Anforderungen haben die weichen auf auf kommerzielle sogenannte Content Distribution Networks, 
+Tim 00:15:46-7 das sind quasi Unternetze innerhalb des Internets 
+Tim 00:15:52-5 wo Inhalte auf eine definierte Art und Weise also sprich 
+Tim 00:15:59-0 Dateien auf eine definierte Art und Weise auf mehrere Rechner verteilt werden 
+Tim 00:16:05-0 die so auf den ersten Blick von außen alle unter der gleichen Adresse erreichbar sind 
+Tim 00:16:10-6 oder die geben auch dynamische andere Adressen raus wer schon mal bei Akamai 
+Tim 00:16:15-8 irgendwo was (äh) herunter geladen hat oder überhaupt gesehen 
+Tim 00:16:19-3 hat das er irgendwo was runter geladen hat und das er eben eine 
+Tim 00:16:22-1 (em) Adresse mit Akamai (räusper) (äh).net 
+Tim 00:16:24-5 (Akamai.net) bei rauskommt der ist im Prinzip schon in som  Content Distribution Network gelandet und 
+Tim 00:16:30-0 (em) (verplappert)  Content Distribution Network sorgt halt selber für eine replikation der Inhalte, 
+Tim 00:16:35-1 senkt damit die Belastung der Server und macht eben auch die Downloads in der Regel schneller 
+Tim 00:16:38-2 weil die Inhalte quasi schon vorher relativ nah an die Leute heran getragen werden die das 
+Tim 00:16:42-5 (äh) letztlich herunter laden möchten. Das ist ja auch ne tolle Sache.
+Tim 00:16:45-0 Nur kann sich natürlich nicht jeder leisten 
+Tim 00:16:46-6 die Dienste eines kommerziellen  Content Distribution Networks in Anspruch zu nehmen. 
+Tim 00:16:49-6 Aber es gibt Hilfe, unzwar gibt es ein interessantes Projekt 
+Tim 00:16:53-3 (ähm) auf das ich vor kurzem gestoßen in, das könnt ihr 
+Tim 00:16:57-5 (äh) abrufen unter coralcdn.org für Coral Content Distribution Network. 
+Tim 00:17:08-9 Ist im Prinzip genau so ein Netzwerk und an diesem Netzwerk teil zu haben ist sehr einfach, 
+Tim 00:17:17-7 man muss eigentlich gar nicht richtig mitspielen 
+Tim 00:17:20-9 man kann im Prinzip eine offene Serverstruktur einfach so benutzen das kostet auch nix 
+Tim 00:17:28-6 und alles was man dazu tun muss ist das man ein Downloadlink 
+Tim 00:17:35-8 nicht mit seiner eigentlich URL veröffentlicht sonder das man der URL hinten noch etwas anhänget, 
+Tim 00:17:44-0 also anstatt blablabla mein toller Podcast.mp3 (em) schreibt man halt "mein toller Podcast.mp3.nyud.net:8090". 
+Tim 00:18:01-0 Was hat es sich damit auf sich? 
+Tim 00:18:03-1 Dadurch das man die Adresse ändert wird der wird die Anfrage nicht an den eigenen Webserver weiter geleitet 
+Tim 00:18:07-8 sondern wie man sich schon denken kann 
+Tim 00:18:10-1 (äh) an die Server die eben hinter besagter Adresse stehen 
+Tim 00:18:12-2 und das ist die sind Server die bei der New Yorker University stehen, 
+Tim 00:18:14-2 das ist nicht wirklich ein Dienst der Universität 
+Tim 00:18:15-5 sonder das ist ein Projekt was dort entwickelt wurde
+Tim 00:18:17-5 und dieser Server (em) (ist ja) wird ja zunächst einmal nur nach einer IP-Adresse gefragt 
+Tim 00:18:21-5 das ist halt das heißt euer Browser oder auch RSS-Reader, 
+Tim 00:18:24-3 Podcatcher was immer 
+Tim 00:18:25-1 (äh) in dem Moment aktiv ist möchte gerne die Datei herunter laden 
+Tim 00:18:28-1 und dazu braucht sie natürlich erst mal eine Adresse.
+Tim 00:18:30-7 Denn die Adresse also der Name des Hosts ist ja nicht wirklich eine Internetadresse sondern nur eine Domain. 
+Tim 00:18:38-7 Die wird also aufgelöst aber sie wird halt jetzt nicht in einen einzigen Server aufgelöst sondern sie wird gleich 
+Tim 00:18:48-9 (em) es wird also versucht einen einen Server zu finden der 
+Tim 00:18:53-5 möglichst nah an dem Rechner dran ist der gerade gefragt hat.
+Tim 00:18:59-3 Wenn ich also jetzt einen Download klicke dann probt das 
+Tim 00:19:04-8 (äh) Servernetz meine IP-Adresse schaut also wie weit bin ich weg, 
+Tim 00:19:09-8 versucht eine Lokalisierung und sucht 
+Tim 00:19:12-2 (em) aus einem Netzwerk von mittlerweile 260 Servern 
+Tim 00:19:15-5 einen zu finden der möglicht nah dran ist. 
+Tim 00:19:18-0 An den (em) wird es quasi weiter gereicht weil im nächsten Schritt der 
+Tim 00:19:22-0 Browser ja diese IP-Adresse nimmt und die selbe Datei noch mal anfordert 
+Tim 00:19:28-0 oder überhaupt das erste mal anfordert vorher wars ja nur die IP-Adresse.
+Tim 00:19:33-0 In dem Moment lädt dieser Server der jetzt diese Anforderungen bekommt 
+Tim 00:19:38-7 im Prinzip der zweite jetzt im Spiel lädt die Datei von dem eigenen Webserver runter 
+Tim 00:19:46-3 so als hätte man dieses ".nyud.net:8090 hinten überhaupt nicht ran geschrieben. 
+Tim 00:19:53-5 Dadurch ändert sich zunächst einmal nix aber nachdem 
+Tim 00:19:58-2 (em) diese Datei im Hintergrund geladen wurde, 
+Tim 00:20:01-8 erhält erst mal der erste der das geklickt hat das jetzt so direkt und schnell. 
+Tim 00:20:05-0 Für den sich das im Prinzip als ein Prozess dargestellt 
+Tim 00:20:07-6 der relativ lange gebraucht hat um zu starten 
+Tim 00:20:09-8 und danach dürfte eigentlich so wie ein normaler Download gewesen sein aber 
+Tim 00:20:12-3 zum jetzigen Zeitpunkt ist die Datei halt bereits im Netzwerk 
+Tim 00:20:15-6 in diesen Content Distribution Netzwerk das heißt ab (möbm) also alle... 
+Tim 00:20:19-0 wie viel sinds jetzt ungefair 260 Server 
+Tim 00:20:21-2 (em) Weltweit haben auf diese Datei zugriff und wenn jetzt irgend jemand anderes kurze Zeit später
+Tim 00:20:28-5 auf die selbe URL klickt und das ist ja jetzt eigentlich genau der
+Tim 00:20:32-5 Fall wenn man große Dateien in einen RSS-Feed zum Beispiel veröffentlicht,
+Tim 00:20:37-6 dann (em) wird irgend ein anderer Host 
+Tim 00:20:43-1 (äh) ausgewählt für die zweite Person, diese zweite Software die eben anfragt und das 
+Tim 00:20:50-0 (äh) ist mit ziemlicher Wahrscheinlichkeit auch ein anderer als der erste, 
+Tim 00:20:52-8 allerdings holt der sich die Datei von diesem ersten Server der das Ding geladen hat, 
+Tim 00:20:57-0 das heißt der eigene Webserver wird zu diesem Zeitpunkt schon überhaupt nicht mehr in Anspruch genommen.
+Tim 00:21:01-1 Und so wird eben dieser Inhalt innerhalb des Content Distribution Netzwerk solange Nachfrage besteht vorgehalten, 
+Tim 00:21:09-8 unter einander ausgetauscht und alle Leute laden sich das eigentlich von einem 
+Tim 00:21:16-5 Rechner runter der möglichst nah an ihnen dran steht, 
+Tim 00:21:19-2 das heißt es geht schneller und vor allem der eigene Server wird gar nicht mehr in Anspruch genommen 
+Tim 00:21:25-8 solange es noch Leute gibt die eben (äh) nachfrage danach haben.
+Tim 00:21:33-6 Und das ist eigentlich das interessante um so mehr Nachfrage danach ist umso weniger sieht man davon. 
+Tim 00:21:38-0 Im Hintergrund schickt einem das (äh) Netzwerk an den eigenen Server auch noch einen sogenannten head request 
+Tim 00:21:41-2 so das man sehen kann das ein download angefordert wurde der ansonsten ja komplett an einem vorbei geht 
+Tim 00:21:45-2 das kann man dann zählen so das die Statistiken noch aufrechterhalten bleiben 
+Tim 00:21:46-8 und vor allem man kann eben dieses Netzt nutzen ohne dafür Geld zu bezahlen. Das ich eigentlich jedem nur 
+Tim 00:21:50-2 (ähäh) empfehlen. Ich sehe hier derzeit noch so recht keinen Haken, 
+Tim 00:21:54-6 mir ist die Finanzierung des Systems noch nicht ganz klar aber ich vermute mal das hier viele 
+Tim 00:21:58-0 Internet Service Provider dran teil nehmen die auf diese Art und Weise 
+Tim 00:22:02-2 (em) Überschüsse in der Bandbreite die sie aus irgendwelchen Verträgen haben quasi über diesen Weg abarbeiten, 
+Tim 00:22:08-0 von daher auch noch einen Vorteil davon haben. 
+Tim 00:22:11-0 Coralcdn.net (äh) Entschuldigung coralcdn.org 
+Tim 00:22:14-3 The Coral Content Distribution Network könnte uns allen noch ne ganze Menge Stress ersparen.
+00:22:20-5  Musik
+Tim 00:23:09-7 Eine weitere interessante Entwicklung ist (äh) ist etwas unbemerkt am Rande liegend, die Akzeptanz von 
+Tim 00:23:21-5 (äh) dem CAcert durch Nokia. Ok das klingt jetzt etwas kompliziert, was ist das? 
+Tim 00:23:30-8 Um eure Webseite mit https zu betreiben also verschlüsselt was ja verschiedene Vorteile hat, 
+Tim 00:23:34-8 andere Gruppen können nicht die Daten ändern während sie vom Server zum Client fließen, 
+Tim 00:23:37-0 man sieht keine Passwörter die darüber übertragen werden und so weiter.
+Tim 00:23:38-9  Man möchte das ja auf jeden Fall haben und vor allem gibt es auch eine 
+Tim 00:23:40-5 Kryptongraphisch abgesicherten Weg wie man sicherstellen kann das die Gegenseite eben auch das ist 
+Tim 00:23:43-5 was sie behauptet was sie ist. das man also unterscheiden kann ob da jemand nur so tut ob er die Postbank ist 
+Tim 00:23:46-5 oder tatsächlich die Postbank auch ist. Stichwort (äh) "Fishing".
+Tim 00:23:50-0 Also um das zu machen benötigt man https. 
+Tim 00:23:53-8 Um allerdings https machen zu können muss man seinem Webbrowser Entschuldigung 
+Tim 00:24:02-0 seinem Webserver ein sogenanntes  Zertifikat ausstellen und in diesem Zertifikat steht 
+Tim 00:24:08-7 kryptongraphisch mathematisch abgesichert drin, ich bin Webseite hmhmhm 
+Tim 00:24:17-3 deine Domain und ich gehör zu den Guten. 
+Tim 00:24:22-4 Und damit man das auch glaubt gibt es eine andere Entität eine 
+Tim 00:24:31-0 sogenannte (???) also eine Autorität die Zertifikate ausstellt und die auch in der Lage ist 
+Tim 00:24:40-5 andere Zertifikate zu unterschreiben und damit zu beglaubigen. 
+Tim 00:24:45-2 Eine solche (???) oder auch CA muss eben dieses eigene Ding bestätigen. 
+Tim 00:24:57-7 Technisch betrachten ist es vielleicht nicht unbedingt nötig aber jeder Webbrowser prüft natürlich 
+Tim 00:25:03-9 ob er diese Zertifikat auch kennt das heißt er prüft nicht nur ob das was verschlüsselt ist 
+Tim 00:25:06-7 sonder er schaut halt nach kenne ich irgend jemanden der bestätigt das dies hier von ihm gekannt wird.
+Tim 00:25:10-6 Also ist das ganze von einer CA von einer (???) unterschrieben beglaubigt die ich kenne? 
+Tim 00:25:15-9 Nun ist es so das die Webbrowser natürlich nicht beliebig viele (???) kennen 
+Tim 00:25:18-5 sonder (ehm) halt Verysign und noch son paar andere die sich mal den Markt schön unter den Nagel gerissen haben 
+Tim 00:25:22-8 und (öh) nun steht man da als Privatanwender etwas doof da.
+Tim 00:25:30-2 (em) Man kann natürlich hin gehen zu diesen Ca´s und sagen "Hallo guten Tag, ich bin 
+Tim 00:25:36-7 (äh) Person XY und ich hätte jetzt ganz gerne mal für meine Webseite ein ein Zertifikat damit ich ssl machen kann" 
+Tim 00:25:46-5 und dann sagen die ja alles kein Problem Unterschreiben sie hier, 
+Tim 00:25:51-0 kostet aber so und so viel Dollar pro Jahr. Das heißt diese Zertifikate laufen schnell aus und diese Zertifikate 
+Tim 00:26:00-5 sind auch ganz schön teuer und (äh) natürlich ist nicht jeder bereit für https soviel Geld zu bezahlen 
+Tim 00:26:12-0 nur damit der Browser mal ruhe gibt. Wir machen das bei CCC ja auch nicht. 
+Tim 00:26:16-5 Ihr werdet es häufiger sehen auch jetzt bei der Kongresswebseite, 
+Tim 00:26:19-9 alles was über https (em) geliefert wird, es sind zwar alles korrekte Zertifikate aber die sind 
+Tim 00:26:27-7 (demdasdiese) CA die (eh) diese Zertifikate unterschrieben hat die kommen von uns 
+Tim 00:26:36-2 und die ist halt in keinem Browser eingebaut.
+Tim 00:26:38-5 Jetzt kann man natürlich sagen man vertraut jetzt hier dem 
+Tim 00:26:40-1 (äh) der Zertifikatautorität die das unterschrieben hat dann ist auch irgendwie ruhe im Karton, 
+Tim 00:26:43-4 das kann man natürlich machen sollte man aber auch nur tun wenn man genau weis was man tut und 
+Tim 00:26:46-8 (äh) dann ist gut. Aber möchte man das ganze eben 
+Tim 00:26:49-0 (em) für jeden beliebigen Browser auf diesen Planeten machen muss man eben in irgend einer Form 
+Tim 00:26:52-3 zugriff bekommen auf ein Zertifikat was eben unterschrieben ist von etwas was jedes Betriebssystem, jeder Browser kennt. 
+Tim 00:26:57-0 Gut, lange Vorrede es gibt eine Möglichkeit (em) das zu tun. 
+Tim 00:27:01-2 (eh) Das Projekt nennt sich CAcert, cacert.org meiner Erkenntnis nach 
+Tim 00:27:05-3 (äh) wird eine entsprechende Aktivisten-Gruppe auch aufen Kongress vertreten sein. 
+Tim 00:27:08-1 Ihr könnt auch einfach selber mal unter cacert.org schauen. 
+Tim 00:27:10-1 Cacert.org ist ein (em) ja ein ein (ähh) um Privatpersonen in Besitz solcher 
+Tim 00:27:18-1 SSL-Zertifikate zu bekommen und das Vertrauenssystem was dort 
+Tim 00:27:23-05 (eh) aufgebaut wird basiert eben auf persönlicher Begegnung, 
+Tim 00:27:28-8 das heißt es gibt Leute CAcert gut bekannt sind und die laufen jetzt über Veranstaltungen 
+Tim 00:27:38-0 und lernen andere Leute persönlich kennen, schauen aha kucke mal Ausweis, Foto habe ich gesehen, 
+Tim 00:27:46-0 Name stimmt und beglaubigen das man selbst, 
+Tim 00:27:52-0 man selbst ist und das ermöglicht einem Zertifikate zu erzeugen auf dieser Webseite.
+Tim 00:27:58-5 Ja... Jetzt ist das natürlich ein tolles System funktioniert aber erst dann, 
+Tim 00:28:02-2 wenn eben auch alle Browser diese Toplevel-CA also das CAcert akzeptieren 
+Tim 00:28:08-0 sodass eben auch alle von dem akzeptierten Zertifikate automatisch angenommen werden 
+Tim 00:28:13-1 und da gab es jetzt den ersten interessanten Schritt, denn (äh) Nokia hat 
+Tim 00:28:21-2 (äh) in seinem neuen Produkt dem Nokia 770 Internet-tablet,
+Tim 00:28:26-9 das ist son kleines Linux-basiertes Tablet (ähm) mit dem man halt so 
+Tim 00:28:32-8 ja im schoss surfen kann wenn ich das mal so richtig übersetzte 
+Tim 00:28:35-8 (äh) ein relativ neues Produkt von dem noch nicht so ganz klar ist ob es 
+Tim 00:28:37-9 (äh) großen Erfolg haben wird. Es ist auf jeden Fall ein ganz interessantes Ding 
+Tim 00:28:39-9 wie auch immer tatsächlich ist es so das eben CAcert das das sogenannte route certifikate of 
+Tim 00:28:44-5 (äh) von diesem CAcert ist in diesem Gerät eingebaut also in dem Browser der dort installiert ist wird 
+Tim 00:28:47-4 wahrscheinlich ein FireFox sein und das bedeutet das eben die eigenen 
+Tim 00:28:51-7 (em) von CAcert signierten Zertifikate gelten.
+Tim 00:28:56-6 Alle andern Browser müssen überhaupt erst mal dieses CAcert 
+Tim 00:29:03-7 (äh) route certifikate akzeptieren aber das ist natürlich auch ein Schritt 
+Tim 00:29:07-8 dem man dann im Prinzip nur ein einziges mal  machen muss und das öffnet einem dann zu 
+Tim 00:29:13-5 einer Fehlermeldungsfreien Zugang zu allen privaten Websites die eben über diese 
+Tim 00:29:19-8 Art und Weise ihr https-Zertifikat bekommen haben.
+Tim 00:29:24-4 Lange Rede kurzer Sinn, ich würde euch raten wenn ihr Interesse daran habt euern eigenen Webserver
+Tim 00:29:29-9 mit https zu versorgen für private Zwecke doch mal auf CAcert.org zuschauen 
+Tim 00:29:35-0 und zu kucken wie ihr am besten dort in das System einsteigt denn diese Zertifikate sind kostenlos.
+00:29:42-3  Musik
+Tim 00:30:15-3 Das war Chaosradio Express die zweite Ausgabe ich bedanke mich fürs zuhören 
+Tim 00:30:24-0 würde mich freuen wenn wir uns schon bald wieder hören bei Chaosradio 108 
+Tim 00:30:26-0 oder nächste Woche Montag für die nächste Ausgabe von Chaosradio Express. 
+Tim 00:30:29-4 Ich freu mich über Feedback bitte an mail@chaosradio.ccc.de schicken 
+Tim 00:30:35-0 und da könnt ihr mir alles erzählen was jetzt schon wieder total daneben war 
+Tim 00:30:38-0 oder was gut was. ich möchte es hören, wir möchten es hören und in diesem Sinne 
+Tim 00:30:41-0 wünsch ich euch noch eine angenehme Woche bis bald.
+00:30:42-7  Outro

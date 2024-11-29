@@ -1,0 +1,3353 @@
+﻿Titel: CRE199 NetHack
+Speaker: Tim Pritlove <timpritlove>
+Speaker: Felix Vogel <felixvogel>
+
+
+
+00:00:00-0 Musik
+
+00:01:05-0 Intro
+
+Tim 00:01:43-0 Ihr hört CRE Technik, Kultur, Gesellschaft mein Name ist Tim Pritlove und das hier ist die 199ste Ausgabe dieser Serie und (äh) ja nach einer längeren 
+
+Tim 00:01:57-6 (äh) Winterpause (äh) rollt der Zug mal wieder (äh) voran und ich hab mir auch was (äh) schönes ausgedacht um hier das Programm wieder nen 
+
+Tim 00:02:09-0 bisschen aufzunehmen und möchte mal ein wenig in eine ganz (äh) spezielle Vergangenheit eintauchen die für meinen Geschmack zu wenig 
+
+Tim 00:02:19-8 wahrgenommen wird und deswegen muss da ein wenig drauf geschaut werden. Konkret geht es um NetHack und was sich hinter diesem Begriff
+
+Tim 00:02:28-2 schönes verbirgt das (äh) erzählt uns hier gleich der Felix, Felix Vogel hallo.
+
+Felix 00:02:34-1 Hallo Tim.
+
+Tim 00:02:34-6 Ja schön, schön das das mal geklappt hat.
+
+Felix 00:02:37-7 (kichern)
+
+Tim 00:02:38-3 Langer Anlauf.
+
+Felix 00:02:38-8 Ich freu mich auch.
+
+Tim 00:02:39-6 Und (äh) ich find jetzt ist aber auch echt genau der richtige Zeitpunkt gekommen.
+
+Felix 00:02:44-1 (ehem) 
+
+Tim 00:02:44-8 Tja.. Felix du bist ja auch son (äh) weiß nicht was was bist du fürn Baujahr eigentlich?
+
+Felix 00:02:53-2 71
+
+Tim 00:02:53-9 71
+
+Felix 00:02:54-7 (ehem) 
+
+Tim 00:02:55-0 Ok dann liegen wir ja so in etwa in der gleichen
+
+Felix 00:02:56-4 Liga
+
+Tim 00:02:56-8 Abteilung genau in der gleichen Liga 
+
+Felix 00:02:58-6 Richtig
+
+Tim 00:02:59-1 und (ähm) wann bist du so (äh) in den Computerzaubertopf gefallen?
+
+Felix 00:03:04-9 Ich glaube ich bin da relativ zeitig reingefallen durch (äh) mein Vater der ja im Wissenschaftsbetrieb unterwegs war und immer wenn wir den besucht
+
+Felix 00:03:12-8 haben im Institut gab's da schon die Möglichkeiten mit so Terminals im Kindesalter von einer Etage zur andern
+
+Tim 00:03:18-1 (ehem) 
+
+Felix 00:03:18-7 zu chatten und (äh) es gab schon
+
+Tim 00:03:20-8 Von welchen Zeitraum reden wir jetzt?
+
+Felix 00:03:21-9 Na das muss in den späten 70zigern gewesen sein.
+
+Tim 00:03:25-6 (ehem) 
+
+Felix 00:03:26-1 Da wo das so wahrgenommen hab.
+
+Tim 00:03:27-2 Ok
+
+Felix 00:03:28-1 Und es gab dann auch schon früh Homecomputer selber ZX81 zu Hause gelötet und solche Geschichten.
+
+Tim 00:03:34-6 Wie gelötet, du hast ihn gelötet?
+
+Felix 00:03:36-1 Mein Vater hat ihn gelötet. Wegen als Bausatz bei uns  gabs den als Bausatz.
+
+Tim 00:03:38-8 Den gabs als Bausatz?
+
+Felix 00:03:40-2 Und es gab auch die 16k Speichererweiterung als Bausatz.
+
+Tim 00:03:42-7 (pfff)
+
+Felix 00:03:42-9 Die allerdings leider nie funktioniert hat.
+
+Tim 00:03:44-9 Aber der hat doch sowieso kaum was gekostet.
+
+Felix 00:03:46-8 Ja ich weiß auch nicht warum, ich glaube das war.
+
+Tim 00:03:49-2 Er wollte einfach.
+
+Felix 00:03:49-3 Ich denke ja da war die Challenge, die Speichererweiterung hat nie funktioniert. (lachen)
+
+Tim 00:03:53-5 Also dein Vater war ein Nerd. (kichern)
+
+Felix 00:03:55-4 Vielleicht..
+
+Tim 00:03:56-2 oder ein Gieg
+
+Felix 00:03:56-9 Ja irgendetwas
+
+Tim 00:03:58-5 oder ein Hacker
+
+Felix 00:03:59-3 Ich weiß garnicht ob er so ein krasser Nerd gewesen ist aber er war auf jeden Fall Technik affin.
+
+Tim 00:04:03-4 Ja der Sinclair ZX81 ist ja sicherlich hier auch schon nen paar mal gefallen. Es ist so ein absurder Computer gewesen also auch nach heutigen
+
+Tim 00:04:11-4 Maßstäben find ich den irgendwie total absurd weil der war so konsequent auf "ich muss billig sein"
+
+Felix 00:04:16-7 Ja es erinnerte ein bisschen ein bisschen an nen Taschenrechner immer oder auch mit dieser Folientastatur und 
+
+Tim 00:04:21-5 Stimmt
+
+Felix 00:04:21-6 drei und alle Basicbefehle waren auf der Folientastatur. Es  gab da irgendwie auf jeder Taste drei oder vier Kommandos (äh) es war tatsächlich 
+
+Felix 00:04:30-3 ein absurder Computer.
+
+Tim 00:04:31-6 Ja und so komische Grafik (äh) Symbole die man noch eingeben konnte.
+
+Felix 00:04:35-0 Genau und dann konnte man in Basic kleine Programme schreiben die man wo man dann so richtig mit Grafik.
+
+Tim 00:04:40-8 Ich kann ich kam dann mal so auch in meinem jugendlichen Leichtsinn da auf die Idee da mal son tolles Labyrinth (äh) zu bauen
+
+Felix 00:04:45-9 Ja
+
+Tim 00:04:46-7 und war dann halt irgendwie der Meinung man müsse dann halt ja nur möglichst viele Printanweisungen machen die son Labyrinth malen da würde
+
+Tim 00:04:54-0 man schnell hinkommen und bin natürlich dann erstaunlich schnell an (lachen) die Grenze von 1 KByte 
+
+Felix 00:04:58-3 Genau (lachen)
+
+Felix 00:04:58-9 Das war eine Kunst da was zu programmieren tatsächlich.
+
+Tim 00:05:01-1 Ja und da hab ich dann das hat mir dann irgendwie überhaupt erstmal so dieses Respekt eingeflößt vor Speicherressourceknappheit so also das
+
+Tim 00:05:11-1 waren so interessante Einblicke. Ansonsten hab ich mich nicht zu sehr mit der Maschine beschäftig aber selber zusammen löten. Warst du dann 
+
+Tim 00:05:17-7 dabei?
+
+Felix 00:05:17-9 Ich hab da interessiert zugeguckt ja aber das war natürlich auch sagen wir mal beyond my skill es war ich hab das mit Interesse verfolgt 
+
+Felix 00:05:25-1 sagen wir mal so ja
+
+Tim 00:05:26-1 Ja ok aber du bist dann schon so zu sagen der ersten der ersten Zeremonie 
+
+Felix 00:05:30-5 Ja das ging ziemlich früh los tatsächlich, das ging tatsächlich ziemlich früh los genau.
+
+Tim 00:05:35-7 Und wann wurde es dann ernst?
+
+Felix 00:05:37-2 (hm) Nja ernst wurde das, ich hab dann nach der Schule lange Zeit erstmal garnichts gemacht und dann hat mein Vater Mitleid mit mir gehabt
+
+Felix 00:05:44-2 und mir nen Computer geschenkt, dann hat ich irgendwie..
+
+Tim 00:05:47-3 Ein was?
+
+Felix 00:05:48-1 Ein das war damals ein IBM, war nen PC oder wie...
+
+Tim 00:05:51-3 Aja
+
+Felix 00:05:52-1 Und (äh) da gab es dann MS-Dos drauf mit Windows 3.11 und war frustrierend und dann hab ich angefangen mich für das alternative Betriebssystem 
+
+Felix 00:06:00-7 was damals ja gerade raus kam zu interessieren. Und das...
+
+Tim 00:06:04-2 Also Linux 
+
+Felix 00:06:05-2 Ja genau
+
+Tim 00:06:05-3 Anfang der 90ziger Jahre 92 (hm) 
+
+Felix 00:06:06-6 Genau noch in der Buchhandlung irgendwie so Suse Linux in der Buchhandlung gekauft und irgendwie installiert. Und von da an ist tatsächlich 
+
+Felix 00:06:14-2 da sone Leidenschaft draus geworden das ich dann auch mich an der Uni eingeschrieben habe und ich hab das nicht zu Ende gemacht das gehört ja
+
+Felix 00:06:20-2 hier zum guten Ton hab ich gehört (lachen).
+
+Tim 00:06:21-1 Ohja (lachen)
+
+Tim 00:06:24-1 Ist eine eine Auszeichnung (hm).
+
+Felix 00:06:25-8 Genau und bin dann aber als ich da runter bin hab ich dann angefangen einfach auch zu arbeiten in dem aufkommenden IT-Business was ja irgendwie
+
+Felix 00:06:32-5 dankbar alle Leute an sich gezogen hat und bin ja auch bis jetzt dabei geblieben und mach jetzt so was man unter neudeutsch Operations nennt
+
+Felix 00:06:41-3 also so Planung und Betrieb von IT-Systemen also eigentlich Web-Applikationen für ne
+
+Tim 00:06:47-1 (ehem) 
+
+Felix 00:06:47-6 Berliner Firma die so im Such-Business waren kann man fast sagen also...
+
+Tim 00:06:51-2 (hm) 
+
+Felix 00:06:51-4 Aber ich mach das eigentlich immer noch ganz gerne. Also ich bin dran geblieben.
+
+Tim 00:06:56-6 Dran geblieben.
+
+Felix 00:06:57-4 Ja
+
+Tim 00:06:57-8 Aber du hast auch sone gewisse, du gehörst ja auch so zum (äh) c-Base-Universum kann man sagen.
+
+Felix 00:07:03-5 Auf jeden Fall ja.
+
+Tim 00:07:04-3 Du warst ja eigentlich auch ganz früh dabei oder?
+
+Felix 00:07:06-4 Jah nicht jah nicht ganz bei der Gründung aber ich denke es muss im laufe des 1. Jahres irgendwie (äh) passiert sein. Aber ich glaube das ach die 
+
+Felix 00:07:13-1 Schiene wo wir uns dann irgendwann 
+
+Tim 00:07:14-9 Damals als die c-Base noch am Hackischen-Markt war.
+
+Felix 00:07:17-2 Richtig genau.
+
+Tim 00:07:18-6 (kichern)
+
+Felix 00:07:18-9 Ja
+
+Tim 00:07:19-4 Wer nicht weiß wovon wir reden, die c-Base ist (äh) so eine Art Weltraumausgrabungsstätte (äh) in Berlin ein (äh) Verein der sich (äh) die Erforschung
+
+Tim 00:07:31-9 der c-Base (äh) einer vor Millionen Jahren abgestürzten Raumstation (ähm) zu eigen gemacht hat und dieser erste Ort war ja so zu sagen direkt 
+
+Tim 00:07:41-3 dran da wurden ja so zu sagen auch unmittelbar Sachen gefunden worden. Mittlerweile hat man sich son bisschen mehr nach draußen verlagert
+
+Felix 00:07:48-0 Ahja aber nja stimmt.
+
+Tim 00:07:51-1 Abgestürzte Module die vorher schon irgendwo nieder geschlagen sind in Angriff genommen. Heute nebenbei dann auch noch ein schöner Treffpunkt
+
+Tim 00:07:58-7 und vor allem auch son Sammelpunkt von (äh äh äh) Wahnsinnigen und und deswegen erwähne ich das jetzt eigentlich auch. C-Base ist auch für 
+
+Tim 00:08:06-3 Mich immer son Ort gewesen wo Spieler aller Art eigentlich ganz gut zusammen gefunden haben aber nicht jetzt so sehr so diese Counters Strike 
+
+Tim 00:08:15-1 (äh äh) Zockernummer das sicherlich auch mal in der ein oder anderen Ecke lief sondern das Fantastische hat eigentlich da immer schon sein
+
+Tim 00:08:23-2 Raum gehabt und (äh) Worms natürlich.
+
+Felix 00:08:25-6 Und Worms ja genau Salunutek das gabs schon für so Retrogametreffen und sowas also. Tatsächlich gibt es da, vielleicht liegt es auch an dem 
+
+Felix 00:08:33-8 relativ hohem Altersdurchschnitt das da viel so Retrogaming statt findet, statt gefunden hat. Auf jeden Fall wurde viel gespielt das stimmt.
+
+Tim 00:08:42-0 (hm) 
+
+Felix 00:08:42-1 Und wir hatten auch mal ne schöne NetHack-Installation aber ich glaube die...wird nicht mehr benutzt. Aber dazu vielleicht später.
+
+Tim 00:08:48-0 Na vielleicht ändert sich das ja jetzt.
+
+Felix 00:08:49-2 Ja (lachen)
+
+Tim 00:08:50-6 Genau NetHack jetzt (äh) habens wir schon zwei mal gesagt (äh) wir wollen hier (äh) mal ein wenig die Historie eines ganz speziellen Spiels ergründen
+
+Tim 00:08:59-2 was mal auch ein unglaubliches Alleinstellungmerkmal hatte und damit auch eigentlich nie (äh) verlieren wird (ähm). NetHack ist ja ein ganz spezielles
+
+Tim 00:09:11-3 Game im Prinzip ein Rollenspielgame. Rollenspiele waren ja hier auch schon mal (äh) ein Thema in (äh) CRE173 haben wir das mal son bisschen 
+
+Tim 00:09:20-4 (ähm) beleuchtet aber da ging halt so zu sagen um die richtigen Rollenspiele also oder was heißt die richtigen Rollenspiele
+
+Felix 00:09:26-7 Pen und Paper würde man sagen.
+
+Tim 00:09:27-7 Genau Pen und Paper Rollenspiele also wo man halt am Tisch (äh äh) sitzt und (äh) im 
+
+Felix 00:09:33-2 mit mehreren
+
+Tim 00:09:33-6 sozialen miteinander ohne (äh) Hilfs.. oder oder sagen wir mal ohne kein ohne Computer als Hilfsmittel.
+
+Felix 00:09:40-2 Genau  
+
+Tim 00:09:40-7 Oder ohne zumindest das sie erforderlich wären (lachen)
+
+Felix 00:09:42-4 ja,wobei da gabs doch manchmal auch so längliche Tabellen und komplizierte Regeln das das manchmal hilfreich gewesen wäre (lachen).
+
+Tim 00:09:48-5 Ich ja bzw. sicherlich auch (äh) im heutigen Spielbetrieb auch (äh) ne 
+
+Felix 00:09:52-8 Ja
+
+Tim 00:09:53-3 Elektronische Geräte also grad hier was weiß ich so iPads oder weil sowas kann ich mir da ganz gut (äh) 
+
+Felix 00:09:57-7 Ich auch
+
+Tim 00:09:58-0 vorstellen, ist wahrscheinlich auch schon längste Realität ich weiß es bloß nicht weil ich bin ja nicht son Spieletyp. Aber NetHack bin ich auch mal 
+
+Tim 00:10:04-0 hängen geblieben
+
+Felix 00:10:04-5 (lachen)
+
+Tim 00:10:05-5 (ähm) Zumindest für ne gewisse Zeit. Aber ich hab da immer nicht so die Energie gehabt (äh) das alles zu durchdringen. Trotzdem und (äh) wars
+
+Tim 00:10:14-0 halt auch ein Spiel der sehr sehr sehr sehr sehr frühen Zeit weil wir gehen jetzt nämlich im Prinzip schon wieder zurück in die 80ziger.
+
+Felix 00:10:23-6 Ja
+
+Tim 00:10:24-2 Ja
+
+Felix 00:10:24-9 Genau also der Ursprung, man sagt auch also es gibt ein eigenes Genre in dem das NetHack angehört das ist das sogenannte Rogue-like spielen.
+
+Felix 00:10:32-2 Das ist son Genre muss man sich vorstellen wie Jump and Run oder vielleicht ein ego-shooter oder sowas. Das hat also so zu sagen sein und den
+
+Felix 00:10:41-4 also wenn man sagen würde (...) (äh) Doom ist die Mutter aller ego-shooter,
+
+Tim 00:10:47-7 Ja
+
+Felix 00:10:48-1 dann würde man sagen Rogue ist die Mutter aller Rogue-like-games also
+
+Tim 00:10:52-8 (lachen)
+
+Felix 00:10:53-9 aller dieser Spiele die diese Eigenschaften haben 
+
+Tim 00:10:55-7 Ist das wirklich die einzige mögliche Bezeichnung Rogue-like?
+
+Felix 00:10:58-6 Na
+
+Tim 00:10:59-3 Ich meine 
+
+Felix 00:10:59-9 Na man quww... ja also (pff)
+
+Tim 00:11:01-8 Ist jetzt nicht so Computer role  playing game 
+
+Felix 00:11:02-4 Es ist ein stehender
+
+Tim 00:11:04-4 triffst nicht so 
+
+Felix 00:11:05-5 Doch trifft es genau Roge-like würd ich sagen hat noch nen paar mehr Eigenschaften aber ich denke mal auch das ist schone ne sehr spezielle 
+
+Felix 00:11:12-0 Genre weil selbst als ich jetzt hier mal geforscht habe, so viele Spiele die diesem Genre jetzt konkret angehören prinzipiell konkret 
+
+Felix 00:11:20-2 gibt es dann auch nicht. Eine gute Handvoll hab ich gefunden die sich so zu sagen aus diesem Rogue heraus destilliert haben. Im Prinzip 
+
+Felix 00:11:26-2 sind es alles fogs von dieser sehr frühen Version die (äh) in den 80zigern Jahren (äh) ich glaub in der Berkeley Universität von zwei Studenten 
+
+Felix 00:11:35-4 entwickelt wurde die mit Sicherheit große Pen und Paper Rollenspieler waren (ähm) und gleichzeitig vor der Aufgabe standen etwas mit einer neuen  
+
+Felix 00:11:47-6 Computerbibliothek machen zu müssen die (äh) Curses hies mit der man folgendes tun konnte, man konnte nicht nur Text was natürlich logischer 
+
+Felix 00:11:56-4 Weise schon immer ging einfach fließenden Text auf den Bildschirm darstellen sondern man konnte den Curser positionieren an einer beliebigen 
+
+Felix 00:12:01-2 Stelle und Zeichen an einer beliebigen Stelle auf den Bildschirm, also es waren ja einfacher Terminals mit 80x25 Zeichen positionieren und darüber
+
+Felix 00:12:10-8 eben neue Möglichkeiten erforschen nämlich quasi solche Dinge wie Bilder oder (äh) eben jenseits von Text versuchen darzustellen.
+
+Tim 00:12:20-8 Also User interfaces vielleicht später dann aber Anfang waren es vor allem so Labyrinthe und (äh) überhaupt mal 
+
+Felix 00:12:26-5 Genau
+
+Tim 00:12:26-6 die Möglichkeit sone Liste aufen Bildschirm zu zaubern.
+
+Felix 00:12:29-1 Genau oder über (äh) Menüs und (äh) sowas wie  Highlight-Menüs und da Auswahlen drüber zumachen. Ich  glaube man konnte auch sowas wie 
+
+Felix 00:12:36-0 kleine Fenster definieren innerhalb des Terminals die dann wieder separat für sich bespielt werden konnten und (äh) solche Geschichten.
+
+Tim 00:12:42-9 Das war echt ne Revolution also man muss sich das jetzt noch mal klar machen das ja eigentlich in 80ziger Jahre so der Standartzugang zum 
+
+Tim 00:12:47-5 Rechner war halt das Terminal so, mit DOS hat sich das dann schon nen bisschen geändert weil (äh) bei DOS kam ja so zu  sagen dieses Prinzip auf
+
+Tim 00:12:54-7 das die Programme dann einfach direkt da (äh) im Bildschirm herum also im Bildschirmen in den Videokarten herumgeschrieben haben aber vorher
+
+Tim 00:13:01-2 und eben auch lange lange Zeit vor allem in der Unixwelt wars ja (ähm) wo bei es bei Unix ja teilweise Heute noch so ist (ähm) man der der Zugang
+
+Tim 00:13:11-3 zum Rechner war halt das Terminal also im Prinzip ein jenseits des (äh) Computers der eigentlich nur über irgendeine serielle 
+
+Tim 00:13:18-2 Verbindungskommunikation da mit dem Hauptsystem kommunizierte und (äh) über dieses einfache hin und her von (äh) Tastendrücken und 
+
+Tim 00:13:25-5 einzelnen Zeichen die Ausgegeben werden mussten hatte man dann nur eben nur  die Möglichkeit (äh) über diese Escape Sequenzen ja
+
+Tim 00:13:33-0 so zu sagen out of band (äh) zu sagen ja jetzt mal mal nicht dieses Teilchen sondern tu mal was besonderes 
+
+Felix 00:13:38-7 besonderes ja
+
+Tim 00:13:39-0 klingel mal (äh) 
+
+Felix 00:13:40-2 genau mach mal bunt
+
+Tim 00:13:41-3 genau 
+
+Felix 00:13:42-0 vielleicht wahrscheinlich nicht mal bunt (lachen)
+
+Tim 00:13:43-9 am Anfang auch nicht bunt nein aber so Bildschirm löschen hat sich früh durchgesetzt das war ganz hilfreich aber so Kleinkram und dann irgendwann 
+
+Tim 00:13:50-9 eben auch setz mal den Curser an eine bestimmte Stelle weil die ersten Terminals hatten ja noch nichtmal Bildschirme sonder die ersten Terminals  
+
+Tim 00:13:56-0 waren Drucker und (äh) das man überhaupt mehrere Zeilen gleichzeitig sehen konnte war ja dann schon eher eine Errungenschaft der Neuzeit.
+
+Felix 00:14:03-6 Ja, aber das hatten die Jungs schon glaub ich.
+
+Tim 00:14:05-6 hach sitzen wir schon richtig im
+
+Felix 00:14:07-1 (lachen)
+
+Tim 00:14:07-5 Opa erzählt vom (äh) Krieg Modus (lachen). Da  gehört NetHack definitiv auch  mit rein.
+
+Felix 00:14:13-1 (ähm) Genau, also was die getri.. was die auch noch getrieben hat (äh) war sicher...
+
+Tim 00:14:17-7 Warte mal, wieso hieß das eigentlich Curses diese Bibliothek?
+
+Felix 00:14:21-0 Da bin ich
+
+Tim 00:14:21-4 Flüche
+
+Felix 00:14:22-6 Ja ich, das weiß ich nicht Tim das kann ich dir nicht sagen warum das Curses heißt. Das heißt ja auch nicht Curser oder irgendwas sondern wo der 
+
+Felix 00:14:28-9 dann ne große Rolle spielt...
+
+Tim 00:14:30-2 Ja wahrscheinlich ist es von Curser abgeleitet so als Witz.
+
+Felix 00:14:33-9 (reusper) Das könnte sein aber ich hab da keine, leider keine Antwort auf die Frage.
+
+Tim 00:14:38-6 Vergessen zu fragen
+
+Felix 00:14:39-7 Fragste mal Korakel.
+
+Tim 00:14:41-4 Das hätte man schon vor 20 Jahren mal fragen sollen.
+
+00:14:43-9 (beide lachen)
+
+Tim 00:14:44-8 Aber damals hat man das einfach noch so mitgenommen ne.
+
+Felix 00:14:47-3 Genau aber was es damals auch schon gab waren so (äh) Text Adventure also das so (äh) Abenteuerspiele am Bildschirm statt fanden mit Fließtext
+
+Felix 00:14:56-1 das man praktisch die  Abenteuergeschichte (äh) durchlebt hat in dem man halt Text bekommen hat der bestimmte Situationen beschrieben hat
+
+Felix 00:15:02-4 und dann in so pseudo englischen Satzbau mit dem Spiel interagieren konnte. Da konnte man dann halt sowas sagen wie "Take Hammer" oder 
+
+Felix 00:15:12-8 "hit monster with hammer on head" oder sowas oder (???) x, y.
+
+Tim 00:15:19-1 Du bist jetzt noch bei Rogue?
+
+Felix 00:15:20-3 Ich bin noch bei Rogue und was ich glaube was die Motivation war von denen oder was se auch gesagt haben. Sie wollten nämlich auch ein 
+
+Felix 00:15:26-4 (äh) sie hatten dann entschieden ein Abenteuerspiel zu machen mit dieser Cursesbibliothek.
+
+Tim 00:15:30-9 Also Rogue war so zu sagen auch schon
+
+Felix 00:15:32-5 Ja
+
+Tim 00:15:33-7 Grafisch in Anführungsstrichen?
+
+Felix 00:15:35-1 Das war der große.. genau das war deren Anwendungsfall für diese Bibliothek 
+
+Tim 00:15:38-5 (ehem) 
+
+Felix 00:15:38-8 genau es gab nicht nur Fließtext mit wo man so zu sagen wie in einem Chat in nem Dialog mit dem Programm stand konnte
+
+Tim 00:15:44-2 So wie ja früher die Text adventures eigentlich alle waren.
+
+Felix 00:15:46-3 genau
+
+Tim 00:15:46-6 Das man wie so auf einer Kommandozeile immer mit dem System kommuniziert hatte hier "look room" und so weiter.
+
+Felix 00:15:51-4 Genau also ich versuch son bisschen zu erklären was auch dieses Roge-like ausmacht also das ist sicherlich nen also diese Cursesgeschichte
+
+Felix 00:15:57-6 das diese Art der Darstellung, wie oder was das genau dargestellt wird komm ich gleich zu. (äh) Das ist sicherlich nen Alleinstellungsmerkmal und 
+
+Felix 00:16:06-2 das das sind auch alles eigentlich Abenteuer Rollenspiel Abenteuer Spiele würde ich auch sagen 
+
+Tim 00:16:12-9 (hm) 
+
+Felix 00:16:12-9 Was die alle gemeinsam haben und was eben bei dieses Text adventures auch ein Problem war, der jenige der das adventure geschrieben hatte
+
+Felix 00:16:20-1 hatte hat keine Möglichkeit dran spaß zu haben weil er natürlich die Lösungen und (und sch äh) natürlich kannte also sozusagen nicht selber sein
+
+Felix 00:16:27-2 Spiel spielen konnte 
+
+Tim 00:16:28-2 Weil die meistens einfach mehr so Fragebogenartige 
+
+Felix 00:16:31-0 Genau
+
+Tim 00:16:31-3 Design hatten so
+
+Felix 00:16:32-6 Eine Lösung sozusagen
+
+Tim 00:16:33-4 Genau
+
+Felix 00:16:34-0 Oder villeicht
+
+Tim 00:16:34-4 Geh an den richtigen Ort
+
+Felix 00:16:35-2 Genau
+
+Tim 00:16:35-4 und finde das richtige Ding und dann kannste da wieder was machen 
+
+Felix 00:16:38-0 Also die Idee war halt das (äh) ein Spiel auch zuschreiben an dem auch der Entwickler selber 
+
+Tim 00:16:43-9 Spaß haben kann
+
+Felix 00:16:44-4 Spaß hat genau das (äh) spielen kann und ich glaube das sind (äh) das haben die halt erreicht in dem die sehr viele Dinge (äh) mit Zufällen 
+
+Felix 00:16:54-4 gemacht haben und auch das Spiel sich jedes mal neu initialisiert mit (äh) synonymen die man also für bestimmte Gegenstände die man dann neu 
+
+Felix 00:17:01-1 erforschen und erkennen muss also es ist sozusagen (äh) sehr wenig (äh) langweilig dadurch. Also man es ist man hat nie das 
+
+Felix 00:17:12-1 selbe Spiel kann man sagen.
+
+Tim 00:17:13-2 Ja
+
+Felix 00:17:13-7 Das ist sozusagen eine Sache und es gibt noch was was ich gefunden hab was auch ein sicher ein Alleinstellungsmerkmal ist sind sogenannte
+
+Felix 00:17:20-2 Permadeath. Das bedeutet das man das Spiel zwar abspeichern kann aber wenn man es wieder aufnimmt der Spielstand gelöscht wird man also 
+
+Felix 00:17:29-4 in einem Zug durchspielen muss. Man hat nicht die Möglichkeit 
+
+Tim 00:17:32-9 Man ist  so richtig tot.
+
+Felix 00:17:34-7 Genau, man ist permanent... permadeath death.
+
+Tim 00:17:38-8 Das ist derzeit wieder groß im kommen (lachen)
+
+Felix 00:17:40-2 Ist es (lachen) 
+
+Tim 00:17:41-8 Hab ich gelesen
+
+Felix 00:17:42-7 Ok also das ist natürlich in gewisser Weise reizvoll aber kann auch frustrierend sein aber das ist sicherlich die Sache also man stirb und stirb.
+
+Felix 00:17:51-9 Und dann geht es wieder von Vorne los und dann sind auch alle (äh) Erkenntnisse die man über das Spiel gewonnen hat bis dahin natürlich verlosen
+
+Felix 00:17:58-7 weil es sich wieder neu initialisiert und man von Vorne anfängt.
+
+Tim 00:18:04-2 (hm) 
+
+Felix 00:18:06-0 Und das sind so auf jeden Fall Punkte die diese Spieler alle gemeinsam haben und das (äh) Rogue war eben genau der Anfang davon und ich hab 
+
+Felix 00:18:16-1 auch noch eine interessante Sache bei der Recherche für die Sendung gefunden die ich auch nicht wusste unzwar bei Unix ist es ja ziemlich einfach
+
+Felix 00:18:22-7 Ein und Ausgabe umzulenken und es gab dann Leute die ziemlich früh angefangen haben dieses Roguespiel nicht selbst zu spielen sondern 
+
+Felix 00:18:30-2 Programme zu schreiben die das spielen.
+
+Tim 00:18:31-8 Ah Bots sozusagen.
+
+Felix 00:18:32-9 Genau das waren sozusagen die ersten Bots und es gab auch tatsächlich damals dann schon ernsthafte, es war ja auch im universitären Kontext 
+
+Felix 00:18:39-5 Anwendung zumindest sagt das die Wikipedia das da so jene Geschichten wie so Expertensysteme daran erforscht wurden. Und es gibt auch die 
+
+Felix 00:18:48-3 Geschichte das de Herren Entwickler ei jedem neuen Release versucht haben den so zu bauen das die Rog-O-Matic hieß das Programm
+
+Tim 00:18:55-7 (ehem) 
+
+Felix 00:18:56-5 Es nicht schlägt. Also es gab auch einen kleinen sportlichen Ehrgeiz. 
+
+Tim 00:18:59-2 Aha...aha
+
+Felix 00:19:01-4 Als also... nicht das ich das selber erlebt hätte aber das ist das (äh) eine Anekdote zu bieten.
+
+Tim 00:19:06-2 Interessant
+
+Felix 00:19:07-4 Fand ich auch war ja auch spannend.
+
+Tim 00:19:09-2 Ja das das ist immer das schöne, das das Unix und dieses ganze Terminal Prinzip einem gerade sone Automatisierung generell immer sehr einfach 
+
+Tim 00:19:15-9 (äh) gemacht hat ne. War ja auch lange Zeit eigentlich so sagen wir mal die primäre Sogwirkung von Unixsystemen das man eben über Skripte da sehr
+
+Tim 00:19:23-9 schnell Automatisierungen herbei führen kann und kein Wunder das sich das so für Server (äh) Heutzuage so durchgesetzt hat
+
+Felix 00:19:29-9 Ich fand auch interessant das diese Idee des spielens das da sozusagen also das das sone auch sone große kreative (äh) Kraft entfaltet das dann eben 
+
+Felix 00:19:39-1 da eben dann auch auf einmal Dinge rauskommen die dann auch sehr Anspruchsvoll und sehr Ernsthaft sind also das finde ich auch nen interessanten 
+
+Felix 00:19:47-9 Aspekt an also an Computerspielen generell also 
+
+Tim 00:19:50-8 Ja
+
+Felix 00:19:51-2 Dass ist irgendwie ne auch ne treibende Kraft sein kann also das nicht nur (äh) verballert wobei ich auch den, wie hieß der Mensch (äh) Ritchie 
+
+Felix 00:20:01-8 oder der Herr (äh) 
+
+Tim 00:20:03-0 Dennis Ritchie
+
+Felix 00:20:03-3 Dennis Ritchie?
+
+Tim 00:20:04-2 (ehem) 
+
+Felix 00:20:04-5 (äh)  zitiert wird das wohl mit keinem Programm mehr CPUzeit verschwendet wurde als außer mit Rogue. Also es wurde wahrscheinlich sehr viel 
+
+Felix 00:20:11-6 gespielt damals an den Universitäten. 
+
+00:20:13-2 (beide lachen)
+
+Tim 00:20:15-3 Aha... Also das Spiel lief ja (äh) auf Unix 
+
+Felix 00:20:21-2 Genau das lief
+
+Tim 00:20:22-3 Oder Unixen 
+
+Felix 00:20:22-8 Genau das lief damals tatsächlich (äh) genau die hatten ja bei Berkeley glaub ich auch den Luxus da ihr eigenes (äh) Derivat zu haben und 
+
+Felix 00:20:30-8 zu entwickeln und da wurde das meines Wissens nach auch drauf (äh) betrieben und das das portiert wurde kam glaub ich erst bei Rogue glaube ich
+
+Felix 00:20:40-9 (ab wbe äh) weiß ich auch nicht genau erst sehr viel später also das es da PC-Versionen oder sowas gab. Anders als weiß ich nicht genau aber wenn 
+
+Felix 00:20:48-4 ich schon, soll ich einfach mal ne?
+
+Tim 00:20:50-5 Mich würde ja noch mal interessiere so Rogue also wie muss man sich denn das jetzt so vorstellen also du hasst ja gesagt das Userinterface wurde 
+
+Tim 00:20:56-8 gemalt aber was war denn jetzt sozusagen das das Userinterface?
+
+Felix 00:20:59-8 Die Idee ist eigentlich die von der Darstellung her das man (äh) halt eine Aufsicht hat auf das Spiel. Also das ist (äh) diese...
+
+Tim 00:21:09-6 Wie sone Landkarte
+
+Felix 00:21:10-1 Genau wie ne Landkarte oder es heißt kommt ja auch dieses (äh) das Rollenspielsystem was dem zugrunde liegt ist (äh) D&D heißt es.
+
+Felix 00:21:18-6 Dungeons and Dragon 
+
+Tim 00:21:19-8 (ehem) 
+
+Felix 00:21:20-4 Was glaub ich Ende der 70ger Jahre Mitte, Ende der 70ger Jahre entwickelt wurde. Also wenn man das Pen und Paper Rollenspiel kennt dann fällt 
+
+Felix 00:21:28-0 einem das auch unmittelbar auf weil die Monster (äh) gleich heißen und auch diese Attribute die der Spieler hat und so das ist alles eins zu eins.
+
+Felix 00:21:35-9 Glaube die mussten dann später auch Sachen rausnehmen um kein Ärger zu kriegen mit den D und D Leuten oder umbenennen.
+
+Tim 00:21:40-6 Aha
+
+Felix 00:21:41-2 Also auf jeden Fall ist es nen Dungeon den man da sieht. Also dass ist so ein sowas wie ein Höhlensystem oder ein Verlies kann man sagen.
+
+Tim 00:21:50-4 Ja
+
+Felix 00:21:50-9 Und was man bekommt ist ein Aufsicht. Man startet in einem Raum, das muss man sich eben so vorstellen das eben mit mit einfachen ASCII Charaktere 
+
+Felix 00:21:59-9 die sich halt eignen also solche Sachen wie 
+
+Tim 00:22:03-0 Senkrechter Strich
+
+Felix 00:22:03-8 Unterstrich genau (äh) eben die Umrandung von diesem Raum macht und dann sind Räume verbunden durch Korridorteile das sind dann zum Beispiel
+
+Felix 00:22:12-3 Hash marks und eben ein Algorithmus der irgend nach zufälligen aber eben doch in gewissen (äh) Rahmen definierten Regeln diesen Dungeon 
+
+Felix 00:22:24-3 (äh) macht. Also man fängt dann an in einem Raum dann hat man dort ein Durchgang ein Korridor, geht da rein dann kann der sich verzweigen
+
+Felix 00:22:30-9 in ein andern Raum der kann eine beliebige Größe haben. In den Räumen werden dann Gegenstände und Monster dargestellt, das sind dann...
+
+Tim 00:22:37-2 Aber man sieht ja erstmal nichts ne?
+
+Felix 00:22:39-9 Man sieht erstmal, doch man sieht wenn der Raum nicht dunkel ist was es auch gibt aber ich glaube die (ähm) Startlevel hat man das noch nicht.
+
+Felix 00:22:47-8 Sieht man den, gut ich will jetzt nicht, also das ich selber Rogue gespielt habe.
+
+Tim 00:22:52-9 Ja
+
+Felix 00:22:53-1 Ich hab das auch...da will ich mich jetzt nicht soweit auseinander (ähm) Fenster lehnen aber ich sage mal man sieht die den ersten Raum sieht man
+
+Felix 00:22:59-0 komplett. Es gibt noch keine Türen man sieht dann den Korridor und
+
+Tim 00:23:03-8 (ehem) 
+
+Felix 00:23:04-0 Dann sieht man halt immer man sieht halt immer 8 ...ja ich glaube waren 8 mal überlegen 8... die 8 wäre da um sich rum und dann noch mal...
+
+Felix 00:23:13-9 Ja gut ok das weiß ich nicht genau wie das bei Rogue ist aber auf jeden Fall man kann ein paar Felder weit gucken in...
+
+Tim 00:23:19-3 Ok aber das Prinzip ist erstmal man hat quasi son Landkartenartige 
+
+Felix 00:23:23-7 Genau
+
+Tim 00:23:23-8 Verlies (äh ähm) Idee ja Räume die irgendwie mit Tunneln mit einander verbunden sind und da kann man umher maschieren.
+
+Felix 00:23:32-5 Genau richtig die sind dann gefüllt mit das ist ja nen Abenteuer
+
+Tim 00:23:35-8 Dingen
+
+Felix 00:23:36-4 mit Dingen mit Monstern natürlich also es ist (äh) natürlich eine große Freude gewesen einfach nur diese Monster zu slashen ja (kichern) 
+
+Tim 00:23:47-6 (lachen)
+
+Felix 00:23:48-1 und dafür brauch man natürlich Waffen. Dann gibt es (äh) Waffen dafür brauch man sowas wie Magie, dann gibt es irgendwie Zaubersprüche 
+
+Felix 00:23:53-6 die man da in Form von Schriftrollen aufnehmen kann die man dann lesen kann und (äh) die dann einen Effekt haben der wobei man wie gesagt durch
+
+Felix 00:24:04-3 (äh) oftmals bei der ersten Anwendung nicht sicher sein kann was es wirklich ist weil sie Dinge oft mit Synonymen belegt sind eben um diese
+
+Felix 00:24:11-8 Zufälligkeit da rein zubringen also es immer auch ne Art von Erforschung (äh) des Environments ist immer mit inbegriffen.
+
+Tim 00:24:20-1 (ehem) 
+
+Felix 00:24:20-7 Ja.. ich weiß garnicht genau das ist ja das ist ist so das klassische Spielprinzip und das baut sich dann halt in Ebenen auf. Also man hat dann halt
+
+Felix 00:24:29-7 (äh) ein Dungeonlevel und dann gibt es halt immer einen Durchgang nach unten oder nach oben je nachdem also
+
+Tim 00:24:36-3 (ehem) 
+
+Felix 00:24:37-0 und kann dann halt in den nächsten Leven hinab steigen um dort irgendwie das ein ähnliches (äh) Vergnügen wieder zu durchleben so lange bis man 
+
+Felix 00:24:48-6 im untersten Dungeon angekommen ist. Ziel des Spiels ist es und also wars bei Rogue auch den Wizard of Yendor 
+
+Tim 00:24:57-1 (ehem) 
+
+Felix 00:24:57-8 zu erlegen und ihm seines magischen Amuletts zu berauben.
+
+Tim 00:25:01-0 Das Amulett von Yendor
+
+Felix 00:25:02-1 Genau von Yendor und (äh) was ich auch Yendor ist (ähm) oh Gott lass mich jetzt nicht falsches sagen. 
+
+Tim 00:25:13-2 (lachen)
+
+Felix 00:25:15-9 (äh) 
+
+Tim 00:25:15-9 Worauf willste jetzt hinaus auf den Namen?
+
+Felix 00:25:17-4 Genau das ist irgendwie dass ist doch umgedreht für Ro (äh) Ro (äh) Ro (oh) na ... Rodney genau und ist (äh) bei es war der Name  des Spielers
+
+Felix 00:25:30-4 bei Rogue soweit ich weiß wen man angefangen hat. Man konnte sich den Spielernamen nicht aussuchen sondern man war immer Rodney
+
+Tim 00:25:35-7 Aha
+
+Felix 00:25:36-3 und das ist sozusagen ein kleiner Witz sozusagen 
+
+Tim 00:25:39-0 Ah verstehe man man war immer Rodney.
+
+Felix 00:25:41-2 So hab ich das zumindest gelesen, ich kann mich daran auch nicht mehr genau erinnern
+
+Tim 00:25:45-0 verstehe
+
+Felix 00:25:45-2 aber jetzt machts  Sinn 
+
+Tim 00:25:45-6 sowie man an andern Orten vielleicht Bernd heißt oder so.
+
+Felix 00:25:48-8 Ja genau richtig (lachen)
+
+Tim 00:25:51-3 Wir sagen aber jetzt nicht wo.
+
+Felix 00:25:52-5 Ja... genau auf jeden Fall erfreute sich dieses Spiel großer Beliebtheit.
+
+Tim 00:25:58-7 Im Unixlager.
+
+Felix 00:26:00-4 Im Unixlager genau
+
+Tim 00:26:01-6 wobei das jetzt
+
+Felix 00:26:01-7 bei den Universitäten genau
+
+Tim 00:26:02-8 Ja das waren jetzt noch keine Massen
+
+Felix 00:26:04-9 Das waren wohl aber doch schon sehr viele Leute die das wohl (äh) gespielt haben müssen aber nichts desto trotz gab es (äh) Leute die dachten 
+
+Felix 00:26:12-0 das konnte man anders und besser machen, da geht noch was.
+
+Tim 00:26:16-1 (ehem) 
+
+Felix 00:26:16-8 und das eben auch die Geburt schon von diesem Rogue-like-Genre  wo dann eben einfach Leute sich hingesetzt haben und diese Codebasis 
+
+Felix 00:26:23-3 genommen und dass erweitert haben.
+
+Tim 00:26:26-9 Also es kam sozusagen auch im source?
+
+Felix 00:26:29-0 Ja es kam auch im source ist muss auch im source gekommen sein auf jeden Fall ja. (...) Denn ich soweit ich weiß ist Hack eine die ist wirklich so
+
+Felix 00:26:39-1 eine dierk.. direkte Abkömmling davon.
+
+Tim 00:26:43-4 Das heißt es gab Rogue. 
+
+Felix 00:26:47-7 Genau dann gab es Leute die sich da hingesetzt haben und Rogue verändert haben und daraus entstand ich glaub 84 Ende 84 der erste Release
+
+Felix 00:26:59-0 oder Anfang 85 von einem Spiel Namens Hack von dem (äh) bei dem Initialen postings wurde damals alles es gab ja noch kein world wide web
+
+Felix 00:27:11-7 das wurde ja glaub ich erst Anfang der 90ger gabs den ersten Webserver.
+
+Tim 00:27:15-2 Ja
+
+Felix 00:27:15-7 Sondern es gab halt andere (äh) Protokolle mit den Informationen  im Internet ausgetauscht wurden, andere Dienste und für diese Art von 
+
+Felix 00:27:26-1 Kommunikation die sie hier im NetHack und Hack  und Rogue Umfeld sehr beliebt war, waren diese (äh) Usenet newsgropes. Wo's halt extra 
+
+Felix 00:27:35-0 newsgropes gab in denen halt sowohl der Sourcecode als auch die (ähm) oder binaries oder eben auch Informationen über den über die Spieler,
+
+Felix 00:27:45-3 Spielverläufe wo sich die Leute darüber ausgetauscht haben was man machen kann, wie Strategien sind zu Überleben und Ideen gesammelt haben und
+
+Felix 00:27:54-3 das (äh) lief alles viel im Newsnet ab und da wurde auch die erste Version von Hack gepostet in 17. Posts soweit ich das recherchiert habe.
+
+Tim 00:28:04-2 (ehem)  
+
+Felix 00:28:04-8 In einer (äh) ich glaub sogar noch in einer Rogue-Newsgroup wo sich dann so ziemlich schnell wegen dem vielen Andrang und der fülle der 
+
+Felix 00:28:12-9 Interessenten eine Hack Altgames Hack glaub ich gegründet hat wo dann sich das weiter abgespielt hat. Es war....
+
+Tim 00:28:20-6 Du bist ja das muss man noch mal sagen war ja damals sozusagen das das das was sagen wir mal dem dem heutigen (äh) Web als Tummelplatz 
+
+Tim 00:28:26-6 noch am nächsten kam auch  wenns überhaupt (äh) nicht im Ansatz auch nur sone Struktur hatte sondern es war ja mehr son Weltweites (äh) 
+
+Tim 00:28:33-0 Forum mit soner herraischen (äh) Bretterstruktur (ähm) übrigens also von Rogue gabs kein Sourcecode deswegen wurde Hack sozusagen komplett neu
+
+Felix 00:28:42-9 ehrlich ja?
+
+Tim 00:28:43-3 neu gemacht also es war sozusagen nur die Inspiration aber (äh) der Sourcecode kam wohl irgendwie nicht raus 
+
+Felix 00:28:48-8 alles klar
+
+Tim 00:28:49-4 das heißt und dann war Hack  quasi so der der Hack halt (kicher)
+
+Felix 00:28:53-1 Ja
+
+Tim 00:28:53-4 um (äh) das irgendwie weil ich mein ja ansonsten häts wahrscheinlich auch als Rogue weiter gelebt nehme ich mal an ne.
+
+Felix 00:28:58-5 Ja ich finde das gut ok ja gut.  Ich finde das erstaunlich aber gut ja.
+
+Tim 00:29:04-1 Ja das war halt auch irgendwie opensource was heute so allgemein Gültig zu sein scheint ja war damals nicht der Standart so sondern Software war halt,
+
+Tim 00:29:18-2 wurde halt von Entwicklern gemacht und dann hat man irgendwie eben das binarie gespielt und (ähm) dieser Wunsch gerade bei dieser Vielzahl von 
+
+Tim 00:29:27-4 existierenden Unixplattformen die ja dann eben alle irgendwie nen bisschen anders waren (äh) das selber auch zu haben hat dann dazu geführt 
+
+Tim 00:29:35-1 zwangsläufig das eben das der einzige viable Weg war Software überhaupt universell einsetzen zu können war im sourcecode auszuliefern und da 
+
+Tim 00:29:45-2 anstanden ja dann auch diese ganzen Bildsysteme diese ganzen absurden Skripte die irgendwie erstmal durch das Betriebssystem durchforsteten 
+
+Tim 00:29:51-4 und schauten wo bin ich denn hier eigentlich (äh) was ist es denn was ist es denn nicht wie könnte ich jetzt diese Software übersetzten 
+
+Felix 00:29:57-8 Ja bzw. (äh) ich glaube dieses (äh) Autoconfigurationsgeschichten kamen noch später glaub ich also wenn man sich das Makefile von NetHack 
+
+Felix 00:30:06-4 anguckt das ist durchforstet das System  noch nicht sehr viel automatisch welche Bibliotheken schon da sind oder da muss man sehr viel Handarbeit 
+
+Tim 00:30:13-6 Genau das waren da sozusagen die Konsequenz daraus genau.
+
+Felix 00:30:16-9 Viel Handarbeit leisten musste man. Ja ok dann haben wir das geklärt. Dann haben die Jungs also das tatsächlich damals (äh) zum ersten mal mit Hack 
+
+Felix 00:30:24-8 dann im Sourceode veröffentlicht. Wass ja auch dazu führte das das auf ner sehr breiten (äh) Plattform lief und das viele Leute das portiert haben.
+
+Tim 00:30:34-1 (hm) genaau
+
+Felix 00:30:35-8 Was auch zum Beispiel dazu führte das ich  irgendwann mal dieser (äh) dieses wunderbaren Spieles habhaft wurde weil nämlich auch jemand sich  
+
+Felix 00:30:41-4 netter Weise hingesetzt hat und das für den Atari ST portiert hat den ich  zu dieser Zeit dann zuhause hatte
+
+Tim 00:30:46-7 (ehem) 
+
+Felix 00:30:47-2 Mitte, Ende der 80ger 
+
+Tim 00:30:50-0 (ehem)
+
+Felix 00:30:51-1 und (äh) so dann auch in die (äh) Genuss kam dieses (äh) Spiel zu spielen. Ich weiß noch ein f (äh) ich weiß noch wir hatten ein Freund meines Vaters
+
+Felix 00:31:00-6 das muss wirklich ein Nerd gewesen sein der uns diese Diskette in die Hand gedrückt da standen diese 4 Buchstaben drauf "Hack" und dazu gabs
+
+Felix 00:31:06-8 nen File also nen Ordner mit etwa anderthalb Zentimeter ausgedruckten Papier.
+
+Tim 00:31:12-9 (ehem) 
+
+Felix 00:31:13-6 Das war dann die Anleitung des Spiels plus irgendwie ausgedruckte Newsgroups wo halt so (äh)  das Spiel erklärt wurde und welche Tips dafür waren.
+
+Felix 00:31:22-4 Und ich war erstmal irritiert muss ich sagen. Ich hab leidenschaftlich gern gespielt aber es war irgendwie doch ne ziemlich Hürde erstmal dacht ich 
+
+Felix 00:31:29-8 so viel zu lesen nein das ist tatsächlich so man  muss halt relativ viele Kommandos (äh) erstmal lernen. Was jedes Zeichen auf der Tatstatur macht 
+
+Felix 00:31:38-9 irgendwas bestimmtes und ich habs auch erstmal glaub ich wieder zur Seite gelegt. Erst als ich dann in diesem Ordner gefunden habe (äh) so 
+
+Felix 00:31:47-4 tabellarische Anordnung von irgendwie Waffen und Monstersystemen die mich irgendwie sehr an  meine Rollenspielerfahrung erinnert haben und auch
+
+Felix 00:31:55-2 in einem Detailgrad dadrinnen waren wo ich dachte wohr das ist ja  der Wahnsinn wurde mir so... dämmerte mir worums da eigentlich geht
+
+Felix 00:32:03-2 nämlich so darum diese klassischen Pen und Paper Rollenspiele wirklich halt innen Computerspiel auch in ihrer Komplexität die sie da hatten 
+
+Felix 00:32:11-2 versuchen einzubauen und mir die Möglichkeit zu geben eben diese (äh) tollen spaßigen Erfahrungen die ich da mit meinen Freunden mit den 
+
+Felix 00:32:19-6 Pen und Paper Rollenspiele habe (äh) einer gewissen Art und Weise halt auch wenn ich gerade Lust hatte am Computer (äh äh) zu haben und spielen.
+
+Felix 00:32:26-8 Also das war wirklich nen Aha-Moment als ich diese (äh) das sind natürlich Sachen die Leute, die irgendwer aus dem Sourcecode extrahiert haben 
+
+Felix 00:32:34-9 wo dann sehr detailliert drin stand auch in so Rollenspielerterminologien also was ich zum Beispiel die Waffe xy macht 3D4+2 Punkte Schaden 
+
+Felix 00:32:47-7 oder (äh) was weiß ich das Monster kann gegessen werden oder nicht gegessen werden oder kann lesen kann nicht lesen oder ich mein das war 
+
+Felix 00:32:55-7 nicht ein oder zwei Monster dass halt hunderte. Also dass war... und hunderte von Waffen also man hatte wirklich oder nicht hunderte von Waffen 
+
+Felix 00:33:02-9 aber Dutzende zumindest.
+
+Tim 00:33:03-8 (ehem) 
+
+Felix 00:33:04-5 Also man hatten nen schon als man da diese ausgedruckten Newspostings gelesen hat den Eindruck das ist wirklich relativ (äh) komplex und das
+
+Felix 00:33:14-9 hat mich dann auch motiviert mich da hinzusetzen und diese Lernkurve die man da auf jeden Fall durchlaufen muss (äh) auf mich zunehmen und
+
+Felix 00:33:23-6 also ich halt erstmal dabei war war harte das auch nicht mehr auf. Also das war dann wirklich wenn man erstmal und das war auch nicht so schlimm 
+
+Felix 00:33:29-3 wie ich es mir vorgestellt hab. Man kann ziemlich schnell wenn man sich rum bewegen kann das geht dann alles gehts halt eigentlich relativ schnell
+
+Felix 00:33:36-1 das man dass halbwegs spielen kann. 
+
+Tim 00:33:37-7 (ehem) 
+
+Felix 00:33:38-2 Und ich hatte glaub ich auch das Glück dass einer meiner Brüder auch Feuer gefangen hatte und man sich dann immer austauschen konnte und eben 
+
+Felix 00:33:44-3 gemeinsam Erfahrungen austauschen konnte und das war auf jeden Fall so für mich dann der Anfang. Also das war natürlich auch dieser portierung
+
+Felix 00:33:53-7 (äh) es gab natürlich diese Unixsysteme natürlich in erster Linie im Universitären und im Forschungsbereich aber zu Hause hatte natürlich niemand 
+
+Felix 00:33:59-7 son Ding damals zu stehen.
+
+Tim 00:34:00-9 Also es gab Rogue, Rogue hat die Idee geboren Rollenspiel mal als Computergame zu machen und
+
+Felix 00:34:07-6 Genau
+
+Tim 00:34:07-9 dabei auch noch dieses ganze eigentlich das was im normalen Rollenspiel der so der der der Master (äh) übernimmt so der Spielleiter das der eben 
+
+Tim 00:34:17-2 auch sag mal die Unwägbarkeiten mit rein bringt. Das Dinge mal anders sind und das man in gewisser Hinsicht auch (äh) auf das was sich die
+
+Tim 00:34:25-2 Spieler alles einfallen lassen dann auch kreativ reagiert was ja unterandrem an den Reiz ausmacht. 
+
+Felix 00:34:31-4 So ist es.
+
+Tim 00:34:32-4 Und dann wollten die aber den Sourcecode nicht rausgeben und (äh) die Leute waren aber jetzt angefixt und wollten irgendwie auch mal und dann
+
+Tim 00:34:38-6 haben sie es einfach (äh) davon inspiriert quasi neu geschrieben dass was sie daran mochten (äh) mehr oder weniger beibehalten also die Art und Weise
+
+Tim 00:34:46-8 wie das Unserinterface sich (äh) präsentierte und dann (äh) Hack geschrieben gepostet 
+
+Felix 00:34:53-1 Ja
+
+Tim 00:34:53-6 und dann wars irgendwie im Netz und wie verhält sich jetzt NetHack zu Hack?
+
+Felix 00:35:00-7 Ich würde sagen NetHack verhält sich zu Hack genauso ähnlich wie sich vielleicht Rogue (äh) Hack zu Rogue verhält es halt noch mal eine erhebliche 
+
+Felix 00:35:10-3 Stufe mehr Komplexität dazu gekommen im Sinne von ich würde.. keine Ahnung wie mans beziffern kann verzehnfacht vielleicht (äh) über die Zeit.
+
+Felix 00:35:19-2 Das ist natürlich auch eine Entwicklung ich meine die NetHackentwicklung setzte ja dann mehr oder weniger (ähm) relativ kurz danach also ich 
+
+Felix 00:35:27-8 glaube 85 ist das Hack gepostet worden dann 87 ging das mit der NetHackentwicklung los. Ich glaube deren großer das was auch ne spezielle 
+
+Felix 00:35:37-3 Sache was auch den Namen ausmacht (äh) zumindest geht die Legende dass das NetHack heißt das es halt auch von einer breiteren Entwicklerschaft 
+
+Felix 00:35:43-4 entwickelt wurde dadurch das das eben übers Newsnet also übers Internet damals (ähm ähm) möglich wurde halt gemeinsam Software zu entwickeln.
+
+Felix 00:35:53-6 Also dass es sozusagen so was wie Heute das sourceforg oder so die Möglichkeit den Leuten das also wenn man sich das anguckt (äh) das bei den 
+
+Felix 00:36:02-4 davor gab es halt immer zwei oder drei Leute, bei Hack vielleicht dann noch en paar Leute die die Ports dafür geschrieben haben aber die das 
+
+Felix 00:36:10-5 Entwicklerteam bei NetHack wurde dann halt war..wuchs halt stetig und das wurde natürlich dann auch über die Lange Zeit die die daran entwickelt 
+
+Felix 00:36:18-3 haben ich glaube der letzt release ist 2003 gewesen also 14 Jahre 13 Jahre.
+
+Tim 00:36:25-1 (ehem) 
+
+Felix 00:36:25-6 Natürlich (äh) kontinuierlich verbessert, komplizierter, verrückter, triggier, unschaffbarer vielleicht (kichern) also das (ähm).
+
+Tim 00:36:39-4 Das heißt NetHack ist quasi dann die Weiterentwicklung von von Hack 
+
+Felix 00:36:42-6 Genau
+
+Tim 00:36:42-7 gewesen also man hat das sozusagen genommen und irgendwie da da jeder was zu zusagen hatte und jeder was zu kontrobutieren hatte und jeder 
+
+Tim 00:36:48-4 irgendeine Finesse ausbauen (äh) wollte 
+
+Felix 00:36:51-1 Ja 
+
+Tim 00:36:51-4 wars so quasi unumstöslich das man das zu sonem Community-Projekt werden lässt und dann hat man den Namen einfach entsprechend angepasst.
+
+Felix 00:36:56-9 Genau wobei diese Community glaube ich dieses Developerteam dann doch ne relativ... also es waren zwar sagen ih würde mal sagen wenn man in die 
+
+Felix 00:37:05-7 Laisens guckt vielleicht 30 Leute oder so was also ist sch.. aber eben nicht so wie man das alle Leute (äh) Ideen posten konnten oder co, po, (äh) 
+
+Felix 00:37:17-6 Code posten konnten sondern es war schon eher ne es wurde den auch glaub ich oft nen bisschen angekreidet eher dann schon eher ne 
+
+Felix 00:37:21-9 eingeschworene Gemeinde die schon viele Leute aber eben dann doch sehr ihr (äh) ihre Ideen dort verfolgt haben.
+
+Tim 00:37:29-5 (hm) 
+
+Felix 00:37:30-2 Und das führte auch zu anderen Rogue-like-spinoffs wie (äh) Slash zum Beispiel die sich glaub ich NetHack genommen haben und gesagt haben 
+
+Felix 00:37:38-0 die sind mir sind uns zu konservativ.
+
+Tim 00:37:39-8 (lachen)
+
+Felix 00:37:40-0 Wir bauen das jetzt. Es ist auch ein Akronym 
+
+Tim 00:37:42-0 Aha versteh 
+
+Felix 00:37:43-0 glaub ich (äh) ich weiß das jetzt nicht im Kopf aber..
+
+Tim 00:37:45-0 Slash?
+
+Felix 00:37:45-5 Ja 
+
+Tim 00:37:47-1 (äh) Slash'EM 
+
+Felix 00:37:48-2 Ja genau 
+
+Tim 00:37:49-3 Slash'EM
+
+Felix 00:37:49-9 Ja
+
+Tim 00:37:50-6 (äh) 
+
+Felix 00:37:51-5 Es gab
+
+Tim 00:37:51-6 Super Lotsa Added Stuff Hack - Extended Magic 
+
+Felix 00:37:56-3 Ja
+
+00:37:56-8 (beide lachen)
+
+Felix 00:37:58-4 Genau also dort haben sich dann wieder Leute gefunden die dann eben noch verrücktere Sachen oder diese relativ konservative in Anführungszeichen 
+
+Tim 00:38:06-5 Ja
+
+Felix 00:38:07-4 Entwicklungsstrategie von den NetHackdeveloperteam (äh) zu langweilig fanden und
+
+Tim 00:38:13-3 Extras, feature, monsters and items 
+
+Felix 00:38:15-3 Genau zum Teil sind dann aber Sachen wieder zurück geflossen in NetHack also ich glaube zum Beispiel Magiesystem ist dann sind dann Sachen auch tatsächlich 
+
+Felix 00:38:23-1 später dann auch eingeflossen. 
+
+Tim 00:38:24-2 (ehem) 
+
+Felix 00:38:24-8 Zum Glück
+
+00:38:26-4 (beide lachen)
+
+Felix 00:38:27-9 Ja die sind wirklich schön
+
+Tim 00:38:28-8 (ehem) 
+
+Felix 00:38:29-4 Also dass ist sozusagen son bisschen sag ich (äh) der Historische Ablauf und auch die auch die Anzahl der Suporteten Plattformen ist auf jeden Fall 
+
+Felix 00:38:41-0 auch natürlich über die Zeit waren natürlich auch mehr Systeme am auf den Markt kamen denk ich mal. Aber es gibt glaub ich kaum ein Programm was auf 
+
+Felix 00:38:49-2 einer Codebasis soviel unterschiedliche Hardwareplattformen unterstützt wie NetHack. Also ich kann mich erinnern als ich in die Uni kam gab es kein NetHack
+
+Felix 00:38:57-2 und das erste was ich gemacht hab, ich hab versucht da NetHack zubauen und dann wenn da durch dieses Makefile geht und sieht was da alles damals drin war
+
+Felix 00:39:06-0 da irgendwie OSII irgendwie VMS, MS-DOS, Microsofte, (äh) Windows es gab
+
+Tim 00:39:14-0 Aber vor allem halt 
+
+Felix 00:39:14-9 unterschiedliche Unixederivate.
+
+Tim 00:39:15-2 alle erdenklichen genau alle erdenklichen Unixe.
+
+Felix 00:39:18-2 Mit allen erdenk... genau was und dann je nachdem mit was für Features die kamen, mit was für pasern, beson, flex was es da nicht alles gab.
+
+Felix 00:39:25-4 Also man musste sein System schon ziemlich gut auch kennen um da diesen (äh) makeprozess entsprechend zu konfigurieren aber also es ging
+
+Felix 00:39:35-8 wenn man das (äh) wenn man sich etwas lieb darein gesteckt hat oder je nachdem wie versiert man halt war. Ich kann mich erinnern dass ich damals 
+
+Felix 00:39:43-1 den in dem Rechen in dem Uni im Rechenzentrum den Operator der hab ich um Hilfe gebeten und der war natürlich kein Problem und der hat 
+
+Felix 00:39:50-8 dann aber ziemlich schnell die Lust verloren weil das nämlich doch ganz schön kompliziert war ja.
+
+Tim 00:39:54-3 Dass heißt man kann auch sagen das NetHack im Prinzip vielleicht nicht das erste aber doch zumindest eine der ersten nennenswerten opensource 
+
+Tim 00:40:04-5 (äh) Developments war die wenn wurde da vielleicht auch nicht jeder mitprogramieren konnte aber wo zumindest eine extrem große und ich vermute 
+
+Tim 00:40:13-4 mal auch Global recht verteilte (äh) Entwicklerschaft dran gearbeitet hat und auch das Feedback des ganzen Netzes 
+
+Felix 00:40:19-8 Ja
+
+Tim 00:40:20-2 kontinuierlich aufgenommen hat und integriert hat.
+
+Felix 00:40:22-6 Also das denke ich auf jeden Fall das es auf jeden Fall das mit dem Feedback ist sicher richtig und wie in wieweit zu der Zeit andere Software-Projekte
+
+Felix 00:40:29-1 ähnliches gemacht haben  weiß ich natürlich nicht genau aber ich denke schon das das nicht sehr verbreitet war. Das war halt wahrscheinlich wirklich 
+
+Felix 00:40:36-1 ein eine wirklich ein Novum eine Neuigkeit.
+
+Tim 00:40:39-1 Also vor allem als Spie ne.
+
+Felix 00:40:40-2 Ja
+
+Tim 00:40:40-7 Also vor allem sozusagen als richtige ich meine klar es gab ja auch E-Mail-Clients und (haha) halt diese ganze Infrastruktur die eben in der Zeit dann (äh) 
+
+Tim 00:40:48-8 auf Unix gewachsen ist. Aber es ist nicht so das es jetzt besonders viele Spiele gab wenn man son Unix installiert hat.
+
+Felix 00:40:54-0 Nein
+
+00:40:55-4 Und von daher war NetHack und das wir immer son bisschen meine Wahrnehmung also ich hab das einwenig gespielt, ich bin ja nicht son son son
+
+00:41:01-8 Spielerhardcoretyp weil ich gebe immer so früh auf und bin immer so früh beleidigt wenn ich verliere.
+
+00:41:06-8 (beide Kichern)
+
+Felix 00:41:07-8 ok
+
+Tim 00:41:09-3 Ich gebe das zu ja, hatte aber trotzdem irgendwie ein Riesen Spaß an (äh) an diesen NetHack was auf meinem Rechner (äh) natürlich lief was in dem 
+
+Tim 00:41:18-1 Fall glaub ich ein Xenix-System war, vor allem weil (ähm) da kannst du vielleicht noch mal was dazu sagen weil man ja während dieses während man
+
+Tim 00:41:29-9 dieses Spiel spielte einem das Betriebssystem nicht sofern blieb so.
+
+Felix 00:41:35-7 Ja also du ich weiß worauf du anspielts glaube ich.
+
+Tim 00:41:38-1 (lachen)
+
+Felix 00:41:38-1 Du spielts auf diese Geschichte mit dem Mailerdemon an, also es war tatsächlich ist es auch immer noch so tatsächlich wenn man auf einem System 
+
+Felix 00:41:44-3 spielt wo man seine eigene Mail verwaltet also sein eigenes Mailfach (äh) hat
+
+Tim 00:41:50-9 Hatte maan ja
+
+Felix 00:41:51-0 Wass auf Unixsystemen total üblich war.
+
+Tim 00:41:53-6 Ja
+
+Felix 00:41:54-1 So musste man auf jeden Fall seiner E-Mail (äh) nicht entgehen während man stundenlang spielte sondern das Programm hat gemerkt wenn eine E-Mail 
+
+Felix 00:42:01-4 im Postfach ankam und dann gab es ein ein Monster den sogenannten Mailerdemon der dann als @-Zeichen (äh) nee als (ähm) kaufmännisches & als 
+
+Felix 00:42:10-6 einem entgegen gerannt kam und (äh) sagte "you got mail" einem ein scrall of mail in die Hand gab und dann konnte man wenn man sagte "r" für
+
+Felix 00:42:18-2 Read und dann den entsprechenden scrall aus seinem inventary ausgesucht hatte ingame sozusagen (äh) diese (äh) Post lesen.
+
+Tim 00:42:26-9 Also es ist wirklich so großartig, ich weiß noch als ich das das erste mal hatte ich hab mich so weg gelegt.
+
+Felix 00:42:31-9 Ja es hat halt auch diesen Charme mit dem Witz das man auch diese diese Programme die ja die Mail verwalten sind ja die Demons in (äh) also
+
+Felix 00:42:39-1 ist der Maildemon und hat natürlich total gepasst auch in dieses Fantasiekontext dass dann auch der Dämon tatsächlich persönlich vorbei kam und
+
+Tim 00:42:48-0 (lachen)
+
+Felix 00:42:48-0 You got mail und dann er auch immer...
+
+Tim 00:42:50-3 scrall of mail
+
+Felix 00:42:50-9 ja
+
+Tim 00:42:51-4 here is a  scrall of mail for  you 
+
+Felix 00:42:52-5 genau und dann er glaub ich immer noch gesagt er hat jetzt er muss schnell wieder weg er hat keine Zeit und dann weg war er und dann konnte man 
+
+Felix 00:42:58-6 den irgendwie lesen. Man konnte sonst nicht soviel damit machen dass hätte wahrscheinlich auch gamebalance zerstört und vielleicht auch die 
+
+Felix 00:43:04-5 eigene Post ich meine mit andern scralls die kann man ja dann in Wasser tunken und dann werden sie gelöscht und dann kann man sie neu beschreiben 
+
+Felix 00:43:10-9 das ging mit den mailscralls zum Beispiel nicht.
+
+Tim 00:43:13-1 Ah
+
+00:43:13-4 (beide lachen)
+
+Felix 00:43:14-9 Ich weiß nicht ob die verbrannt sind wenn man ans  Feuer kam aber ich nehme an nicht.
+
+Tim 00:43:18-4 Mir fällt auch noch eine zweite Integration ein.
+
+Felix 00:43:20-4 Aha da bin ich ja.. ja bitte.
+
+Tim 00:43:22-2 (äh) Und zwar (äh) korrigier mich wenn das nicht stimmt aber soweit ich mich erinnere war es so das wenn man (äh) das Spiel startete und es Vollmond
+
+Felix 00:43:31-0 Ja
+
+Tim 00:43:31-6 Dann startete es glaub ich gleich (äh) hoch mit (äh) "you are lucky full moon to nigth und 
+
+Felix 00:43:36-7 Oder oder (äh) your lucky ja genau (äh) 
+
+Tim 00:43:39-4 und hatte hatte hatte man dann nicht mehr Glück.
+
+Felix 00:43:41-9 Genau und new moon gibt es auch... (äh) lucky.. warte mal lass mich mal kurz überlegen...genau und bei Neumond hatte man mehr Wehrkreaturen 
+
+Felix 00:43:48-6 und tatsächlich die ominöse Glücksvariable die es in diesem Spiel gibt (äh) Quell vieler Spekulationen (äh) ist davon beeinflusst auf jeden Fall wie die
+
+Felix 00:43:58-9 Mondphase ist. Das hat nicht direkt mit dem Betriebssystem zutun natürlich weil da denk ist einfach die, man brauch ein System mit nem Kalender
+
+Felix 00:44:04-8 und dann
+
+Tim 00:44:05-8 Ja
+
+Felix 00:44:06-2 ist da ne Mondphasenberechnung mit in dem Spiel drin. Das geht ging auf andern Systemen auch ich glaube also das...
+
+Tim 00:44:12-7 Ja aber das waren einfach Konzepte die waren zu dem Zeitpunkt einfach komplett neu. Also so das ein Spiel in irgendeiner Form (äh) auf diese Art
+
+Tim 00:44:19-6 und Weise (äh) 
+
+Felix 00:44:20-9 Ja
+
+Tim 00:44:21-2 auf das System zurück greift und das dann einfach spielerisch mit einbaut. Ich glaub das... das hat such echt viel von diesem epiel ausgemacht
+
+Tim 00:44:28-9 warum warum dieses Spiel sone unglaubliche Begeisterung hat. Ich hab jetzt hier grad im VVorfeld noch mal gehört hier so Uni's (äh) generell also 
+
+Tim 00:44:36-2 konkret weiß ich es jetzt hier von der Uni in Ulm ja die hatten also extra ein ihrer Server ausschließlich dafür abgestellt NetHack 
+
+Felix 00:44:42-6 O.K.
+
+Tim 00:44:42-9 (äh) Server zu sein ja also so Anfang der 90er Jahre (ähm). Das muss man jetzt mal unter diesem Kontext sehen das nen Server überhaupt erstmal
+
+Tim 00:44:52-3 zuhaben damals schon ne Errungenschaft war son ganzen Computer sozusagen alleine (äh) 
+
+Felix 00:44:58-0 Ja
+
+Tim 00:44:58-9 (äh) das man da überhaupt erstmal nen Spiel drauf haben konnte aber das der dann mehr oder weniger auch für nichts anderes zuständig war. 
+
+Tim 00:45:04-7 Das war schon echter Luxus und sagt auch einiges darüber (äh) aus wie groß die Begeisterung damals dafür war.
+
+Felix 00:45:10-6 Ja würde ich auch denken also das ist, war sicherlich (äh) sehr beliebt das Spiel also ich kann also diese Newspostings dies da gab also es wurde 
+
+Felix 00:45:19-0 wirklich und wird glaub auch auch immer noch Weltweit (äh) von vielen Leuten gemocht und auch gespielt. Also es ist ja auch ein tolles Spiel.
+
+Tim 00:45:27-8 Genau, kommen wir doch mal son bisschen zudem Spiel...
+
+Felix 00:45:31-2 Ich wollt noch eine...
+
+Tim 00:45:32-1 Ja
+
+Felix 00:45:32-3 Sache fällt mir noch ein auch zur Integration 
+
+Tim 00:45:33-8 Ja
+
+Felix 00:45:33-8 hab ih grad drüber nachgedacht
+
+Tim 00:45:34-7 Ja
+
+Felix 00:45:35-0 Zum Beispiel dass (ähm) sehr also nicht sehr viele aber es gibt viele Sachen die zum Beispiel so aus diesem auch  Unixtexteditorfeld kommen. 
+
+Felix 00:45:43-3 Also zum Beispiel die wie man sich das Monster wie man das Monster bewegt.. also sich selbst bewegt ist  ja kein Monster sondern ein Mensch, ist sind 
+
+Felix 00:45:50-2 diese Vikbaindings also wo man...
+
+Tim 00:45:51-7 HJKL
+
+Felix 00:45:52-7 Genau.. wo ich am Anfang ja verzweifelt bin man kann dann auch auf (äh) hier
+
+Tim 00:45:58-4 daran erkennt man
+
+Felix 00:45:59-2 Numberpad (äh) umschalten und dann man mit den Cursertasten aber der Defold ist...
+
+Tim 00:46:02-2 aber daran erkennt man wirklich ein ein Oldschooler.
+
+Felix 00:46:05-0 Nja
+
+Tim 00:46:05-7 Ich weiß nicht wenn du
+
+Felix 00:46:06-4 Ich möchte es ja nicht mehr missen also..
+
+Tim 00:46:07-8 wenn du nen VI startest womit steuerst du deinen Curser?
+
+Felix 00:46:10-1 (äh) Natürlich mit hier H J K L
+
+Tim 00:46:11-9 H J K L 
+
+Felix 00:46:12-7 Ja
+
+Tim 00:46:13-0 Ja ich auch 
+
+Felix 00:46:13-6 Ja und ich bin auch froh über jede andere Programm was mir die Möglichkeit gibt das zu tun da gibts zum Glück viele
+
+Tim 00:46:18-7 Ja
+
+Felix 00:46:18-9 Die das (ähm) immer noch unterstützen.
+
+Tim 00:46:20-5 Sogar schon Twitterclients (äh) kennen gelernt aufen Mac die das machen also (lachen)
+
+Felix 00:46:24-7 Ja wenn mans erstmal drauf hat 
+
+Tim 00:46:25-5 Es geht  nicht weg (lachen)
+
+Felix 00:46:25-9 Ja genau und auch (äh) genau also
+
+Tim 00:46:29-1 Es gab, es gab ja auch häufig einfach garkeine Cursertasten 
+
+Felix 00:46:32-0 Genau
+
+Tim 00:46:32-4 also das war einfach (äh) nicht auf den Tastaturen gabs einfach keine Cursertasten da war man schon ganz froh 
+
+Felix 00:46:37-3 Genau
+
+Tim 00:46:37-6 wenn man so steuern konnte.
+
+Felix 00:46:38-5 Genau und man brauchte auch die Diagonalen (äh) Tasten noch irgendwie für schräg nach oben,, schräg nach unten, links und rechts bei Net Hack
+
+Felix 00:46:46-0 also ist total sinnvoll weil man dann
+
+Tim 00:46:48-1 Wass war denn das? War das dann U, I, N, M oder was?
+
+Felix 00:46:51-1 Das ist dann (äh) gee.. genau U, N und warte mal.. naja muss man hier muss ich mir mal... muss ich mal rauf gucken. (kichern) 
+
+Felix 00:47:05-0 Genau aber so ist es.
+
+Tim 00:47:06-7 Ja?
+
+Felix 00:47:07-8 Jaja also du gehst dann mit (äh) U nach oben rechts, mit B nach unten links, mit (äh) 
+
+Tim 00:47:16-1 was mit B?
+
+Felix 00:47:16-5 Z genau nach oben links
+
+Tim 00:47:18-5 Ach Z, U und B und N
+
+Felix 00:47:19-5 Genau richtig
+
+Tim 00:47:20-4 Echt warum denn nicht U, I, N, M?
+
+Felix 00:47:22-0 Z, N, B, U sind die für
+
+Tim 00:47:24-2 Ok
+
+Felix 00:47:24-9 links, rechts, unten Ecken 
+
+Tim 00:47:27-1 Oook
+
+Felix 00:47:27-7 Oder auch so Sachen wie im VI das man halt wenn man Dinge mehrmals tun möchte das man da die Nummer davor schreibt.. geht bei NetHack auch.
+
+Felix 00:47:34-0 Also wenn du jetzt 10 Felder nach links gehen willst dann kannst du sagen 10 (äh) 10j...
+
+Tim 00:47:41-1 10j 10 mal runter
+
+Felix 00:47:42-7 10h entschuldige ja genau
+
+Tim 00:47:43-7 ja 10h nach links (hm) 
+
+Felix 00:47:44-9 Genau also diese Sachen haben sie auch da adaptiert also da gibts son paar auch noch nen paar andere Sachen die sich so wahrscheinlich aus 
+
+Felix 00:47:51-1 Gewohnheit da einfach eingeschlichen haben also
+
+Tim 00:47:53-7 (kichern) Na warum sollte man sich in einem Dungeon anders bewegen als in einem Texteditor? 
+
+00:47:58-6 (beide lachen)
+
+Tim 00:48:00-0 Das versteht doch kein Mensch. (lachen)
+
+Felix 00:48:04-2 Genau ja also das viel gerade auch noch ein
+
+Tim 00:48:06-0 Ok
+
+Felix 00:48:06-0 das ist ja auch noch ne Analogie vielleicht zu dem Unixwelt...
+
+Tim 00:48:09-1 (ehem) Na uns fallen sicherlich noch nen paar Sachen ein. Also wie gehts jetzt los? Also ich starte das Spiel und im wesentlichen sehe ich einen Raum
+
+Tim 00:48:19-0 oder so.
+
+Felix 00:48:20-3 Genau so ist das genau.
+
+Tim 00:48:21-7 Und ich bin ein @?
+
+Felix 00:48:23-2 Und du bist ein @ genau, das @ ist das Zeichen für das (äh) Monster vom Typ Mensch sozusagen ja.
+
+Tim 00:48:29-9 Ah also es auch noch andere @'s?
+
+Felix 00:48:31-3 Ja es gibt auch noch andere @'s genau also zum Beispiel ganz klassisch es gibt (äh) seit es Hack gibt gibt es Shops und Shopkeeper also man kann
+
+Felix 00:48:38-2 sozusagen einkaufen gehen
+
+Tim 00:48:39-3 (ehem) 
+
+Felix 00:48:39-8 im Dungeon 
+
+Tim 00:48:40-1 (ehem) 
+
+Felix 00:48:40-2 und die Shopkeeper sind erstmal Menschen. Gibt auch noch jede Menge andere Menschen wie Priester oder Krankenschwestern fallen mir ein also 
+
+Felix 00:48:48-6 es gibt etliche
+
+Tim 00:48:50-0 (ehem) 
+
+Felix 00:48:50-5 die als auch als (äh) außer einem, man ist nicht ganz allein als Mensch.
+
+Tim 00:48:54-0 Ok
+
+Felix 00:48:54-7 Wobei die Masse der Kreaturen doch eher nicht so menschlich ist.
+
+Tim 00:49:00-0 Und wenn du jetzt NetHack startest wüsstest du immer sofort bei jedem Zeichen was das fürn Monster ist?
+
+Felix 00:49:04-5 Also ich wüsste es, es ist so das es so viele Monster gibt das nicht alle Zeichen und Farben ausreichen um sie alle eindeutig zu identifizieren.
+
+Tim 00:49:13-3 Ah
+
+Felix 00:49:13-5 Also es ist dann so spontan fällt mir ein dass kleine weiße d was man als zum Beispiel als Hund hat als Hund es könnte aber ein kleiner oder ein großer
+
+Felix 00:49:22-8 Hund sein es könnte aber glaub ich auch, (äh) ich bin nicht ganz sicher könnte es auch ein Eiswolf sein also es gibt auf jeden Fall da 
+
+Tim 00:49:30-2 (kichern)
+
+Felix 00:49:30-3 Es gibt Dinge die  nicht ganz eindeutig sind 
+
+Tim 00:49:32-3 Ok
+
+Felix 00:49:32-4 aber in der Regel kriegt man das raus und es gibt auch immer die Möglichkeit mit der Slash... ja mit der Slashtaste halt ein Objekt zu identifizieren 
+
+Felix 00:49:42-8 entweder man kann mit dem Curser direkt drauf gehen und sagen "sag mir mal wat dit is" oder man kann den Namen eingeben und dann sagt er 
+
+Felix 00:49:49-0 einem, gibt er einem ne längliche Beschreibung wenn an will (äh).
+
+Tim 00:49:52-9 Also so Slash d return und dann krieg ich irgendwie nen Hund.
+
+Felix 00:49:55-6 Genau dann kriegst du ne Beschreibung was auch sehr schön ist zum Teil also es gibt wirklich für jedes Monster was da drin ist noch mal ne längere
+
+Felix 00:50:00-1 oder kürzere Textbeschreibung. Oft sind die sehr malerisch oder sind halt irgendwie Zitate vom (ähm) aus irgendwelchen Büchern oder Enzyklopädien 
+
+Felix 00:50:08-5 nehme ich an also ist jetzt auch so das man wo man ja diese sehr rudimentäre Grafik hat die doch halt zumindest in seiner Vorstellung dann anreichern 
+
+Felix 00:50:17-2 kann mit Bildern wenn man (ähm) entsprechend sich halt diese Textfiles durchliest also wie du sagst slash und dann d für (äh) wenn du sagst und dann
+
+Felix 00:50:30-3 dog und dann gibts eine also genaue Beschreibung was das halt ist. Ein Hund und das gilt halt für alle Monster und es gibt wirklich viele also da hat 
+
+Felix 00:50:38-7 man sich also da sieht man auch nen bisschen wie viel Liebe und Mühe da in diesem ganzen Ding drin steht also auch an (äh) steck auch an 
+
+Felix 00:50:44-2 solchen Stellen. Genau (...)
+
+Tim 00:50:49-5 Hello Tim welcome to Net Hack. You are a chaotic mail alvin wizard.
+
+Felix 00:50:53-9 Ja hast du dich rendomisieren lassen?
+
+Tim 00:50:56-6 Ja 
+
+Felix 00:50:57-2 Ok also es gibt die wohl die Möglichkeit sich nen Charakter auszusuchen  oder sich einen quasi geben zulassen.
+
+Tim 00:51:03-6 (ehem) 
+
+Felix 00:51:04-0 Genau.. und was siehst du Tim? Du siehst ein Raum nehme ich an mit einer Tür, mit einer Treppe nach oben das ist das "kleiner" Zeichen.
+
+Tim 00:51:14-8 Ja
+
+Felix 00:51:15-5 Genau also du bist jetzt im Dungeon Level 1 sozusagen (äh) der ersten Ebene. Wenn du dort jetzt die Treppe rauf gehen würdest, würdest du das Spiel  
+
+Felix 00:51:23-8 wieder verlassen. Es sei denn du bist im Besitz des Amuletts of Yendor dann könntest du von dort in die Astralebene aufsteigen. Aber das kommt erst 
+
+Felix 00:51:33-2 ganz zum Schluss und ehrlich gesagt mir ist das noch nicht gelungen. (lachen)
+
+Tim 00:51:36-1 Oh!
+
+Felix 00:51:39-0 Und was man noch sieht ist ein (kl wa no) in den meisten Fällen muss man sagen ein (kl) (äh) "d" oder ein "f" ist ein entweder ein Hund oder eine Katze.
+
+Tim 00:51:48-4 Ich hab hier ein "f"
+
+Felix 00:51:49-3 Genau das ist sozusagen dein Haustier.
+
+Tim 00:51:51-3 (ehem) 
+
+Felix 00:51:51-7 Dein Pet das ist ein zahmes Tier was sozusagen dich bei deiner Reise durch den Dungeon unterstützt.
+
+Tim 00:51:58-4 Generell?
+
+Felix 00:51:59-1 Generell genau also der kämpft für dich ja. Der hilft dir 
+
+Tim 00:52:03-4 Also "f" ist dann die Katze?
+
+Felix 00:52:04-5 "f" ist die Katze genau
+
+Tim 00:52:05-6 Son Viehlein?
+
+Felix 00:52:05-9 Genau
+
+Tim 00:52:06-8 (ehem)... Rex heißt das Tier.
+
+Felix 00:52:08-8 Genau du kannst dem aber auch nen Namen geben.
+
+Tim 00:52:10-6 Ja
+
+Felix 00:52:11-0 Beliebigen kannst (äh) dem allen Objekten und auch allen Monstern und allen kannst du auch Namen geben mit den sie dann da auch dann erscheinen 
+
+Felix 00:52:18-5 in dem Spiel.
+
+Tim 00:52:19-3 Tim the Ivoka heiß ich.
+
+Felix 00:52:21-1 Ja genau Ivoka ist praktisch das unterste Level deiner (äh) Klasse als Wizard. Also als...
+
+Tim 00:52:28-0 Ah verstehe
+
+Felix 00:52:28-6 Du kannst dann wirst dann später alles mögliche, sourcora und so weiter.
+
+Tim 00:52:32-3 Kann ih auch Enchanter werden?
+
+Felix 00:52:33-3 Ja du kannst auch Enchanter werden.
+
+Tim 00:52:35-2 Echt ich kann Tim the Encchanter sein im NetHack?
+
+Felix 00:52:36-5 Du wirst du wirst Tim the Enchanter.
+
+Tim 00:52:38-2 Und wie lange muss ich da spielen bis ich Tim the Enchanter bin?
+
+Felix 00:52:40-3 Ich weiß nicht genau welche numerischen Level der Enchanter jetzt entspricht
+
+Tim 00:52:44-1 (hm) 
+
+Felix 00:52:44-5 aber vielleicht garnicht so lange.
+
+Tim 00:52:45-7 Ok
+
+00:52:46-4 (beide lachen)
+
+Felix 00:52:48-1 Genau also es ist sozusagen, kann man ja kurz erklären dass ist wie in nem klassischen Rollenspiel für die Leute die das also vielleicht nicht so kennen 
+
+Felix 00:52:53-7 es gibt halt irgendwie Attribute über die der Charakter definiert ist also sowas wie Stärke, Geschicklichkeit, Konstitution, Intelligenz, Weisheit, Charisma 
+
+Tim 00:53:04-2 (ehem) 
+
+Felix 00:53:05-1 und es gibt natürlich auch sowas wie Leveling also man kann sozusagen man fängt als mit 0 experience sozusagen im Level 1 an und denn experience 
+
+Felix 00:53:16-0 Level 1 und wird dann entsprechend hoch gelevelt und wenn man hochlevelt ändern sich dann auch entsprechen die Attribute werden also erhöht 
+
+Felix 00:53:23-3 und man hat mehr Hitpoints. Hitpoints hat man natürlich auch weil es geht natürlich darum eventuell dem Risiko ausgesetzt zu sein zu sterben. 
+
+Felix 00:53:30-0 Das passiert unter anderem wenn man also wenn die Hitpoints auf 0 gesunken sind. Man kann auch sterben in dem man verhungert oder (äh) was geht 
+
+Felix 00:53:39-7 (äh) noch lass mal überlegen...
+
+Tim 00:53:41-2 Also Charisma, Intelligenz
+
+Felix 00:53:42-6 Ja
+
+Tim 00:53:43-5 was sagtest du noch?
+
+Felix 00:53:44-4 Konstitution
+
+Tim 00:53:47-6 Ist es ne Eigenschaft oder nen Zustand?
+
+Felix 00:53:49-6 Das ist sozusagen wie das bei (äh) D&D ist, ist das ein Wert (äh) zwischen ich denke wahrscheinlich drei und 18 oder sowas oder 3 und zw.. ja ich 
+
+Felix 00:54:00-5 glaube 6, 18 genau wahrscheinlich 3d6 nehme ich an zwischen 3 und 18 und das 18 ist das (äh) Maximum.
+
+Tim 00:54:10-0 Also 3d6 heißt 
+
+Felix 00:54:12-3 3 sechsseitige Würfel würfeln wenn man den Charakter normaler Weise erschafft.
+
+Tim 00:54:15-3 (ehem) 
+
+Felix 00:54:16-1 Ich bin nicht ganz sicher wie das im wirklich bei D&D ist weil das auch schon ein bisschen her ist das ich das gespielt habe aber ich sage mal...
+
+Felix 00:54:22-4 und um so höher dieser Wert umso Stärker ist diese Eigenschaft das heißt zum Beispiel bei Stärke geht halt zum Beispiel wenn du auf ein Monster 
+
+Felix 00:54:27-9 einschlägst dein Stärkebonus mit ein. Das heißt dann gibts halt irgendwie nen stärkeren Schaden wenn du Stärker bist oder wenn du eine Tür auftreten 
+
+Felix 00:54:34-1 willst oder (äh) eben alle Dinge wovon jemand meint oder ganz klassisch wie viel (äh) Gegenstände du mit dir rumtragen kannst bevor deine 
+
+Felix 00:54:43-7 Bewegung eingeschränkt wird. Das sind zum Beispiel so klassische Geschichten wo die Stärke ne Rolle spielt. Dexterity entsprechend spielt 
+
+Felix 00:54:52-0 auf jeden Fall eine Rolle wenn man zum Beispiel Fernwaffen benutzt also sowas wie Bogen schießen oder (ähm)..
+
+Tim 00:54:57-8 Ich kann denn ein redrow machen?
+
+Felix 00:54:59-3 "Control shift r" ne
+
+Tim 00:55:04-1 "Control... r" ahja
+
+Felix 00:55:05-4 Ja 
+
+Tim 00:55:06-7 Ok 
+
+Felix 00:55:08-2 Also das geht würde auf Dexterity constitution ist wichtig um halt also das ist einerseits (äh) Widerstandskraft andererseits auch um so höher deine 
+
+Felix 00:55:16-1 Konstitution ist (kons kon kon dition Konstitution Kondition)
+
+Tim 00:55:22-3 Weiß nicht heißt das condition oder ...
+
+Felix 00:55:26-0 Og Gott nee Oh Gott
+
+Tim 00:55:26-9 Zu lange Her was?
+
+Felix 00:55:28-1 Ja
+
+Tim 00:55:28-4 (lachen)
+
+Felix 00:55:29-2 Ok also umso höher dieser Wert umso zum Beispiel stärker steigen deine Hitpoints an 
+
+Tim 00:55:33-2 Ah ok
+
+Felix 00:55:33-6 deine Maximalen Hitpoints wenn du Levelst also wenn du (äh) sehr robust bist dann nehmen die halt auch (äh) stärke zu. Intelligenz wichtig für 
+
+Felix 00:55:42-8 alles was mit Magie und Zaubern zutun hat.
+
+Tim 00:55:44-7 (ehem) 
+
+Felix 00:55:45-4 Sag ich mal... I don't no ehrlich gesagt oh Gott wie peinlich...
+
+Tim 00:55:53-5 Die Weisheit
+
+Felix 00:55:54-0 Ja aber ich weiß nicht genau auf was das wirklich...
+
+Tim 00:55:56-7 Weiß nicht normaler Weise ist das doch dann immer so die Fähigkeit soziale Konflikte (äh) zu lösen.
+
+Felix 00:56:00-8 Nja dies ist glaube ich eher Charisma also dieses (äh) Charisma also sozusagen wie Monster auf dich reagieren, ob die grundsätzlich, es gibt Monster 
+
+Felix 00:56:06-6 wo das nicht ganz klar ist ob die dich angreifen oder nicht.
+
+Tim 00:56:08-7 (ehem) 
+
+Felix 00:56:09-1 Wenn du charismatischer bist haste da bessere Chancen oder wenn du zum Beispiel ein Shopkeeper gegen dich aufgebracht hast wenn du versucht 
+
+Felix 00:56:15-4 hast ihn zu bestählen mit Absicht oder unabsichtlich wie der auf dich reagiert und solche Sachen werden darüber abgehandelt. Gibt es sowas (äh) genau
+
+Felix 00:56:23-8 Hitpoints hatten wir schon, dann gibts Powerpoints natürlich das ist das Äquivalent zu Hitpoints für die Magie also wenn man gerne Zaubern 
+
+Felix 00:56:30-6 möchte gibt sozusagen auch Charaktere die dafür mehr oder weniger begabt sind also Charakterklassen. Und das ist natürlich also jeder Zauberspruch
+
+Felix 00:56:39-6 den ablässt geht halt gehen halt einige von diesen Punkten weg und regenerieren dann halt über die Zeit in der Regel genau wie die Hitpoints oder
+
+Felix 00:56:47-9 über Magie.
+
+Tim 00:56:48-5 (ehem) 
+
+Felix 00:56:49-2 Amo klar ist auch wichtig (äh) das ist ein Wert glaub ich der mit 10 anfängt und umso niedriger er wird umso besser ist er das ist sozusagen wie 
+
+Felix 00:56:57-3 gut ist man geschützt gegen Angriffe von Monstern oder magische Angriffe. Also umso weniger umso besser an dieser Stelle. Heißt es gibt 
+
+Felix 00:57:09-3 unterschiedliche Rüstungstypen man kann die an und ab legen, man kann sie ergänzen, manche Sachen kann man übereinander tragen, manche sind 
+
+Felix 00:57:15-2 magisch. Da gibts also mannigfaltigste Variationen die dieses Wert dann auch beeinflussen. Genau also das sind so diese Attribute die man hat 
+
+Felix 00:57:25-0 die im Prinzip sich so oder so ähnlich ja in den meisten Rollenspielsystemen Fantasierollenspielsystem ja auch wieder finden. (kichern)
+
+Tim 00:57:33-2 So ich hab jetzt das hier mal auf den auf den screen geholt das wir hier mal nen bisschen (äh) 
+
+Felix 00:57:37-6 Genau man kann auch noch dazu sagen diese sehr rudimentäre grafische Darstellung die wir hier haben mit diesem ASCII Zeichensatz da gibts 
+
+Felix 00:57:43-7 dann auch durchaus (äh) Leute die sich darum gekümmert haben das eben irgendwie mit so Teilsets irgendwie aufzuhüpschen oder es gibt auch 
+
+Felix 00:57:51-6 richtige (äh) grafische Interfaces dazu. Zu denen ich nicht so viel sagen kann weil ich sie selten gespielt habe nur so von Fotos gesehen hab aber 
+
+Felix 00:57:58-2 gits Leute die sich viel Mühe gegeben das so mit isometrischen Ansichten von oben und richtigen kleine Bildchen und so versucht haben umzusetzen.
+
+Tim 00:58:06-1 Ja
+
+Felix 00:58:07-4 Aber
+
+Tim 00:58:07-7 Aber so ist natürlich schöner.
+
+Felix 00:58:08-9 Ich finde das auch (äh) ehrlich gesagt ich also ich würde nichts anderes mehr machen wollen ehrlich gesagt aber vielleicht auch weil ich so angefangen 
+
+Felix 00:58:14-6 habe.
+
+Tim 00:58:16-0 Also hier unten habe ich sozusagen sehe ich so mein mein Status irgendwie, meine Eigenschaften die für mich jetzt ausgewürfelt wurden  also...
+
+Felix 00:58:22-8 Genau
+
+Tim 00:58:23-3 "st" ist dann wahrscheinlich strang oder?
+
+Felix 00:58:26-2 Genau so ist es dexterity, constitution...
+
+Tim 00:58:30-0 Inteligent, wisdorn und charisma 
+
+Felix 00:58:32-1 Genau dann haste noch nen aleyment das ist sone Art Religion. Du kannst entweder chaotisch, neutral oder lawfull sein.
+
+Tim 00:58:37-8 Ja
+
+Felix 00:58:38-3 Das hat halt bestimmte Eigenschaften in diesem Spiel, es gibt halt zum Beispiel Monster die entweder dem gleichen oder dem (opo) dem 
+
+Felix 00:58:46-5 entgegengesetzten angehören und dann entweder freundlich oder nicht freundlich reagieren. Es gibt Altäre wo man halt Dinge opfern kann aber 
+
+Felix 00:58:54-1 nur auf Altären die halt dem gleichen aleyement angehören und (äh) also spielt in vielerlei Hinsicht (äh) eine Rolle. Es gibt Götter man kann beten
+
+Felix 00:59:04-6 zum Beispiel wenn man in absoluter Not ist kurz vorm verhungern oder kurz vorm sterben dann kann man die göttliche Hilfe erbitten.
+
+Tim 00:59:12-3 (lachen)
+
+Felix 00:59:12-9 Dann natürlich auch von dem Gott der zu diesem entsprechenden entweder chaotischen oder neutralen oder gesetzestreuen (ähm) Religion gehört.
+
+Felix 00:59:22-1 Genau
+
+Tim 00:59:23-7 Könnt sich mal ne Tür offenen war?
+
+Felix 00:59:24-9 Genau also "+" Zeichen sind in dem defolde genauso Tür. Genau Türen kamen auch erst mit Hack. Also Rogue hatte 
+
+Tim 00:59:31-9 Nur Dungeons nur...
+
+Felix 00:59:33-0 Hatte keine Türen genau.
+
+Tim 00:59:33-6 (hm) 
+
+Felix 00:59:33-9 Und Türen sind halt hin und wieder auch wirklich nen strategisches Element also man kann die halt, die können entweder offen oder geschlossen sein
+
+Felix 00:59:41-0 oder auch verschlossen sein also richtig im Sinne von verriegelt.
+
+Tim 00:59:43-3 Ja
+
+Felix 00:59:43-4 So dass man sie auch nicht einfach öffnen kann sondern entweder halt durch treten oder Zauberei oder (äh) eben mit einem entsprechenden Schlüssel
+
+Felix 00:59:52-8 oder Lookpic oder... Es gibt auch den Charakter die Charakterklasse des Touristen der hat am Anfang ne Kreditkarte dabei damit kann man auch 
+
+Felix 01:00:00-9 Türen öffnen.
+
+01:00:01-5 (beide lachen)
+
+Felix 01:00:04-1 Der Tourist ist eh lustig. Ich kann den Anfängern auch immer nur den Touristen empfehlen der hat auch noch andere schöne Eigenschaften wie 
+
+Felix 01:00:09-3 zum Beispiel ne Fotoausrüstung mit der er die Monster blenden kann.
+
+Tim 01:00:11-5 Achso mit dem also im Sinne von empfehlen als das man diese dieses (äh) annimmt.
+
+Felix 01:00:16-5 Das Anfänger den den genau den spielt.
+
+Tim 01:00:18-2 Ah
+
+Felix 01:00:18-5 Ich hab den früher nie gespielt als Anfänger weil mir das immer suspekt war in meinem Teenagerdarsein das ich dachte das passt doch da einfach 
+
+Felix 01:00:24-4 nicht rein heut zu Tage wäre ich da ein bisschen (äh) pragmatischer und vielleicht auch Humorvoller. Der läuft auch mit dem Hawaihemd rum.
+
+Felix 01:00:31-3 Ja das muss man ausziehen bevor man in den Shop geht weil dann sonst zahlt man Touristenpreise 
+
+Tim 01:00:35-3 (lachen)
+
+Felix 01:00:36-4 Also du merkst schon Tim die Komplexität ist hoch in dem Spiel.
+
+Tim 01:00:39-2 Jaja deswegen reden wir ja auch dadrüber ne (räusper)
+
+Felix 01:00:41-3 Du (äh) der Tourist auch (äh) die die Kreditkarte genau praktisch dann hat der immer genug zu essen dabei was am Anfang den Leuten auch glaub
+
+Felix 01:00:48-7 ich auch mir oft passiert ist das man einfach verh.. schlichtweg verhungert am Anfang. Weil man kann zwar Monster essen aber nicht alle und bevor 
+
+Felix 01:00:55-3 man rausgefunden hat welche jetzt genießbar sind und welche nicht isst man sie vielleicht lieber nicht.
+
+Tim 01:00:59-4 Ah
+
+Felix 01:00:59-9 Und (ähm) da kann es einem durchaus passieren das man wenn man Pech hat und nicht genug Essenrationen unterwegs findet das man einfach in die
+
+Felix 01:01:08-9 Verlegenheit kommt irgendwann wird man hin und wieder ohnmächtig fainting und dann irgendwann entweder verhungert man oder ein Monster 
+
+Felix 01:01:16-4 erwischt einen während man gerade dahin dämmert.
+
+Tim 01:01:19-8 Ja
+
+Felix 01:01:20-2 Ok ja also Türen genau auch kann man halt durchaus auch mal benutzen um sich auf der Flucht hinter einem zuzuschlagen und sich einzusperren 
+
+Felix 01:01:26-7 oder so... dann kann man suchen zum Beispiel mit "s" Tim. Weil ich dich da gerade sehe weil du da meinst es geht nicht weiter.
+
+Tim 01:01:34-4 Ja
+
+Tim 01:01:34-8 Kannst zum Beispiel jetzt mal "5s" drücken dann sucht der 5 mal. 
+
+Tim 01:01:39-7 Ah
+
+Felix 01:01:40-3 Ah das gibt es nämlich auch also das sozusagen versteckte Korridore sind.
+
+Tim 01:01:45-1 Also so nach dem Motte da müsste eigentlich was sein 
+
+Felix 01:01:47-0 Ja
+
+Tim 01:01:47-2 und dann (äh) 
+
+Felix 01:01:47-6 Ja das geübte Auge also diese Dungeon (kr äh) Erstellung ja bestimmten Algorithmen folgt wenn man halt tausende gesehen hat dann weiß man so 
+
+Felix 01:01:55-5 in etwa schon wo was wo es noch weiter gehen kann.
+
+Tim 01:01:59-0 Jetzt hat mich ein Nute gebissen.
+
+Felix 01:02:00-7 Ah hau zurück
+
+Tim 01:02:01-6 wo ist denn da ein Nute?
+
+Felix 01:02:02-9 Das ist der Doppelpunkt.
+
+Tim 01:02:03-8 Ach der Doppelpunkt. Dann muss ich jetzt (äh) diagonal drauf (äh) gehen sozusagen?
+
+Felix 01:02:09-5 Genau
+
+Tim 01:02:10-2 Das wäre dann ein "n".
+
+Felix 01:02:11-5 Richtig
+
+Tim 01:02:12-7 Ha you miss the Nute
+
+Felix 01:02:14-4 Genau
+
+Tim 01:02:15-0 You kill the Nute. Ich hab den Nute getötet.
+
+Felix 01:02:17-8 Ja Bingo Tim du bist begabt.
+
+Tim 01:02:20-4 Kann ich den auch essen?
+
+Felix 01:02:21-1 Nja der ist das ist nicht das..kleine Monster verschwinden oft, du hast so drauf gehauen du musst jetzt vorstellen ja 
+
+Tim 01:02:26-5 Ah ok
+
+Felix 01:02:26-7 da ist nichts übrig geblieben 
+
+Tim 01:02:27-4 Die sind dann sozusagen gesplattert und dann wars das.
+
+Felix 01:02:29-4 Genau sonst könnte man den essen.
+
+Tim 01:02:31-2 Verstehe
+
+Felix 01:02:33-0 (lachen)
+
+Tim 01:02:33-4 Gibts auch Fnords?
+
+Felix 01:02:34-5 Ein Fonrd ist mir noch nicht begegnet aber du könntest sagen (äh) slash und dann kannst du sagen spezify by name, jetzt sagst du no ja genau 
+
+Tim 01:02:44-1 Also nicht bei Curser
+
+Felix 01:02:45-5 Ja und dann kannst mal nach Fnord (ähm) genau 
+
+Tim 01:02:48-4 Nee gibts nicht
+
+Felix 01:02:49-5 We have no infomation on thinks  ja
+
+Tim 01:02:51-0 Das wird sozusagen also ja.. hier son da ist noch so Apostroph oder ist Akson 
+
+Felix 01:02:58-3 Das ist nen Boder, das ist nen Stein den könntest du im Augenblick kannst du ihn ja genau den kann man schieben und bewegen damit kann man
+
+Felix 01:03:04-5 zum Beispiel auch Korridore verstellen.
+
+Tim 01:03:06-7 Ah jetzt hab ich die Tür sozusagen zugeschoben.
+
+Felix 01:03:08-4 Genau richtig.
+
+Tim 01:03:09-4 Ah verstehe.
+
+Felix 01:03:12-3 Das wird dir auch.. gbts ah genau also was man vielleicht auch noch mal sagen kann wobei wir grad dabei sind. Also nicht alles im Spiel wird 
+
+Felix 01:03:18-0 random mäßig generiert es gibt bei NetHack dann auch relativ viele Level die halt einen Florplane haben also alles was darin passiert ist immer 
+
+Felix 01:03:27-6 noch Objekte und so weiter sind (äh) zufällig erschaffen aber der Florplane ist (äh) fix und da gibts zum Beispiel auch ein spezial Level der Sokuban
+
+Felix 01:03:35-8 heißt wo diese Bolder ne große Rolle spielen wo man nämlich strategisch diese Bolder hin und her schieben muss
+
+Tim 01:03:40-6 Ah wie bei...
+
+Felix 01:03:41-2 so das sie sich nicht blockieren.
+
+Tim 01:03:41-8 Verstehe
+
+Felix 01:03:43-1 Um dort denn irgendwelche Erdlöscher mit zu füllen die einem dem (äh) Weg in den nächsten Dungeon frei machen. Fällt mir bei der Gelegenheit 
+
+Felix 01:03:52-6 gerade ein. 
+
+Tim 01:03:54-5 There sam grafitti on the floor here.
+
+Felix 01:03:56-5 Genau man kann auch auf den Boden schreiben 
+
+Tim 01:03:58-4 (ehem) 
+
+Felix 01:03:58-8 Und (äh) das ist insbesondere sinnvoll wenn man weiß was man da schreibt da gibts halt zum Beispiel das magische Wort Ebereth was man 
+
+Felix 01:04:06-2 schreiben kann. Was bei Monstern die lesen können dazu führt das sie einen nicht angreifen solange wie man sich nicht bewegt. Und dann kann 
+
+Felix 01:04:15-3 man solche Dinge machen wie anfangen zu schweben in dem man halt nen Ring of levition hat oder sowas
+
+Tim 01:04:19-7 (ehem) 
+
+Felix 01:04:20-0 und dann kann man diesen Trick umgehen dann verwischt es nicht während des Kampfes das Wort darunter und man ist immer noch Imun gegen  
+
+Felix 01:04:25-6 die Angriffe 
+
+Tim 01:04:26-7 (eheemm)
+
+Felix 01:04:26-9 und kann dann (äh) zum Beispiel mit Fernwaffen mitPfeil und Bogen oder so weiter hinter diesem magischen Schutzschild
+
+Tim 01:04:32-4 #Was muss ich schreiben?
+
+Felix 01:04:33-3 Ebereth
+
+Tim 01:04:34-0 Abereth
+
+Felix 01:04:36-0 e.. Ebereth genau mit großen E also das ist...
+
+Tim 01:04:38-2 Ebereth?
+
+Felix 01:04:38-7 Ja Ebereth genau.. das ist nen Trick und das ging bei Hack hundertprozentig da hatte man nicht zwischen lesenden und nicht lesenden Monstern 
+
+Felix 01:04:43-8 unterschieden und war eigentlich nen ziemlich billiger Trick immer gut davon zukommen. Hier funktioniert das nicht immer. Aber dieses (äh) und 
+
+Felix 01:04:50-1 dieses schreiben auf den Boden ist (ähm) ja gut komm wir spielen (äh) erzähl ich später vielleicht noch was dazu.
+
+Tim 01:04:58-0 Soo
+
+Felix 01:04:59-0 Was is
+
+Tim 01:05:00-2 Ich sehe ein Fragezeichen.
+
+Felix 01:05:01-4 Genau "?" ist das Symbol für Scrolls und dann siehst du auch dass dieser Scroll einen nicht lesbaren Namen hat und...
+
+Tim 01:05:10-4 "Weforbrüderne" 
+
+Felix 01:05:12-1 Genau und das ist..
+
+Tim 01:05:14-2 "Holatosukolus" oder so.. ja und..
+
+Felix 01:05:19-7 Und (äh) sozusagen du müsstest den jetzt wenn du ihn benutzen willst oder du kannst ihn einfach benutzen und versuchen ihn darüber zu 
+
+Felix 01:05:25-9 identifizieren.
+
+Tim 01:05:27-4 Benutzen?
+
+Felix 01:05:28-4 Ja im Sinne von "r" für read 
+
+Tim 01:05:30-5 Ah..
+
+Felix 01:05:32-0 Du musst ihn erstmal aufnehmen.
+
+Tim 01:05:34-0 Ah die Katze hat mir jetzt mein Scroll geklaut.
+
+Felix 01:05:36-7 Genau das ist aber ein gutes Zeichen weil ein positiver Effekt von deinem Haustier ist, es würde niemals verwunschener also curst objects also 
+
+Felix 01:05:44-4 jedes Objekt kann drei Stadien haben entweder es ist blessed im Sinne von gesegnet, heilig 
+
+Tim 01:05:49-0 Ja 
+
+Felix 01:05:49-6 Es ist curst in Sinne von verwunschen oder eben keins von beiden es hat dann kein (äh) besonderen Status
+
+Tim 01:05:56-1 Neutral sozusagen
+
+Felix 01:05:57-3 Genau und das ist auch ein Vorteil von diesem  pet was man wenn mans dabei hat oder von allen zahmen Monstern die man um sich gescharrt 
+
+Felix 01:06:03-7 hat das sie eben einem Hinweise darüber geben ob die Objekte die dort liegen irgendwie...
+
+Tim 01:06:11-0 Ok jetzt lese ich mal. 
+
+Felix 01:06:13-1 Ja "read?"
+
+Tim 01:06:16-2 Ich lese das "?"
+
+Felix 01:06:18-2 Du hast ihn noch nicht aufgenommen 
+
+Tim 01:06:19-7 Achso wie muss ich ihn denn aufnehmen?
+
+Felix 01:06:21-3 Mit Komma
+
+Tim 01:06:22-5 Ah
+
+Felix 01:06:23-7 (kichern)
+
+Tim 01:06:24-4 Komma
+
+Felix 01:06:25-1 Genau jetzt sagt er "oh"
+
+Tim 01:06:26-9 Hah
+
+Felix 01:06:27-1 Scroll named... read o...
+
+Tim 01:06:31-9 Achso also es heißt jedes Objekt was ich was ich aufnehme kriegt dann auch gleich son Buchstaben damit ich es dann wiederum adressieren kann ja?
+
+Felix 01:06:37-9 Genau und das führt aber auch dazu das du nach (äh) 2 mal 26 also Klein und Großbuchstaben dein inventury voll ist.
+
+Tim 01:06:45-3 (lachen)
+
+Felix 01:06:46-1 Da gibts aber natürlich so Sachen wie das man backs backs of holding oder sowas haben kann.
+
+Tim 01:06:50-9 Aha
+
+Felix 01:06:51-4 Oder Kisten oder was auch immer in die man dann Dinge tun kann.
+
+Tim 01:06:55-3 Und dann hab ich noch mal...
+
+Felix 01:06:55-3 Haste noch mal (äh) 
+
+Tim 01:06:55-4 54..
+
+Felix 01:06:57-5 Storitch genau genau aber so funktioniert das genau.
+
+Tim 01:07:04-1 52...Na dann lese ich das doch mal.
+
+Felix 01:07:08-3 (lachen)
+
+Tim 01:07:09-0 read o ... your hands begin to glow red
+
+Felix 01:07:14-7 Genau
+
+Tim 01:07:16-3 Call a Scroll labled ....
+
+Felix 01:07:20-6 Genau also was jetzt hier der Fall ist ist eben genau das was (äh) vorhin beschrieben hab sozusagen das das Spiel jedes mal praktisch neu 
+
+Felix 01:07:26-6 initialisiert also man hat die Aufgabe tatsächlich alle zumindest alle magischen Gegenstände Ringe, Zauberstäbe, (äh) Amulette und Sprüche eben 
+
+Felix 01:07:38-6 jedes mal neu zu identifizieren also die Welt zu entdecken. Für jemanden der jetzt sozusagen komplett neu in diesem Spiel ist der hat in diesem Falle 
+
+Felix 01:07:46-9 schlecht also your hand glow red ist ein Indiz dafür das es sich dabei um ein Scroll of confius Monster handelt.
+
+Tim 01:07:53-8 (ehem) 
+
+Felix 01:07:54-2 Du hast jetzt rote Hände, wenn du das nächste mal ein Monster angreifst wirst du sehen das es vor dir fliehen wird. 
+
+Tim 01:07:58-6 Ah, das heißt die bleiben jetzt sozusagen auch.
+
+Felix 01:08:01-5 Also ich würde den jetzt, ich würde den in meinem Spiel "cf" nennen für confius Monster weil ich keine Lust hab so viel zu schreiben. 
+
+Tim 01:08:06-8 Ach so das heißt Scroll of call ich geb jetzt sozusagen diesen gelesenen (äh) Zauberspruch sozusagen
+
+Felix 01:08:13-3 Das muss man nicht immer tun aber bei einigen muss man das machen. "cf" für confius Monst (äh) "cm" enschuldige ja genau...
+
+Tim 01:08:19-8 Fürs Monster "cm" 
+
+Felix 01:08:20-5 Danke Tim
+
+Tim 01:08:21-1 Bitte schön 
+
+Felix 01:08:21-5 Ja..
+
+Tim 01:08:23-0 Ah was hab ich denn hier noch? Ich hab ja noch ein uncurst Scroll of enchanted armer 
+
+Felix 01:08:27-3 Genau damit kannst du deine enchant amor damit kannste deine Rüstung um ein Punkt verbessern.
+
+Tim 01:08:32-0 The best Scroll of teleportation auch nicht schlecht.
+
+Felix 01:08:34-3 Damit kannst du im Level genau hin und her teleportieren.
+
+Tim 01:08:37-6 Und spellbooks hab ich auch noch hier.
+
+Felix 01:08:40-5 Genau und damit kannst auch.. und du kannst auch mal in dein ganzen inventury gucken wenn du neugierig bist mit "i"
+
+Tim 01:08:44-6 (ehem) 
+
+Felix 01:08:45-8 Und siehst alle Gegenstände die du so anfangs dabei hast. Der Zauberer ist relativ dankbar weil er halt relativ viel oftmals viele spannende Sachen 
+
+Felix 01:08:54-3 von vornherein dabei hat.
+
+Tim 01:08:55-7 Ah verstehe.
+
+Felix 01:08:55-6 Also im Gegensatz zum Barbaren der halt zwar sehr stark ist aber dann halt die Zweihandwaffe und ne Rüstung hat.
+
+Tim 01:09:00-6 (ehem) 
+
+Felix 01:09:01-3 Und vielleicht noch was zum beißen und das wars, hat doch der Zauberer am Anfang relativ viel 
+
+Tim 01:09:06-1 Ringe Poshions, Spellbooks
+
+Felix 01:09:07-5 Genau Zeug was man wenn man vor allen Dingen wenn man weiß was man tut sinnvoll verwenden kann.
+
+Tim 01:09:13-0 Ja
+
+Felix 01:09:14-6 Aber (daf) also ist aber relativ ausgewogen also ich meine von vielen Charakterklassen sind doch irgendwie also.. alle haben ihre Vor und Nachteile
+
+Felix 01:09:22-7 dafür ist der Wizard halt sagen war mal ein ziemliches Weichei
+
+Tim 01:09:25-7 Kriegt schnell auf die 
+
+Felix 01:09:26-8 Genau
+
+Tim 01:09:26-8 Kriegt schnell was auf die Omme 
+
+Felix 01:09:28-0 Genau Amorclass 9 ist nicht viel.
+
+Tim 01:09:29-5 Ja
+
+Felix 01:09:30-6 (kichern)
+
+Tim 01:09:30-9 (lachen)
+
+Tim 01:09:32-5 Gut! Jetzt hab ich hier schon ein gewissen Eindruck bin aber etwas (äh) verloren weil hier ist nur irgendwie Grafitti aufen Floor und (äh) jor eine sewer
+
+Felix 01:09:45-5 floor rat 
+
+Tim 01:09:46-7 greift mich jetzt an
+
+Felix 01:09:47-3 Die Kanalratte greift dich an.
+
+Tim 01:09:48-4 Oh die mach ich jetzt.. your hands stop glowing rat.
+
+Felix 01:09:52-8 Ja is your red a pire confiust... die ist genau
+
+Tim 01:09:55-6 Ah!
+
+Felix 01:09:56-1 Das ist der die Wirkung deines Zaubers den du vorhin ausprobiert hast.
+
+Tim 01:10:00-2 Hammer... Zack
+
+Felix 01:10:01-8 weg is sie
+
+Tim 01:10:02-5 you kill the sewer rat. rex eat a sewer rat cops ah
+
+Felix 01:10:06-3 Genau das ist vielleicht nen Nachteil von deinem Haustier das muss auch essen. 
+
+Tim 01:10:09-8 Und futtert mir dann potentielle Rattennahrung weg so
+
+Felix 01:10:12-7 Genau genau also es ist nicht (äh) 
+
+Tim 01:10:15-7 Verstehe
+
+Felix 01:10:17-3 Aber man kann auch mit dem Tier verrückte Dinge tun zum Beispiel kann man es lehren shops auszuräubern. Also es ist (äh) zwar etwas mühsam 
+
+Felix 01:10:25-4 aber also die sind durchaus nützliche Tiere. 
+
+Tim 01:10:32-9 Tja
+
+Felix 01:10:34-5 Na Tim jetzt weiste nicht wie es weiter geht.
+
+Tim 01:10:36-1 Nee jetzt bin ich schon verloren.
+
+Felix 01:10:37-5 Nja genau jetzt wärste nen klassischer Kandidat für jemanden der als Noob wahrscheinlich ziemlich bald verhungern wird
+
+Tim 01:10:42-3 Ja
+
+Felix 01:10:42-6 (lachen)
+
+Felix 01:10:44-4 Was ich dir vorhin gesagt ist mit dem suchen du kannst jetzt nach links in den Dungeonmauern suchen nach einer versteckten Tür die sich da 
+
+Felix 01:10:51-1 wahrscheinlich befinden wird.
+
+Tim 01:10:52-1 Ah!
+
+Felix 01:10:52-8 Also es hat schon diese klassischen Rollenspiel..
+
+Tim 01:10:55-6 Elemente
+
+Felix 01:10:56-5 Elemente genau
+
+Tim 01:10:57-3 Du musst schon selber mitdenken auch mal aufen paar Ideen kommen.
+
+Felix 01:11:00-7 Auf jeden (F.. also au..) auf jeden Fall also das wird auch dann später beliebig komplex mit der vielen Anzahl von Gegenständen die auch miteinander
+
+Felix 01:11:10-4 agieren können, also man kann weiß ich.. Sachen in poision dippen oder Ringe in..
+
+Tim 01:11:15-6 (lachen)
+
+Felix 01:11:16-6 Küchen (äh) in (äh) in den Abfluss werfen und dann passiert irgendwas damit also passiert es gibt absurdeste Konstellationen von und Kombinationen 
+
+Felix 01:11:27-6 von Vorgängen die man tun kann und miteinander kombinieren kann um dort um irgendwelche Effekte in dem Spiel hervor zurufen. Es ist einfach 
+
+Felix 01:11:36-4 wahnsinnig komplex. Es ist wahnsinnig komplex und es ist trotzdem in sich komplett wie ich finde konsistent. Also man hat nie das Gefühl das 
+
+Felix 01:11:46-4 man denkt orr da passiert jetzt irgendwas was völlig unnachvollziehbar ist und vor allen Dingen passiert halt auch immer was. Also es gab nicht 
+
+Felix 01:11:52-9 umsonst dieses Spruch (äh) "The death Deathteam De Deathteam things  of every thing" 
+
+Tim 01:11:59-8 (kichern)
+
+Felix 01:12:00-3 Die haben wirklich an alles gedacht also das ist wirklich nen klassisches Zitat was da immer.. also du kannst machen was di willst, es gibt immer 
+
+Felix 01:12:07-2 irgendeine Textmeldung irgendeine Reaktion dazu die in dem Kontext sinn macht was bei der Vielzahl der Möglichkeiten die existieren glaub ich
+
+Felix 01:12:18-0 ne ordentlich Leistung ist. Und was auch sehr schwierig macht (äh) das Spiel glaub ich jetzt noch zu erweitern. Also seit 2003 ist ja auch keine 
+
+Felix 01:12:24-8 nennenswerte neuer Release mehr erschienen.
+
+Tim 01:12:28-4 Ja
+
+Felix 01:12:28-8 Und ich hab von diesem Slashem (äh) Leuten einen Artikel gelesen der auch versucht hat bestimmte Dinge zu ändern wie sie sich verhalten. 
+
+Felix 01:12:35-8 Er wollte irgendwas, es gibt solche Lava und er wollte das es sich mehr wie Wasser verhält und hat halt festgestellt des es sehr schwierig ist 
+
+Felix 01:12:41-7 an einer Stelle was zu ergänzen ohne an einer anderen Stelle was zu brechen weil es eben dann doch relativ komplizierte Zusammenhänge zwischen
+
+Felix 01:12:49-1 den einzelnen Objekten in dem Spiel gibt und den Dingen die man damit tun kann. Also es ist wirklich REICH an REICH an Möglichkeiten ums 
+
+Felix 01:12:58-3 vorsichtig auszudrücken. Also ich spiele ja jetzt schon seit.. ja 20 Jahren oder und entdeck immer noch Dinge die ich vorher nie entdeckt habe
+
+Felix 01:13:05-3 und
+
+Tim 01:13:05-9 Ernsthaft?
+
+Felix 01:13:06-3 Ja und also.. spätestens wenn man anfängt so spoilerfiles zu lesen von den es viele gibt also wo Leute halt Fakten zusammen geschrieben haben 
+
+Felix 01:13:14-9 teilweise aus eignen Erfahrungen, teilweise aus den Sourcecode natürlich 
+
+Tim 01:13:18-8 (ehem) 
+
+Felix 01:13:19-2 wo dann noch mal sehr detailliert (äh) Sachen aufgeschrieben sind dann denkt man also oft fass ich mir an den Kopf und denke "was für ein wahnsinn
+
+Felix 01:13:25-8 das geht auch ok" also es ist (äh) bei diesen, da gibts spoiler die sich nur damit beschäftigen was weiß ich was man sich es gibt die Möglichkeit 
+
+Felix 01:13:34-0 sich Objekte zu wünschen wo sich Seitenlang darüber auslassen in welcher Reihenfolge man sich welche Objekte wünscht und wie man möglichst 
+
+Felix 01:13:41-9 viele Wünsche generiert. Also das man zum Beispiel sich nicht wenn man ne event of wishing hat als erstes nen event of wishing wünscht weil das 
+
+Felix 01:13:46-9 haben sie natürlich ausgehebelt der hat dann Null Wünsche aber es gibt dann wiederum Strategien seine Wünsche zu vermehren auf Intelligente 
+
+Felix 01:13:54-8 und wirklich clevere Art und Weise also da gibt es dann (ähm) mannigfaltige (äh) Möglichkeiten sich noch Zusatzinformation zu holen und ich 
+
+Felix 01:14:03-9 glaube auch das Spiel ist fast nicht schaffbar wenn darauf völlig verzichtet. Also behaupte ich jetzt mal. Es gibt noch andere Möglichkeiten 
+
+Felix 01:14:14-1 Erfahrung zu sammeln, es gibt wenn man zumindest wenn man (ähm) im Singelplayer also nicht auf nem Server spielt sondern das (äh) die
+
+Felix 01:14:21-3 Standart Installation auf seinem Laptop macht gibts die Möglichkeit in den sogenannten explorer mode zu wechseln. Da kann man sozusagen mit
+
+Felix 01:14:27-7 (äh) glaube "control X" oder glaube nur mit "X" weiß ich garnicht genau. In so eine Art Unsterblichkeitsmodus gehen also man Stirbt aber wird sofort
+
+Felix 01:14:36-0 wiederbelebt aber man kann halt in diesem  Modus (äh) nicht in die Highscore Liste eingehen und das Spiel nicht wirklich schaffen natürlich 
+
+Felix 01:14:44-2 sondern man kann da nur versuchen Dinge auszuprobieren ohne sich andauernd dadurch frustrieren zulassen das man wieder ganz von Vorne 
+
+Felix 01:14:50-3 anfangen muss also.
+
+Tim 01:14:52-4 Wenn man denn das Spiel beendet dann muss man auch immer wieder von Vorne anfangen oder kann man das irgendwie auch so alles 
+
+Tim 01:14:56-4 so abspeichern das man dann immer wieder weiter machen kann?
+
+Felix 01:14:57-5 Na das ist die Sache mit dem Permadeath darüber haben wir gespochen Tim 
+
+Tim 01:15:00-0 Achso also 
+
+Felix 01:15:00-5 Das ist so das du wenn du tot 
+
+Tim 01:15:01-0 Tot ist tot
+
+Felix 01:15:01-6 Tot ist tot es seiden du bist in diesem explorer mode der dafür gemacht ist halt sich in dem Spiel zubewegen wenn man irgendwas ausprobieren
+
+Felix 01:15:09-2 möchte oder Erfahrung sammeln möchte. Ich hab das selber nie gemacht, ich glaube es führt auch dazu das man wenn man das viel macht 
+
+Felix 01:15:15-4 sich sone bestimmte Art zu spielen angewöhnt die auch nicht sehr gesund ist nämlich einfach solange mit dem Monster kämpft auch wenn man 
+
+Felix 01:15:22-1 eigentlich unterlegen ist weil man ja eh immer wieder (äh) belebt wird und man kann natürlich das Spiel so nicht schaffen also man kommt nicht 
+
+Felix 01:15:29-3 in den Highscore und man kriegt (äh) nicht die Möglichkeiten natürlich da irgendwie was erschließen.
+
+Tim 01:15:35-0 Ich hab gelesen das (äh) Diabolo (äh) 
+
+Felix 01:15:37-9 Ist ähnlich wa?
+
+Tim 01:15:38-8 Sich an NetHack so ein wenig
+
+Felix 01:15:41-1 Ich hab das nicht gespielt, ich hab den Leuten immer nur zugeguckt und auch mich unteralten die beides kennen das muss sehr ähnlich sein.
+
+Felix 01:15:46-6 Man hat halt eben auch diese Möglichkeit man hat diese Aufsicht, man hat eben unterschiedliche Waffen, man  unterschiedliche scrolls, spellsysteme,
+
+Felix 01:15:54-1 man levelt all diese Sachen sind da auch drinne.
+
+Tim 01:15:57-5 (ehem) 
+
+Felix 01:15:58-1 Ich meine was halt bei NetHack was haben noch garnicht gesagt natürlich ne wichtige Eigenschaft ist, das ist turnbased also man hat immer
+
+Felix 01:16:03-6 man macht einen Zug dann bewegt sich die Welt dann macht man wieder einen Zug und ich glaube Diabolo isst da halt son ist eher nen 
+
+Felix 01:16:10-1 realtime Spiel das heißt man muss sich halt in Echtzeit dort bewegen.
+
+Tim 01:16:14-8 Und das ist das schöne man kann NetHack einfach stehen lassen 
+
+Felix 01:16:17-8 Ja
+
+Tim 01:16:18-5 und dann passiert jetzt nichts oder gibts da irgendwelche timeouts das?
+
+Felix 01:16:23-2 Nö
+
+Tim 01:16:23-2 Nee?
+
+Felix 01:16:24-3 Naja vielleicht gits irgendwelche von deiner Terminalverbindung wenn du das remote machst auf irgendwelchen Servern das das austimet oder so
+
+Felix 01:16:30-3 was aber ansonsten kann das ewig bestehen genau. Also es ist halt nen Rundenbasiertes Spiel, es sind diese Rogue-like aber auch alle.
+
+Tim 01:16:40-1 (ehem) 
+
+Tim 01:16:43-6 (ähm) Was gibts denn also ich meine kannst du so aus aus aus deiner Perspektive wie wie häufig begegnest du außerhalb von NetHack Dingen 
+
+Tim 01:16:54-2 die irgendwie von NetHack stammen? Also was ist so die Beeinflussung der (beide lachen) allgemeinen Nerdpopkultur die man vielleicht garnicht so
+
+Tim 01:17:07-6 (äh) bewusst wahr nimmt.
+
+Felix 01:17:08-9 Also es gibt auf jeden Fall Dinge also zum Beispiel eins meiner Lieblingsprogramme was ich auch jeden Tag benutze ist halt Screen was auch son 
+
+Felix 01:17:16-0 Unixprogramm ist wo man halt virtuelle Terminals sich in seiner Konsole zusammenbauen kann und andere schöne Dinge tun kann.
+
+Tim 01:17:23-3 Ja
+
+Felix 01:17:23-6 Und da gibt es zum Beispiel die Option (äh) das im NetHackmode (äh) zu bedienen.
+
+Tim 01:17:28-2 Ach?
+
+Felix 01:17:29-0 Ja dann kriegt man zum als zum Beispiel wenn man Fehlermeldungen macht (äh) irgendeinen Fehler produziert zum Beispiel was normaler Weise 
+
+Felix 01:17:34-5 ne visuel bell also oder ne bell auslösen würde, macht ne tab... die irgendwie nicht matcht oder irgendwas dann gibts halt immer sone NetHack (äh) 
+
+Felix 01:17:43-9 entsprechende Fehlermeldung was weiß ich the notebytes oder the jackelhits oder irgendwie sowas
+
+01:17:49-0 (beide lachen)
+
+Felix 01:17:52-2 Also ist (äh) 
+
+Tim 01:17:54-1 Ok
+
+Felix 01:17:54-8 Das gibt es (ähm) durchaus (ähm) 
+
+Tim 01:17:59-4 Und so außerhalb der Unixwelt?
+
+Felix 01:18:00-7 Also ich kann nur sagen zum Beispiel also, na durch das viele spielen natürlich gibts natürlich auch Leute die davon geprägt sind. Also mir geht halt
+
+Felix 01:18:07-0 manchmal so wenn das Licht aus geht dann sag ich so was wie "you are soroundet by darkness" was der Spruch ist bei NetHack wenn man ein
+
+Felix 01:18:12-8 curth scroll of light lies der das Licht um dich ausmacht. Also ich glaube es (äh) findet auch es  gibt auch Diskussionen in den (äh) Newsgroups 
+
+Felix 01:18:20-3 (äh) darüber was man sich im wirklichen Leben für ein NetHackobjekt wünschen würde wenn man sich was wünschen dürfte. Also es gibt schon
+
+Felix 01:18:26-8 die Leute die sich da sozusagen in ihren natürlich in ihren richtigen Leben auch wo es irgendwie natürlich wenn man sich soviel damit beschäftigt 
+
+Felix 01:18:33-8 Einzug genommen hat.
+
+Tim 01:18:34-9 (hm) 
+
+Felix 01:18:35-7 Aber an Software lass mich mal überlegen außer diesem Screen Beispiel.. ob mir da.. Spontan etwas einfällt.. ich würde sagen.. erstmal.. nichts.
+
+Felix 01:18:52-1 Vielleicht komm ich noch auf was Tim.
+
+Tim 01:18:53-6 Dieses Ding mit den (ähm) also der Name NetHack ich meine wenn man Heutzutage glaub ich etwas (äh) entdeckt was mit Net anfängt dann 
+
+Tim 01:19:06-0 also  im Bezug auf ein Spiel dann würde man natürlich erwarten das es auch so ein Multiuser viele Leute viele spielen gleichzeitig (äh) Ding (äh) 
+
+Tim 01:19:15-5 ist ne?
+
+Felix 01:19:16-1 das stimmt
+
+Tim 01:19:16-1 So World of Warcraft das man da sone große Welt hat son Multiuser aber das ist ja 
+
+Felix 01:19:21-1 Nen reines Singleplayerspiel, es gibt kleine Ausnahmen also es gibt sowas wie eine kleine asymmetrische Multiplayer (äh) Möglichkeit.
+
+Felix 01:19:28-3 Die ist allerdings sehr klein es gibt sowas wie boneslevel. Es gibt die Wahr... gibt.. mit ner gewissen Wahrscheinlichkeit wenn man stirbt in einem 
+
+Felix 01:19:33-8 Level die ne gewisse Wahrscheinlichkeit darüber das dieser Level so wie er ist abgespeichert wird mit (äh) allem was dadrin ist allen Monstern
+
+Felix 01:19:42-3 und das wenn ein anderer Spieler kommt gibts wiederum eine bestimmte Wahrscheinlichkeit dafür das wenn man in diesen Dungeonlevel was weiß ich 
+
+Felix 01:19:47-8 Dungeon 40 oder 35 oder was auch immer geht das dieser Boneslevel geladen wird und man dann auf die, auf das sozusagen Fragment des letzten 
+
+Felix 01:19:57-4 Spielers stößt. Also der ist dann dort auch drin als Gohst wird natürlich von  dem Computer gespielt.
+
+Tim 01:20:02-1 (ehem) 
+
+Felix 01:20:02-5 Alle Gegenstände die er dabei hatte sind dort als (äh) Gohsthord sozusagen also (ähm ähm) das Haustier was er hatte ist da mit dem Namen dem er
+
+Felix 01:20:12-6 ihn gegeben hat und der Spieler hat natürlich auch den Namen dieser geist von dem Spieler der da war. wenn der zum Beispiel was auf den Boden 
+
+Felix 01:20:18-7 geschrieben hätte vorher dann könnte man das lesen ja so wie son Graffiti oder so was.
+
+Tim 01:20:23-8 Ja
+
+Felix 01:20:24-0 Also ich gebe zu das nur sehr also entfernte aber als ich zum Beispiel mit meinem Bruder damals viel NetHack gespielt habe sind wir oft über 
+
+Felix 01:20:32-4 unsere eigenen Bonesfiles gestolpert und das war sehr lustig weil man auf dem Atari ST auch den Spielernamen selber eingeben konnte bei Unix 
+
+Felix 01:20:38-6 ist das der Defold Login Name.
+
+Tim 01:20:40-4 (ehem) 
+
+Felix 01:20:40-6 Und wir zum Beispiel dann die selben Bücher gelesen oder so und dann hat hat man halt Charaktere genommen aus Sachen die man kannte.
+
+Felix 01:20:46-5 Und das war oft sehr lustig oder seinen Tieren irgendwelche Namen gegeben also das war schon sone sagen mal Interaktion, Kommunikation
+
+Felix 01:20:54-2 kann man nicht sagen aber es war zumindest ne extrem erheiternde (äh) Erfahrung und auch diese Gohsthords waren sehr spannend weil oft 
+
+Felix 01:21:02-2 jemand dann halt bestimmte magische Waffen die man zusammen bauen muss aus bestimmten was weiß ich aus nen Wurmzahn und nem 
+
+Felix 01:21:08-7 Scroll of enchant wepon oder so dann auf einmal da nen bestimmtes Objekt gesehen hat was man vorher nicht kannte und dann konnte man das 
+
+Felix 01:21:15-1 "a" benutzen und "b" auch mal dann versuchen selbst rauszufinden wo das herkommt oder ich konnte indem Fall natürlich auch einfach 
+
+Felix 01:21:20-3 mein Bruder fragen aber es geht dann meistens bei den Onlinespielen natürlich also bei den ...
+
+Tim 01:21:25-3 Aber so richtig so das man mal  gemeinsam mit Mehreren in sonem Level aber ich meine  würde würde....
+
+Felix 01:21:29-3 Nee das würde nicht gehen.
+
+Tim 01:21:30-3 Das würde nicht gehen, genau das wäre jetzt meine Frage gewesen.
+
+Felix 01:21:32-5 Ne das würde nicht gehen wegen diesem (äh) turnbased. Wie würdest du das..
+
+Tim 01:21:35-7 Stimmt.
+
+Felix 01:21:36-2 Wie würdest du das implementieren das geht nicht nee das ist nen so gesehen ein Singelplayerexperience. Auf dem wo  ich gerne spiele 
+
+Felix 01:21:47-7 NetHack.alt.org gibt es noch das feature des Voyeurmodus man kann sich watsh games
+
+Tim 01:21:53-2 Warte mal warum warum spielst du das auf einem Server also?
+
+Felix 01:21:56-6 Aus genau diesem Grunde weil ich total auf diese Bonesfiles stehe.
+
+Tim 01:22:00-3 Ah
+
+Felix 01:22:00-7 Wenn du das auf Lokal spielst dann hast du immer nur deine eigenen 
+
+Tim 01:22:03-4 Ja
+
+Felix 01:22:03-9 Und du spielst ja also  nicht ich bin vielleicht eindimensional ich weiß es nicht. Ich spiel halt oft ähnliche Charakterklassen 
+
+Tim 01:22:09-3 Ja
+
+Felix 01:22:09-6 Mit ähnlichen Equipment und ähnlichen sozusagen herangehnsweisen so dass ich auch immer wieder mehr oder weniger das selbe Zeug da finde
+
+Felix 01:22:15-5 aber wenn du halt ne große (äh) was sagt man variety man sagt (äh) 
+
+Tim 01:22:21-6 Auswahl
+
+Felix 01:22:22-0 Auswahl also viele Leute hast die auf diesem hunderte und tausende von Leuten die da spielen hast du natürlich.. ist es spannender einfach
+
+Felix 01:22:29-4 dort auch denn eben und deren Überresten zu warten sozusagen.
+
+Tim 01:22:33-4 Ja ok verstehe also es macht son großen Unterschied?
+
+Felix 01:22:36-5 Für mich jetzt
+
+Tim 01:22:37-4 Ja ok 
+
+Felix 01:22:38-0 Es gibt Leute den das total 
+
+Tim 01:22:39-0 Schnurz ist (lachen)
+
+Felix 01:22:39-6 Ja genau also für mich ist das irgendwie 
+
+Tim 01:22:41-9 Ja
+
+Felix 01:22:41-9 nen Highlight
+
+Tim 01:22:44-0 Als (ähm) Spieledepp hab ich es nen bisschen schwer da jetzt gut zu fragen aber ich was icch mich frage ist natürlich diese Komplexität und
+
+Tim 01:22:54-9 diese Varietät im Spielablauf 
+
+Felix 01:22:57-5 Ja
+
+Tim 01:22:57-8 die du ja hier so beschwörst ja
+
+Felix 01:22:59-7 Ja
+
+Tim 01:23:00-1 (äh) Im vergleich zu dem was man Heutzutage aus Spielen so erwarten kann an Komplexität ist das jetzt sozusagen nur (äh) deshalb so beeinddruckend
+
+Tim 01:23:10-2 weil mal nur so wenige Kilobytes runter lädt wenn man dieses Spiel (äh äh) startet und das es sozusagen für diese reduzierte Terminalwelt und son
+
+Felix 01:23:18-5 Nee
+
+Tim 01:23:18-6 Singelusermodus (äh) Komplex oder ist es auch im Vergleich zu Games Heutzutage.. ich meie auch World of Warcraft ist ja ein 
+
+Felix 01:23:25-5 Ok also son riesen Multiplayer
+
+Tim 01:23:26-3 ein ein ein riesiger Reichtum und so weiter ne
+
+Felix 01:23:28-2 Ja das ist sicherlich ok das.. da will ich... da will ich keine Aussage zu machen das ist sicherlich Vergleichbar wobei ich das nicht gespielt habe.
+
+Tim 01:23:36-6 Ja
+
+Felix 01:23:37-1 Aber das kann ich mir vorstellen aber dadurch das natürlich auch da Menschen miteinander interagieren...nur viel größere
+
+Tim 01:23:40-7 Passiert einfach viel weil genau weil viele Leute da sind
+
+Felix 01:23:43-0 Genau also..
+
+Tim 01:23:43-6 aber jetzt so rein von den Spielideen und der Art und Weise wie man (äh) Dinge lösen muss das mein ich jetzt
+
+Felix 01:23:49-1 Würd ich sagen das ist.. würd ich sagen (ex un) also immer noch beeindruckend und wahrscheinlich auch ich würde sagen ich würde fast sagen 
+
+Felix 01:23:58-4 also mir fällt spontan nichts ein was den (äh) nen ähnlichen (äh) grad an Komplexität hat. Ich glaube das ist vielleicht auch nicht Zeitgemäß das 
+
+Felix 01:24:05-8 würde man auch nicht mehr machen das Frustrationspotential ist glaub ich auch hoch in diesem Spiel. Also es kann einfach auch sein das man 
+
+Felix 01:24:11-6 auf nach Stunden des spielens durch irgendein blöden Fehler da stirbt und dann wieder von Vorne anfangen muss (kicher). Das würde Heute 
+
+Felix 01:24:19-1 wahrscheinlich keiner mehr machen ich meine man muss sich überlegen die Leute haben das über... also 15 Jahre oder so 14 Jahre halt (äh) 
+
+Felix 01:24:26-4 entwickelt und nur in ihrer Freizeit, nur zu ihrem Spaß. Die haben natürlich da auch ne andere Liebe und Leidenschaft reingesteckt.
+
+Tim 01:24:32-8 Ja
+
+Felix 01:24:33-4 Das würde wahrscheinlich.. ich meine Heute bei ner kommerziellen Spieleentwicklung so nicht passieren. Ich weiß nicht genau vielleicht gibt es...
+
+Felix 01:24:40-2 ich will mich da jetzt nicht soweit raus lehnen also vielleicht. Es gibt ja diese Mats zum Beispiel wo viele Leute tausende von Questsreihen programmiert 
+
+Felix 01:24:46-8 haben. Das geht ja eher wieder in diese Textendventuregeschichte was eine andere Art von Spiel ist aber die natürlich auch extrem viele 
+
+Felix 01:24:53-3 Möglichkeiten geboten haben. Aber ich würde sagen also das ist (ähm) immer noch ich würde sagen es ja steht dem auf jeden Fall in nichts nach.
+
+Felix 01:25:05-8 Ich vielleicht sogar sagen es ist auf jeden Fall in dem Sinne auf jeden Fall total Zeitgemäß ist mehr drinne als man entdecken kann.
+
+Tim 01:25:12-2 Also wer sozusagen drauf steht 
+
+Felix 01:25:15-6 Genau
+
+Tim 01:25:16-2 auf diese Komplexität. Wie wie lange kann man sich damit (äh) aufhalten? Also wie lange dauert denn so ein Spiel?
+
+Felix 01:25:21-3 Naja also es gibt
+
+Tim 01:25:21-8 Also ich meine bei mir wahrscheinlich nicht lange weil ich schon im ersten Level verrecke.
+
+Felix 01:25:24-2 Also ich muss ja jetzt auch gestehen das ich, ich hab damals Hack mal durchgespielt also ich bin da in die Astrale Ebene in die erste replane aufgestiegen
+
+Tim 01:25:31-6 Uhhh
+
+Felix 01:25:31-8 Das war auch einfach wirklich muss man sagen.
+
+Tim 01:25:33-8 Ok (lachen)
+
+Felix 01:25:34-9 (äh) In NetHack ist mir das nicht gelungen also ich bin jetzt auch nicht jemand der so viel diese Spoiler liest oder sich wirklich, ich versuche das son 
+
+Felix 01:25:40-5 bisschen das ist mein Ehrgeiz auch wobei ich langsam an nen Punkt komme wo ich auch aufgebe glaub ich.
+
+01:25:47-4 (beide lachen)
+
+Felix 01:25:48-6 Ja... also mein 
+
+Tim 01:25:50-2 Ja aber wann ist dieser Punkt erreicht? Also ich meine du startest jetzt ein Spiel, wie lange.. also wie lange jetzt man müsste ja eigentlich in turns
+
+Felix 01:25:56-9 Ein ganzes Spiel dauert bis mans durch ja also (pff) also es gibt 
+
+Tim 01:25:59-8 also wenn mans am laufenden Meter spielen würde.
+
+Felix 01:26:00-0 Ich hab letztens geguckt, ich habs ja noch nicht geschafft, ich hab letztens geguckt es gibt dieses ein jährliches Turnement bei einer Webseite die 
+
+Felix 01:26:06-7 NetHackdef0.net heißt 
+
+Tim 01:26:08-8 (ehem) 
+
+Felix 01:26:09-1 Die machen immer zu Helloween eine große Weltweite NetHack challenge wo man sich anmelden kann, es geht dann ein paar Tage und in dieser 
+
+Felix 01:26:16-6 Spielzeit kann man auf mehreren NetHackservern gegen alle Spieler dieser Welt antreten und mit denen sozusagen konkurrieren und da gibt es auch 
+
+Felix 01:26:25-2 natürlich ne challenge wer kommt am schnellsten runter, Amulett und (äh) kann als Demigott in die erste replane aufsteigen und..
+
+Tim 01:26:35-4 Wie viel Level muss man da überspringen?
+
+Felix 01:26:36-5 Das ist auch  (ra bis) random mäßig also sozusagen es gibt so bestimmte ranges es gibt die Dungeon of Dom den ersten Teil sozusagen 
+
+Felix 01:26:42-9 mit unterschiedlichen Subleveln jeder Charakter hat noch mal ne extra Charakterquest die auch noch mal (äh) so zwischen vielleicht 5 und 7 Level 
+
+Felix 01:26:52-2 umfasst, es gibt diese Speziallevel wie den Sokuban also es.. danach kommt das myse of manes was dann dieses auf das Endspiel zu (äh) zugeht mit
+
+Felix 01:27:01-5 noch mal vielen Spezialleveln orgarrly of Death und also da gibt es dann noch mal den Tower vom Wizard und so weiter also es sind ich würde sagen 
+
+Felix 01:27:11-1 round about zwischen 40 und 50 Level. 
+
+Tim 01:27:13-7 Ja
+
+Felix 01:27:14-6 So in der Größenordnung..sag ich muss müsste muss man durchspielen.
+
+Tim 01:27:18-7 Ja
+
+Felix 01:27:19-0 Würde ich so schä..das ist sone vielleicht sind auch nen bisschen mehr aber so in der Größenordnung.
+
+Tim 01:27:22-3 Und wie lange brauch man dafür?
+
+Felix 01:27:23-4 Na ich wollte sagen also diese einer dieser challenges ist also wer am schnellsten rein und wieder raus kommt und da gibt es Leute die das so ich glaube 
+
+Felix 01:27:29-9 so in drei Stunden schaffen. Ich frag mich wie die das machen aber es es sind dann halt auch die schnellsten der Welt. (lachen)
+
+Tim 01:27:35-7 Ja ok (lachen)
+
+Felix 01:27:37-9 Und es gibt auch Leute die das halt...
+
+Tim 01:27:38-8 Aber bei dir wärs eher..
+
+Felix 01:27:40-2 Na es würde ewig dauern also es kommt ja auch...wo
+
+Tim 01:27:42-4 Also abgesehen davon das du da noch garnicht hingekommen bist
+
+Felix 01:27:43-8 gekommen bist genau.. und das ich auch das halt auch selten  auch in einem Stück spiele sondern ich Speicher dann irgendwann ab auch allein 
+
+Felix 01:27:51-7 schon weil ich dann irgendwann 
+
+Tim 01:27:52-2 Ja
+
+Felix 01:27:52-4 zu faserig werde und dann den schnellen Tod der Unaufmerksamkeit sterben könnte 
+
+01:27:57-3 (beide lachen)
+
+Felix 01:28:00-8 Also 
+
+Tim 01:28:01-8 Aber jetzt so angenommen du würdest alle deine Spielzüge mehr oder weniger entspannt hintereinander 
+
+Felix 01:28:07-7 Ich kann es nur extrapolieren und hochrechnen ne
+
+Tim 01:28:10-0 Ja
+
+Felix 01:28:10-5 und also  
+
+Tim 01:28:11-6 Aber reden wir jetzt von Tagen, Wochen
+
+Felix 01:28:13-4 Also ich würde sagen ja ich denke mal ich würde schätzen 8 bis 12 Stunden. Ich ja mal mein Bruder der es schon mehrmals geschafft hat fragen,
+
+Felix 01:28:21-5 wie lange er gespielt hat hab ich leider nicht aber ich denke mal ich würde das so schätzen also ich würde so lange brauchen. Es gibt auch wie gesagt
+
+Felix 01:28:28-7 in diesem (äh) NetHackserver wo man sich mit taynet drauf conecten kann und spielen kann auch diesen Voyeurmode wo man Leuten zugucken 
+
+Felix 01:28:36-0 kann beim spielen 
+
+Tim 01:28:36-6 Ach?
+
+Felix 01:28:37-1 Und es gibt Leute die wirklich 
+
+Tim 01:28:38-5 Können wir dass jetzt machen?
+
+Felix 01:28:39-2 Können wir machen. Du kannst ja mal sagen 
+
+Tim 01:28:40-9 Wo muss ich denn da hin?
+
+Felix 01:28:41-6 Du kannst mal Telnet NetHack.alt.org sagen
+
+Tim 01:28:49-2 Moment (...) Telnet (äh) Tschuldigung noch mal.. Telnet NetHack.alt
+
+Felix 01:28:55-2 Ja 
+
+Tim 01:28:55-9 .org
+
+Felix 01:28:56-3 genau (....) So 
+
+Tim 01:29:00-7 Aha
+
+Felix 01:29:01-0 Und jetzt kannste mal Login da kannste mein Namen nehmen. 
+
+Tim 01:29:04-5 Ja
+
+Felix 01:29:05-8 Und mein Paawort
+
+Tim 01:29:07-3 (lachen)
+
+Felix 01:29:08-3 Wenn ich jetzt die Mute-Taste drücke dann kann uns keiner hören?
+
+Tim 01:29:10-2 Ich (äh) was?
+
+Felix 01:29:11-5 (lachen) wenn ich jetzt die...
+
+01:29:13-8 (beide lachen)
+
+Tim 01:29:14-6 Du tippst das hier einfach mal (äh) kurz entspannt 
+
+Felix 01:29:17-1 Genau ist auch kein sehr spannendes Passwort
+
+Tim 01:29:18-5 ein so musst dich da erstmal einloggen  
+
+Felix 01:29:21-2 geht ganz schnell achso Hast du schon mein Namen?
+
+Tim 01:29:23-4 Nein nein ich hab  noch nichts getan (äh) wir machen das jetzt hier alles Live und (äh) in Farbe und betreten jetzt hier the Dungeon of the Server.
+
+Felix 01:29:32-7 Watch games in progress
+
+Tim 01:29:34-2 Ja 
+
+Felix 01:29:34-7 Und wie du siehst ist es (äh) 
+
+Tim 01:29:36-4 ah
+
+Felix 01:29:36-8 Spielen jetzt gerade 12 Leute 
+
+Tim 01:29:38-6 Ja
+
+Felix 01:29:39-5 und dann kannst unten hinten ist sozusagen der Dungeonlevel wenn er jetzt zum Beispiel mal hier die "f" nimmst 
+
+Tim 01:29:48-2 Ja
+
+Felix 01:29:48-9 Funkope, Funkopedia 
+
+Tim 01:29:50-7 Ja schauen wir jetzt mal zu
+
+Felix 01:29:52-0 Wäre nen Kandidat für nen 
+
+Tim 01:29:53-9 Ah ok 
+
+Felix 01:29:55-8 Wäre ein Kandidat für (sch)
+
+Tim 01:29:57-4 Ach das ist ja geil
+
+Felix 01:29:59-0 (kichern)
+
+Tim 01:29:59-9 Ach das ist ja wirklich 
+
+Felix 01:30:02-1 Da kann man auch viel lernen by the way 
+
+Tim 01:30:03-9 Ja! Aber was für ein geiler also das hätte ih ja gerne als (äh) als Screensaver hät ich das ja gerne
+
+Felix 01:30:10-2 (lachen)
+
+Tim 01:30:10-6 irgendwie das (äh äh) (lachen) wäre ja mal ne Anwendung ne? (....) Cool also man kann jetzt hier sozusagen wirklich (äh)  
+
+Felix 01:30:22-9 Leuten  zugucken
+
+Tim 01:30:23-0 Im welchem Level (äh) befindet sich.. Dungeonlevel 8
+
+Felix 01:30:25-9 Also das ist jetzt nicht, ist jetzt auch nicht (äh) man sieht da oft Leute deswegen hab ich das so erwähnt die da mit einer atemberaubenden 
+
+Felix 01:30:31-7 Geschwindigkeit also die das auch wirklich nicht mehr also man kann ja NetHack spielen als würde man vielleicht nen Buch lesen gegenüber 
+
+Felix 01:30:37-5 als würde man den Film sehen also mans kanns versuchen sich die Dinge vorzustellen, die Situationen, (äh) die Monsterbeschreibungen lesen 
+
+Felix 01:30:43-0 und das sozusagen mit Kopfkino irgendwie (äh) genießen.
+
+Tim 01:30:47-6 Kann sich da jeder nen Account machen? Also das was du da jetzt grad gemacht hat.
+
+Felix 01:30:50-1 Da kann sich jeder, da kann sich jeder nen Account machen naklar.
+
+Tim 01:30:52-5 Ok ja (ähm) Ach das ist ja wirklich fansi.
+
+Felix 01:30:57-5 Das freut mich das dich das freut Tim.
+
+Tim 01:30:59-4 Ja das freut mich total ich mein das wäre mal nen Top Screensaver ja also da hätte ich jetzt gern mal son Screensavermodul was mir automatisch 
+
+Tim 01:31:06-0 immer (äh) sone Live (äh) NetHack session (äh) direkt auf den Bildschirm zaubert. Gibs bestimmt schon irgendwo aber hab ich jetzt (äh) 
+
+Felix 01:31:13-2 Das glaub ich nicht
+
+Tim 01:31:13-7 noch nichts von (äh) gehört wäre auf jeden fall müsste man natürlich son bisschen diesen  Zugang da (äh) automatisieren. Aber jetzt kann man
+
+Tim 01:31:20-7 wirklich so sehen wie so richtige (äh) Profis hier.
+
+Felix 01:31:25-0 Ja wobei das jetzt hier kein.. ich hätte mir mehr erwartet also es gibt da durchaus Leute wo man.. also ich ich das auch manchmal zum Spaß das ich 
+
+Felix 01:31:31-4 da einfach zugucke (äh) wo man wirklich mit en Ohren schlackert. Es gibt halt auch Key-Kommandos mit den man dann nicht mehr den Weg gehen 
+
+Felix 01:31:38-3 muss im Dungeon sondern man gibt bloß noch den Zielort an
+
+Tim 01:31:40-4 Ja
+
+Felix 01:31:40-6 und dann gibts halt sone routing Algorithmus der dich  auf dem kürzesten Weg da hin führt. Wenn man das exzessiv benutzt und die 
+
+Felix 01:31:48-0 entsprechenden Tastenkürzel  kennt um halt bestimmte Punkte anzuspringen zum Beispiel die (äh) Treppenaufgänge nach oben und unten 
+
+Felix 01:31:53-9 kann man sich da extrem schnell durch bewegen.
+
+Tim 01:31:57-3 Aber das ist hier schon ganz fenzy randering ne weil hier werden ja nicht nur die normalen ASCII Zeichen für
+
+Felix 01:32:00-9 Genau der hat hier nen der hat nen bestimmten fond einfach da gibts nen bestimmten fond den man einstellen kann und dann werden halt diese 
+
+Tim 01:32:07-7 Umrandungen sozusagen
+
+Felix 01:32:09-9 Umrandung halt
+
+Tim 01:32:10-6 als richtige Linien gemalt
+
+Felix 01:32:11-5 Genau und das ist auch noch ne ganz schöne Erweiterung also ist ja auch ansonsten ist da auch nichts geändert. Da sind immer noch die normalen 
+
+Felix 01:32:16-6 ASCII Zeichen für die Objekte aber die Dungeonränder sind einfach nicht sind einfach geschlossene Linien genau.
+
+Tim 01:32:27-1 Lust hier wird irgendwie fleißig gegen Pytons gekämpft. Jainspider the Jainspider bytes. The jainspider byte woas poisend
+
+Felix 01:32:37-2 Ja unangenehm 
+
+Tim 01:32:38-6 Oha hier gehts aber jetzt richtig ab. Aber auch.. die spider musste auch dran glauben. Oh man das kann hier echt nur jedem nur empfehlen 
+
+Tim 01:32:45-3 dass ist ja wirklich geiles Kopfkino.
+
+Felix 01:32:46-9 (lachen)
+
+Tim 01:32:47-6 Super (lachen) Ha.. (ähm) ja
+
+Felix 01:32:54-3 ja bitte?
+
+Tim 01:32:55-2 Nee ich.. 
+
+Felix 01:32:57-2 Ich wollt auch nur noch mal sagen das das halt auch oft also wenn man sich für das Spiel interessiert auch oft lehrreich ist also man kann ja
+
+Felix 01:33:01-3 da sind immer.. Gersten Nacht hab ich mal geguckt weil ich auch man wissen wollte, ich dachte vielleicht kommt die Frage wie beliebt ist das Spiel 
+
+Felix 01:33:06-6 eigentlich noch, spielt das überhaupt noch jemand?
+
+Tim 01:33:08-0 Ja
+
+Felix 01:33:08-5 Und (ähm) da selber hab ich das mal son bisschen über die letzten Tage mal (äh) empirisch erforscht auf diesem Server ob da eigentlich immer 
+
+Felix 01:33:17-5 jemand spielt zum Beispiel und da sind also Gestern waren da Nachts 21, 22, 30 Leute irgendwie also es wird schon anscheint und ich denke es gibt 
+
+Felix 01:33:26-0 sicher noch mehr (äh) NetHackserver im Internet also es ist der erste den ich damals gefunden hab wo ich dann (äh) gespielt habe.
+
+Tim 01:33:34-0 Und dieser dieser Modus das man zugucken kann ist das mittlerweile Bestandteil der Software?
+
+Felix 01:33:36-9 Dass haben die da reingehackt.. nee das haben die da reingehackt. Ich weiß nicht inwiefern das das kann man glaub ich auch da nachlesen inwiefern 
+
+Felix 01:33:42-4 die das.. die sind auch super nett also zum Beispiel passiert es manchmal das Save das wenn die Terminalverbindung abbricht das das Spiel kaputt
+
+Felix 01:33:48-8 geht dass es nicht re.. na das es nicht richtig recovert und da gibts nen extra nen tool zu NetHack was in der Lage ist die wieder unter Umsänden 
+
+Felix 01:33:55-1 wieder zusammen zubauen.
+
+Tim 01:33:56-2 (ehem) 
+
+Felix 01:33:56-4 Und dann hab ich dem ne Mail geschrieben ob er mal gucken kann ob mein Spiel weil ich da schon Stunden und Tage dran war. Dann hat der das 
+
+Felix 01:34:01-8 gleich mal 5 Minuten später hab ich ne Mail gehabt und mein Spiel ging wieder also da gibts auch Service würde ich sagen.
+
+Tim 01:34:07-5 Cool
+
+Felix 01:34:07-9 Nicht das wir den jetzt zu sehr hypen.
+
+01:34:09-6 (beide lachen)
+
+Tim 01:34:10-9 Und dann ist er down
+
+Felix 01:34:12-1 Genau
+
+01:34:12-8 (beide lachen)
+
+Felix 01:34:14-3 Genau
+
+Tim 01:34:16-6 Ich.. was ich ja was ich ja sehr mag an diesem ganzen Ding also ich meine es natürlich erstmal super nerdi so ne also grad so dieses total
+
+Tim 01:34:26-7 minimierte Userinterfaces aber was ich hier glaub ich sehr schön zeigt ist generell erstmal so die große Spielebegeistertheit oder sagen wir mal 
+
+Tim 01:34:38-7 dieses spielerische weißt du dieses im besten (äh äh) wort sone kindische was ja diese ganze Computerkultur eigentlich von aus meinem Blickwinkel 
+
+Tim 01:34:47-0 auf jeden Fall immer begleitet hat das das irgendwie (äh) bei NetHack irgendwie in Code gegossen. ja also so bis hin zu diesen Finessen die wir ja 
+
+Tim 01:34:56-1 auch schon (äh äh) gehabt hatten so mit dieser Integration mit dem Betriebssystem ja das dann auf einmal 
+
+Felix 01:35:02-3 Ja
+
+Tim 01:35:02-4 die in ihrem Spiel auch noch deine Mail (äh) zugestellt wird. Da bin ich wirklich komplett aus den Puschen gefallen das ist (da da)
+
+Felix 01:35:10-2 was passiert jetzt genau
+
+Tim 01:35:10-8 hab ih Tage gebraucht bis ich das überwunden habe, war einfach so eine großartige Idee und dann aber eben auch noch so (äh) wunderbar umgesetzt.
+
+Felix 01:35:17-2 Und auch eigentlich so naheliegend ja wenn man halt jetzt die ganze Zeit an seinem, grade damals hatte man ja nur ein Terminal und man hat halt
+
+Felix 01:35:23-8 war in seinem Spiel versunken, war natürlich auch glaub ich ganz praktisch das wenn man dann ne Mail bekommen hast
+
+Tim 01:35:28-2 Ja man wollte seine Mail nicht verpassen ja.
+
+Felix 01:35:29-7 Genau also war hatte auch total sagen wir seine Berechtigung darüber halt davon abgesehen das es auch schön gemacht ist natürlich ja.
+
+Tim 01:35:36-2 Was ich damit sagen will ist, 
+
+Felix 01:35:37-8 Ja
+
+Tim 01:35:38-0 das glaub ich so über diese Auseinandersetzung mit diesem Spiel hier das ist so also einerseits hat man  ein Spiel ja man hat sozusagen eine eine 
+
+Tim 01:35:47-0 eine Beschäftigung und kann sich hier auch relativ komplexen (äh äh) Problemen aussetzen und mal versuchen da sein Hirn dran zu schleifen 
+
+Tim 01:35:54-5 aber man lernt halt eigentlich auch ne ganze Menge darüber wie so diese ganze (äh) Szene auch  an der Stelle gestrickt ist.
+
+Felix 01:35:59-9 Ja ich glaub ich auch durchaus. Also ich hab auch sozusagen so bisschen man kriegt son Gefühl also zumindest für die Unix also damals auch 
+
+Felix 01:36:06-8 diese Sache zum Beispiel was wir hatten kebeindings und so weiter also das war dann schon, ich hatte das Spiel erst gespielt und dann VI gelernt 
+
+Felix 01:36:12-9 und bestimmte Sachen waren 
+
+Tim 01:36:14-8 Sofort vertraut
+
+Felix 01:36:15-3 Genau
+
+Tim 01:36:16-0 Ja
+
+Felix 01:36:16-3 Waren mir gegenwertig also das kann man schon sagen aber das ist natürlich auch vielleicht aus der einfach aus diesem Kontext es kommt 
+
+Felix 01:36:21-9 halt alles aus diesem Unix es kommt halt alles aus einem Urschleim
+
+Tim 01:36:26-9 Ja
+
+Felix 01:36:27-2 Sozusagen also das ist aber nicht so verwunderlich das es dort (äh) da immer wieder Parallelen gibt.
+
+Tim 01:36:32-2 Gibts denn auch andere (ähm) Events jetzt außerdem was du da schon (äh äh) genannt hast diese NetHackkompition?
+
+Felix 01:36:40-7 Das ist das einzigste was ich hab, also das wovon ich weiß aber das wird auch immer auf slashdot dann gefeature vorher das man das nicht verpasst.
+
+Tim 01:36:46-8 Ja
+
+Felix 01:36:47-7 Ich hab aber auch selber nur einmal...
+
+Tim 01:36:50-1 Und kann man da so live zugucken?
+
+Felix 01:36:51-1 bin ich nicht sicher ehrlich gesagt also wollt ich vorhin sagen es geht vielleicht, die geben auch relativ viel Mühe da halt Infrastruktur 
+
+Felix 01:36:56-6 drumherum zu bauen mit verteilten Servern und dann haste eine Userdatenbank die sie irgendwo pflegen müssen weil da halt auf allen Servern
+
+Felix 01:37:03-4 und dann halt die Highscorelisten und da gibts dann auch entsprechend verrückte Kompention die sie sich selbst einfallen lassen zum Beispiel wer
+
+Felix 01:37:11-0 auf die unterschiedlichsten Arten am meisten also meisten unterschiedlichen Arten stirb. Also man kann auf kolossaler verrückter Art und Weise 
+
+Felix 01:37:20-3 dieses (äh) Spiel  verlassen und es ist eine Challenge 
+
+Tim 01:37:22-9 Wie meinst du da? 
+
+Felix 01:37:23-6 Na weiß ich, du kannst weiß ich du kannst natürlich so banal du  kannst irgendwie verhungern, ertrinken
+
+Tim 01:37:28-0 Ja
+
+Felix 01:37:28-3 von Monster xy. Du kannst aber auch weiß ich dir den Kopf an der Decke stoßen und daran sterben oder bei  dem Versuch (äh) ne Kiste aufzutreten 
+
+Felix 01:37:36-1 oder bei dem Versuch ein Cocatwis in eine Konservendose zutun, das ist ein Monster was dich zu Stein werden lässt wenn du es berührst oder 
+
+Felix 01:37:44-1 ich meine es gibt immer am Ende in der Highscoreliste gibts einen kurzen Satz der darüber Auskunft gibt wie du aus dem Spiel 
+
+Tim 01:37:51-6 Geschieden bist
+
+Felix 01:37:52-3 rausgegangen genau.. Du kannst irgendwie unter dem Einfluss von Halluzinogenen Drogen von einem oneeyt onehorn flying perplepeopleeater 
+
+Felix 01:38:01-2 gegessen worden sein also ich meine 
+
+Tim 01:38:02-8 (lachen)
+
+Felix 01:38:03-9 beknacktesten Sachen und das haben die zu ner kompetion zum Beispiel gemacht also du kannst einfach da hin gehen und versuchen so oft wie 
+
+Felix 01:38:11-6 Möglich zufilen aber bitte auf unterschiedlicher Art und Weise. Also ist (äh) ist schon sehr lustig.
+
+Felix 01:38:20-2 Also es gibt da wirklich diverseste also ist gibt irgendwie.. in dem Handbuch steht ja auch also nicht das es schon schlimm genug wäre das Spiel 
+
+Felix 01:38:26-9 überhaupt schaffen zu können also das es sehr schwer ist sondern es gibt auch noch beliebige (äh) Verfeinerungen von diesem von der Idee 
+
+Felix 01:38:35-3 es überhaupt zu schaffen. Also auch bei dieser kompetion ist es so (äh) das man halt weiß ich dann für aalle Möglichen Charakterklassen also als 
+
+Felix 01:38:42-9 Rogue, als wizard, als priest und so weiter, einzeln abgehandelt wird oder es gibt halt so challenge wo man versucht als Vegetarier oder als Veganer 
+
+Felix 01:38:51-9 also halt keine Monster essen oder eben (äh) garnicht essen oder als Pazifist zum Beispiel. Also mir das erste mal jemand erzählt hat er versucht als
+
+Felix 01:39:02-1 Pazifist NetHack durchzuspielen denkt man in der Sekunde, ey das spiel ist nur geht nur darum Monster zu töten 
+
+Tim 01:39:08-2 Als Pazifist jetzt als als Rolle die man wirklich wählen kann?
+
+Felix 01:39:11-0 Nee sonder das ist ne selbst das ist (äh) 
+
+Tim 01:39:12-6 Achso niemanden töten.
+
+Felix 01:39:13-8 Genau niemand töten genau. Und da fragt man sich halt.. und wenn aber dann das spiel kennt und nur Sekunde darüber nachdenkt fallen 
+
+Felix 01:39:20-6 einem auf einmal Dinge ein wie das natürlich möglich ist. Das (äh) zu schaffen ohne jemand zu töten obwohl man ja am Ende den Wizard auf jeden 
+
+Felix 01:39:28-0 Fall töten muss 
+
+Tim 01:39:29-1 Ja
+
+Felix 01:39:29-8 um an Amulett zukommen aber es gibt natürlich die Möglichkeit..
+
+Tim 01:39:32-3 Das ist dann die einzigste Ausnahme souzusagen oder?
+
+Felix 01:39:33-8 Nee es gibt keine Ausnahmen sondern es gibt zum Beispiel die Möglichkeit halt (äh) man kann ja Monster zähmen man hat ja zum Beispiel am Anfang 
+
+Felix 01:39:40-9 nen Pet wenn man genügend mächtige Monster um sich scharrt die die Drecksarbeit..
+
+Tim 01:39:45-5 Ach dann lässt man die Monster 
+
+Felix 01:39:46-8 Genau...oder es gibt zum Beispiel so was wie den Ring of conflict der dafür sorgt das alle Monster die in Sichtweite sind anfangen sich gegenseitig
+
+Felix 01:39:53-9 (äh) zu bekämpfen.
+
+Tim 01:39:55-7 Ah
+
+Felix 01:39:56-5 Also man kann schon wenn man nen bisschen das Spiel kennt..
+
+Tim 01:39:58-0 Ist son bisschen der diskordische Ansatz so alle ver verwirren.
+
+Felix 01:40:01-2 Ja also genau oder man kann einschläfern und so was also es gibt alles mögliche um dem zu entgehen die wirklich zu finishen also es ist auch wieder 
+
+Felix 01:40:10-2 son Beispiel wo man auch so dieses hä wie soll das gehen und dann denkt man kurz nach naja das geht und das und das und das geht wahrscheinlich 
+
+Felix 01:40:16-6 auch und das und dann merkt man auch wieder wie (äh) das (äh) alles irgendwie ineinander greift und eben viele Sachen möglich sind.
+
+Felix 01:40:24-1 Einige von diesen Challenges werden auch tatsächlich vom Spiel erkannt, also man kann zum Beispiel als Atheist zum Beispiel ohne zu Beten 
+
+Felix 01:40:32-2 das wird am Ende dann tatsächlich auch bemerkt von dem Spiel das man null mal gebetet hat oder es gibt also schon selbst auferlegte Challenges 
+
+Felix 01:40:41-3 die man die wirklich...
+
+Tim 01:40:42-8 Was hilft denn das beten?
+
+Felix 01:40:43-8 Das ist oft das Mittel der letzten Wahl also wenn du wirklich (lachen) kurz vorm verhungern bist oder nur noch ein Hitpoint hast und der Drache 
+
+Felix 01:40:53-7 oder du von Drachen umringt bist oder zum Beispiel auch Klassiker was weiß ich irgendeine Wehrkreatur hat dich  gebissen und du hast dich dann 
+
+Felix 01:41:01-9 verwandelst dich andauernd in eine Wehrratte oder in ein Wehrwolf was extrem lästig ist weil du 
+
+Tim 01:41:07-6 Achso man wird gebissen und verwendet..
+
+Felix 01:41:09-6 Wird dann
+
+Tim 01:41:10-1 wird selber zu einem Tier
+
+Felix 01:41:11-0 Genau
+
+Tim 01:41:11-0 Aha
+
+Felix 01:41:11-7 Das kann passieren also bei diesen Wehrkreaturen die (wrinden) periodisch dann und das los werden will da gibts natürlich andere Möglichkeiten 
+
+Felix 01:41:18-1 aber mal schnell Stoßgebet wenn dir der Gott gut gesonnen  ist 
+
+Tim 01:41:22-4 (ehem) 
+
+Felix 01:41:22-7 Ist es auf jeden Fall ne softe Methode sich aus der Affäre zuziehen.
+
+Tim 01:41:26-3 Achso der Gott ist da sozusagen sone Art (äh) Zufallszahlengenerator 
+
+Felix 01:41:29-6 Der ist kein (twikene) der ist na wohlgesonnen der kann du kannst mit deinem Gott per du oder sein sozusagen ja je nachdem wie du spielst
+
+Felix 01:41:37-2 ob du ihm gefällig spielst oder nicht oder eben nicht das kannst du auf seine Hilfe auch nicht rechnen ganz im Gegenteil dann kanns passieren 
+
+Felix 01:41:43-4 das wenn du betest er noch mit nem Blitzschlag irgendwie (äh) bestraft.
+
+Tim 01:41:47-8 Ah also dieser Gott ist sozusagen dann auch noch immer noch nen bisschen mit dabei.
+
+Felix 01:41:50-7 Der ist dabei es sei denn man kann natürlich wie gesagt als Atheist mit atheistischen Ansatz spielen und sagen ich brauch den nicht ja.
+
+Tim 01:41:55-8 (lachen)
+
+Felix 01:41:58-3 Hier Gott my ass
+
+Tim 01:41:59-6 Ja (lachen)
+
+Felix 01:42:01-5 Ich brauch dich nicht und
+
+Tim 01:42:02-3 Ja
+
+Felix 01:42:02-8 (äh) des wird wie gesagt also das ist wie zum Beispiel eine von diesen Möglichkeiten noch (äh) sich das das Spiel selbst noch schwieriger zu machen 
+
+Felix 01:42:13-5 sich selbst noch Dinge aufzuerlegen (äh) um es um noch  halt spannender, interessanter zu machen. 
+
+Tim 01:42:21-8 Was gibts denn sonst noch so für also ich hab jetzt grade garkeine Lust diese Sendung (äh) zu beenden ohne nicht von irgendeinem großartigen 
+
+Tim 01:42:28-6 weiteren lustigen Detail Kenntnis erlangt zuhaben.
+
+Felix 01:42:31-4 Es gibt zum Beispiel die Diskussion ne theoretische Diskussion darüber ob es möglich ist unendlich im Dungeon zu überleben also..
+
+Tim 01:42:37-7 (ehem) 
+
+Felix 01:42:38-3 Der (äh) ob es möglich ist für ewige Zeit also die eigentliche Idee ist ja dann irgendwann wieder dann den Dungeon zu verlassen und in den 
+
+Felix 01:42:45-2 nicht Astralebene aufzusteigen
+
+Tim 01:42:48-2 Ja
+
+Felix 01:42:48-4 Ja aber es gibt Leute die sich darüber ernsthaft Gedanken gemacht haben ob es denn möglich sein ewig dort unten zubleiben ohne zu verhungern
+
+Felix 01:42:54-7 und ohne von Monstern gefressen zu werden.
+
+Tim 01:42:57-6 Ja
+
+Felix 01:42:58-1 Und da gabs tatsächlich dann solche Ideen also Sachen die natürlich auch jenseits meiner irgendwie also es gab Leute die dann Strategien haben. 
+
+Felix 01:43:05-2 Also man verliert immer ein bisschen Energie durch einfach da sein also im Sinne von (äh) wie sagt man 
+
+Tim 01:43:13-6 Proexistenz einfach der Basisverbrauch 
+
+Felix 01:43:15-7 Genaus also genau was man eben was dann zu Hunger führt
+
+Tim 01:43:17-9 Ja
+
+Felix 01:43:18-2 und so weiter es gibt dann halt denn Ringe die die (äh) Verdauung verlangsamen und sowas dann kann man sich zwei davon an jede Hand setzten und
+
+Felix 01:43:25-4 dann kann man sich mit Steinmauern umgeben unter denen Monster spezielle Monster platziert sind  so das es nicht möglich ist das irgendein 
+
+Felix 01:43:32-6 Monster durch die Steine dringt weil sie nicht gleichzeitig da sein können und das Monster da ist also 
+
+Tim 01:43:37-4 Ah
+
+Felix 01:43:37-3 komplizierteste Verfahren die dann angeblich dazu führen das man, ich meine niemand macht das natürlich 
+
+Tim 01:43:42-6 Ja aber wie platziert man denn Monster, die muss man denn irgendwie auch mit irgendeinem Zauberspruch wieder für sich einnehmen oder was?
+
+Felix 01:43:45-9 Ja es gibt ja es gibt die Möglichkeit (äh) halt den Scroll of jenosites mit dem man ganze Monsterklassen ausradieren kann.
+
+Tim 01:43:53-6 (lachen)
+
+Felix 01:43:55-4 Das ist auch noch sone Challenge ohne ohne zu jenositen zum Beispiel weil das auch ne Sache ist die vom Spiel gemacht ist. Und wenn man da 
+
+Felix 01:44:00-5 wenn man da en Cursscroll hat dann passiert das Gegenteil dann wird der Level bevölkert mit diesen Level (äh) bevölkert mit diesen Monstern 
+
+Felix 01:44:09-4 damit kann man das (äh) zum Beispiel erreichen. Also es ist halt
+
+Tim 01:44:12-1 Aber die sind dann auch erstmal gegen einen?
+
+Felix 01:44:13-4 Ja aber das sind in diesem Fall war es irgendein sleimmold also irgendein Monster das sich nicht bewegt
+
+Tim 01:44:18-7 (hm)
+
+Felix 01:44:18-8 und einfach nur da ist glaub ich und unter Steinen existieren kann wahrscheinlich und dann ist dadurch gewährleistet das du sone Art Schutzmauer
+
+Felix 01:44:26-6 um dich herauf gebaut hast die sozusagen..
+
+Tim 01:44:28-4 weil der Platz besetzt ist?
+
+Felix 01:44:29-5 Weil der Platz besetzt ist durch den Stein es gibt Monster die halt durch den Stein durchgehen können aber wenn da schon dieser grüne Schleim 
+
+Felix 01:44:34-1 drunter ist 
+
+Tim 01:44:34-7 Ah
+
+Felix 01:44:35-0 Dann lässt das Spiel das nicht zu das beides geht und dann hat man sich schon mal vor dieser Gefahr des das man von irgendwas tot gehauen 
+
+Felix 01:44:41-1 wird (äh) dann hat man noch das Problem das man hungert und ich weiß nicht ob das wirklich lösbar ist aber es gibt eben Leuten die sich da auch 
+
+Felix 01:44:47-8 auf nem sehr theoretischen Level beschäftigen.
+
+Tim 01:44:51-0 Ja
+
+Felix 01:44:51-8 Ja also 
+
+Tim 01:44:52-5 Offensichtlich 
+
+Felix 01:44:52-9 Ja
+
+Felix 01:44:55-6 Aber das ist glaub ich schon so ziemlich der Gipfel von dem was ich irgendwie so angelesen habe, wo Leute nachdenken.
+
+Tim 01:45:03-2 Ja aber wir können das Spiel weiterempfehlen, du kannst das weiterempfehlen.
+
+Felix 01:45:06-8 Ich kann es (äh) ich kann es nur unter dem Vorbehalt das es wenn man erstmal in dem Stadium ist das, ich hab halt wirklich wahrscheinlich Monate 
+
+Felix 01:45:15-2 meines Lebens darin verbracht also wenn man sich davor nicht scheut würde ich es weiterempfehlen auf jeden Fall natürlich.
+
+Tim 01:45:21-6 Soll ja so Leute geben 
+
+Felix 01:45:23-1 Ja
+
+Tim 01:45:23-0 die durchaus mal bisschen bereit sind etwas Zeit zu investieren.
+
+Felix 01:45:26-2 Es  gibt auch Leute die
+
+Tim 01:45:27-2 Ich meine es ist auch nicht ich meine es ist ja jetzt nicht nur Zeitverschwendung sonder üblicherweise schärft man ja eigentlich an solchen Spielen 
+
+Tim 01:45:34-6 auch enorm seine Beharrlichkeit also ich würd sogar fast sagen das ist sozusagen Hackerfutter in insofern las das man (äh) lernt sich einfach 
+
+Tim 01:45:43-2 (äh) nicht das man nicht früh aufzugeben. 
+
+Felix 01:45:46-6 Das stimmt also 
+
+Tim 01:45:47-5 Und auch komplexe Lösungen zu (äh) akzeptieren und dann auch entsprechend zu suchen.
+
+Felix 01:45:51-6 Genau also da kann man auf jeden Fall seine Hartnäckigkeit deutlich (äh) schärfen an diesem Spiel und ist natürlich auch einfach ne ist auch einfach
+
+Felix 01:45:59-1 wirklich ne also es ist requwiration... es ist aber wirklich eigentlich ne also mit hilft es oft um einfach auch abzuschalten.
+
+Tim 01:46:07-3 (hm) 
+
+Felix 01:46:07-6 Weil wenn mans halt einigermaßen spielen kann, kann man es auch auf soner meditative Art im Prinzip ja (äh) schon fast spielen. Aber ja es gibt 
+
+Felix 01:46:16-1 auch natürlich Leute die sich, ich kenn auch viele Freunde von mir die damals viel Rollenspiele gespielt haben und die an NetHack nie rangekommen 
+
+Felix 01:46:21-4 sind und die auch berechtigte Kritik haben also zum Beispiel diese es  gibt durchaus diese Fälle gerade am Anfang wo man den tot nicht 
+
+Felix 01:46:27-9 verhindern kann egal wie man sich anstellt also man macht ne Kiste auf die ist irgendwie (äh) magisch (äh) mit einer magischen Falle versehen 
+
+Felix 01:46:37-5 und dann wird man halt (geb) weiß ich.. mit dem Elektroschock erwischt und man ist dann tot also obwohl man, das Spiel ist nicht immer Fair 
+
+Felix 01:46:45-8 will ich damit sagen.
+
+Tim 01:46:46-5 Ja
+
+Felix 01:46:46-9 Also man hat keine Möglichkeit durch suchen oder exsamen oder irgendwas vorher rauszufinden (äh) was da ist. Man und man ist auch darauf 
+
+Felix 01:46:53-6 angewiesen bestimmte Dinge einfach zutun weil man sonst eben nicht spielen kann also es gibt..
+
+Tim 01:46:58-8 Gibt schon deathends sozusagen 
+
+Felix 01:47:00-8 Ja genau also das gibt auch wo ich dann auch nie sagen konnte ja stimmt nicht oder so, also es ist einfach schon natürlich..
+
+Tim 01:47:06-1 Und denkst du es war Absicht? Oder sind das Bags? Ist das sozusagen so das das Spiel auch garnicht will das man immer gewinnen kann?
+
+Felix 01:47:12-9 Das Developerteam hat an alles gedacht Tim. 
+
+Tim 01:47:15-3 Ah
+
+Felix 01:47:15-8 Das war natürlich Absicht. 
+
+Tim 01:47:17-8 Ok
+
+Felix 01:47:17-8 Also ich glaube da ist nichts Zufall.
+
+Tim 01:47:20-5 Ein perfektes System?
+
+Felix 01:47:21-7 Zumindestens würde ich mal sagen in vielerlei Hinsicht also zum Beispiel hab ich auch nie Abstürze oder ähnliches erlebt also.
+
+Tim 01:47:28-9 (ehem) 
+
+Felix 01:47:29-3 Es ist wirklich... es ist nicht richtig Bagfrei man kann sich die Bag also man kann sich so Bagreports angucken aber die sind glaub ich müssten also sind
+
+Felix 01:47:37-0 ob das wirkliche Bags sind sind dann mehr so vielleicht in der Spielelogik Fehler aber ich hab wirklich nie also mir ist es nie passiert das es 
+
+Felix 01:47:45-8 abgestürzt ist oder irgendwas (äh) kurioses geschehen ist
+
+Tim 01:47:48-7 Ist gut abgehangen.
+
+Felix 01:47:49-6 Es ist sehr gut abgehangen. Also ich meine die haben auch echt lange daran rumgehackt.
+
+Tim 01:47:53-6 (hm) 
+
+Felix 01:47:55-0 Kann man sagen. Kann man sagen.
+
+Tim 01:47:57-1 So wünscht man sich Software. Gut abgehangen, Fehlerfrei
+
+Felix 01:48:00-2 Nja aber die haben das ja auch alle wirklich 
+
+Tim 01:48:01-1 und (äh) Programmierer haben an alles gedacht (lachen).
+
+Felix 01:48:03-2 Ja (lachen)
+
+Tim 01:48:04-9 Wo hat man das Heutzutage noch?
+
+Felix 01:48:06-2 Ja nicht aber ich meine das ist vielleicht auch der Benefit den man hat wenn man die Leute dafür bezahlt die Dinge zutun ich meine die haben das 
+
+Felix 01:48:13-3 ja alle gemacht weil se Bock  drauf hatten.
+
+Tim 01:48:15-7 (hm) 
+
+Felix 01:48:17-3 Das macht glaub ich in der Qualität oft einen Unterschied.
+
+Tim 01:48:19-3 Das ist eigentlich immer das Beste ja.
+
+Felix 01:48:20-6 Ja..ja
+
+Tim 01:48:23-7 Tja Felix
+
+Felix 01:48:24-3 Ja Tim jetzt haben wir ganz schön lang..
+
+Tim 01:48:26-8 Gesprochen, na ist ja auch nen interessantes Thema gibts...
+
+Felix 01:48:29-0 Wir haben noch nicht mal annähernd also ich meine..
+
+Tim 01:48:31-4 Ja das befürchte ich gerade haben wir denn noch irgendwas (äh) also ich meine gibts denn noch einen Aspekt der jetzt wo es gerade zu eine Schande 
+
+Tim 01:48:39-6 wären wenn wir den jetzt ausgelassen hätten.
+
+Felix 01:48:42-1 Ich geh hier mal ganz kurz, ich mein ich glaube wir haben eigentlich so den wir haben schon einen großen Teil...
+
+Tim 01:48:50-2 Den Rest muss man dann vielleicht auch selbst finden.
+
+Felix 01:48:52-8 Erfahren genau einfach spielen.
+
+Tim 01:48:54-9 Ja einfach mal spielen.
+
+Felix 01:48:56-4 Nee ich glaube auch 
+
+Tim 01:48:57-8 Gibs auch auf allen Plattformen nicht war, das war ja nicht 
+
+Felix 01:49:00-5 Genau
+
+Tim 01:49:00-6 sondern Heutzutage 
+
+Felix 01:49:01-4 Gibts auf allen Plattformen und gibts auch sicherlich auf allen Plattformen  als (äh) 
+
+Tim 01:49:05-9 Beziehungsweise
+
+Felix 01:49:06-6 Binärdispudition also man muss es nicht bauen.
+
+Tim 01:49:08-4 Das beste ist eigentlich sogar aufen Server spielen.
+
+Felix 01:49:10-9 Ja es hat Vor und Nachteile also zum Beispiel diese Sache mit dem Explorermode zum Beispiel ist auf vielen Servern nicht möglich. weiß nicht obs 
+
+Felix 01:49:19-9 jetzt da geht oder so aber das geht oft nicht wenn man dass machen möchte.
+
+Tim 01:49:22-1 (ehem) 
+
+Felix 01:49:23-3 Dann das mit den Bonesfiles ist eigentlich ja eher nen Vorteil. Man kann wenn man zu Hause spiel nicht das ich irgendjemand da zu ermutigen 
+
+Felix 01:49:33-8 möchte aber kann natürlich theoretisch Cheaten wenn man das System selber hat. Weil man das Spiel saven kann und sein Spielstand wegsichert.
+
+Tim 01:49:42-0 Ja
+
+Felix 01:49:42-2 Da gibts aber es gibt auch son Forcencookie System in NetHack den dann immer gerne zitiere der heißt so inetwar "A winer never quits and a quiter 
+
+Felix 01:49:50-1 never winns" ah nee quatsch "A cheater never wins" genau also sozusagen (äh) es sit so man macht es nicht.
+
+Tim 01:49:56-9 Verschiedene cookies sind jetzt kann man auch im Spiel finden so.
+
+Felix 01:49:59-2 Genau
+
+Tim 01:49:59-5 (ehem) 
+
+Felix 01:49:59-9 Ist nen Lebensmittel hat nicht sehr viel Nährwert aber ist immer nen Spruch drin, viele sind irreführend, manche sind hilfreich, aber ich würde mich 
+
+Felix 01:50:09-9 nie darauf verlassen was da drin steht. Aber es gibt ein Orakel etwar in zwischen Level 5 und Level 8 oder Level 9 dem kann man Geld geben und dann
+
+Felix 01:50:18-9 wenns genug ist kriegt man auch nen gibts auch ne Hintliste von Hints die gültig sind und auch sinn machen die man sich (äh) dann erkaufen kann 
+
+Felix 01:50:27-3 an der Stelle.
+
+Tim 01:50:27-9 Ja
+
+Felix 01:50:28-6 Nagut ok also ja also es gibt genau also..
+
+Tim 01:50:33-1 Das mit dem kaufen habe wir glaub ich noch garnicht so richtig (ähm) 
+
+Felix 01:50:35-6 Geld, Shops ja ich mein ich meine wir haben so viele Sachen nicht...
+
+Tim 01:50:38-8 Ja aber ich find das durchaus wertvoll weil..
+
+Felix 01:50:40-0 polimorphing ist so ja
+
+Tim 01:50:41-1 weil das ja ok 
+
+Felix 01:50:42-4 hm Shops ja 
+
+Tim 01:50:43-4 ja Shops also (äh) so weit ich mich erinnere 
+
+Felix 01:50:48-0 ja
+
+Tim 01:50:49-0 tauch das ja relativ früh auf so das man so auf so Shops (äh) stößt und 
+
+Felix 01:50:54-3 Genau da gibts
+
+Tim 01:50:54-8 da dann alles mögliche erwerben kann 
+
+Felix 01:50:56-8 Genau da gibts halt dann so und Shops sortiert nach Gegenständen. Also es gibt sowas wie ein Juwelier der halt Ringe und Amulette verkauft, es gibt 
+
+Felix 01:51:05-0 sowas wie nen Waffenhandlung wo man Rüstungen und (äh) Waffen (äh) erstehen kann. Es gibt Gemischtwarenladen die (äh) Läden die alles verkaufen,
+
+Felix 01:51:13-6 es Geschäfte für Zauberei. Also es ist erstmal danach sortiert, dann gibt es halt immer einen Shopkeeper. Das sind Menschen, relativ mächtig
+
+Felix 01:51:22-0 es gibt natürlich immer die Versuchung den zu bestählen und es gibt auch interessante Strategien das zutun Erfolgreich oder nicht so Erfolgreich.
+
+Felix 01:51:28-6 Wenn man mächtig genug ist kann man sich vielleicht auch leisten sich dem Kampf mit dem Shopkeeper zustellen. Der holt dann allerdings oft
+
+Felix 01:51:36-5 dann die Keystonecops die einem dann noch Torten ins Gesicht werfen und einen damit Blind machen und man kann dann das Handtuch rausholen 
+
+Felix 01:51:42-7 und sich das Gesicht abwischen wenn man eins hat und so also es wird echt beliebig merkwürdig dann. Aber das ist auf jeden Fall ne Challenge.
+
+Felix 01:51:49-8 Und ist auch ne sehr lustige ist auch ne sehr schöne Challenge und man kann auch natürlich einfach genug Geld sammeln und die Dinge bezahlen 
+
+Felix 01:51:55-4 oder man kann auch Gegenstände sammeln und Gegenstände verkaufen also es ist (äh) Interaktion mit dem Shopkeeper ist auf vielerlei weise möglich.
+
+Felix 01:52:04-4 Man kann wie gesagt auch sein Pet trainieren das es den Shop für einen ausräubert ohne das der Shopkeeper was dagegen macht indem man 
+
+Felix 01:52:12-5 irgendwie an eine bestimmte Stelle im Shop nämlich den ersten Feld was man betritt das gehört noch nicht zum Shop. Dem Tier wenn es da was ablegt
+
+Felix 01:52:19-6 zufällig was zu Essen hinscheißt das lernt dann aha wenn ich da was ablege
+
+Tim 01:52:24-7 (hm) 
+
+Felix 01:52:25-2 dann krieg ich was zu beißen und wenn man das drei vier mal hintereinander gemacht hat funktioniert das so gut das man sich getrost da hin 
+
+Felix 01:52:30-7 stellen kann und einfach 
+
+Tim 01:52:32-4 Ah
+
+Felix 01:52:32-8 das Tier die dirtywork machen lassen kann.
+
+Tim 01:52:35-3 Verstehe
+
+Felix 01:52:35-9 Also oder sich rausteleportieren, rausgraben, dem Shopkeeper polomorphen man kann echt die wahnsinnigsten Dinge tun aber man sei gewarnt 
+
+Felix 01:52:43-9 wenns schief geht kanns ganz schön aufs Auge gehen.. ins Auge gehen.
+
+Tim 01:52:48-9 Der wird dann nen bisschen grantig.
+
+Felix 01:52:50-2 Der wird dann sehr unangenehm, der ist ziemlich mächtig der meistens dann auch Zauber irgendwelche whens of magic missil und ähnlich gefährliche
+
+Felix 01:52:57-5 Dinge mit dem er einen dann heimsucht und der verfolgt einen auch die wenn man dann flieht in den unteren in den nächsten Dungeon verfolgt er
+
+Felix 01:53:03-6 auch gerne mal also den wird man auch nicht so schnell los der kann ganz unangenehm sein.
+
+Tim 01:53:07-7 Was heißt polimorph?
+
+Felix 01:53:10-6 Polimorphen heißt, man kann im Prinzip alles und jedes in seiner Form verwandeln, also man kann sich in ein also in ein Monster zum Beispiel
+
+Felix 01:53:19-6 in ein beliebiges Monster verwandeln.
+
+Tim 01:53:20-9 (ehem) 
+
+Felix 01:53:21-6 Wenn man, es gibt polimorph control als Eigenscchaft dann kann man das wirklich aussuchen.
+
+Tim 01:53:26-1 (ehem) 
+
+Felix 01:53:26-5 Was extrem mächtig ist also dann kannst du dich halt keine Ahnung in ein fliegenden Drachen verwandeln und Feuer spucken oder was auch immer 
+
+Felix 01:53:34-1 gerade gut ist. Du kannst dich in ein sehr beliebt in ein rostmonster in ein Rostmonster verwandeln das kann dann Metall essen und wenn man 
+
+Felix 01:53:41-3 zum Beispiel seine Ringe und so weiter wenn man die alle isst es gibt glaub ich eine einviertel Wahrscheinlichkeit das die Eigenschaft des Rings
+
+Felix 01:53:47-8 auf das Monster übergeht wenn es den Ring isst. Sodas wenn man sich dann zurück verwandelt in seine menschliche Form man die Dinge die man die 
+
+Felix 01:53:57-6 Eigenschaften die man durchs tragen der Ringe (äh) erworben hat dann praktisch Natur gegeben hat dadurch das man die in seiner Monsterform 
+
+Felix 01:54:04-1 als Nahrung zu sich genommen hat.
+
+Tim 01:54:06-2 Aha ohne dass man die Ringe tragen muss?
+
+Felix 01:54:08-1 tragen muss genau weil man hat sie ja dann gegessen.
+
+Tim 01:54:10-3 Aber wo ist der Unterschied ob man sie nun trägt oder nicht?
+
+Felix 01:54:13-0 Tragen kannst du nur zwei, an der linken Hand und an der rechten Hand einen.
+
+Tim 01:54:15-4 Ah das heißt man kann dann mehrere mit einander kombinieren.
+
+Felix 01:54:17-3 Genau du kannst dann noch, genau genau
+
+Tim 01:54:19-2 (ehem) 
+
+Felix 01:54:20-2 Also das geht in die absurdesten also mit polimorphen kann man, man kann auch Gegenstände polimorphen da kann man die verrücktesten Dinge 
+
+Felix 01:54:26-6 machen. Man kann sich in ein Drachen polimorphen dann kann man ne Frau, entweder man hat als Frau angefangen oder man verwandelt sich in eine.
+
+Tim 01:54:32-2 Ja
+
+Felix 01:54:32-6 Mit nem Amulett of change dann kann man das sit Kommando ausführen dann setzt man sich hin legt nen Ei dann wartet man ne Weile dann schlüpft 
+
+Felix 01:54:39-5 da nen Drache raus der ist dann zahm als dein Haustier und man kann es dann beliebig weiter treiben wenn man nen Sattel hat und reiten kann, 
+
+Felix 01:54:45-5 kann man den das Drachenkind satteln reiten dann damit durch die Gegend fliegen. Also du merkst Tim es geht einiges polimorphen ist mächtig,
+
+Felix 01:54:55-7 Eier legen ist möglich.
+
+Tim 01:54:57-2 Ja 
+
+Felix 01:54:57-9 Es geht einiges.
+
+Tim 01:54:58-7 Ja.. es geht einiges in er teck.
+
+01:55:00-8 Richtig
+
+01:55:02-2 Mind blond
+
+01:55:03-1 Ja kind of
+
+01:55:07-5 Gut ich glaub an der Stelle könne wir es dann (äh) auch erstmal dabei belassen. Wir freuen uns ja auch noch sehr über (äh) informierte, kluge weitere 
+
+01:55:16-3 Anmerkungen in den Kommentaren. Ich sehe da gerade so einiges kommen.
+
+01:55:20-2 (beide lachen)
+
+01:55:21-6 Worüber sich (äh) erfahrene NetHackspieler wahrscheinlich auch gerne austauschen. 
+
+01:55:25-3 Ja
+
+01:55:26-0 (ähm) Tja Felix, ich sag mal vielen Dank.
+
+01:55:29-6 Ich bedank mich auch Tim.
+
+01:55:31-0 Das war jetzt auf jeden Fall ein (äh) guter Betrag hier für die 199 dann haben wir bald die (äh) 200 auch (äh) voll. Ja und wie immer vielen Dank auch 
+
+01:55:48-0 hier (äh) fürs zuhören CRE nimmt jetzt grad mal wieder ein bisschen (äh) fahrt auf (äh) im neuen Jahr. Wolln hoffen das es so bleibt. 
+
+01:55:58-0 Ich sag (äh) Tschüss und bis bald.
+
+01:56:00-8 Outro
