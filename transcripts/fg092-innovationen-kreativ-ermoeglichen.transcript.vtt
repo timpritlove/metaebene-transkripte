@@ -1,0 +1,3304 @@
+WEBVTT
+
+00:00:43.501 --> 00:00:47.900
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:47.901 --> 00:00:54.600
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zur 92. Ausgabe dieser Gesprächsreihe,
+
+00:00:54.601 --> 00:01:00.400
+<v timpritlove>wo wir immer über ganz viel wichtige Sachen sprechen und manchmal geht es extrem ins Detail
+
+00:01:00.401 --> 00:01:03.800
+<v timpritlove>und manchmal bewegt man sich dann doch mehr auf der Metaebene,
+
+00:01:03.801 --> 00:01:06.200
+<v timpritlove>das wird heute wahrscheinlich so eine Sendung werden,
+
+00:01:06.201 --> 00:01:09.700
+<v timpritlove>denn wir wollen über Innovation sprechen und auch über Kreativität
+
+00:01:09.701 --> 00:01:12.800
+<v timpritlove>und noch ein paar andere interessante Begriffe und Tätigkeiten.
+
+00:01:12.801 --> 00:01:15.500
+<v timpritlove>Und dazu begrüße ich erst mal meine Gesprächspartnerin heute,
+
+00:01:15.501 --> 00:01:18.100
+<v timpritlove>nämlich Katharina Hölzle, schönen guten Tag.
+
+00:01:18.101 --> 00:01:20.400
+<v katharina-hoelzle>Hallo, ich freue mich, da zu sein.
+
+00:01:20.401 --> 00:01:23.900
+<v timpritlove>Ich freue mich, hier zu sein, denn ich bin ja eigentlich der Gast.
+
+00:01:23.901 --> 00:01:33.100
+<v timpritlove>Ich bin nach Potsdam gefahren, denn dort sind Sie Professorin für IT-Entrepreneurship, wie das so schön heißt.
+
+00:01:33.101 --> 00:01:39.600
+<v timpritlove>Was Teil der Digital Engineering Fakultät ist an der Universität Potsdam.
+
+00:01:39.601 --> 00:01:42.900
+<v timpritlove>Soweit stimmt das, aber jetzt wird es kompliziert,
+
+00:01:42.901 --> 00:01:46.900
+<v timpritlove>das Ganze hat auch noch eine Verbindung mit dem Hasso Plattner Institut.
+
+00:01:46.901 --> 00:01:48.800
+<v timpritlove>Und das ist gar nicht so einfach zu erklären oder doch?
+
+00:01:48.801 --> 00:01:50.600
+<v katharina-hoelzle>Ich versuche es mal ganz einfach.
+
+00:01:50.601 --> 00:01:57.700
+<v katharina-hoelzle>Also das ist das Hasso Plattner Institut, welches ja vor über 20 Jahren von Hasso Plattner gegründet wurde.
+
+00:01:57.701 --> 00:02:03.200
+<v katharina-hoelzle>Was dann ganz lange ein Aninstitut an der Universität Potsdam war
+
+00:02:03.201 --> 00:02:11.000
+<v katharina-hoelzle>und dann vor gut drei Jahren in die Universität Potsdam aufgenommen wurde als Digital Engineering Fakultät.
+
+00:02:11.001 --> 00:02:14.400
+<v timpritlove>Ah. Also das ist jetzt sozusagen in die Universität hineingewachsen?
+
+00:02:14.401 --> 00:02:15.600
+<v katharina-hoelzle>Genau.
+
+00:02:15.601 --> 00:02:21.700
+<v timpritlove>Ja und Hasso Plattner hat ja Kraft seiner Herkunft, sagen wir mal, digitale Themen
+
+00:02:21.701 --> 00:02:26.000
+<v timpritlove>und Bildungsthemen auch früh hier in den Fokus gestellt des Instituts
+
+00:02:26.001 --> 00:02:29.500
+<v timpritlove>und es hat sich dann mittlerweile ziemlich ausgewachsen hier an der Uni Potsdam,
+
+00:02:29.501 --> 00:02:30.400
+<v timpritlove>kann man sagen oder?
+
+00:02:30.401 --> 00:02:34.600
+<v katharina-hoelzle>Richtig, genau. Also wir sind ja relativ klein gestartet mit knapp zehn Kollegen,
+
+00:02:34.601 --> 00:02:39.200
+<v katharina-hoelzle>zehn Professoren und dann bin ich vor jetzt gut zwei Jahren dazugekommen
+
+00:02:39.201 --> 00:02:44.800
+<v katharina-hoelzle>als erste weibliche Professorin und auch als erste nicht-Informatikprofessorin,
+
+00:02:44.801 --> 00:02:50.400
+<v katharina-hoelzle>denn vorher war das halt immer Kern die sogenannte angewandte Informatik.
+
+00:02:50.401 --> 00:02:53.400
+<v katharina-hoelzle>Und dann bin eben vor zwei Jahren ich dazugekommen
+
+00:02:53.401 --> 00:02:59.700
+<v katharina-hoelzle>und der Kollege Übernickel, der das Themenfeld Innovation und Design Thinking, Forschung macht,
+
+00:02:59.701 --> 00:03:07.000
+<v katharina-hoelzle>und das waren die ersten beiden, die sich dann mal so ein bisschen interdisziplinär da drüber gelegt haben,
+
+00:03:07.001 --> 00:03:10.600
+<v katharina-hoelzle>um die Themen auch mal im Kontext und übergreifend zu sehen.
+
+00:03:10.601 --> 00:03:18.500
+<v katharina-hoelzle>Und aktuell sind wir jetzt nach letzter Zählung 24 Professoren und zwei Professorinnen
+
+00:03:18.501 --> 00:03:22.300
+<v katharina-hoelzle>und es sollen jetzt noch zwei, drei dazukommen und dann sind wir aber erst mal ausgewachsen.
+
+00:03:22.301 --> 00:03:24.800
+<v katharina-hoelzle>So da soll es dann erst mal so bleiben.
+
+00:03:24.801 --> 00:03:28.400
+<v timpritlove>Da merkt man schon wieder das Problem, was die Informatik nicht nur in Deutschland,
+
+00:03:28.401 --> 00:03:33.600
+<v timpritlove>aber auch in Deutschland, schon immer hat, dass es dann doch sehr männlichlastig war lange lange Zeit.
+
+00:03:33.601 --> 00:03:34.400
+<v katharina-hoelzle>Ja.
+
+00:03:34.401 --> 00:03:36.300
+<v timpritlove>Bricht langsam auf?
+
+00:03:36.301 --> 00:03:38.000
+<v katharina-hoelzle>Nicht wirklich.
+
+00:03:38.001 --> 00:03:44.400
+<v katharina-hoelzle>Also es ist wirklich wirklich sehr langsam, es ist ein sehr dickes Brett.
+
+00:03:44.401 --> 00:03:48.200
+<v katharina-hoelzle>Ich hätte das vorher auch nicht gedacht, ich komme ja selber aus den Ingenieurswissenschaften,
+
+00:03:48.201 --> 00:03:52.700
+<v katharina-hoelzle>da sind wir gefühlt tatsächlich schon 10-15 Jahre weiter.
+
+00:03:52.701 --> 00:03:56.300
+<v katharina-hoelzle>Da haben wir schon eine größere Heterogenität und Diversität.
+
+00:03:56.301 --> 00:03:59.700
+<v katharina-hoelzle>Die Informatik hat da immer noch wirklich Schwierigkeiten.
+
+00:03:59.701 --> 00:04:02.900
+<v katharina-hoelzle>Ich bin ja auch Mitglied der SheTransformsIT Initiative,
+
+00:04:02.901 --> 00:04:07.700
+<v katharina-hoelzle>wo wir ja auch mit Mitgliedern aus Wirtschaft, Wissenschaft, Politik versuchen,
+
+00:04:07.701 --> 00:04:10.800
+<v katharina-hoelzle>dieses Thema echt ganz oben auf die Agenda zu setzen.
+
+00:04:10.801 --> 00:04:18.200
+<v katharina-hoelzle>Ich glaube, da ist es, aber über diese 15 Prozent Frauenanteil kommen wir irgendwie seit Jahren nicht wirklich raus.
+
+00:04:18.201 --> 00:04:21.700
+<v katharina-hoelzle>Und wir bemühen uns sehr und ich habe auch immer das Gefühl,
+
+00:04:21.701 --> 00:04:27.500
+<v katharina-hoelzle>wir haben viele zarte Pflänzchen, wir gehen in die Schulen,
+
+00:04:27.501 --> 00:04:29.400
+<v katharina-hoelzle>wir gehen also in die Kindergärten noch nicht, aber versuchen,
+
+00:04:29.401 --> 00:04:34.400
+<v katharina-hoelzle>da wirklich schon frühzeitig anzufangen, aber da muss sich wirklich noch sehr sehr viel ändern.
+
+00:04:34.401 --> 00:04:40.200
+<v timpritlove>Ist das noch so ein bisschen Henne-Ei-Problem, dass es auch ein bisschen was mit dem Angebot von unten zu tun hat
+
+00:04:40.201 --> 00:04:43.900
+<v timpritlove>oder ist das eher ein strukturelles Problem von oben?
+
+00:04:43.901 --> 00:04:46.000
+<v katharina-hoelzle>Ja wahrscheinlich beides.
+
+00:04:46.001 --> 00:04:48.000
+<v katharina-hoelzle>Also es kommen halt ganz viele Faktoren zusammen.
+
+00:04:48.001 --> 00:04:52.300
+<v katharina-hoelzle>Es fehlen uns die Rollenmodelle, es fehlen uns die Frauen, die da stehen,
+
+00:04:52.301 --> 00:04:55.200
+<v katharina-hoelzle>mit denen sich die jungen Frauen, die Mädchen identifizieren können.
+
+00:04:55.201 --> 00:05:00.300
+<v katharina-hoelzle>Gleichzeitig ist es so, dass wir insgesamt im Kontext MINT einfach,
+
+00:05:00.301 --> 00:05:05.100
+<v katharina-hoelzle>das wissen Sie sicherlich noch besser als ich, ein totales Bildungsproblem haben.
+
+00:05:05.101 --> 00:05:09.000
+<v katharina-hoelzle>Das ist eine schwierig anzufassende Wissenschaft.
+
+00:05:09.001 --> 00:05:11.500
+<v katharina-hoelzle>Und bei Informatik kommt es dann noch mal stärker dazu.
+
+00:05:11.501 --> 00:05:16.000
+<v katharina-hoelzle>Dass es häufig eben immer damit assoziiert wird, es geht um programmieren,
+
+00:05:16.001 --> 00:05:18.000
+<v katharina-hoelzle>es geht um die Nerds, die im Keller sitzen und das ist etwas,
+
+00:05:18.001 --> 00:05:21.900
+<v katharina-hoelzle>damit holen Sie Mädchen grundsätzlich nicht so schnell hervor,
+
+00:05:21.901 --> 00:05:23.000
+<v katharina-hoelzle>da haben die nicht so viel Lust drauf.
+
+00:05:23.001 --> 00:05:26.000
+<v katharina-hoelzle>Was wir sehen sind die Bindestrich-Informatiken.
+
+00:05:26.001 --> 00:05:30.000
+<v katharina-hoelzle>Wirtschafts-Informatik, Bio-Informatik, Medien-Informatik,
+
+00:05:30.001 --> 00:05:35.300
+<v katharina-hoelzle>da ist der Frauenanteil deutlich höher, da sind wir mittlerweile schon bei 30-40 Prozent angekommen.
+
+00:05:35.301 --> 00:05:38.300
+<v katharina-hoelzle>Also das heißt, wenn wir das Ganze verbinden mit einem Sinn,
+
+00:05:38.301 --> 00:05:44.000
+<v katharina-hoelzle>mit einer Anwendung, mit dem Thema Impact, da sind wir ja schon so ein bisschen bei dem Innovationsthema,
+
+00:05:44.001 --> 00:05:49.900
+<v katharina-hoelzle>da klappt es besser, ja.
+
+00:05:49.901 --> 00:05:53.200
+<v katharina-hoelzle>Aber so die Kerninformatik und so, das ist schwierig und genau,
+
+00:05:53.201 --> 00:05:57.300
+<v katharina-hoelzle>wir haben gerade bei der Schule angefangen und das setzt sich dann aber leider so fort,
+
+00:05:57.301 --> 00:06:01.500
+<v katharina-hoelzle>dass wir eben auch an den Universitäten sehen, dass selbst wenn wir die Mädchen,
+
+00:06:01.501 --> 00:06:04.800
+<v katharina-hoelzle>die jungen Frauen haben, die anfangen Informatik zu studieren,
+
+00:06:04.801 --> 00:06:07.700
+<v katharina-hoelzle>dass die sehr sehr zu kämpfen haben, weil es doch immer noch sehr programmierlastig ist.
+
+00:06:07.701 --> 00:06:10.800
+<v katharina-hoelzle>Die Jungs können alle programmieren, die Mädchen können nicht programmieren
+
+00:06:10.801 --> 00:06:14.500
+<v katharina-hoelzle>und da müssen wir einfach noch mehr Angebote schaffen und dann sagen,
+
+00:06:14.501 --> 00:06:19.500
+<v katharina-hoelzle>ja es gibt tatsächlich Mädchenprogrammierkurse, damit die einfach erst mal ankommen.
+
+00:06:19.501 --> 00:06:27.700
+<v timpritlove>Ja, das gibt mir Anlass und Gelegenheit, mal nach Ihrem eigenen Werdegang zu fragen.
+
+00:06:27.701 --> 00:06:29.600
+<v timpritlove>Sie haben ja eigentlich so ein bisschen mit der Wirtschaft angefangen,
+
+00:06:29.601 --> 00:06:32.600
+<v timpritlove>kann man das so formulieren?
+
+00:06:32.601 --> 00:06:35.300
+<v timpritlove>ich weiß nicht, ob man jetzt schon beim Studium starten sollte,
+
+00:06:35.301 --> 00:06:37.800
+<v timpritlove>mich interessiert immer so ein bisschen die Motivation eigentlich,
+
+00:06:37.801 --> 00:06:40.300
+<v timpritlove>warum man ja ein bestimmtes Studium überhaupt erst einschlägt.
+
+00:06:40.301 --> 00:06:43.800
+<v timpritlove>Also bei Ihnen war das dann die Wirtschaftsingenieurwissenschaften richtig?
+
+00:06:43.801 --> 00:06:45.100
+<v katharina-hoelzle>Richtig.
+
+00:06:45.101 --> 00:06:48.800
+<v timpritlove>Wie kommt man da drauf?
+
+00:06:48.801 --> 00:06:55.200
+<v katharina-hoelzle>Man kommt darauf, wenn der eigene Vater Unternehmer ist
+
+00:06:55.201 --> 00:07:01.400
+<v katharina-hoelzle>und man selber aber gesehen hat, wie er gestrampelt hat,
+
+00:07:01.401 --> 00:07:04.000
+<v katharina-hoelzle>wie schwer das war, wie eng auch häufig das Geld war,
+
+00:07:04.001 --> 00:07:07.200
+<v katharina-hoelzle>dass das für mich nie ein Karriereweg war.
+
+00:07:07.201 --> 00:07:09.900
+<v katharina-hoelzle>Dass ich gesagt habe, nein das möchte ich nicht.
+
+00:07:09.901 --> 00:07:12.300
+<v katharina-hoelzle>Ich finde die Wirtschaft spannend, ich habe es kennengelernt bei meinem Vater,
+
+00:07:12.301 --> 00:07:17.500
+<v katharina-hoelzle>habe natürlich da auch viel mitgearbeitet, aber wollte auf gar keinen Fall BWL studieren,
+
+00:07:17.501 --> 00:07:22.400
+<v katharina-hoelzle>weil ich die BWLer damals schwierig fand.
+
+00:07:22.401 --> 00:07:23.900
+<v katharina-hoelzle>Ich hatte Mathe, Chemie Leistungskurs.
+
+00:07:23.901 --> 00:07:29.500
+<v katharina-hoelzle>Ich glaube, wenn ich aus einem klassischen Akademikerhaushalt gekommen wäre,
+
+00:07:29.501 --> 00:07:33.900
+<v katharina-hoelzle>was wir nicht waren, dann hätte ich vielleicht sogar Ingenieurwesen studieren können,
+
+00:07:33.901 --> 00:07:35.900
+<v katharina-hoelzle>das ist so etwas, was ich immer noch ein bisschen bedaure,
+
+00:07:35.901 --> 00:07:41.400
+<v katharina-hoelzle>dass ich nicht mehr Mut hatte, tatsächlich in die Ingenieurwissenschaften einzusteigen.
+
+00:07:41.401 --> 00:07:46.400
+<v katharina-hoelzle>Und der Wirtschaftsingenieur das war dann so der praktische Wirtschaftswissenschaftler auf der einen.
+
+00:07:46.401 --> 00:07:47.900
+<v katharina-hoelzle>Und auf der anderen Seite …
+
+00:07:47.901 --> 00:07:49.700
+<v timpritlove>Die Bindestrich-Disziplin.
+
+00:07:49.701 --> 00:07:54.600
+<v katharina-hoelzle>Genau, also vielleicht ganz vergleichbar.
+
+00:07:54.601 --> 00:08:03.400
+<v timpritlove>Und wie muss man das verstehen, also Wirtschaftsingenieur, wo liegt der Schwerpunkt?
+
+00:08:03.401 --> 00:08:06.500
+<v katharina-hoelzle>Naja, also im Grundstudium ist er erst mal schön bunt.
+
+00:08:06.501 --> 00:08:10.700
+<v katharina-hoelzle>Ich habe ja noch ein klassisches Diplom gemacht in Karlsruhe an der Technischen Universität.
+
+00:08:10.701 --> 00:08:14.700
+<v katharina-hoelzle>Und da haben Sie natürlich von Mathe 1 bis 3b über die Physik,
+
+00:08:14.701 --> 00:08:17.700
+<v katharina-hoelzle>über die Chemie, über die Materialwissenschaften alles dabei.
+
+00:08:17.701 --> 00:08:22.100
+<v katharina-hoelzle>Und dann auch so ein bisschen die auch Programmierung, Rechnungswesen
+
+00:08:22.101 --> 00:08:26.100
+<v katharina-hoelzle>und dann im Hauptstudium habe ich mich dann auf der einen Seite
+
+00:08:26.101 --> 00:08:29.700
+<v katharina-hoelzle>im Bereich der Ingenieurswissenschaften hatte ich den Maschinenbau
+
+00:08:29.701 --> 00:08:31.300
+<v katharina-hoelzle>und auch wieder die Materialwissenschaften.
+
+00:08:31.301 --> 00:08:35.200
+<v katharina-hoelzle>Und auf der anderen Seite dann, das war die Karlsruher Prägung,
+
+00:08:35.201 --> 00:08:41.300
+<v katharina-hoelzle>aber auch immer schon Informatik, Operations Research und Wirtschaftswissenschaften.
+
+00:08:41.301 --> 00:08:41.800
+<v katharina-hoelzle>Und letztendlich …
+
+00:08:41.801 --> 00:08:43.500
+<v timpritlove>Das war Universität Karlsruhe dann?
+
+00:08:43.501 --> 00:08:50.200
+<v katharina-hoelzle>Genau, so und uns wurde dann immer vorgeworfen, das wird dem Wirtschaftsingenieur immer gerne noch vorgeworfen,
+
+00:08:50.201 --> 00:08:55.000
+<v katharina-hoelzle>das ist die eierlegende Wollmilchsau, kann alles so ein bisschen, aber nichts richtig.
+
+00:08:55.001 --> 00:08:56.500
+<v timpritlove>Das kann auch ein Vorteil sein.
+
+00:08:56.501 --> 00:08:57.700
+<v katharina-hoelzle>Genau.
+
+00:08:57.701 --> 00:09:00.600
+<v timpritlove>Dann ging es aber in die Wirtschaft für Sie erst mal?
+
+00:09:00.601 --> 00:09:04.700
+<v katharina-hoelzle>Genau, also ich hatte das große Glück, dass ich ein Jahr im Ausland studieren durfte.
+
+00:09:04.701 --> 00:09:07.500
+<v katharina-hoelzle>Ich habe in den USA meinen Master of Business Administration gemacht
+
+00:09:07.501 --> 00:09:12.800
+<v katharina-hoelzle>und hatte dort Professoren, die eigentlich alle aus der Wirtschaft kamen.
+
+00:09:12.801 --> 00:09:16.700
+<v katharina-hoelzle>Die hatten alle mal in Unternehmen gearbeitet und das war für mich eine ganz neue Welt.
+
+00:09:16.701 --> 00:09:20.000
+<v katharina-hoelzle>Das war also nicht mehr so viel Theorie wie in Karlsruhe,
+
+00:09:20.001 --> 00:09:24.100
+<v katharina-hoelzle>sondern das war wirklich Hands on, wie man so sagen kann.
+
+00:09:24.101 --> 00:09:30.100
+<v katharina-hoelzle>Und das war für mich der Punkt, dass ich sagte, ich habe während meines Studiums immer schon an einem Lehrstuhl gearbeitet,
+
+00:09:30.101 --> 00:09:34.600
+<v katharina-hoelzle>was mir große Freude gemacht hat, aber ich fand dieses Vorbild aus den USA,
+
+00:09:34.601 --> 00:09:40.200
+<v katharina-hoelzle>dass die Professoren eben wirklich wussten worüber sie sprachen, das fand ich toll.
+
+00:09:40.201 --> 00:09:44.800
+<v katharina-hoelzle>Und da war der Punkt, dass ich sagte, ich kann mir vorstellen, in die Academia zu gehen.
+
+00:09:44.801 --> 00:09:49.200
+<v katharina-hoelzle>Aber ich möchte doch gerne noch erst die andere Seite sehen, ich möchte erst noch mal richtig arbeiten.
+
+00:09:49.201 --> 00:09:53.000
+<v katharina-hoelzle>Und so kam dann die Entscheidung, zunächst einmal in die Wirtschaft zu gehen.
+
+00:09:53.001 --> 00:09:59.300
+<v katharina-hoelzle>Und als ich dann diverse Stationen durchlaufen hatte, vom Großunternehmen Siemens
+
+00:09:59.301 --> 00:10:05.300
+<v katharina-hoelzle>über die Unternehmensberatung, Capgemini, bis hin zu einem amerikanischen Startup-Unternehmen,
+
+00:10:05.301 --> 00:10:10.700
+<v katharina-hoelzle>war dann irgendwann der Punkt gekommen, dass ich gesagt habe, so jetzt hast du alles mal gesehen
+
+00:10:10.701 --> 00:10:16.000
+<v katharina-hoelzle>und jetzt bist du eigentlich bereit, das Ganze jetzt noch mal von der wissenschaftlichen Seite zu betrachten.
+
+00:10:16.001 --> 00:10:22.200
+<v timpritlove>Startup und Siemens und so, das sind ja, also das könnte ja kaum weiter voneinander entfernt sein.
+
+00:10:22.201 --> 00:10:27.400
+<v timpritlove>Ich will jetzt Siemens nicht zu nahe treten, aber ist natürlich eine ganz andere Struktur.
+
+00:10:27.401 --> 00:10:32.900
+<v timpritlove>Also klar, wenn ich jetzt frage, wo nimmt man mehr mit, dann ist die Antwort,
+
+00:10:32.901 --> 00:10:37.000
+<v timpritlove>beides ist lehrreich, aber was prägt einen letztlich vielleicht mehr?
+
+00:10:37.001 --> 00:10:41.100
+<v katharina-hoelzle>Also am meisten geprägt hat mich tatsächlich die Zeit in der Unternehmensberatung.
+
+00:10:41.101 --> 00:10:46.900
+<v katharina-hoelzle>Das war eine sehr harte Zeit, also das ist tatsächlich eigentlich noch mal eine zusätzliche Ausbildung gewesen.
+
+00:10:46.901 --> 00:10:50.600
+<v katharina-hoelzle>Ich bin da sehr geschliffen worden, das tat auch teilweise ganz schön weh,
+
+00:10:50.601 --> 00:10:54.300
+<v katharina-hoelzle>aber ich glaube, ich habe da wirklich sehr sehr viel noch mal gelernt.
+
+00:10:54.301 --> 00:11:00.700
+<v katharina-hoelzle>Und das war ja so das Zwischenstück, zwischen dem Großunternehmen und dann dem Startup.
+
+00:11:00.701 --> 00:11:06.900
+<v katharina-hoelzle>Und die anderen beiden Erfahrungen waren sehr unterschiedlich, aber beide gut.
+
+00:11:06.901 --> 00:11:10.100
+<v katharina-hoelzle>Also ich glaube, wenn ich nicht vorher in einem Großunternehmen gearbeitet hätte,
+
+00:11:10.101 --> 00:11:17.500
+<v katharina-hoelzle>dann hätte ich auf Unternehmensberaterseite nicht so gut verstanden, wie ein Unternehmen tickt,
+
+00:11:17.501 --> 00:11:19.300
+<v katharina-hoelzle>in welchen Strukturen es häufig gefangen ist.
+
+00:11:19.301 --> 00:11:25.000
+<v katharina-hoelzle>Und wenn ich nicht als Unternehmensberaterin auch gelernt hätte, so selbstständig zu arbeiten,
+
+00:11:25.001 --> 00:11:28.000
+<v katharina-hoelzle>dann hätte ich in diesem amerikanischen Startup-Unternehmen,
+
+00:11:28.001 --> 00:11:33.700
+<v katharina-hoelzle>wo ich ja dann am Ende dafür verantwortlich war, auch die europäische Tochter aufzubauen,
+
+00:11:33.701 --> 00:11:35.700
+<v katharina-hoelzle>hätte ich das nicht so selbständig machen können.
+
+00:11:35.701 --> 00:11:37.900
+<v timpritlove>Was für ein Startup war das?
+
+00:11:37.901 --> 00:11:42.500
+<v katharina-hoelzle>Das nannte sich „Need2Buy“, das war eine Plattform für die Halbleiterindustrie.
+
+00:11:42.501 --> 00:11:47.700
+<v katharina-hoelzle>Und das war also im Jahr 2000, die Hochzeit des e-Commerce,
+
+00:11:47.701 --> 00:11:51.500
+<v katharina-hoelzle>und der Halbleitermarkt war damals, was er heute auch immer noch ist, sehr volatil,
+
+00:11:51.501 --> 00:11:56.500
+<v katharina-hoelzle>er war sehr intransparent und die Zielsetzung, mit der wir rangegangen waren,
+
+00:11:56.501 --> 00:12:03.900
+<v katharina-hoelzle>war es, eine Plattform zu schaffen, um Nachfrage und Angebot besser zusammenzubringen.
+
+00:12:03.901 --> 00:12:09.400
+<v timpritlove>Wenn man geschliffen wird in der Unternehmensberatung, was schleift sich da ab und wer schleift da an einem?
+
+00:12:09.401 --> 00:12:17.000
+<v katharina-hoelzle>Naja, erst einmal natürlich die verantwortlichen Partner auf dem Projekt, die einem sehr genau sagen,
+
+00:12:17.001 --> 00:12:22.300
+<v katharina-hoelzle>wo man sich einzuordnen hat und was von einem erwartet wird.
+
+00:12:22.301 --> 00:12:31.200
+<v katharina-hoelzle>Sei es die Form, der Inhalt einer Präsentation, die Art und Weise wie man professionell beim Kunden auftritt.
+
+00:12:31.201 --> 00:12:38.100
+<v katharina-hoelzle>Also insofern würde ich eher sagen, schleifen im positiven Sinne, also einen Rohdiamanten in Form bringen.
+
+00:12:38.101 --> 00:12:42.500
+<v timpritlove>Eine Härtung eher.
+
+00:12:42.501 --> 00:12:46.200
+<v katharina-hoelzle>Was schleift sich ab.
+
+00:12:46.201 --> 00:12:49.900
+<v katharina-hoelzle>Also dadurch, dass es bei mir nur gut anderthalb Jahre waren, hat sich nicht so viel abgeschliffen,
+
+00:12:49.901 --> 00:12:52.800
+<v katharina-hoelzle>sondern es hat sich tatsächlich viel herausgeschliffen.
+
+00:12:52.801 --> 00:12:55.400
+<v timpritlove>Okay, verstehe.
+
+00:12:55.401 --> 00:13:00.200
+<v timpritlove>Und dann ging es aber doch eher wieder in die Richtung der Universitäten?
+
+00:13:00.201 --> 00:13:12.400
+<v katharina-hoelzle>Genau, also, wie sagt man, das Spiel oder die Tätigkeit bei dem Startup-Unternehmen das endete,
+
+00:13:12.401 --> 00:13:17.700
+<v katharina-hoelzle>nachdem die amerikanische Mutter festgestellt hatte, dass die europäische Tochter doch nicht so wichtig ist,
+
+00:13:17.701 --> 00:13:19.300
+<v katharina-hoelzle>wie sie das vielleicht geglaubt hat.
+
+00:13:19.301 --> 00:13:23.000
+<v katharina-hoelzle>Ich hatte dann das Angebot, in den USA weiterzuarbeiten und da war für mich aber der Punkt,
+
+00:13:23.001 --> 00:13:27.400
+<v katharina-hoelzle>dass ich dachte, so jetzt hast du viel gesehen, das wäre auch spannend gewesen,
+
+00:13:27.401 --> 00:13:31.300
+<v katharina-hoelzle>aber mein damaliger Professur, für den ich schon in Karlsruhe gearbeitet hatte,
+
+00:13:31.301 --> 00:13:35.000
+<v katharina-hoelzle>der war nach Berlin gegangen, ich lebte zu der Zeit theoretisch in Berlin
+
+00:13:35.001 --> 00:13:38.500
+<v katharina-hoelzle>und machte mir ein Angebot und sagte, Mensch wie sieht es denn aus?
+
+00:13:38.501 --> 00:13:42.500
+<v katharina-hoelzle>So, ich habe dich nicht vergessen, ich habe da jetzt gerade eine Stelle frei, hast du nicht Lust?
+
+00:13:42.501 --> 00:13:46.800
+<v katharina-hoelzle>Und das war für mich so der Punkt, dass ich dachte, ja, jetzt ist der an der Technischen Universität Berlin,
+
+00:13:46.801 --> 00:13:51.900
+<v katharina-hoelzle>er hatte ein konkretes Projekt mit der Robert Bosch GmbH zusammen, das passte dann auch gut zu diesem Thema.
+
+00:13:51.901 --> 00:13:53.400
+<v timpritlove>Auch immer noch in derselben Disziplin?
+
+00:13:53.401 --> 00:13:55.300
+<v katharina-hoelzle>Genau, Innovationsmanagement.
+
+00:13:55.301 --> 00:13:58.300
+<v katharina-hoelzle>Also er hatte den Lehrstuhl für Technologie und Innovationsmanagement,
+
+00:13:58.301 --> 00:14:06.800
+<v katharina-hoelzle>es war eine Promotion im Kontext des Projektmanagements, also Laufbahn für Projektleiter zu entwerfen.
+
+00:14:06.801 --> 00:14:15.700
+<v katharina-hoelzle>Und das passte sehr gut zu meinem Anspruch, die Verbinderin, die Vermittlerin zwischen Wirtschaft und Wissenschaft zu sein.
+
+00:14:15.701 --> 00:14:23.400
+<v timpritlove>Also das gleiche wie jetzt, aber nicht das gleiche wie vorher, also nichts Wirtschaftsingenieurwissenschaften,
+
+00:14:23.401 --> 00:14:27.100
+<v timpritlove>sondern halt jetzt ging es in die Innovation rein.
+
+00:14:27.101 --> 00:14:32.900
+<v timpritlove>Und wie kam es dann zu dem Engagement hier?
+
+00:14:32.901 --> 00:14:38.600
+<v katharina-hoelzle>Na, ich habe dann an der TU Berlin meine Promotion absolviert, also meine Dissertation geschrieben,
+
+00:14:38.601 --> 00:14:45.300
+<v katharina-hoelzle>bin dann kurzzeitig bei dem Professor Gemünden als Postdoc beschäftigt gewesen
+
+00:14:45.301 --> 00:14:47.900
+<v katharina-hoelzle>und habe dann eine Juniorprofessur an der TU Berlin angenommen.
+
+00:14:47.901 --> 00:14:51.300
+<v katharina-hoelzle>Auch das war wieder Mittlerin zwischen Wirtschaft und Wissenschaft,
+
+00:14:51.301 --> 00:14:56.500
+<v katharina-hoelzle>eine Juniorprofessur die von den Deutschen Telekom Laboratories finanziert war,
+
+00:14:56.501 --> 00:15:04.100
+<v katharina-hoelzle>die T-Labs waren damals, das war 2007, da gab es die schon ein paar Jahre,
+
+00:15:04.101 --> 00:15:08.400
+<v katharina-hoelzle>das war ja eine ausgelagerte Forschungseinheit der Deutschen Telekom,
+
+00:15:08.401 --> 00:15:14.000
+<v katharina-hoelzle>angesiedelt an der TU Berlin, mit dem Auftrag, denkt neu.
+
+00:15:14.001 --> 00:15:20.500
+<v katharina-hoelzle>Da sind wir schon bei dem Thema kreativ, innovativ, denkt außerhalb der Strukturen der klassischen Deutschen Telekom.
+
+00:15:20.501 --> 00:15:27.100
+<v katharina-hoelzle>Und ich hatte die Juniorprofessur für Organisation und Führung im Innovationsmanagement.
+
+00:15:27.101 --> 00:15:34.000
+<v katharina-hoelzle>So und das habe ich dann gute anderthalb Jahre gemacht und dann war die Professur für Innovationsmanagement und Entrepreneurship
+
+00:15:34.001 --> 00:15:40.500
+<v katharina-hoelzle>an der Universität Potsdam ausgeschrieben und ich habe einfach mal meinen Hut in den Ring geworfen,
+
+00:15:40.501 --> 00:15:47.000
+<v katharina-hoelzle>fand mich selber noch ein bisschen jung, aber hat funktioniert und so bin ich dann 2011 an die Universität Potsdam gegangen.
+
+00:15:47.001 --> 00:15:55.400
+<v katharina-hoelzle>Hatte damals schon an der School of Design Thinking des Hasso-Plattner-Instituts als Dozentin, als Coach gearbeitet.
+
+00:15:55.401 --> 00:16:03.200
+<v katharina-hoelzle>Habe dann angefangen, am Hasso-Plattner-Institut die Bachelor- und Masterstudenten im Kontext Wirtschaft und Gründung zu unterrichten.
+
+00:16:03.201 --> 00:16:09.600
+<v katharina-hoelzle>Habe da immer sehr viel Spaß gehabt an den Studierenden, weil die sehr aufgeweckt,
+
+00:16:09.601 --> 00:16:13.900
+<v katharina-hoelzle>sehr wissbegierig und gleichzeitig eben diesen technischen Hintergrund,
+
+00:16:13.901 --> 00:16:18.100
+<v katharina-hoelzle>der mir dann bei der klassischen BWL ein bisschen fehlte, hatte.
+
+00:16:18.101 --> 00:16:24.500
+<v katharina-hoelzle>Und als dann 2018 die Professur für IT-Entrepreneurship am HPI ausgeschrieben war,
+
+00:16:24.501 --> 00:16:33.600
+<v katharina-hoelzle>habe ich mich darauf beworben und bin dann am 01. November 2019 eben richtig als Professorin für IT-Entrepreneurship ans Hasso-Plattner-Institut gegangen.
+
+00:16:33.601 --> 00:16:35.900
+<v timpritlove>Was heißt denn, man fühlt sich zu jung für eine Professur?
+
+00:16:35.901 --> 00:16:41.200
+<v timpritlove>Hat das immer noch den Nimbus, man muss steinalt sein, um so was zu übernehmen?
+
+00:16:41.201 --> 00:16:47.600
+<v katharina-hoelzle>Ja, also das menschliche Alter hat sich zum Glück so ein bisschen, glaube ich, verändert.
+
+00:16:47.601 --> 00:16:52.500
+<v katharina-hoelzle>Wir haben da ja, gut, wir haben in Deutschland immer noch sehr lineare akademische Laufbahnen.
+
+00:16:52.501 --> 00:16:57.000
+<v katharina-hoelzle>Also meine Laufbahn ist da ja doch immer noch sehr unüblich, zumindest in vielen Bereichen.
+
+00:16:57.001 --> 00:17:00.500
+<v katharina-hoelzle>Vielleicht nicht bei den Ingenieurswissenschaften, aber in anderen Disziplinen schon,
+
+00:17:00.501 --> 00:17:02.900
+<v katharina-hoelzle>insofern als dass ich ja die Academia erst mal verlassen hatte,
+
+00:17:02.901 --> 00:17:07.500
+<v katharina-hoelzle>insofern war ich eigentlich vom zeitlichen Alter gar nicht mehr so jung,
+
+00:17:07.501 --> 00:17:16.600
+<v katharina-hoelzle>denn ich hatte ja schon diesen Interimspart gehabt, aber ich war ja nun erst anderthalb Jahre als Juniorprofessorin tätig.
+
+00:17:16.601 --> 00:17:21.800
+<v katharina-hoelzle>Und insofern das akademische Alter war eben noch nicht so hoch.
+
+00:17:21.801 --> 00:17:30.400
+<v timpritlove>So, das heißt, jetzt in der neuen Rolle hier in Potsdam wird natürlich gelernt, aber es wird natürlich auch geforscht,
+
+00:17:30.401 --> 00:17:40.100
+<v timpritlove>so wie sich das gehört und mit so Begriffen wie Innovation und Kreativität und Unternehmen
+
+00:17:40.101 --> 00:17:45.000
+<v timpritlove>ist ja auch eine mutige Kombination, erfüllt ja nicht unbedingt jetzt jedes Unternehmen.
+
+00:17:45.001 --> 00:17:50.000
+<v timpritlove>Reden immer alle ganz gerne davon, aber die Frage ist natürlich, was ist das denn eigentlich?
+
+00:17:50.001 --> 00:17:53.800
+<v timpritlove>Wenn man jetzt daran forscht und wenn man da, sagen wir mal, jetzt auch wirklich versucht,
+
+00:17:53.801 --> 00:18:00.000
+<v timpritlove>strukturiert heranzugehen, muss es ja auch erst mal einen Definitionsrahmen geben.
+
+00:18:00.001 --> 00:18:02.400
+<v timpritlove>Man muss es ja irgendwie fassen.
+
+00:18:02.401 --> 00:18:07.500
+<v timpritlove>Es ist natürlich immer ein super Wort für Sonntagsreden, aber wenn es konkret wird,
+
+00:18:07.501 --> 00:18:12.500
+<v timpritlove>ein Paper dabei rauskommen soll, muss man das natürlich schon so ein bisschen einkreisen.
+
+00:18:12.501 --> 00:18:21.100
+<v timpritlove>Vielleicht können wir uns da mal kurz daran versuchen, was durch Innovation jetzt eigentlich wirklich abgedeckt ist.
+
+00:18:21.101 --> 00:18:26.300
+<v timpritlove>Was muss man sich, was stellen Sie sich darunter vor?
+
+00:18:26.301 --> 00:18:33.800
+<v katharina-hoelzle>Also für mich ist Innovation erst mal die Umsetzung einer Idee in etwas anfassbares.
+
+00:18:33.801 --> 00:18:40.100
+<v katharina-hoelzle>Also es ist mehr als die Idee, es ist mehr als ein Konzert, was vielleicht meine Idee schon mal beschreibt,
+
+00:18:40.101 --> 00:18:46.600
+<v katharina-hoelzle>sondern ich habe das schon in irgendeiner Weise anfassbar gemacht
+
+00:18:46.601 --> 00:18:51.600
+<v katharina-hoelzle>und ich habe Menschen, sage ich jetzt mal breit noch gesprochen, gefunden,
+
+00:18:51.601 --> 00:19:02.200
+<v katharina-hoelzle>die das annehmen, die das umsetzen, die damit irgendetwas anfangen.
+
+00:19:02.201 --> 00:19:04.400
+<v katharina-hoelzle>Ich mache jetzt den Rahmen noch mal ein bisschen größer.
+
+00:19:04.401 --> 00:19:12.300
+<v katharina-hoelzle>In der klassischen Definition sind Innovationen immer etwas, die im Markt umgesetzt werden.
+
+00:19:12.301 --> 00:19:18.500
+<v katharina-hoelzle>Also wir sprechen von der Idee, von dem Konzept und dann erst von der Innovation,
+
+00:19:18.501 --> 00:19:23.500
+<v katharina-hoelzle>wenn es in den Markt gebracht wurde und der Markt es angenommen hat.
+
+00:19:23.501 --> 00:19:28.200
+<v katharina-hoelzle>Ich glaube aber, dass wenn wir heute von Innovation sprechen,
+
+00:19:28.201 --> 00:19:30.900
+<v katharina-hoelzle>dass wir diesen Markt sehr viel weiter fassen müssen.
+
+00:19:30.901 --> 00:19:35.500
+<v katharina-hoelzle>Denn der Markt ist erst mal ein sehr wirtschaftlicher Begriff.
+
+00:19:35.501 --> 00:19:38.700
+<v katharina-hoelzle>Und ich glaube, dass, wenn wir eben darüber nachdenken, deswegen habe ich jetzt gerade Menschen gesagt,
+
+00:19:38.701 --> 00:19:45.500
+<v katharina-hoelzle>wir ja auch über Gesellschaften sprechen oder über Politiksysteme.
+
+00:19:45.501 --> 00:19:53.400
+<v katharina-hoelzle>Also wichtig ist einfach nur, die Innovation ist mehr als nur eine fixe Idee,
+
+00:19:53.401 --> 00:19:57.300
+<v katharina-hoelzle>eine Problemlösung, ein Konzept, sondern es muss umgesetzt sein.
+
+00:19:57.301 --> 00:20:05.000
+<v katharina-hoelzle>So und über diesen Grad der Umsetzung, darüber können sowohl die Experten als auch die nicht-Experten trefflich streiten.
+
+00:20:05.001 --> 00:20:09.400
+<v katharina-hoelzle>Aber es muss am Ende etwas anfassbares da sein, was mehr als nur ich,
+
+00:20:09.401 --> 00:20:13.500
+<v katharina-hoelzle>als der Erfinder, die Erfinderin gut findet.
+
+00:20:13.501 --> 00:20:20.100
+<v timpritlove>Würde mir jetzt so als erstes die aktuelle Situation rund um Energiegewinnung einfallen.
+
+00:20:20.101 --> 00:20:25.700
+<v timpritlove>Ist ja im Prinzip auch ein sehr innovationsträchtiger Bereich.
+
+00:20:25.701 --> 00:20:32.600
+<v timpritlove>Also es gibt eine gesellschaftliche Notwendigkeit für eine Innovation, für die aber ein Markt in dem Sinne noch nicht existiert
+
+00:20:32.601 --> 00:20:39.100
+<v timpritlove>oder teilweise existiert er eben schon oder befinden wir uns mittlerweile natürlich in einer Phase,
+
+00:20:39.101 --> 00:20:43.700
+<v timpritlove>wo der in zunehmendem Maße wächst, aber wenn man noch mal 20 Jahre zurückblickt,
+
+00:20:43.701 --> 00:20:48.000
+<v timpritlove>als das erneuerbare Energien Gesetz kam, war das ja im Prinzip so ein Ansatz.
+
+00:20:48.001 --> 00:20:49.400
+<v timpritlove>Ist das das, was Sie meinen?
+
+00:20:49.401 --> 00:20:53.400
+<v katharina-hoelzle>Mit der Umsetzung, ja, grundsätzlich schon.
+
+00:20:53.401 --> 00:20:56.900
+<v katharina-hoelzle>Also natürlich, wenn wir jetzt eben drüber nachdenken, dann wissen wir ja auch,
+
+00:20:56.901 --> 00:21:03.300
+<v katharina-hoelzle>es hat schon viele Erfindungen gegeben, die womöglich auch Menschen gefunden haben,
+
+00:21:03.301 --> 00:21:08.000
+<v katharina-hoelzle>die gesagt haben, das ist eine supercoole Idee, genauso sollten wir das machen.
+
+00:21:08.001 --> 00:21:13.900
+<v katharina-hoelzle>Also zum Beispiel auch jetzt aktuell Cryptocurrencies oder wie bezahlen wir eigentlich.
+
+00:21:13.901 --> 00:21:18.800
+<v katharina-hoelzle>Hier die Electronic Wallets, da hat es also vor 20 Jahren schon Lösungen gegeben,
+
+00:21:18.801 --> 00:21:23.800
+<v katharina-hoelzle>die fanden Leute auch cool, da gab es also auch eine technische Umsetzung,
+
+00:21:23.801 --> 00:21:27.000
+<v katharina-hoelzle>aber die große Masse hat es eben noch nicht angenommen.
+
+00:21:27.001 --> 00:21:30.800
+<v katharina-hoelzle>Und genauso können wir jetzt bei den erneuerbaren Energien ja ähnlich darüber nachdenken,
+
+00:21:30.801 --> 00:21:40.500
+<v katharina-hoelzle>dass wir sagen, also eigentlich haben wir die Lösungen, aber sie werden ja noch nicht wirklich breit umgesetzt in einem Markt, in einer Gesellschaft.
+
+00:21:40.501 --> 00:21:45.700
+<v katharina-hoelzle>So und dann kommen wir natürlich ganz schnell auf die Ebene der Diskussion,
+
+00:21:45.701 --> 00:21:50.500
+<v katharina-hoelzle>welche Rolle spielt dann beispielsweise der Staat, in dem er dann einen Markt schafft
+
+00:21:50.501 --> 00:21:55.100
+<v katharina-hoelzle>bzw. eine solche Innovation zunächst einmal trägt.
+
+00:21:55.101 --> 00:21:58.500
+<v katharina-hoelzle>Denn ich sagte ja gerade schon, diese klassische Wirtschaftsdefinition,
+
+00:21:58.501 --> 00:22:04.000
+<v katharina-hoelzle>eine Innovation hat einen Markt, das ist natürlich genau dieser Marktbegriff
+
+00:22:04.001 --> 00:22:08.000
+<v katharina-hoelzle>und darüber können wir ja trefflich streiten, wer schafft Innovationen?
+
+00:22:08.001 --> 00:22:14.300
+<v katharina-hoelzle>Ist das der Markt, sind das die Unternehmen oder um eben beispielsweise mit Mariana Mazzucato zu sprechen,
+
+00:22:14.301 --> 00:22:19.700
+<v katharina-hoelzle>ist es der Staat, der ein ganz großer Innovationstreiber ist.
+
+00:22:19.701 --> 00:22:26.400
+<v katharina-hoelzle>Und da sehen wir schon, es ist schwierig, da dann zu definieren, wer schafft diesen Markt,
+
+00:22:26.401 --> 00:22:32.600
+<v katharina-hoelzle>wer ist eigentlich der Nachfrager und ab wann können wir sagen, das ist jetzt eine Innovation.
+
+00:22:32.601 --> 00:22:37.000
+<v katharina-hoelzle>Und da versuchen wir uns als Innovationsforscher immer noch ein bisschen zu behelfen,
+
+00:22:37.001 --> 00:22:42.000
+<v katharina-hoelzle>dass wir sagen, es kommt auf die Art der Innovation an, es kommt auf den Grad der Innovation an,
+
+00:22:42.001 --> 00:22:44.900
+<v katharina-hoelzle>es kommt auf die Nachfragenden an.
+
+00:22:44.901 --> 00:22:50.000
+<v katharina-hoelzle>Nur weil es für Sie jetzt gerade eine Innovation ist, ist es vielleicht für mich keine und umgekehrt.
+
+00:22:50.001 --> 00:22:59.000
+<v katharina-hoelzle>Also dieser Innovationsbegriff und das ist so spannend daran, das stelle ich sowohl hier an meinen Kollegen, an meinen Studierenden fest,
+
+00:22:59.001 --> 00:23:03.700
+<v katharina-hoelzle>als auch in den klassischen Ingenieurwissenschaften, die Naturwissenschaften sind es gewohnt,
+
+00:23:03.701 --> 00:23:09.700
+<v katharina-hoelzle>1 oder 0 zu sagen, es ist richtig oder es ist falsch, es gibt klare Antworten.
+
+00:23:09.701 --> 00:23:15.100
+<v katharina-hoelzle>Die Innovation ist nie schwarz oder weiß, sie ist nie ja oder nein,
+
+00:23:15.101 --> 00:23:21.500
+<v katharina-hoelzle>sondern sie ist sehr häufig so, dass wir sagen, es kommt darauf an.
+
+00:23:21.501 --> 00:23:29.700
+<v katharina-hoelzle>Nur weil Deutschland jetzt für sich beschlossen hat, dass wir mit dem erneuerbaren Energie Gesetz folgende Technologien fördern wollen
+
+00:23:29.701 --> 00:23:35.900
+<v katharina-hoelzle>und daraus entsprechende Innovation machen, ist das in einem Land wie Japan beispielsweise oder China
+
+00:23:35.901 --> 00:23:40.100
+<v katharina-hoelzle>noch lange nicht diese Innovation wie wir sie vielleicht sehen und umgekehrt.
+
+00:23:40.101 --> 00:23:49.900
+<v timpritlove>Wenn man, jetzt gibt es ja noch den zweiten Begriff der Kreativität, der diese Innovation offensichtlich befördern soll,
+
+00:23:49.901 --> 00:23:53.800
+<v timpritlove>ist das auch ein definierbarer Begriff?
+
+00:23:53.801 --> 00:23:55.600
+<v katharina-hoelzle>Der ist noch mal schwieriger.
+
+00:23:55.601 --> 00:23:59.500
+<v timpritlove>Ja, ich weiß, deswegen habe ich das ich gefragt.
+
+00:23:59.501 --> 00:24:07.100
+<v katharina-hoelzle>Hier gehen wir nämlich dann von den Wirtschaftswissenschaften, die ja vielleicht noch so ein bisschen ihre Wurzeln in den Naturwissenschaften haben,
+
+00:24:07.101 --> 00:24:12.400
+<v katharina-hoelzle>gehen wir ja jetzt in die Sozial- und Geisteswissenschaften, wir gehen in die Verhaltenswissenschaften,
+
+00:24:12.401 --> 00:24:18.000
+<v katharina-hoelzle>wir gehen gerade bei der Kreativität auch schnell in die Hirnforschung beispielsweise.
+
+00:24:18.001 --> 00:24:21.700
+<v katharina-hoelzle>Was ist Kreativität, was macht ein kreativen Menschen aus?
+
+00:24:21.701 --> 00:24:28.800
+<v katharina-hoelzle>So und dann kommen wir in den Bereich der Kunst, wir kommen in den Bereich der Human- und Geisteswissenschaften,
+
+00:24:28.801 --> 00:24:34.200
+<v katharina-hoelzle>was schaffe ich sozusagen als künstlerisches Werk, wie verändere ich Dinge?
+
+00:24:34.201 --> 00:24:39.900
+<v katharina-hoelzle>Also die Kreativität ist da noch mal breiter.
+
+00:24:39.901 --> 00:24:43.300
+<v timpritlove>Ist das mehr so im Sinne von Produktivität gemeint?
+
+00:24:43.301 --> 00:24:48.300
+<v timpritlove>Also ich meine, Kreativität kann ja heißen, man schafft was und das Schaffen als solches ist sozusagen wichtig
+
+00:24:48.301 --> 00:24:52.800
+<v timpritlove>oder so wie wir das, sagen wir mal, gemeinhin so diskutieren und benutzen das Wort,
+
+00:24:52.801 --> 00:24:57.300
+<v timpritlove>im Sinne von, oh da hast du jetzt aber was gemacht, wo ich jetzt nicht drauf gekommen wäre,
+
+00:24:57.301 --> 00:25:00.100
+<v timpritlove>was ja eigentlich mehr so diesen Innovationstouch hat, so dieses,
+
+00:25:00.101 --> 00:25:11.500
+<v timpritlove>oh wenn jemand sehr kreativ ist, dann tut er innovative Dinge oder ist es einfach nur so ein Output generieren können.
+
+00:25:11.501 --> 00:25:14.100
+<v timpritlove>Wie klingt das Wort in Ihrem Kopf?
+
+00:25:14.101 --> 00:25:21.400
+<v katharina-hoelzle>Also für mich klingt es sehr viel mehr schaffend, also die Problematik mit dem Wort der Produktivität ist,
+
+00:25:21.401 --> 00:25:27.800
+<v katharina-hoelzle>dass das ja mittlerweile in Teilen negativ konnotiert ist,
+
+00:25:27.801 --> 00:25:32.800
+<v katharina-hoelzle>weil die Produktivität immer ein klar definiertes Ergebnis hat.
+
+00:25:32.801 --> 00:25:34.100
+<v timpritlove>Messbar ist auch.
+
+00:25:34.101 --> 00:25:37.600
+<v katharina-hoelzle>Und ich meine, das Thema Produktivität und ob sich unsere Produktivität verändert hat oder nicht,
+
+00:25:37.601 --> 00:25:41.300
+<v katharina-hoelzle>da können wir ja noch mal anderweitig drüber sprechen.
+
+00:25:41.301 --> 00:25:48.800
+<v katharina-hoelzle>Kreativität für mich hat tatsächlich ganz viel mit dem Wort Schaffen, creare etwas schaffen.
+
+00:25:48.801 --> 00:25:58.600
+<v katharina-hoelzle>Wie dieses, was wir da schaffen, aussieht, ist ja dann auch wieder einerseits in der Betrachtungsweise des Schaffenden
+
+00:25:58.601 --> 00:26:01.100
+<v katharina-hoelzle>und der Menschen, die es betrachten.
+
+00:26:01.101 --> 00:26:04.800
+<v katharina-hoelzle>Also ist das etwas neues, was dort geschaffen wurde?
+
+00:26:04.801 --> 00:26:10.200
+<v katharina-hoelzle>Und neu ist ja auch immer in der Perspektive des Betrachters, wie neu ist neu?
+
+00:26:10.201 --> 00:26:13.000
+<v katharina-hoelzle>Was für mich neu ist, ist für jemand anderen nicht neu.
+
+00:26:13.001 --> 00:26:18.200
+<v katharina-hoelzle>Aber Kreativität hat für mich wirklich erst mal sehr viel damit zu tun,
+
+00:26:18.201 --> 00:26:22.000
+<v katharina-hoelzle>und das ist sicherlich die positive Konnotation, die ich diesem Wort gebe, ist,
+
+00:26:22.001 --> 00:26:29.000
+<v katharina-hoelzle>etwas neues zu schaffen, und zwar neu, gerne auf vielen Dimensionen,
+
+00:26:29.001 --> 00:26:32.300
+<v katharina-hoelzle>aber tatsächlich eben etwas neues zu schaffen.
+
+00:26:32.301 --> 00:26:37.700
+<v katharina-hoelzle>Und wenn ich jetzt noch einen Schritt weitergehen darf, was für mich immer ganz wichtig ist,
+
+00:26:37.701 --> 00:26:44.800
+<v katharina-hoelzle>ist aber schon, und da bin ich dann doch wieder wahrscheinlich stärker Naturwissenschaftlerin als Geisteswissenschaftlerin,
+
+00:26:44.801 --> 00:26:50.700
+<v katharina-hoelzle>dass ich sage, ich erwarte schon, dass es irgendwie einen Impuls setzen kann.
+
+00:26:50.701 --> 00:26:56.300
+<v katharina-hoelzle>Also Kreativität um der Kreativität Willen damit tue ich mich ein bisschen schwer.
+
+00:26:56.301 --> 00:27:04.700
+<v katharina-hoelzle>Sondern ich finde das immer, für mich hat es viel damit zu tun, löse ich ein Problem oder eine Herausforderung.
+
+00:27:04.701 --> 00:27:11.300
+<v timpritlove>Hier gibt es am HPI auch diesen, ich weiß nicht, hatten wir es schon erwähnt, diesen Bereich des Design Thinkings,
+
+00:27:11.301 --> 00:27:18.700
+<v timpritlove>klang, glaube ich, kurz an, ist ja auch so ein skurriles Wort erst mal.
+
+00:27:18.701 --> 00:27:24.800
+<v timpritlove>Was ist denn damit gemeint und inwiefern beeinflusst das die Arbeit hier?
+
+00:27:24.801 --> 00:27:27.100
+<v katharina-hoelzle>Die Arbeit hier beeinflusst es sehr stark.
+
+00:27:27.101 --> 00:27:36.100
+<v katharina-hoelzle>Das Design Thinking ist für mich, das ist jetzt wieder meine individuelle Definition,
+
+00:27:36.101 --> 00:27:48.000
+<v katharina-hoelzle>ein Prozess, eine Einstellung, ein sogenannter Mindset und eine Herangehensweise,
+
+00:27:48.001 --> 00:27:54.000
+<v katharina-hoelzle>Probleme, Nutzer menschenzentriert zu lösen.
+
+00:27:54.001 --> 00:27:59.200
+<v katharina-hoelzle>Das macht es so schick, wenn man es im Kontext der Naturwissenschaften gerade betrachtet,
+
+00:27:59.201 --> 00:28:05.200
+<v katharina-hoelzle>aber auch allgemein, dem Thema, wie lösen wir eigentlich die großen Herausforderungen, vor denen wir stehen,
+
+00:28:05.201 --> 00:28:11.100
+<v katharina-hoelzle>da gibt es immer technische Lösungen, da sind wir in Deutschland super, wir haben ganz klare Ingenieurstraditionen,
+
+00:28:11.101 --> 00:28:16.700
+<v katharina-hoelzle>naturwissenschaftliche Traditionen, wir sind immer sehr gut, neue Dinge zu erfinden.
+
+00:28:16.701 --> 00:28:23.300
+<v katharina-hoelzle>Was wir häufig in der Vergangenheit vergessen haben, ist zu fragen, für wen machen wir es eigentlich?
+
+00:28:23.301 --> 00:28:23.700
+<v katharina-hoelzle>Brauchen die Menschen das eigentlich?
+
+00:28:23.701 --> 00:28:28.200
+<v katharina-hoelzle>Das ist so das eine und das andere ist, was brauchen die Menschen eigentlich?
+
+00:28:28.201 --> 00:28:32.600
+<v katharina-hoelzle>So und diesen Menschen in den Mittelpunkt zu stellen, zu sagen, wir haben tolle Technologien,
+
+00:28:32.601 --> 00:28:37.900
+<v katharina-hoelzle>wir müssen uns natürlich auch irgendwie die Wirtschaftsseite angucken, weil wir da irgendwann irgendwie mit Geld verdienen müssen
+
+00:28:37.901 --> 00:28:43.000
+<v katharina-hoelzle>und unsere Arbeitnehmerinnen bezahlen und dann den Menschen mit reinzunehmen.
+
+00:28:43.001 --> 00:28:49.500
+<v katharina-hoelzle>Wenn wir also diese drei Bälle zusammenpacken, dann entsteht Innovation.
+
+00:28:49.501 --> 00:28:54.200
+<v katharina-hoelzle>Und Innovation entsteht eben wie gesagt nur dann, wenn wir diese drei Teile miteinander verbinden.
+
+00:28:54.201 --> 00:28:59.500
+<v katharina-hoelzle>Und ich jetzt als klassischer Wirtschaftsingenieur würde sagen, Technologie und Wirtschaft habe ich gelernt,
+
+00:28:59.501 --> 00:29:02.000
+<v katharina-hoelzle>während meines Studiums, habe ich angewandt, kann ich.
+
+00:29:02.001 --> 00:29:08.300
+<v katharina-hoelzle>Den Menschen haben wir erstaunlich wenig betrachtet und das ist das, wo das Design Thinking reinkommt.
+
+00:29:08.301 --> 00:29:16.600
+<v timpritlove>Da würde mir ja als erstes mal einfallen, dass eigentlich so in Deutschland das vielleicht ein bisschen misslungen ist in der letzten Zeit.
+
+00:29:16.601 --> 00:29:24.100
+<v timpritlove>Nehmen wir mal so die prägendste Industrie, die Autoindustrie, die ja nun wirklich zum Jagen getragen werden musste,
+
+00:29:24.101 --> 00:29:30.200
+<v timpritlove>bis sie dann endlich mal den Wandel hin zu Elektromobilität angeht.
+
+00:29:30.201 --> 00:29:33.100
+<v timpritlove>Jetzt wird das, sagen wir mal, so typisch deutsch-industriell auch angegangen.
+
+00:29:33.101 --> 00:29:38.900
+<v timpritlove>So nach dem Motto, holla jetzt sind wir aufgewacht, jetzt fangen wir aber auch wirklich an, so.
+
+00:29:38.901 --> 00:29:43.500
+<v timpritlove>Nur eben startet man eben sehr weit hinter der Startlinie in gewisser Hinsicht
+
+00:29:43.501 --> 00:29:50.700
+<v timpritlove>oder die anderen rennen halt schon und jetzt hat man dann den Schuss auch gehört.
+
+00:29:50.701 --> 00:29:51.900
+<v timpritlove>Da ist ja dann was schief gegangen oder?
+
+00:29:51.901 --> 00:29:57.900
+<v timpritlove>Also ich meine, da hat das ja dann eigentlich genauso nicht funktioniert, dass der Mensch mitgedacht wurde.
+
+00:29:57.901 --> 00:30:02.000
+<v timpritlove>Weil der Mensch wurde nicht mitgedacht, sondern es wurde eigentlich nur die normale wirtschaftliche Logik verfolgt,
+
+00:30:02.001 --> 00:30:06.700
+<v timpritlove>so nach dem Motto, ach naja Gott, Verbrennungsmotoren können wir super bauen,
+
+00:30:06.701 --> 00:30:14.400
+<v timpritlove>funktioniert, haben wir schon immer so gemacht, das müssen wir jetzt beibehalten als unseren Vorteil,
+
+00:30:14.401 --> 00:30:23.600
+<v timpritlove>weil so läuft der Hase, damit verdienen wir halt unsere Brötchen und dieser ganze moderne Kram kostet ja alles nur Geld und will ja auch keiner haben.
+
+00:30:23.601 --> 00:30:29.100
+<v timpritlove>Nicht wahr, also das ist ja so ein bisschen diese Marktlogik, die eben nicht von der Innovation so sehr getrieben ist,
+
+00:30:29.101 --> 00:30:35.500
+<v timpritlove>sondern eigentlich eher so eine besitzstandswahrende Logik in sich hat.
+
+00:30:35.501 --> 00:30:40.000
+<v katharina-hoelzle>Auf der einen Seite ja, auf der anderen Seite haben Sie haben ja gesagt, das hat ja nicht wirklich funktioniert,
+
+00:30:40.001 --> 00:30:42.300
+<v katharina-hoelzle>das stimmt nicht ganz, wenn wir uns die Marktzahlen angucken.
+
+00:30:42.301 --> 00:30:47.000
+<v katharina-hoelzle>Also die deutschen Automobilunternehmen sind schon in den vergangenen Jahren und Jahrzehnten sehr erfolgreich gewesen.
+
+00:30:47.001 --> 00:30:52.500
+<v katharina-hoelzle>Also wenn wir einfach nur mal von der Marktseite gucken, würde ich sagen, nicht alles falsch gemacht.
+
+00:30:52.501 --> 00:30:58.600
+<v katharina-hoelzle>Wenn wir es uns vom Thema, und da kommt jetzt wieder die Ingenieursperspektive rein,
+
+00:30:58.601 --> 00:31:03.000
+<v katharina-hoelzle>wer macht die besten Autos der Welt, glaube ich, können wir doch noch sagen,
+
+00:31:03.001 --> 00:31:05.600
+<v katharina-hoelzle>auf vielen Dimensionen sind das die deutschen Automobilbauer.
+
+00:31:05.601 --> 00:31:08.700
+<v katharina-hoelzle>Warum? Weil sie immer wieder optimiert haben.
+
+00:31:08.701 --> 00:31:13.500
+<v katharina-hoelzle>Sie haben sehr sehr gut inkremental innoviert.
+
+00:31:13.501 --> 00:31:17.500
+<v katharina-hoelzle>Wir haben die geringsten Spaltmaße, wir haben die leisesten Verbrennermotoren,
+
+00:31:17.501 --> 00:31:26.800
+<v katharina-hoelzle>wir haben die effizientesten Verbrennermotoren, wir haben, naja über Schönheit und Design gibt es sicherlich unterschiedliche Auffassungen,
+
+00:31:26.801 --> 00:31:34.100
+<v katharina-hoelzle>aber auf vielen klassischen Dimensionen sind die deutschen Automobilbauer Weltspitze.
+
+00:31:34.101 --> 00:31:39.000
+<v katharina-hoelzle>So und damit haben sie durchaus in gewisser Weise nutzerorientiert gearbeitet,
+
+00:31:39.001 --> 00:31:42.400
+<v katharina-hoelzle>nämlich sie haben sich angeguckt, was wollen denn eigentlich die Leute?
+
+00:31:42.401 --> 00:31:45.400
+<v katharina-hoelzle>Die wollen schnellere Autos, sie wollen vielleicht dann noch ein bisschen sparsamere Autos,
+
+00:31:45.401 --> 00:31:49.900
+<v katharina-hoelzle>aber sie wollen große Autos, dicke Autos, wie auch immer, also das haben sie gefragt.
+
+00:31:49.901 --> 00:31:56.000
+<v katharina-hoelzle>Was sie nie gefragt haben ist, was ist eigentlich Mobilität?
+
+00:31:56.001 --> 00:31:57.500
+<v katharina-hoelzle>Brauchen wir dafür eigentlich noch Autos?
+
+00:31:57.501 --> 00:32:03.200
+<v katharina-hoelzle>Sie sind sozusagen nicht, man verwendet immer so gerne diesen Begriff, „thinking outside the box“.
+
+00:32:03.201 --> 00:32:07.100
+<v katharina-hoelzle>Sie sind nie aus ihrer kleinen Kiste rausgesprungen und haben geguckt,
+
+00:32:07.101 --> 00:32:10.900
+<v katharina-hoelzle>was gibt es eigentlich noch für Möglichkeiten?
+
+00:32:10.901 --> 00:32:17.700
+<v katharina-hoelzle>So und dann haben wir einen Fehler gemacht und diesen Fehler sehen wir aber leider in sehr sehr vielen Industrien.
+
+00:32:17.701 --> 00:32:20.400
+<v katharina-hoelzle>Dass nie von außen mal geguckt wird, sag mal was macht ihr da eigentlich?
+
+00:32:20.401 --> 00:32:25.800
+<v katharina-hoelzle>Wie produziert ihr eigentlich Energie bzw. wie sieht eigentlich die Zukunft des Energiemarktes aus?
+
+00:32:25.801 --> 00:32:29.700
+<v katharina-hoelzle>Wie sieht die Zukunft der Mobilität aus?
+
+00:32:29.701 --> 00:32:31.100
+<v katharina-hoelzle>Wie sieht die Zukunft des Gesundheitswesens aus?
+
+00:32:31.101 --> 00:32:35.300
+<v katharina-hoelzle>Das können wir in Deutschland nicht, da ist einfach über Jahre,
+
+00:32:35.301 --> 00:32:40.300
+<v katharina-hoelzle>wir sind Kinder unseres Erfolgs bzw. Opfer unseres Erfolgs.
+
+00:32:40.301 --> 00:32:42.700
+<v katharina-hoelzle>Der deutschen Volkswirtschaft ging es über Jahrzehnte gut.
+
+00:32:42.701 --> 00:32:50.000
+<v katharina-hoelzle>Und wenn es uns gut geht, das wissen wir alle, mein Doktorgroßvater Jürgen Hauschild hat mal gesagt,
+
+00:32:50.001 --> 00:32:52.000
+<v katharina-hoelzle>Innovationen sind im Zweifel nicht willkommen.
+
+00:32:52.001 --> 00:32:58.300
+<v katharina-hoelzle>Na klar, keiner von uns möchte sich gerne jeden Tag neu verändern, das merken wir jetzt gerade.
+
+00:32:58.301 --> 00:33:04.300
+<v katharina-hoelzle>Es ist schlimm genug, was da draußen passiert, gib mir ein bisschen Stabilität.
+
+00:33:04.301 --> 00:33:08.900
+<v timpritlove>Ich meine, es ist ja, klar, die Momentaufnahme ist, bisher hat es ganz gut funktioniert.
+
+00:33:08.901 --> 00:33:13.000
+<v timpritlove>Bloß in dem Moment, wo es dann aufhört zu funktionieren, kann es ja dann auch sehr schnell gehen.
+
+00:33:13.001 --> 00:33:17.300
+<v timpritlove>Und was wird jetzt eben debattiert mit großen Entlassungszahlen, die VW vielleicht anstehen,
+
+00:33:17.301 --> 00:33:22.400
+<v timpritlove>weil man halt merkt, naja okay, wenn wir jetzt irgendwie Elektroautos bauen,
+
+00:33:22.401 --> 00:33:26.200
+<v timpritlove>holla, dann müssen wir ja auf einmal ganz viele Dinge gar nicht mehr bauen.
+
+00:33:26.201 --> 00:33:33.100
+<v timpritlove>Wir brauchen irgendwie keine Einspritzer und die entsprechende Filtertechnik und ganz viele Bauteile fallen auf einmal weg
+
+00:33:33.101 --> 00:33:37.400
+<v timpritlove>und damit natürlich ganz viele Subindustrien und der Schock ist natürlich immer sehr viel größer,
+
+00:33:37.401 --> 00:33:42.700
+<v timpritlove>wenn das eben so von heute auf morgen geschieht, weil es natürlich dann noch mal sehr viel mehr Widerstände gibt etc..
+
+00:33:42.701 --> 00:33:49.900
+<v timpritlove>Man findet sich dann eben an so einem Punkt wieder, wo man dann doch in der Abrechnung zu viel Zeit hat verstreichen lassen,
+
+00:33:49.901 --> 00:33:52.600
+<v timpritlove>weil man sich eben gegen diese Innovation gesperrt hat.
+
+00:33:52.601 --> 00:33:59.400
+<v timpritlove>Und das ist natürlich jetzt die eigentliche Frage, was können denn Unternehmen an sich dagegen tun,
+
+00:33:59.401 --> 00:34:02.400
+<v timpritlove>um in diese Falle nicht zu tappen.
+
+00:34:02.401 --> 00:34:09.300
+<v timpritlove>Das ist ja immer so dieses, gibt jetzt tausend Zitate, die immer so im Raum rumgestoßen werden,
+
+00:34:09.301 --> 00:34:16.400
+<v timpritlove>wo man nie genau weiß, ob die so eigentlich gefallen sind, aber trotzdem beschreiben Sie, glaube ich, das ganz gut.
+
+00:34:16.401 --> 00:34:20.300
+<v timpritlove>Also als das Automobil kam so, war es halt so die schnelleren Pferde, die alle haben wollten.
+
+00:34:20.301 --> 00:34:24.300
+<v timpritlove>Und so mit diesen tolleren Autos ist es halt auch so ein bisschen wie mit diesen schnelleren Pferden.
+
+00:34:24.301 --> 00:34:29.700
+<v timpritlove>Die Leute denken halt dann auch irgendwie so, ach ja ich hatte bisher ein Auto, also brauche ich jetzt wieder ein Auto
+
+00:34:29.701 --> 00:34:33.700
+<v timpritlove>und das muss irgendwas besser daran sein, nur dass irgendwie keinem so recht was einfallen kann,
+
+00:34:33.701 --> 00:34:39.600
+<v timpritlove>was überhaupt noch besser ist, man aber eben sehr viel annimmt für dieses Produkt,
+
+00:34:39.601 --> 00:34:47.500
+<v timpritlove>wo die Gesellschaft eigentlich schon einen Schritt weiter ist, dass sie sagt, wir wollen aber jetzt nicht mehr so viel Platz in den Städten den Autos opfern
+
+00:34:47.501 --> 00:34:52.200
+<v timpritlove>und das macht uns irgendwie auch krank und es nimmt uns irgendwie auch sozialen Raum,
+
+00:34:52.201 --> 00:34:59.100
+<v timpritlove>gerade jetzt in der Pandemie ist so dieses soziale Kontakte irgendwie, merkt man jetzt sozusagen überhaupt erst mal,
+
+00:34:59.101 --> 00:35:07.500
+<v timpritlove>glaube ich, diese Bedeutung dessen noch mal mehr und die Städte müssen sich wandeln und die Städte wollen sich langsam auch wandeln.
+
+00:35:07.501 --> 00:35:13.100
+<v timpritlove>Und ich denke, dass schon dieser Industriebereich jetzt an so einem Punkt steht, dass wenn jetzt nicht sehr schnell gehandelt wird,
+
+00:35:13.101 --> 00:35:19.000
+<v timpritlove>viel von dem bisher erreichten dann so ein Pyrrhussieg ist, dass man halt einfach sieht,
+
+00:35:19.001 --> 00:35:23.400
+<v timpritlove>da haben wir uns einfach falsch entwickelt.
+
+00:35:23.401 --> 00:35:26.400
+<v katharina-hoelzle>Naja, das ist natürlich die zentrale Frage, die Sie da gerade stellen.
+
+00:35:26.401 --> 00:35:37.000
+<v katharina-hoelzle>Also wie bringen wir die Wirtschaft, aber auch die Gesellschaft letztendlich, dazu, frühzeitiger innovativ zu sein?
+
+00:35:37.001 --> 00:35:41.900
+<v katharina-hoelzle>Also die Historie der Innovationsforschung zeigt uns, wir haben diese sogenannten Kondratieff-Zyklen
+
+00:35:41.901 --> 00:35:46.400
+<v katharina-hoelzle>und immer, wenn es uns richtig schlecht ging, dann kamen die Innovationen.
+
+00:35:46.401 --> 00:35:50.000
+<v katharina-hoelzle>Dann kam die erste industrielle Revolution und die zweite und die dritte so.
+
+00:35:50.001 --> 00:35:56.200
+<v katharina-hoelzle>Und es scheint historisch gesehen so zu sein, es muss uns erst richtig schlecht gehen,
+
+00:35:56.201 --> 00:36:01.200
+<v katharina-hoelzle>es muss uns richtig weh tun, weil erst dann wir bereit sind, Verhaltensänderungen anzustreben.
+
+00:36:01.201 --> 00:36:07.200
+<v katharina-hoelzle>So, eigentlich haben wir jetzt gerade den Punkt, Thema Klimawandel, eigentlich geht es uns richtig schlecht,
+
+00:36:07.201 --> 00:36:10.900
+<v katharina-hoelzle>nur so richtig spüren wir es noch nicht.
+
+00:36:10.901 --> 00:36:15.100
+<v katharina-hoelzle>Und dann stellt sich die Frage, wer hat jetzt die Verantwortung, diese Impulse zu setzen?
+
+00:36:15.101 --> 00:36:19.300
+<v katharina-hoelzle>Und da kommen wir dann schon wieder auf diese Diskussionsebene,
+
+00:36:19.301 --> 00:36:24.500
+<v katharina-hoelzle>schafft der Markt, schaffen es die Unternehmen von sich aus, sich zu verändern
+
+00:36:24.501 --> 00:36:32.400
+<v katharina-hoelzle>und neue Impulse zu setzen oder brauchen wir den Staat, die Politik, um entsprechende Impulse zu setzen?
+
+00:36:32.401 --> 00:36:40.500
+<v katharina-hoelzle>Wo sich dann sehr schnell die Frage anschließt, kann der Staat tatsächlich innovativer sein als die Unternehmen oder als die Gesellschaft?
+
+00:36:40.501 --> 00:36:46.700
+<v katharina-hoelzle>Sie sprachen das gerade an, die Bürgerinnen und Bürger spüren, irgendwie so richtig cool fühlt sich das nicht mehr an.
+
+00:36:46.701 --> 00:36:54.100
+<v katharina-hoelzle>Aber schaffen sie es als Gesellschaft, diese Impulse zu setzen oder einzufordern
+
+00:36:54.101 --> 00:37:00.900
+<v katharina-hoelzle>oder ist das dann doch wieder zu anstrengend oder wir wissen ja nicht genau, welche Impulse es jetzt sein sollen.
+
+00:37:00.901 --> 00:37:06.100
+<v timpritlove>Ist ja immer so ein bisschen dieses Element der Disruption.
+
+00:37:06.101 --> 00:37:12.800
+<v timpritlove>Also die großen Gewinner der letzten Jahrzehnte, das gilt natürlich vor allem jetzt im digitalen Internetbereich,
+
+00:37:12.801 --> 00:37:18.700
+<v timpritlove>Google, Facebook etc. sind halt reingegangen und haben den Status quo dahingehen infrage gestellt,
+
+00:37:18.701 --> 00:37:23.600
+<v timpritlove>als dass sie gesagt haben, wir brauchen irgendwie was ganz anderes und wir sind jetzt hier die Disruptoren
+
+00:37:23.601 --> 00:37:30.800
+<v timpritlove>oder wie das irgendwie Tesla im Automobilbereich gemacht hat und einfach Dinge generell infrage gestellt hat.
+
+00:37:30.801 --> 00:37:34.300
+<v timpritlove>Einfach andere Vertriebsstrukturen, andere technische Möglichkeiten.
+
+00:37:34.301 --> 00:37:48.400
+<v timpritlove>Und Unternehmen, denen es über einen längeren Zeitraum gelingt, sich nicht durch die nächste Disruptionswelle den Teppich unter den Füßen wegziehen zu lassen,
+
+00:37:48.401 --> 00:37:54.200
+<v timpritlove>könnte man zum Beispiel mal auf Apple schauen, die sich ja nun wirklich schon bemerkenswert lange halten
+
+00:37:54.201 --> 00:37:59.600
+<v timpritlove>und dabei eigentlich auch immer so vorgegangen sind, dass sie so ihr eigener Feind sind.
+
+00:37:59.601 --> 00:38:07.300
+<v timpritlove>Dass sie einfach immer über sich selber so nachdenken, so, oh jetzt sind wir hier Platzhirsch,
+
+00:38:07.301 --> 00:38:10.500
+<v timpritlove>wie können wir uns selber den Platz streitig machen?
+
+00:38:10.501 --> 00:38:14.500
+<v timpritlove>Und darüber sozusagen so einen Innovationsdruck auf sich selbst erlegen,
+
+00:38:14.501 --> 00:38:17.700
+<v timpritlove>indem man sich eben selbst als Feind sieht.
+
+00:38:17.701 --> 00:38:28.900
+<v timpritlove>Das ist aber so eine Denkweise, die ich jetzt so im europäischen oder vielleicht auch konkret im deutschen Denken, Wirtschaftsdenken so nicht fühle.
+
+00:38:28.901 --> 00:38:29.800
+<v katharina-hoelzle>Richtig.
+
+00:38:29.801 --> 00:38:36.100
+<v katharina-hoelzle>Also das ist das, wir nennen das in der Innovationsforschung immer den Fluch der etablierten Unternehmen.
+
+00:38:36.101 --> 00:38:40.200
+<v katharina-hoelzle>Und das sehen wir in Deutschland sehr stark.
+
+00:38:40.201 --> 00:38:45.600
+<v katharina-hoelzle>Also dieser Wille, sich selber infrage zu stellen, der Wille, Dinge auszuprobieren,
+
+00:38:45.601 --> 00:38:50.000
+<v katharina-hoelzle>von denen wir noch nicht wissen, ob sie uns tatsächlich Geld bringen werden,
+
+00:38:50.001 --> 00:39:03.100
+<v katharina-hoelzle>wir sind in vielen Bereichen sehr, konservativ ist vielleicht das falsche Wort, aber sehr formalistisch organisiert und strukturiert.
+
+00:39:03.101 --> 00:39:04.600
+<v katharina-hoelzle>Und das finden wir in den Unternehmen auch.
+
+00:39:04.601 --> 00:39:08.400
+<v katharina-hoelzle>Da wird dann immer gleich nach dem Return on Investment gefragt.
+
+00:39:08.401 --> 00:39:11.700
+<v katharina-hoelzle>Da wird gefragt, wird es uns Geld bringen?
+
+00:39:11.701 --> 00:39:18.000
+<v katharina-hoelzle>Da werden diejenigen, die etwas ausprobieren und womöglich 100.000 Euro oder womöglich eine Million in den Sand setzen,
+
+00:39:18.001 --> 00:39:24.900
+<v katharina-hoelzle>geteert und gefedert und vom Hof gejagt, da werden diejenigen, die sagen,
+
+00:39:24.901 --> 00:39:31.100
+<v katharina-hoelzle>also hier der Farbfilm ist es nicht mehr, es ist in Zukunft die Digitalfotografie,
+
+00:39:31.101 --> 00:39:34.600
+<v katharina-hoelzle>da wird auch gesagt, vielen Dank Ablage F.
+
+00:39:34.601 --> 00:39:41.200
+<v katharina-hoelzle>Das hat viel für mich mit dieser deutschen Einstellung zu tun.
+
+00:39:41.201 --> 00:39:46.600
+<v katharina-hoelzle>Im Positiven haben wir es geschafft, ich hatte es gerade schon erwähnt, diese inkrementellen Innovationen.
+
+00:39:46.601 --> 00:39:48.200
+<v katharina-hoelzle>Und immer noch mal ein bisschen besser werden.
+
+00:39:48.201 --> 00:39:55.200
+<v katharina-hoelzle>Und schauen wir uns um, wir haben eine unglaublich stabile Gesellschaft bisher,
+
+00:39:55.201 --> 00:39:59.700
+<v katharina-hoelzle>im Moment fragen wir uns alle so ein bisschen was passiert, aber grundsätzlich klagen auf sehr hohem Niveau.
+
+00:39:59.701 --> 00:40:01.400
+<v katharina-hoelzle>Also grundsätzlich funktioniert alles.
+
+00:40:01.401 --> 00:40:06.300
+<v katharina-hoelzle>Das kommt dadurch, dass wir dieses, ich nenne das immer Kästchendenken, wir können prima in Kästchen denken,
+
+00:40:06.301 --> 00:40:12.400
+<v katharina-hoelzle>aber für disruptive Innovation, für diese Herausforderungen, vor denen wir jetzt stehen,
+
+00:40:12.401 --> 00:40:14.200
+<v katharina-hoelzle>müssen wir außerhalb dieser Kästchen denken.
+
+00:40:14.201 --> 00:40:20.400
+<v katharina-hoelzle>Und das ist aber eine Denk- und Lebensweise, die müssen wir alle lernen.
+
+00:40:20.401 --> 00:40:27.400
+<v katharina-hoelzle>Denn wie gesagt das tut erst mal weh, weil ich meinen eigenen Anspruch, mein eigenes Machtbewusstsein,
+
+00:40:27.401 --> 00:40:35.200
+<v katharina-hoelzle>mein eigenes, das habe ich mir aber verdient, das muss ich aufgeben und muss mich mit einer Unsicherheit anfreunden,
+
+00:40:35.201 --> 00:40:39.300
+<v katharina-hoelzle>von der ich heute nicht weiß, was sie mir morgen bringt.
+
+00:40:39.301 --> 00:40:45.300
+<v timpritlove>Die Automobilunternehmen, um noch mal das Beispiel versuchen fortzuführen,
+
+00:40:45.301 --> 00:40:49.600
+<v timpritlove>haben ja aber auch teilweise das ja auch probiert.
+
+00:40:49.601 --> 00:40:59.200
+<v timpritlove>Also sie haben Car Sharing Projekte gehabt und was weiß ich, BMW hat schon sehr früh ein Elektrofahrzeug auf den Weg gebracht,
+
+00:40:59.201 --> 00:41:03.200
+<v timpritlove>wo man so gedacht hat, ah okay, das könnte ja was werden.
+
+00:41:03.201 --> 00:41:09.000
+<v timpritlove>Und auch teilweise solche Innovationsmodelle mit so ausgelagerten Unternehmen gehabt,
+
+00:41:09.001 --> 00:41:13.500
+<v timpritlove>die dann so vor sich hinwurschteln können, außerhalb der normalen Konzernstruktur,
+
+00:41:13.501 --> 00:41:17.200
+<v timpritlove>schon so ein bisschen mit diesem Versuch, ja versucht uns mal Konkurrenz zu machen
+
+00:41:17.201 --> 00:41:20.000
+<v timpritlove>und wir gucken mal, was dabei rauskommt.
+
+00:41:20.001 --> 00:41:21.700
+<v timpritlove>Aber offensichtlich scheint das ja nicht gereicht zu haben.
+
+00:41:21.701 --> 00:41:24.800
+<v timpritlove>Was machen die denn da falsch?
+
+00:41:24.801 --> 00:41:31.400
+<v timpritlove>Also werden da die Lehren nicht richtig gewonnen oder werden die Lehren, die dann gezogen wurden, ignoriert?
+
+00:41:31.401 --> 00:41:39.000
+<v timpritlove>Was fehlt denn in diesem Innovationskranz sozusagen an angezündeten Kerzen,
+
+00:41:39.001 --> 00:41:46.800
+<v timpritlove>um da diesen Prozess auch wirklich so umzusetzen?
+
+00:41:46.801 --> 00:41:51.100
+<v katharina-hoelzle>Ich bin keine tiefe Kennerin der Automobilindustrie.
+
+00:41:51.101 --> 00:41:54.100
+<v katharina-hoelzle>Ich habe immer mal wieder Projekte mit denen zusammen macht,
+
+00:41:54.101 --> 00:42:01.000
+<v katharina-hoelzle>und insofern würde ich mich jetzt mal versuchen an einer Interpretation.
+
+00:42:01.001 --> 00:42:03.100
+<v katharina-hoelzle>Ich glaube, das was versucht wurde das hatten Sie sehr schön beschrieben,
+
+00:42:03.101 --> 00:42:07.400
+<v katharina-hoelzle>es gibt immer mal so die eine oder andere, so ein kleines Experimentallabor,
+
+00:42:07.401 --> 00:42:13.400
+<v katharina-hoelzle>so jetzt dürft ihr mal ausprobieren, aber das, wonach diese Unternehmen ticken
+
+00:42:13.401 --> 00:42:21.100
+<v katharina-hoelzle>und so wie sie aufgestellt sind, das ist immer der größere Motor, das größere Auto.
+
+00:42:21.101 --> 00:42:28.700
+<v katharina-hoelzle>Das breitere Auto, mehr Technik, mehr Elektronik, das ist sehr technikgetrieben.
+
+00:42:28.701 --> 00:42:37.300
+<v katharina-hoelzle>Das heißt, die Gelder gingen immer in die Neuentwicklung, beispielsweise in die S-Klasse oder in jetzt den neuen SUV.
+
+00:42:37.301 --> 00:42:40.200
+<v katharina-hoelzle>Das heißt, es waren immer eigentlich diese alten Geschichten.
+
+00:42:40.201 --> 00:42:42.600
+<v katharina-hoelzle>Und die anderen, das war immer so ein bisschen, jetzt probiert euch mal aus,
+
+00:42:42.601 --> 00:42:45.500
+<v katharina-hoelzle>aber ganz ehrlich, so richtig viel Geld werden wir damit nicht verdienen.
+
+00:42:45.501 --> 00:42:48.600
+<v katharina-hoelzle>Und dementsprechend waren natürlich auch nicht die Ressourcen dahinter
+
+00:42:48.601 --> 00:42:53.400
+<v katharina-hoelzle>und es wurde dann nicht in den Markt richtig geschubst und gestoßen
+
+00:42:53.401 --> 00:42:56.800
+<v katharina-hoelzle>und es wurde versucht, tatsächlich so ein Umdenken anzustreben.
+
+00:42:56.801 --> 00:42:59.900
+<v katharina-hoelzle>Denn auch klar, mit Drive Now, natürlich hat Daimler das probiert,
+
+00:42:59.901 --> 00:43:02.600
+<v katharina-hoelzle>aber es war immer klar, wir machen uns hier eigentlich unser eigenes Geschäft kaputt,
+
+00:43:02.601 --> 00:43:04.600
+<v katharina-hoelzle>also seid bloß vorsichtig was ihr macht.
+
+00:43:04.601 --> 00:43:10.300
+<v katharina-hoelzle>So das heißt, die internen Leistungskennzahlen, wie machen Sie Karriere in so einem Unternehmen?
+
+00:43:10.301 --> 00:43:14.900
+<v katharina-hoelzle>Wie bekommen Sie Ruhm und Ehre, das sind immer noch die klassischen.
+
+00:43:14.901 --> 00:43:21.000
+<v katharina-hoelzle>Und dementsprechend orientieren sich die Menschen natürlich auch in so einem Unternehmen.
+
+00:43:21.001 --> 00:43:26.000
+<v katharina-hoelzle>Und das gilt nicht nur für die Automobilindustrie, das sehen wir in allen Unternehmen.
+
+00:43:26.001 --> 00:43:33.500
+<v katharina-hoelzle>Es sind sehr traditionelle Entwicklungsperspektiven, Vergütungsstrukturen,
+
+00:43:33.501 --> 00:43:38.900
+<v katharina-hoelzle>es sind dann immer wieder die Punkte, wo gesagt wird, ja aber diesen Weg bin ich doch auch gegangen
+
+00:43:38.901 --> 00:43:42.200
+<v katharina-hoelzle>und das müssen die anderen auch so machen.
+
+00:43:42.201 --> 00:43:45.500
+<v katharina-hoelzle>Und das ist für Innovation total schädlich.
+
+00:43:45.501 --> 00:43:51.500
+<v katharina-hoelzle>Und jetzt ich sehe das ja, ich unterhalte mich häufig mit Unternehmensvertretern, so dieses,
+
+00:43:51.501 --> 00:43:54.800
+<v katharina-hoelzle>ja jetzt die junge Generation und die wollen ja alle nicht mehr so viel arbeiten
+
+00:43:54.801 --> 00:43:58.800
+<v katharina-hoelzle>und die wollen nur noch 30 Stunden und dann wollen sie aber hier noch was verdienen,
+
+00:43:58.801 --> 00:44:05.200
+<v katharina-hoelzle>da stoßen Welten aufeinander und das ist im Moment sehr spannend als Innovationsforscherin zu beobachten,
+
+00:44:05.201 --> 00:44:07.400
+<v katharina-hoelzle>was passiert da eigentlich in den Unternehmen?
+
+00:44:07.401 --> 00:44:11.100
+<v katharina-hoelzle>Schaffen wir es mit diesen jungen Leuten, die wirklich anders herangehen,
+
+00:44:11.101 --> 00:44:15.200
+<v katharina-hoelzle>die gehen anders an das Thema Arbeiten heran, die sind digitalisiert,
+
+00:44:15.201 --> 00:44:21.000
+<v katharina-hoelzle>die haben nicht mehr diese Statussymbole, es muss mindestens ein Auto, wenn nicht zwei Autos vor der Tür sein.
+
+00:44:21.001 --> 00:44:26.200
+<v katharina-hoelzle>Gleichzeitig spüren die eine ganz große Unsicherheit, die wissen nicht, wo sie in 20 Jahren sein werden.
+
+00:44:26.201 --> 00:44:32.200
+<v katharina-hoelzle>Und das ist jetzt die Frage, schaffen die Unternehmen es, sich so zu öffnen, so zu wandeln,
+
+00:44:32.201 --> 00:44:36.200
+<v katharina-hoelzle>dass sie diese Impulse aufnehmen und dann könnten sie innovativ sein.
+
+00:44:36.201 --> 00:44:39.500
+<v katharina-hoelzle>Aber ich sehe unglaubliche Beharrungstendenzen.
+
+00:44:39.501 --> 00:44:45.700
+<v timpritlove>Wenn so dieses, wir verdienen da ja kein Geld mit, wenn das sozusagen die Leistungskennzahl ist,
+
+00:44:45.701 --> 00:44:52.300
+<v timpritlove>die einzige, und das funktioniert nicht, was wäre denn eine andere Leistungskennzahl,
+
+00:44:52.301 --> 00:44:58.600
+<v timpritlove>an der man diese Aktivitäten bewerten kann, ohne jetzt einfach nur an das Bauchgefühl zu appellieren?
+
+00:44:58.601 --> 00:45:03.400
+<v timpritlove>Kann man den Menschen, ich meine, ich kann die ja in gewisser Hinsicht auch verstehen,
+
+00:45:03.401 --> 00:45:07.500
+<v timpritlove>wenn die da in so einer mittleren Organisationsstruktur sind, oben der dicke Konzern,
+
+00:45:07.501 --> 00:45:11.600
+<v timpritlove>ja, der immer nur das große Ganze sieht, das muss irgendwie alles funktionieren,
+
+00:45:11.601 --> 00:45:16.300
+<v timpritlove>dann sind die da so in diesem Bereich, haben irgendwie größere Teile unter sich,
+
+00:45:16.301 --> 00:45:23.200
+<v timpritlove>was sollen sie denn anderes bewerten als, man kann dasselbe günstiger machen oder wir bauen irgendwas,
+
+00:45:23.201 --> 00:45:27.400
+<v timpritlove>wo wir es den Kunden noch ein geredet bekommen.
+
+00:45:27.401 --> 00:45:33.000
+<v timpritlove>Also diese Eigendisruption muss ja dann auch in irgendeiner Form bewertet werden können,
+
+00:45:33.001 --> 00:45:35.000
+<v timpritlove>was wäre denn so eine Leistungskennzahl?
+
+00:45:35.001 --> 00:45:39.200
+<v katharina-hoelzle>Ja, also am Ende müssen natürlich die Umsätze stimmen, das ist klar,
+
+00:45:39.201 --> 00:45:42.200
+<v katharina-hoelzle>sonst kann ich meine ArbeitnehmerInnen nicht bezahlen.
+
+00:45:42.201 --> 00:45:42.200
+<v timpritlove>Ja, klar.
+
+00:45:42.201 --> 00:45:43.600
+<v katharina-hoelzle>Also damit bin ich raus.
+
+00:45:43.601 --> 00:45:50.700
+<v katharina-hoelzle>Aber das, was ich mir wünschen würde, wäre dass die Betrachtungszeiträume etwas gestreckt werden,
+
+00:45:50.701 --> 00:45:56.300
+<v katharina-hoelzle>dass gesagt wird, also es muss nicht, ähnlich wie wir ja auch Startup-Unternehmen betrachten,
+
+00:45:56.301 --> 00:46:02.900
+<v katharina-hoelzle>die sind in den ersten drei bis fünf Jahren nicht positiv im Cashflow.
+
+00:46:02.901 --> 00:46:10.200
+<v katharina-hoelzle>So und genauso solche Zeit muss ich disruptiven Innovationen im Unternehmen auch geben.
+
+00:46:10.201 --> 00:46:14.700
+<v katharina-hoelzle>In diesem Zeit gibt es dann sehr wohl Leistungskennzahlen, wo ich gucken kann,
+
+00:46:14.701 --> 00:46:25.400
+<v katharina-hoelzle>haben sie entsprechend so und so viel neue Kunden akquiriert, ist die Technologie, das Produkt, die Dienstleistung, ist das eingesetzt worden?
+
+00:46:25.401 --> 00:46:33.300
+<v katharina-hoelzle>Habe ich entsprechend, also bei den Innovationskennzahlen kann ich ja einerseits mir produktspezifische Kennzahlen angucken,
+
+00:46:33.301 --> 00:46:37.300
+<v katharina-hoelzle>dienstleistungsspezifische Kennzahlen, so wie ich sie gerade zitiert habe,
+
+00:46:37.301 --> 00:46:41.200
+<v katharina-hoelzle>aber ich kann ja auch gucken, habe ich einen Impact in der Gesellschaft gehabt? 
+
+00:46:41.201 --> 00:46:43.500
+<v katharina-hoelzle>Hat sich da etwas verändert, hat sich da eine Denkweise verändert?
+
+00:46:43.501 --> 00:46:45.600
+<v katharina-hoelzle>Ich kann mir ökologische Kennzahlen angucken.
+
+00:46:45.601 --> 00:46:50.300
+<v katharina-hoelzle>Habe ich es geschafft, meine Produktionslinie entsprechend effizienter zu machen,
+
+00:46:50.301 --> 00:46:53.600
+<v katharina-hoelzle>dass ich weniger Wasser verbrauche, dass ich weniger Strom verbrauche.
+
+00:46:53.601 --> 00:47:00.100
+<v katharina-hoelzle>Also da sind wir auch, dieses Thema Innovationscontrolling ist kein einfaches,
+
+00:47:00.101 --> 00:47:06.200
+<v katharina-hoelzle>muss auch jedes Unternehmen für sich selber entscheiden, was sind da Kennzahlen, mit denen wir arbeiten können,
+
+00:47:06.201 --> 00:47:16.500
+<v katharina-hoelzle>wichtig ist es nur, den Mut zu haben zu sagen, wir werden da erst mal sehr wahrscheinlich sogar relativ viel Geld reinstecken müssen.
+
+00:47:16.501 --> 00:47:27.400
+<v timpritlove>Das Ganze trägt sich ja jetzt dann zwangsläufig in die Gesellschaft und damit natürlich auch in die Politik, so.
+
+00:47:27.401 --> 00:47:31.200
+<v timpritlove>Also wenn wir jetzt sagen, die wirtschaftlichen Leistungskennzahlen die sind schwierig zu greifen,
+
+00:47:31.201 --> 00:47:39.300
+<v timpritlove>weil am Ende geht es dann doch immer irgendwie um Geld, wir müssen aber jetzt trotzdem noch andere Größenordnungen mit reinnehmen
+
+00:47:39.301 --> 00:47:43.700
+<v timpritlove>und dann ist ja auch irgendwie die Gesellschaft gefragt und damit ja quasi auch so die Kunden und was wollen die eigentlich und so weiter,
+
+00:47:43.701 --> 00:47:47.600
+<v timpritlove>aber auch was will die Politik.
+
+00:47:47.601 --> 00:47:52.200
+<v timpritlove>Sprich, jetzt müssen wir eigentlich für die Gesamtwirtschaft oder für die Gesamtgesellschaft,
+
+00:47:52.201 --> 00:47:55.100
+<v timpritlove>wo die Wirtschaft ein Teil davon ist, eben diese gesellschaftlichen Leistungskennzahlen,
+
+00:47:55.101 --> 00:48:01.900
+<v timpritlove>so würde ich es jetzt mal nennen, auch mit definieren und das geschieht ja teilweise dann eben auch durch die politischen Vorgaben.
+
+00:48:01.901 --> 00:48:06.200
+<v timpritlove>Wobei man jetzt so ein bisschen den Eindruck gewonnen hat, dass die Politik halt mehr oder weniger eigentlich immer dem gefolgt ist,
+
+00:48:06.201 --> 00:48:07.200
+<v timpritlove>was die Wirtschaft gesagt hat.
+
+00:48:07.201 --> 00:48:09.500
+<v timpritlove>Die Wirtschaft sagt, da verdienen wir kein Geld damit, dann sagt die Politik,
+
+00:48:09.501 --> 00:48:13.000
+<v timpritlove>naja, wenn das so ist, dann machen wir da halt mal lieber nichts.
+
+00:48:13.001 --> 00:48:18.700
+<v timpritlove>Das ist so ein bisschen, glaube ich, so ein Missverständnis, was sich so in den letzten Jahren so durchgesetzt hat.
+
+00:48:18.701 --> 00:48:27.100
+<v timpritlove>Jetzt sind Sie ja auch Teil so einer Beratungsoffensive, sage ich mal,
+
+00:48:27.101 --> 00:48:32.100
+<v timpritlove>also da gibt es einerseits diese Expertenkommission Forschung und Innovation,
+
+00:48:32.101 --> 00:48:37.400
+<v timpritlove>die der Bundesregierung zuarbeitet und es gibt auch noch ein Hightech-Forum,
+
+00:48:37.401 --> 00:48:43.600
+<v timpritlove>auch der Bundesregierung, was sind das so für Kommissionen, wie sind die aufgestellt, was sollen die eigentlich tun?
+
+00:48:43.601 --> 00:48:48.900
+<v katharina-hoelzle>Die Expertenkommission Forschung und Innovation ist vor gut zehn Jahren,
+
+00:48:48.901 --> 00:48:56.900
+<v katharina-hoelzle>vor elf Jahren ins Leben gerufen worden als innovationsökonomische Kommission,
+
+00:48:56.901 --> 00:49:04.200
+<v katharina-hoelzle>die genau solche Fragen, wie wir sie jetzt gerade diskutieren und Sie so schön anmoderiert haben,
+
+00:49:04.201 --> 00:49:12.400
+<v katharina-hoelzle>dabei Hilfestellung leisten soll, indem sie, wir machen das einmal jährlich in einem Gutachten,
+
+00:49:12.401 --> 00:49:17.000
+<v katharina-hoelzle>und wir machen es auch mittlerweile unterjährig über sogenannte Policy Briefs,
+
+00:49:17.001 --> 00:49:21.400
+<v katharina-hoelzle>wo wir dann so auf zwei, drei Seiten zu einem Thema Stellung nehmen.
+
+00:49:21.401 --> 00:49:29.100
+<v katharina-hoelzle>Wir sind sechs Wissenschaftler, Wissenschaftlerinnen, drei, drei, die aus dem Bereich der Innovationsökonomie kommen,
+
+00:49:29.101 --> 00:49:37.100
+<v katharina-hoelzle>also eher volkswirtschaftlich orientiert bzw. die Kollegin Häusler und ich eben aus dem Bereich Wirtschaftsingenieurwesen,
+
+00:49:37.101 --> 00:49:46.900
+<v katharina-hoelzle>und die der Politik sagen, also aus wissenschaftlicher Perspektive, das, was die Wissenschaft heute herausgefunden hat,
+
+00:49:46.901 --> 00:49:54.000
+<v katharina-hoelzle>also wirklich aktuelle Forschungsergebnisse, würden wir euch folgendes empfehlen.
+
+00:49:54.001 --> 00:50:01.400
+<v katharina-hoelzle>Und wir versuchen, das Ganze sowohl empirisch zu begründen, indem wir regelmäßig Befragungen dazu durchführen
+
+00:50:01.401 --> 00:50:06.900
+<v katharina-hoelzle>bzw. diese dann auswerten oder das Ganze auch durchaus mal mit einem theoretischen Modell begründen
+
+00:50:06.901 --> 00:50:12.900
+<v katharina-hoelzle>und sagen, pass mal auf, die Theorie sagt, der Markt würde sich folgendermaßen verhalten.
+
+00:50:12.901 --> 00:50:18.400
+<v katharina-hoelzle>Wenn ihr als Politik jetzt das entscheidet, dann gibt es folgende Möglichkeiten.
+
+00:50:18.401 --> 00:50:19.300
+<v katharina-hoelzle>Und da hören wir dann auf.
+
+00:50:19.301 --> 00:50:26.400
+<v katharina-hoelzle>Wir versuchen, Theorie und empirisch gestützte Empfehlungen abzugeben,
+
+00:50:26.401 --> 00:50:29.900
+<v katharina-hoelzle>zu sagen, also wenn ihr uns fragen würdet, was ihr ja tut, sonst wären wir nicht eingesetzt,
+
+00:50:29.901 --> 00:50:36.200
+<v katharina-hoelzle>dann sind das unsere Empfehlungen, was ihr damit macht, ist natürlich euch überlassen.
+
+00:50:36.201 --> 00:50:39.100
+<v timpritlove>Wie oft findet das statt?
+
+00:50:39.101 --> 00:50:41.200
+<v katharina-hoelzle>Es gibt einmal im Jahr das EFI-Gutachten.
+
+00:50:41.201 --> 00:50:45.100
+<v katharina-hoelzle>Wir schreiben gerade das Gutachten, was im Februar 2022 übergeben werden,
+
+00:50:45.101 --> 00:50:47.600
+<v katharina-hoelzle>bisher haben wir es immer direkt an Frau Merkel übergeben.
+
+00:50:47.601 --> 00:50:52.800
+<v katharina-hoelzle>Wir hoffen sehr, dass wir im Februar 2022 das an Herrn Scholz übergeben dürfen,
+
+00:50:52.801 --> 00:50:59.700
+<v katharina-hoelzle>gleichzeitig sind wir eben sehr eng mit dem Bundesbildungs- und Forschungsministerium, dem BMBF, im Austausch,
+
+00:50:59.701 --> 00:51:05.100
+<v katharina-hoelzle>aber wie gesagt, wir sind kein Gremium des BMBF, sondern tatsächlich eingesetzt durch den deutschen Bundestag.
+
+00:51:05.101 --> 00:51:12.300
+<v katharina-hoelzle>Also das heißt, unsere Adressaten sind die ParlamentarierInnen aber auch die Gesellschaft und die Wirtschaft.
+
+00:51:12.301 --> 00:51:17.900
+<v katharina-hoelzle>Das heißt, unser Gutachten ist sehr bewusst so geschrieben, dass wir versuchen,
+
+00:51:17.901 --> 00:51:26.100
+<v katharina-hoelzle>diese wissenschaftlichen Erkenntnisse so aufzubereiten, dass es einer möglichst breiten Öffentlichkeit zugänglich ist.
+
+00:51:26.101 --> 00:51:32.200
+<v katharina-hoelzle>Und das ist nicht einfach, da können wir uns auch wunderbar drüber streiten im Kreise der Experten,
+
+00:51:32.201 --> 00:51:39.100
+<v katharina-hoelzle>aber das ist der Anspruch und das sind dann solche Themen wie, die Agilität des Staates beispielsweise im letzten Jahr.
+
+00:51:39.101 --> 00:51:41.200
+<v katharina-hoelzle>Wir haben im letzten Jahr zu CRISPR/Cas Stellung genommen,
+
+00:51:41.201 --> 00:51:44.700
+<v katharina-hoelzle>was bedeutet das, wie sollte sich Deutschland da aufstellen.
+
+00:51:44.701 --> 00:51:45.800
+<v timpritlove>Also die Genschere.
+
+00:51:45.801 --> 00:51:46.700
+<v katharina-hoelzle>Die Genschere genau.
+
+00:51:46.701 --> 00:51:53.700
+<v katharina-hoelzle>Wir haben auch zu Blockchain schon mal was geschrieben, wir haben natürlich schon mal was zum Thema Digitalisierung in Gesellschaft,
+
+00:51:53.701 --> 00:52:04.500
+<v katharina-hoelzle>in der Bildung geschrieben, wir haben schon mal was zum Thema, also breite Themenvielfalt.
+
+00:52:04.501 --> 00:52:06.600
+<v katharina-hoelzle>Arbeitsmarkt der Zukunft letztes Jahr.
+
+00:52:06.601 --> 00:52:15.500
+<v timpritlove>Ja. Ich greife mal eins raus, Agilität des Staates, das ist ja, sagen wir mal, klingt so ein bisschen wie ein Widerspruch in sich.
+
+00:52:15.501 --> 00:52:18.100
+<v katharina-hoelzle>/lacht/
+
+00:52:18.101 --> 00:52:22.000
+<v timpritlove>Was steht denn da drin?
+
+00:52:22.001 --> 00:52:26.200
+<v timpritlove>Also was wird denn dann so dem Staat vorgeschlagen?
+
+00:52:26.201 --> 00:52:30.200
+<v timpritlove>Und anhand welcher Forschungsergebnisse macht man das dann fest?
+
+00:52:30.201 --> 00:52:34.300
+<v katharina-hoelzle>Genau, das war also Kapitel im letzten Jahr, was eben momentan hochaktuell ist.
+
+00:52:34.301 --> 00:52:39.200
+<v katharina-hoelzle>Wir haben dann auch tatsächlich noch mal zwei Policy Briefs darauf aufbauend geschrieben.
+
+00:52:39.201 --> 00:52:46.000
+<v katharina-hoelzle>Wir haben ja auch beispielsweise ein Ministerium neuen Zuschnitts gefordert vor einigen Monaten,
+
+00:52:46.001 --> 00:52:52.300
+<v katharina-hoelzle>das könnte ein Digitalministerium sein, es hätte aber auch jedes andere Ministerium sein können.
+
+00:52:52.301 --> 00:52:57.900
+<v katharina-hoelzle>In dem wir eben genau das gefordert haben, die Politik, der Staat muss agiler werden.
+
+00:52:57.901 --> 00:52:58.300
+<v katharina-hoelzle>Was heißt agiler?
+
+00:52:58.301 --> 00:53:06.900
+<v katharina-hoelzle>Agiler heißt, dass er schneller reagiert, dass er Dinge ausprobiert, sie dann auch gerne,
+
+00:53:06.901 --> 00:53:17.500
+<v katharina-hoelzle>wenn er feststellt, das funktioniert so nicht, wieder sein lässt und iterativ auf den Erfahrungen aufbaut und dann weiterdenkt.
+
+00:53:17.501 --> 00:53:19.600
+<v katharina-hoelzle>Also das ist sozusagen dieser Grundbegriff der Agilität.
+
+00:53:19.601 --> 00:53:23.700
+<v katharina-hoelzle>Und Sie sagten gerade schon so schön, das ist doch ein Widerspruch in sich, ist es tatsächlich.
+
+00:53:23.701 --> 00:53:28.900
+<v katharina-hoelzle>Aktuell, wenn wir uns den deutschen Staat angucken, kann sich kaum jemand vorstellen, dass dieser Staat agil ist.
+
+00:53:28.901 --> 00:53:32.100
+<v katharina-hoelzle>Wenn wir uns aber die großen gesellschaftlichen Herausforderungen angucken,
+
+00:53:32.101 --> 00:53:38.600
+<v katharina-hoelzle>dann müssen wir das, denn keiner von uns weiß, wie wir die Klimakrise lösen, das weiß keiner.
+
+00:53:38.601 --> 00:53:44.300
+<v katharina-hoelzle>Das einzige, was wir machen können, ist, und da kommt jetzt, und das war ein zweiter wichtiger Teil in diesem Kapitel,
+
+00:53:44.301 --> 00:53:46.500
+<v katharina-hoelzle>ist diese Missionsorientierung.
+
+00:53:46.501 --> 00:53:55.400
+<v katharina-hoelzle>Der Staat kann sogenannte Missionen vorgeben und sagen, wir gehen aktiv die Klimakrise an,
+
+00:53:55.401 --> 00:54:03.800
+<v katharina-hoelzle>indem wir beispielsweise, Thema Kennzahl, die Erwärmung auf 1,5 Grad begrenzen
+
+00:54:03.801 --> 00:54:06.900
+<v katharina-hoelzle>und wir machen das mit folgenden Maßnahmen.
+
+00:54:06.901 --> 00:54:11.000
+<v katharina-hoelzle>So damit gibt der Staat einen Rahmen vor.
+
+00:54:11.001 --> 00:54:15.400
+<v katharina-hoelzle>Wie wir diesen Rahmen jetzt ausmalen und das Bild ist auch schon skizziert,
+
+00:54:15.401 --> 00:54:20.700
+<v katharina-hoelzle>aber welche Farben wir dafür nutzen, wie wir das ausmalen, ob wir das jetzt mit Pastellfarben machen,
+
+00:54:20.701 --> 00:54:26.200
+<v katharina-hoelzle>Aquarellfarben oder Ölfarben oder ob wir dieses Bild noch mal anpassen müssen,
+
+00:54:26.201 --> 00:54:30.400
+<v katharina-hoelzle>das ist dann wiederum vielen Akteuren überlassen und das ist uns eben ganz wichtig,
+
+00:54:30.401 --> 00:54:34.000
+<v katharina-hoelzle>der Staat kann nicht alles machen.
+
+00:54:34.001 --> 00:54:42.600
+<v katharina-hoelzle>Und da haben wir schon auch wieder dieses Thema Agilität bzw. warum wir dann als EFI mit dem Thema innovationsökonomischem Sachverstand sagen,
+
+00:54:42.601 --> 00:54:48.300
+<v katharina-hoelzle>der Staat hat eine wichtige Rolle zu spielen, aber anders beispielsweise als Mariana Mazzucato,
+
+00:54:48.301 --> 00:54:56.300
+<v katharina-hoelzle>die sagt, der Staat geht dann ins kleinste Detail und gibt dann vor, in Zukunft nur noch Elektromobilität.
+
+00:54:56.301 --> 00:55:02.600
+<v katharina-hoelzle>Sagen wir eben, es muss in diesem Rahmen muss es Flexibilität geben.
+
+00:55:02.601 --> 00:55:05.600
+<v timpritlove>Das mit den Pastellfarben steht da bestimmt so nicht drin.
+
+00:55:05.601 --> 00:55:07.700
+<v katharina-hoelzle>Nein, das habe ich jetzt gerade für Sie.
+
+00:55:07.701 --> 00:55:12.800
+<v timpritlove>Ja, ja, ich habe nichts gegen Bilder, aber mich interessiert wirklich auch mal, was steht denn konkret drin?
+
+00:55:12.801 --> 00:55:18.400
+<v timpritlove>Ich habe es natürlich nicht gelesen, ich fauler Sack, aber was…
+
+00:55:18.401 --> 00:55:25.200
+<v timpritlove>Weil worauf ich ein bisschen hinaus will, ist, wenn man sich über Innovation und Effektivität von Maßnahmen und so weiter Gedanken macht,
+
+00:55:25.201 --> 00:55:28.200
+<v timpritlove>dann macht man sich ja wahrscheinlich auch Gedanken darüber, was schreibe ich jetzt in so ein Paper rein,
+
+00:55:28.201 --> 00:55:30.800
+<v timpritlove>und was bewirkt es einfach auch mal konkret.
+
+00:55:30.801 --> 00:55:34.800
+<v timpritlove>Also man muss ja sozusagen auch diese konkrete Schnittstelle zu einer Bundesregierung oder einem Bundesministerium
+
+00:55:34.801 --> 00:55:40.100
+<v timpritlove>auch so denken, so nach dem Motto, okay wir haben jetzt hier einen begrenzten Zeitraum,
+
+00:55:40.101 --> 00:55:43.300
+<v timpritlove>wir machen jetzt hier eine Empfehlung, was schreiben wir da rein und wie schreiben wir das da rein,
+
+00:55:43.301 --> 00:55:47.200
+<v timpritlove>damit das dann auch in gewisser Hinsicht Erfolg haben kann.
+
+00:55:47.201 --> 00:55:54.300
+<v katharina-hoelzle>Das ist ein ganz dünner Grat, weil wir nicht die Politik machen wollen und auch können, dafür sind wir nicht ausgebildet.
+
+00:55:54.301 --> 00:55:55.500
+<v timpritlove>Ja klar.
+
+00:55:55.501 --> 00:55:59.000
+<v katharina-hoelzle>Das heißt, wir werden der Politik nie sagen, mach A, mach B, mach C,
+
+00:55:59.001 --> 00:56:07.000
+<v katharina-hoelzle>sondern auch da sagen wir nur, wir empfehlen beispielsweise, eine missionsorientierte Politik zu betreiben.
+
+00:56:07.001 --> 00:56:09.100
+<v katharina-hoelzle>Was beutetet missionsorientiert?
+
+00:56:09.101 --> 00:56:11.300
+<v katharina-hoelzle>Ich hatte das gerade eben kurz angesprochen.
+
+00:56:11.301 --> 00:56:15.800
+<v katharina-hoelzle>So das könnte beispielsweise, Sie haben ja das Hightech-Forum schon angesprochen,
+
+00:56:15.801 --> 00:56:17.700
+<v katharina-hoelzle>das könnte im Rahmen der Hightech-Strategie erfolgen.
+
+00:56:17.701 --> 00:56:24.200
+<v katharina-hoelzle>Die Hightech-Strategie, die wir in den vergangen vier Jahren hatten, war eine quasi missionsorientierte Politik.
+
+00:56:24.201 --> 00:56:31.500
+<v katharina-hoelzle>Da wurden also auch Dekade des Krebses, also wir als Bundesregierung geben vor,
+
+00:56:31.501 --> 00:56:36.100
+<v katharina-hoelzle>wir wollen das Thema Krebsforschung ganz stark vorantreiben.
+
+00:56:36.101 --> 00:56:38.000
+<v katharina-hoelzle>Wie sieht es dann ganz konkret aus?
+
+00:56:38.001 --> 00:56:39.800
+<v katharina-hoelzle>Das müssen dann die Akutere übersetzen.
+
+00:56:39.801 --> 00:56:46.300
+<v katharina-hoelzle>Und da kommt dann beispielsweise jetzt das Hightech-Forum rein, das im Vergleich zur EFI-Kommission sehr viel pragmatischer arbeitet.
+
+00:56:46.301 --> 00:56:51.100
+<v katharina-hoelzle>Da sind Vertreter aus der Wirtschaft dabei, da sind Unternehmer dabei, Unternehmerinnen,
+
+00:56:51.101 --> 00:56:57.200
+<v katharina-hoelzle>Startup-Unternehmerinnen, Mittelständler, Großunternehmer bzw. eben aus dem Management.
+
+00:56:57.201 --> 00:57:02.900
+<v katharina-hoelzle>Da ist die Wissenschaft dabei, verschiedene Forschungsinstitute, da ist die Gesellschaft dabei,
+
+00:57:02.901 --> 00:57:07.600
+<v katharina-hoelzle>nicht so stark wie wir es uns gewünscht hätten, das gibt es vielleicht jetzt in der nächsten Iteration.
+
+00:57:07.601 --> 00:57:14.300
+<v katharina-hoelzle>Denn das und das beantwortet jetzt Ihre Frage, wer bestimmt das jetzt eigentlich und wer macht das eigentlich jetzt,
+
+00:57:14.301 --> 00:57:16.600
+<v katharina-hoelzle>das müssen die gesellschaftlichen Akteure sein.
+
+00:57:16.601 --> 00:57:22.800
+<v katharina-hoelzle>Das muss dann die Wissenschaft, die Wirtschaft, die Politik und die Gesellschaft, das sind ja diese vier Stränge,
+
+00:57:22.801 --> 00:57:27.300
+<v katharina-hoelzle>die müssen das gemeinsam in einem Diskurs ausdiskutieren und sagen,
+
+00:57:27.301 --> 00:57:30.400
+<v katharina-hoelzle>was bedeutet diese Mission jetzt, Dekade des Krebses?
+
+00:57:30.401 --> 00:57:38.000
+<v katharina-hoelzle>Reduktion der globalen Erwärmung um 1,5 Grad, was sind meine Antworten als Wissenschaftler,
+
+00:57:38.001 --> 00:57:43.300
+<v katharina-hoelzle>als Gesellschaft, als Wirtschaft, was sind meine Antworten darauf und wo können wir da zusammenarbeiten?
+
+00:57:43.301 --> 00:57:54.700
+<v katharina-hoelzle>Und die Politik ist für mich oder dann eben auch für uns als EFI und im Hightech-Forum ist es ähnlich, ein Moderator, ein Rahmengeber.
+
+00:57:54.701 --> 00:58:02.100
+<v timpritlove>Im letzten Gespräch hier bei Forschergeist habe ich mich mal mit Rafael Laguna de la Vera unterhalten,
+
+00:58:02.101 --> 00:58:10.300
+<v timpritlove>der ja dieses neue Institut für Sprunginnovationen vornimmt, das ist ja dann sozusagen auch so eine Manifestation dieser Idee,
+
+00:58:10.301 --> 00:58:15.300
+<v timpritlove>Innovationen auch wirklich als Teil des Staates zu machen, haben Sie da auch Kontakt?
+
+00:58:15.301 --> 00:58:17.900
+<v timpritlove>Ist das Teil Ihrer Forschung?
+
+00:58:17.901 --> 00:58:23.700
+<v katharina-hoelzle>Ja, natürlich. Also auf der einen Seite ist die Agentur für Sprunginnovation ja quasi ein EFI-Produkt,
+
+00:58:23.701 --> 00:58:28.400
+<v katharina-hoelzle>also die EFI hat unter der Leitung von Dietmar Harhoff über Jahre gefordert,
+
+00:58:28.401 --> 00:58:39.400
+<v katharina-hoelzle>dass es eine solche Agentur braucht oder eine solche Institution, die eben frei von politischen Vorgaben Geld in die Hand nehmen kann,
+
+00:58:39.401 --> 00:58:42.200
+<v katharina-hoelzle>um einfach mal diese verrückten Ideen, an die nämlich sonst keiner glaubt,
+
+00:58:42.201 --> 00:58:47.600
+<v katharina-hoelzle>für die es noch keine Kennzahlen gibt, für die wir im Zweifel noch gar nicht wissen, wer es eigentlich machen soll,
+
+00:58:47.601 --> 00:58:48.900
+<v katharina-hoelzle>so etwas anstoßen kann.
+
+00:58:48.901 --> 00:58:58.500
+<v katharina-hoelzle>Also insofern ist die EFI und die SPRIND die sind sehr eng miteinander vertraut, sage ich mal so.
+
+00:58:58.501 --> 00:59:03.700
+<v katharina-hoelzle>Davon abgesehen, dass eben dann wir uns auch immer versuchen abzugleichen, wer macht eigentlich gerade was
+
+00:59:03.701 --> 00:59:08.900
+<v katharina-hoelzle>oder wir versuchen uns da auch entsprechend auszutauschen.
+
+00:59:08.901 --> 00:59:11.000
+<v katharina-hoelzle>Jetzt habe ich Ihre Frage vergessen.
+
+00:59:11.001 --> 00:59:15.100
+<v timpritlove>Ja, das war die Frage, also wie hängt das zusammen?
+
+00:59:15.101 --> 00:59:21.200
+<v timpritlove>Also haben Sie ja im Prinzip schon gesagt, dass ist ein Ergebnis sozusagen oder war zumindest mal ein Vorschlag.
+
+00:59:21.201 --> 00:59:21.500
+<v katharina-hoelzle>Ja, genau.
+
+00:59:21.501 --> 00:59:25.200
+<v timpritlove>Und das kam bei raus, kann man jetzt sagen, okay das ist nur weil wir das gesagt haben, wahrscheinlich nicht.
+
+00:59:25.201 --> 00:59:28.700
+<v katharina-hoelzle>Und andere Akteure, ja genau, das will ich jetzt gar nicht …
+
+00:59:28.701 --> 00:59:33.300
+<v timpritlove>Und das sind sozusagen Ziele und damit auch messbare Ergebnisse.
+
+00:59:33.301 --> 00:59:39.700
+<v timpritlove>Ich meine, inwiefern die Ergebnisse dieser Agentur messbar sind, das werden wir dann erst noch sehen,
+
+00:59:39.701 --> 00:59:48.100
+<v timpritlove>Aber ist ja zumindest schon mal ein Gedanke gewesen, so nach dem Motto, wir brauchen so was ähnliches eben wie die DARPA in den USA.
+
+00:59:48.101 --> 00:59:55.300
+<v timpritlove>Also eine Institution, die eben konkret auch was auslösen kann, indem sie auch wirklich mal konkret Geld in die Hand nehmen kann
+
+00:59:55.301 --> 01:00:01.200
+<v timpritlove>und unabhängig von dem eigentlichen politischen Vorgang, der zwangsläufig langsam ist,
+
+01:00:01.201 --> 01:00:08.800
+<v timpritlove>weil er immer versucht, einen politischen Konsens auszuhandeln, einfach mal Dinge ausprobiert und Kohle verbraten kann
+
+01:00:08.801 --> 01:00:12.400
+<v timpritlove>und dann auch mal in Kauf nimmt, dass irgendwas nicht so gut funktioniert,
+
+01:00:12.401 --> 01:00:18.300
+<v timpritlove>weil wenn man genug Sachen nimmt, irgendwas wird eben schon hängenbleiben.
+
+01:00:18.301 --> 01:00:24.000
+<v timpritlove>Aber mich interessiert halt jetzt wirklich dieses, vielleicht gibt es noch ein paar Sachen,
+
+01:00:24.001 --> 01:00:30.100
+<v timpritlove>die man dazu sagen kann, so dieses Interface von der Wissenschaft zur Politik.
+
+01:00:30.101 --> 01:00:36.200
+<v timpritlove>Weil ich stelle mir halt immer so ein bisschen vor, naja Gutachter, Kommission, Gremien, alles schön und gut,
+
+01:00:36.201 --> 01:00:39.800
+<v timpritlove>da macht man dann mal so sein Papierchen, das legt man hin, dann hat man eine Presskonferenz
+
+01:00:39.801 --> 01:00:47.300
+<v timpritlove>und dann wird einem schön gedankt, wie innovativ das doch jetzt wieder alles ist und dann ist nächsten Montag wieder business as usual.
+
+01:00:47.301 --> 01:00:51.200
+<v timpritlove>Das ist jetzt so ein bisschen vielleicht auch, ne…
+
+01:00:51.201 --> 01:00:54.300
+<v timpritlove>Wie das dann wahrgenommen wird, manchmal findet es wahrscheinlich auch so statt,
+
+01:00:54.301 --> 01:00:58.100
+<v timpritlove>aber haben Sie auch das Gefühl, dass das so ist oder ist es anders?
+
+01:00:58.101 --> 01:00:59.300
+<v timpritlove>Wie verfängt das?
+
+01:00:59.301 --> 01:01:08.000
+<v timpritlove>Also wie Ofen ist der politische Prozess für die wissenschaftliche Beratung konkret?
+
+01:01:08.001 --> 01:01:09.300
+<v katharina-hoelzle>Also die Frage stellen wir uns ja selber auch immer wieder.
+
+01:01:09.301 --> 01:01:13.800
+<v katharina-hoelzle>Das Hightech-Forum ist ja jetzt geendet mit der letzten Legislaturperiode.
+
+01:01:13.801 --> 01:01:18.500
+<v katharina-hoelzle>Ob es das wieder geben wird, ob es eine Hightech-Strategie, sie ist ja zumindest im Koalitionsvertrag festgehalten,
+
+01:01:18.501 --> 01:01:22.200
+<v katharina-hoelzle>oder eine Zukunftsstrategie geben wird, wer die begleiten wird, das werden wir sehen.
+
+01:01:22.201 --> 01:01:31.000
+<v katharina-hoelzle>Ich sehe den Einfluss oder wir nennen das neudeutsch ja immer so schön Impact auf verschiedenen Dimensionen.
+
+01:01:31.001 --> 01:01:38.900
+<v katharina-hoelzle>Also wenn ich jetzt noch mal für die EFI spreche, wir glauben und das, was wir an Feedback bekommen,
+
+01:01:38.901 --> 01:01:44.100
+<v katharina-hoelzle>gelingt es uns, mit unseren Gutachten immer wieder aktuelle Themen aufzugreifen,
+
+01:01:44.101 --> 01:01:50.000
+<v katharina-hoelzle>sie zu übersetzen für die Parlamentarierinnen und Parlamentarier, ihnen zu zeigen,
+
+01:01:50.001 --> 01:01:57.200
+<v katharina-hoelzle>wo da beispielsweise Innovation drinsteckt, also jetzt wieder Beispiel Genschere CRISPR/Cas,
+
+01:01:57.201 --> 01:02:03.900
+<v katharina-hoelzle>wie Politik gestaltet werden sollte, Thema agiler Staat oder Arbeitsmarkt der Zukunft,
+
+01:02:03.901 --> 01:02:08.900
+<v katharina-hoelzle>was sind eigentlich die Fähigkeiten, die die Arbeitnehmerinnen in Zukunft brauchen werden.
+
+01:02:08.901 --> 01:02:14.500
+<v katharina-hoelzle>Das sind Impulse, die wir setzen, die werden gelesen, die werden reflektiert,
+
+01:02:14.501 --> 01:02:19.100
+<v katharina-hoelzle>die werden in den Ausschüssen diskutiert, das wissen wir.
+
+01:02:19.101 --> 01:02:23.100
+<v katharina-hoelzle>Wir wissen auch, dass sie in den Ministerien aufgegriffen werden
+
+01:02:23.101 --> 01:02:27.600
+<v katharina-hoelzle>und da teilweise nach einigen Jahren, also das mussten wir schon lernen,
+
+01:02:27.601 --> 01:02:33.000
+<v katharina-hoelzle>dass dieses Brett doch ein bisschen dicker ist, aber wenn man immer wieder da auch reinbohrt
+
+01:02:33.001 --> 01:02:37.300
+<v katharina-hoelzle>und wir greifen auch Themen immer wieder auf, dass wir sagen, im letzten Jahr haben wir
+
+01:02:37.301 --> 01:02:41.700
+<v katharina-hoelzle>und es ist immer noch nichts passiert und jetzt macht doch bitte mal was,
+
+01:02:41.701 --> 01:02:45.500
+<v katharina-hoelzle>3,5 Prozent Ziel für die Innovationsausgaben ist so eine andere EFI-Forderung,
+
+01:02:45.501 --> 01:02:50.300
+<v katharina-hoelzle>die also auch sehr lange immer wieder wiederholt werden musste, bis sie dann umgesetzt wurde.
+
+01:02:50.301 --> 01:02:58.100
+<v katharina-hoelzle>Was ich persönlich lernen musste ist, dass Politik unglaublich vielfältig ist,
+
+01:02:58.101 --> 01:03:02.000
+<v katharina-hoelzle>das, was in den Ministerien passiert und das, was im Bundestag passiert,
+
+01:03:02.001 --> 01:03:06.200
+<v katharina-hoelzle>das ist so das eine, was wir beeinflussen können als Wissenschaftlerinnen und Wissenschaftler.
+
+01:03:06.201 --> 01:03:13.700
+<v katharina-hoelzle>Das, was dann nachher in der konkreten Politikarbeit dann tatsächlich Eingang in Gesetzesvorhaben
+
+01:03:13.701 --> 01:03:22.800
+<v katharina-hoelzle>oder Umsetzungsprojekte findet, das ist dann wiederum und da haben wir schon letztendlich eine Vergleichbarkeit mit den großen Unternehmen,
+
+01:03:22.801 --> 01:03:27.900
+<v katharina-hoelzle>das ist dann wieder von sehr vielen Partikularinteressen getrieben.
+
+01:03:27.901 --> 01:03:33.300
+<v katharina-hoelzle>Es ist dann der einzelne Parlamentarier, der jetzt vor Ort seinem Wahlkreis etwas gutes tun will.
+
+01:03:33.301 --> 01:03:38.600
+<v katharina-hoelzle>Und plötzlich sind die schönsten Konzepte werden also wieder infrage gestellt,
+
+01:03:38.601 --> 01:03:42.200
+<v katharina-hoelzle>weil gesagt wird, naja das müssen wir jetzt noch mal überdenken.
+
+01:03:42.201 --> 01:03:52.200
+<v katharina-hoelzle>Also mein Gefühl ist, dass wir die richtigen Impulse setzen, dass wir objektive Fakten liefern können.
+
+01:03:52.201 --> 01:03:56.700
+<v katharina-hoelzle>Wir bemühen uns, objektiv abgeleitete Handlungsempfehlungen zu geben,
+
+01:03:56.701 --> 01:04:01.900
+<v katharina-hoelzle>den Wissensraum der Parlamentarierinnen und Parlamentarier zu öffnen,
+
+01:04:01.901 --> 01:04:12.000
+<v katharina-hoelzle>die Ministerien mit einer weiteren Meinung zu versehen, bereitzustellen,
+
+01:04:12.001 --> 01:04:17.300
+<v katharina-hoelzle>natürlich auch entsprechend bei Diskussionen Rückfragen Kommissionssitzungen zur Verfügung zu stellen,
+
+01:04:17.301 --> 01:04:24.100
+<v katharina-hoelzle>aber auf die endgültige Entscheidung, was dann nachher umgesetzt wird, haben wir tatsächlich relativ wenig Einfluss.
+
+01:04:24.101 --> 01:04:32.400
+<v timpritlove>Ja gut, ich meine, auch das ist ja ein Experiment, was man beobachten kann.
+
+01:04:32.401 --> 01:04:39.900
+<v timpritlove>Man sieht ja, okay diese Aktivität hat folgende Ergebnisse erzielt und hier war es jetzt nicht so erfolgreich,
+
+01:04:39.901 --> 01:04:47.400
+<v timpritlove>das kann man ja wie so ein kleines Laborexperiment im Prinzip betrachten, daraus so seine Schlussfolgerungen ziehen so.
+
+01:04:47.401 --> 01:04:53.200
+<v timpritlove>Und was mich noch mal interessieren würde, was glauben Sie oder was ist so Ihr Gefühl,
+
+01:04:53.201 --> 01:04:54.400
+<v timpritlove>wo es denn am meisten verfängt?
+
+01:04:54.401 --> 01:05:01.000
+<v timpritlove>Weil Sie meinten ja, es gibt im Prinzip mehrere Adressaten, auf der einen Seite ist es so der Bundestag, die Parlamentarier,
+
+01:05:01.001 --> 01:05:05.400
+<v timpritlove>gut die wechseln dann alle paar Jahre, jetzt mischt sich der Reigen wieder komplett neu,
+
+01:05:05.401 --> 01:05:10.500
+<v timpritlove>da geht natürlich dann auch viel verloren in gewisser Hinsicht, weil all die Leute, mit denen man gesprochen hat,
+
+01:05:10.501 --> 01:05:14.500
+<v timpritlove>sind ja dann weg, kann aber auch ein Vorteil sein.
+
+01:05:14.501 --> 01:05:18.900
+<v timpritlove>Das gleiche gilt natürlich jetzt auch für die Bundesregierung, wobei die Leute, die dort mitmachen,
+
+01:05:18.901 --> 01:05:25.000
+<v timpritlove>wahrscheinlich schon auch vorher eine Weile dabei waren, das sind ja jetzt nicht die kompletten Novizen mit wenigen Ausnahmen.
+
+01:05:25.001 --> 01:05:28.300
+<v timpritlove>Aber dann gibt es ja auch noch so andere Bereiche.
+
+01:05:28.301 --> 01:05:32.000
+<v timpritlove>Also erst mal die Ministerien, die tauschen ihren Apparat ja jetzt nicht aus,
+
+01:05:32.001 --> 01:05:39.600
+<v timpritlove>sondern da hat man ja auch über längere Zeit Ansprechpartner und dann gibt es ja auch noch so Gruppen wie den wissenschaftlichen Dienst,
+
+01:05:39.601 --> 01:05:45.800
+<v timpritlove>wo ja ohnehin so eine permanente wissenschaftliche Dienstleistung, im wahrsten Sinne des Wortes, geleistet wird.
+
+01:05:45.801 --> 01:05:51.500
+<v timpritlove>Wenn man sich also dieses Spektrum jetzt anschaut und jetzt vielleicht mal den Blick zurückwirft
+
+01:05:51.501 --> 01:05:57.900
+<v timpritlove>und jetzt mal als Adressat dieser Aussage die Wissenschaft in Deutschland nimmt und sagt,
+
+01:05:57.901 --> 01:06:06.000
+<v timpritlove>okay, hör mal, das ist der Einfluss, den ihr nehmen könnt, wie müsste sich quasi die Wissenschaft ausrichten?
+
+01:06:06.001 --> 01:06:11.900
+<v timpritlove>Wo macht vielleicht auch die Wissenschaft derzeit noch einen Fehler oder hat Optimierungspotenzial,
+
+01:06:11.901 --> 01:06:24.900
+<v timpritlove>um es mal etwas vorsichtiger auszudrücken, in die Gesellschaft in Form der Politik Einfluss zu nehmen?
+
+01:06:24.901 --> 01:06:27.800
+<v katharina-hoelzle>Eine vielfältige Frage.
+
+01:06:27.801 --> 01:06:33.100
+<v katharina-hoelzle>Ich fange noch mal kurz mit einer Reflexion an, es gibt nämlich noch einen Punkt, den ich gerade vergessen habe,
+
+01:06:33.101 --> 01:06:36.400
+<v katharina-hoelzle>der führt uns dann aber zu dem nächsten.
+
+01:06:36.401 --> 01:06:46.800
+<v katharina-hoelzle>Ich musste die Erfahrung machen, dass ich sehr viel geduldiger werden musste im Kontext der Wissens- oder Politikberatung.
+
+01:06:46.801 --> 01:06:53.600
+<v katharina-hoelzle>Ich habe mehrere Runden, also gerade jetzt dieses Thema Verwaltungsinnovationen, agiler Staat,
+
+01:06:53.601 --> 01:06:56.600
+<v katharina-hoelzle>das war natürlich im letzten Jahr vor der Bundestagswahl war das ein ganz heißes Thema.
+
+01:06:56.601 --> 01:07:02.400
+<v katharina-hoelzle>Und es gab unglaublich viele Gesprächsrunden und Diskussionsrunden.
+
+01:07:02.401 --> 01:07:09.900
+<v katharina-hoelzle>Und ich erinnere mich an eine Runde, da hatte Herr Scholz eingeladen zehn Wissenschaftskollegen und -kolleginnen
+
+01:07:09.901 --> 01:07:14.500
+<v katharina-hoelzle>und da sollte es also wieder um Verwaltungsinnovation und den modernen Staat gehen.
+
+01:07:14.501 --> 01:07:20.500
+<v katharina-hoelzle>Und wir haben dann angefangen und ich hatte begeistert ja gesagt, weil ich mir dachte,
+
+01:07:20.501 --> 01:07:25.300
+<v katharina-hoelzle>naja das ist jetzt endlich mal der richtige Rahmen und ganz viele BMWI und BMBF und BMI,
+
+01:07:25.301 --> 01:07:28.900
+<v katharina-hoelzle>also Innenministerium und Wirtschaft, alle waren sie dabei.
+
+01:07:28.901 --> 01:07:34.300
+<v katharina-hoelzle>Und dann kamen wieder dieselben Fragen und es kamen wieder dieselben Antworten.
+
+01:07:34.301 --> 01:07:39.800
+<v katharina-hoelzle>Und das war also diese Eingangsrunde und ich beendete dann den Reigen dann.
+
+01:07:39.801 --> 01:07:42.000
+<v timpritlove>Welche Fragen und welche Antworten?
+
+01:07:42.001 --> 01:07:46.800
+<v katharina-hoelzle>Na die Frage, was müssen wir denn tun, um den Staat zu modernisieren?
+
+01:07:46.801 --> 01:07:50.200
+<v katharina-hoelzle>Wie können wir den Staat agiler machen?
+
+01:07:50.201 --> 01:07:52.600
+<v katharina-hoelzle>Wie muss eine Innovationsorientierte Politik aussehen?
+
+01:07:52.601 --> 01:07:55.600
+<v katharina-hoelzle>Also die Fragen, über die wir gerade gesprochen haben.
+
+01:07:55.601 --> 01:08:01.500
+<v katharina-hoelzle>Und das waren Fragen, die hatte ich in den vergangenen Monaten fünf-, zehnmal gehört, adressiert.
+
+01:08:01.501 --> 01:08:09.500
+<v katharina-hoelzle>So und die kamen hier wieder und die Kollegen aus den Verwaltungswissenschaften, aus der Innovationsforschung,
+
+01:08:09.501 --> 01:08:14.800
+<v katharina-hoelzle>aus der Ökonomie, das waren so eigentlich die drei, haben das gefühlt immer wieder dasselbe gesagt.
+
+01:08:14.801 --> 01:08:21.600
+<v katharina-hoelzle>Und es brach tatsächlich emotional aus mir heraus, dass ich sagte, Herr Scholz Sie hören das jetzt zum zehnten Mal,
+
+01:08:21.601 --> 01:08:26.400
+<v katharina-hoelzle>warum fragen Sie uns immer wieder dieselben Fragen?
+
+01:08:26.401 --> 01:08:29.000
+<v katharina-hoelzle>Das kann doch nicht sein, warum müssen wir das immer wiederholen?
+
+01:08:29.001 --> 01:08:33.900
+<v katharina-hoelzle>So und dann wurde ich also belehrt, sowohl auch von meinen Kollegen, als dann eben auch,
+
+01:08:33.901 --> 01:08:38.500
+<v katharina-hoelzle>Herr Scholz hat sich da etwas zurückgehalten, aber von den anwesenden Ministerialvertretern,
+
+01:08:38.501 --> 01:08:43.600
+<v katharina-hoelzle>ja so einfach ist das ja nicht.
+
+01:08:43.601 --> 01:08:49.500
+<v katharina-hoelzle>Und da sind wir wieder bei diesem Thema Veränderungsresistenz.
+
+01:08:49.501 --> 01:08:53.700
+<v katharina-hoelzle>Und dann wurde ich darüber aufgeklärt, dass die moderne Verwaltung sich eben nicht von heute auf morgen verändern kann.
+
+01:08:53.701 --> 01:08:57.100
+<v katharina-hoelzle>Und dass sie nicht von heute auf morgen ein Experimentallabor machen kann.
+
+01:08:57.101 --> 01:09:01.200
+<v katharina-hoelzle>Und dass sie nicht von heute auf morgen mal eben agil sein kann.
+
+01:09:01.201 --> 01:09:04.000
+<v katharina-hoelzle>Und das war für mich aber ein ganz wichtiger Moment, weil ich festgestellt habe,
+
+01:09:04.001 --> 01:09:10.300
+<v katharina-hoelzle>genau die Frage, die Sie gerade gestellt haben, was für einen Einfluss habe ich denn eigentlich,
+
+01:09:10.301 --> 01:09:15.100
+<v katharina-hoelzle>wenn ich mir immer wieder den Mund fusselig rede.
+
+01:09:15.101 --> 01:09:17.700
+<v katharina-hoelzle>So und die Frage habe ich auch immer noch nicht für mich beantwortet,
+
+01:09:17.701 --> 01:09:23.600
+<v katharina-hoelzle>außer dass ich eben denke, steter Tropfen höhlt den Stein und immer wieder bohren
+
+01:09:23.601 --> 01:09:24.800
+<v katharina-hoelzle>und irgendwann haben wir das Brett geschafft.
+
+01:09:24.801 --> 01:09:29.800
+<v katharina-hoelzle>Ich glaube tatsächlich, und ich habe aber dadurch festgestellt und jetzt komme ich auf Ihre Frage,
+
+01:09:29.801 --> 01:09:35.000
+<v katharina-hoelzle>was müssen wir als Wissenschaft anders machen, was müssen wir besser machen?
+
+01:09:35.001 --> 01:09:41.000
+<v katharina-hoelzle>Wir müssen immer wieder das, was wir erforschen, das, was wir herausfinden, müssen wir spiegeln,
+
+01:09:41.001 --> 01:09:48.000
+<v katharina-hoelzle>wir müssen es genau in diese Diskussionsrunden einbringen, wir müssen unsere Impulse setzen,
+
+01:09:48.001 --> 01:09:50.900
+<v katharina-hoelzle>aber, das finde ich ganz wichtig, wir dürfen uns nicht verbiegen.
+
+01:09:50.901 --> 01:09:57.200
+<v katharina-hoelzle>Wir dürfen dann nicht anfangen, den Politikerinnen und den Politikern nach dem Mund zu reden oder den Wirtschaftsvertretern,
+
+01:09:57.201 --> 01:10:00.100
+<v katharina-hoelzle>sondern wir müssen da schon sehr selbstbewusst sein.
+
+01:10:00.101 --> 01:10:08.700
+<v katharina-hoelzle>Aber wir müssen eine Sprache sprechen, die diese Akteure verstehen und wir müssen natürlich auch Forschung machen, die relevant ist.
+
+01:10:08.701 --> 01:10:18.400
+<v katharina-hoelzle>Es hilft keinem von diesen Akteuren, wenn wir die nächste tolle Theorie oder das nächste tolle theoretische Framework entwickeln.
+
+01:10:18.401 --> 01:10:26.100
+<v katharina-hoelzle>Sondern wir müssen tatsächlich dann fallbezogen und das ist ein weiteres Mantra der Innovationsforschung und auch der EFI,
+
+01:10:26.101 --> 01:10:30.500
+<v katharina-hoelzle>wir müssen diese Initiativen, die dann gestoßen werden, wir müssen die begleiten.
+
+01:10:30.501 --> 01:10:34.600
+<v katharina-hoelzle>Wir brauchen Begleitforschung, die dann nämlich sagen kann, Mensch guck mal hier,
+
+01:10:34.601 --> 01:10:43.800
+<v katharina-hoelzle>ProBio beispielsweise, das ist also ein Rahmenprogramm des BMBF für das Thema Ausgründung in der Bioökonomie.
+
+01:10:43.801 --> 01:10:45.100
+<v katharina-hoelzle>Hochrelevant und sehr sehr erfolgreich.
+
+01:10:45.101 --> 01:10:47.700
+<v katharina-hoelzle>Das wissen wir aber nur, weil wir eine Begleitforschung gemacht haben.
+
+01:10:47.701 --> 01:10:54.000
+<v katharina-hoelzle>Sie hatten im Vorfeld gesagt, wir wollten vielleicht noch mal auf We Versus Virus zu sprechen kommen.
+
+01:10:54.001 --> 01:10:56.300
+<v timpritlove>Da würde ich jetzt drauf einschwenken wollen, genau.
+
+01:10:56.301 --> 01:11:02.600
+<v katharina-hoelzle>Das war genau so ein Thema, da sind wir herangegangen, also ein Masterstudent und ich,
+
+01:11:02.601 --> 01:11:08.000
+<v katharina-hoelzle>da sind wir reingegangen und haben das also über Wochen, die das lief, begleitet,
+
+01:11:08.001 --> 01:11:09.700
+<v katharina-hoelzle>um festzustellen, guck mal, da passiert jetzt etwas.
+
+01:11:09.701 --> 01:11:11.500
+<v timpritlove>Vielleicht sollten wir kurz sagen, was es war.
+
+01:11:11.501 --> 01:11:16.800
+<v timpritlove>Also zum Beginn der Pandemie, als alle so, oh Gott, was können wir denn jetzt tun,
+
+01:11:16.801 --> 01:11:21.900
+<v timpritlove>war es ja eine dieser Initiativen, so einen offenen Hackathon zu machen,
+
+01:11:21.901 --> 01:11:28.600
+<v timpritlove>also eine Veranstaltung, wo technikbegeisterte Leute oder gar nicht primär Technik,
+
+01:11:28.601 --> 01:11:34.400
+<v timpritlove>aber generell lösungsorientiert über, okay Pandemie, vor welchen Herausforderungen stehen wir denn jetzt,
+
+01:11:34.401 --> 01:11:38.000
+<v timpritlove>was können wir denn jetzt hier für Lösungen finden?
+
+01:11:38.001 --> 01:11:39.900
+<v timpritlove>Da ist teilweise viel Software erstellt worden, andere Projekte, ich weiß gar nicht, wie breitbandig es war.
+
+01:11:39.901 --> 01:11:43.300
+<v katharina-hoelzle>Bildungsangebote.
+
+01:11:43.301 --> 01:11:43.700
+<v timpritlove>Es war wirklich sehr sehr viel.
+
+01:11:43.701 --> 01:11:44.400
+<v katharina-hoelzle>Ja, Vernetzungsangebote.
+
+01:11:44.401 --> 01:11:50.800
+<v timpritlove>Und das Ganze wurde auch binnen kürzester Zeit auf die Beine gestellt.
+
+01:11:50.801 --> 01:11:55.200
+<v timpritlove>Unter anderem auch mit der Hilfe des Prototype-Funds, was ja auch schon so ein Projekt war,
+
+01:11:55.201 --> 01:12:02.100
+<v timpritlove>was, sagen wir mal, genau mit solchen Strukturen dann auch schon experimentiert hat unter staatlicher Unterstützung.
+
+01:12:02.101 --> 01:12:08.700
+<v timpritlove>Ist schon so ein kleines Innovationspflänzchen gewesen, was schon da war,
+
+01:12:08.701 --> 01:12:11.300
+<v timpritlove>was in dem Moment ganz gut gepasst hat, so dass es dann, ich weiß gar nicht,
+
+01:12:11.301 --> 01:12:14.400
+<v timpritlove>wie schnell kam das zustande, innerhalb von wenigen Wochen.
+
+01:12:14.401 --> 01:12:20.800
+<v katharina-hoelzle>Vier bis sechs Wochen, also das war eine erste Idee und dann sind sehr schnell die relevanten Akteure haben sich zusammengefunden
+
+01:12:20.801 --> 01:12:24.600
+<v katharina-hoelzle>und haben gesagt, wir machen das, wir finden das toll, wir setzen das um.
+
+01:12:24.601 --> 01:12:28.700
+<v katharina-hoelzle>Es gab die Finanzierung aus dem BMBF, aus dem BMWI und dann ist das einfach losgelaufen.
+
+01:12:28.701 --> 01:12:34.100
+<v katharina-hoelzle>Also das war tatsächlich auch im Nachgang, gerade wenn Sie mit den Organisatoren sprechen,
+
+01:12:34.101 --> 01:12:37.300
+<v katharina-hoelzle>die sind da immer noch, die reflektieren das und denken, wir hätten das nicht gedacht,
+
+01:12:37.301 --> 01:12:39.400
+<v katharina-hoelzle>dass wir das so schnell auf die Beine stellen.
+
+01:12:39.401 --> 01:12:46.000
+<v katharina-hoelzle>Aber letztendlich hatte das eben genau dieses, das war so ganz agil, kam ja auch aus der IT-Szene,
+
+01:12:46.001 --> 01:12:49.900
+<v katharina-hoelzle>so Hackathon, Sie sprachen das gerade schon an, so wir machen einfach mal was.
+
+01:12:49.901 --> 01:12:52.500
+<v katharina-hoelzle>So wir gucken einfach mal, was passiert.
+
+01:12:52.501 --> 01:12:58.300
+<v katharina-hoelzle>Und unsere Gesellschaft befand sich zu dem Zeitpunkt in einer Situation, wo wir alle das Gefühl hatten, wir müssen jetzt was tun.
+
+01:12:58.301 --> 01:13:00.000
+<v timpritlove>Was ist dann passiert?
+
+01:13:00.001 --> 01:13:06.100
+<v katharina-hoelzle>Dann haben sich diese, so und jetzt hätte ich natürlich im Vorfeld noch mal schön die Zahlen nachschlagen können,
+
+01:13:06.101 --> 01:13:10.500
+<v katharina-hoelzle>also ich glaube, wir hatten…
+
+01:13:10.501 --> 01:13:10.100
+<v timpritlove>Dreistellige Zahl von Teilnehmern auf jeden Fall.
+
+01:13:10.101 --> 01:13:12.100
+<v katharina-hoelzle>Nein, vierstellig hätte ich jetzt gesagt.
+
+01:13:12.101 --> 01:13:13.700
+<v timpritlove>Vierstellig, tatsächlich?
+
+01:13:13.701 --> 01:13:14.200
+<v katharina-hoelzle>Ja, ich meine schon.
+
+01:13:14.201 --> 01:13:17.900
+<v katharina-hoelzle>Aber gut, also das ist jetzt das, wo wir beide genau stehen.
+
+01:13:17.901 --> 01:13:22.900
+<v katharina-hoelzle>Und die haben sich also zusammengetan an einem Wochenende im März und haben gesagt,
+
+01:13:22.901 --> 01:13:30.900
+<v katharina-hoelzle>so, wir tun uns jetzt mal zusammen und wir geben uns gegenseitig Ideen,
+
+01:13:30.901 --> 01:13:34.100
+<v katharina-hoelzle>wir sind zusammen kreativ, da sind wir wieder bei diesem Thema Kreativität
+
+01:13:34.101 --> 01:13:39.800
+<v katharina-hoelzle>und wir überlegen uns, was können wir eigentlich tun, um diese Herausforderungen,
+
+01:13:39.801 --> 01:13:44.000
+<v katharina-hoelzle>vor denen wir stehen, also wie verbinden wir Leute besser miteinander.
+
+01:13:44.001 --> 01:13:45.900
+<v katharina-hoelzle>Da hatten wir ja noch das Thema Einkaufshilfen.
+
+01:13:45.901 --> 01:13:52.500
+<v katharina-hoelzle>Wie sorgen wir dafür, dass die Kinder im Virtuellen unterrichtet werden?
+
+01:13:52.501 --> 01:13:56.300
+<v katharina-hoelzle>Wie schaffen wir es, womöglich bessere Warnhinweise zu entwickeln?
+
+01:13:56.301 --> 01:14:00.800
+<v katharina-hoelzle>Wie finden wir womöglich ein Corona-Medikament?
+
+01:14:00.801 --> 01:14:03.800
+<v katharina-hoelzle>Also ganz unterschiedliche Disziplinen wurden da angesprochen.
+
+01:14:03.801 --> 01:14:10.000
+<v katharina-hoelzle>Es kamen Menschen aus allen, sage ich mal, Schichten und studiert, nicht studiert,
+
+01:14:10.001 --> 01:14:16.100
+<v katharina-hoelzle>Informatiker, der Tischler um die Ecke, die sich alle an diesem Wochenende trafen im virtuellen Raum
+
+01:14:16.101 --> 01:14:18.400
+<v katharina-hoelzle>und gemeinsam Ideen entwickelt haben.
+
+01:14:18.401 --> 01:14:20.900
+<v timpritlove>28.000 sagt die Wikipedia.
+
+01:14:20.901 --> 01:14:22.000
+<v katharina-hoelzle>Fünfstellig, sehen Sie mal.
+
+01:14:22.001 --> 01:14:23.900
+<v timpritlove>Ist die Teilnahmezahl. Okay, das ist wirklich eine Menge.
+
+01:14:23.901 --> 01:14:26.300
+<v katharina-hoelzle>Ja.
+
+01:14:26.301 --> 01:14:28.800
+<v timpritlove>Die sich dann in 1500 Projekten damit beschäftigt haben.
+
+01:14:28.801 --> 01:14:30.900
+<v katharina-hoelzle>Projektteams, genau.
+
+01:14:30.901 --> 01:14:33.600
+<v katharina-hoelzle>So und da haben wir wirklich eine unglaubliche Bandbreite.
+
+01:14:33.601 --> 01:14:39.600
+<v katharina-hoelzle>Und am Ende waren wir alle ganz überrascht, begeistert davon, dass es eben so viele gab.
+
+01:14:39.601 --> 01:14:42.900
+<v katharina-hoelzle>Und dann ging es ja darum, was machen wir jetzt mit diesen 1500 Projekten?
+
+01:14:42.901 --> 01:14:45.900
+<v katharina-hoelzle>Das soll ja nicht nur so eine Einmalveranstaltung gewesen sein.
+
+01:14:45.901 --> 01:14:52.700
+<v katharina-hoelzle>Und das haben wir dann eben, das ist ja dann auch über die Initiative, da sind dann eben entsprechende Mentoren angeworben worden,
+
+01:14:52.701 --> 01:14:57.700
+<v katharina-hoelzle>die Projektteams wurden gefragt, habt ihr Lust das weiter zu machen, habt ihr Zeit dafür?
+
+01:14:57.701 --> 01:15:02.300
+<v katharina-hoelzle>Wenn nicht, seid ihr bereit, eure Idee sozusagen auf den Marktplatz zu stellen,
+
+01:15:02.301 --> 01:15:05.500
+<v katharina-hoelzle>dass die von anderen weiter getrieben werden kann?
+
+01:15:05.501 --> 01:15:06.500
+<v katharina-hoelzle>So und da gab es ganz unterschiedliche Motivationen.
+
+01:15:06.501 --> 01:15:09.900
+<v katharina-hoelzle>Es gab welche, die gesagt haben, auf alle Fälle machen wir weiter und ich bereit,
+
+01:15:09.901 --> 01:15:12.800
+<v katharina-hoelzle>da auch in meinem Job zurückzustecken.
+
+01:15:12.801 --> 01:15:17.400
+<v katharina-hoelzle>Es gab natürlich viele, die während des Lockdowns sehr sehr viel Zeit hatten.
+
+01:15:17.401 --> 01:15:20.700
+<v katharina-hoelzle>Und so ist das also von verschiedenen Akteuren vorangetrieben worden.
+
+01:15:20.701 --> 01:15:25.300
+<v katharina-hoelzle>Es gab dann entsprechende finanzielle Unterstützung, es gab dann aber eben auch entsprechende fachliche Unterstützung.
+
+01:15:25.301 --> 01:15:32.100
+<v katharina-hoelzle>Und ich glaube, mittlerweile haben wir also jetzt, also von 15 Gründungen weiß ich,
+
+01:15:32.101 --> 01:15:36.100
+<v katharina-hoelzle>aber es kann gut sein, dass da mittlerweile auch schon wieder noch mehr dazu gekommen sind.
+
+01:15:36.101 --> 01:15:38.700
+<v katharina-hoelzle>Also die dann tatsächlich in die Unternehmensgründung gegangen sind.
+
+01:15:38.701 --> 01:15:47.200
+<v katharina-hoelzle>Sei es eben jetzt über eine App, die Daten zur Früherkennung von solchen Pandemien zusammenfügt.
+
+01:15:47.201 --> 01:15:50.400
+<v katharina-hoelzle>Sei es eine App, die eben solche Communitys entsprechend unterstützt,
+
+01:15:50.401 --> 01:15:54.100
+<v katharina-hoelzle>also vor Ort, so Nachbarschaftshilfen.
+
+01:15:54.101 --> 01:15:56.400
+<v katharina-hoelzle>Also da gab es eine große Bandbreite.
+
+01:15:56.401 --> 01:16:00.600
+<v katharina-hoelzle>Es gab zwei oder drei, die jetzt auch in die medizinische Forschung,
+
+01:16:00.601 --> 01:16:03.400
+<v katharina-hoelzle>ich glaube, zwei sind jetzt am Robert-Koch-Institut angesiedelt,
+
+01:16:03.401 --> 01:16:09.300
+<v katharina-hoelzle>die da ihre Idee entsprechend jetzt auch in die Forschung übertragen haben, um da eben weiterzumachen.
+
+01:16:09.301 --> 01:16:12.400
+<v timpritlove>Und Sie haben das auch forschend begleitet?
+
+01:16:12.401 --> 01:16:18.100
+<v katharina-hoelzle>Genau. Also wir waren, mein Masterstudent war Teil dieser ersten Runde,
+
+01:16:18.101 --> 01:16:22.500
+<v katharina-hoelzle>der war an diesem Wochenende mit dabei, hat sich das angeschaut, war völlig begeistert,
+
+01:16:22.501 --> 01:16:27.500
+<v katharina-hoelzle>ist selber Informatikstudent gewesen und kam anschließend zu mir und sagte,
+
+01:16:27.501 --> 01:16:33.900
+<v katharina-hoelzle>boah Katharina das war so cool und das ist doch eigentlich spannend, jetzt mal zu gucken,
+
+01:16:33.901 --> 01:16:35.800
+<v katharina-hoelzle>was passiert damit eigentlich, was kommt da mit raus?
+
+01:16:35.801 --> 01:16:37.800
+<v katharina-hoelzle>Und das haben wir gemacht.
+
+01:16:37.801 --> 01:16:41.400
+<v katharina-hoelzle>Wir haben also dann, auf einer Seite hat er in seinem Projektteam weitergearbeitet, an seiner konkreten Idee
+
+01:16:41.401 --> 01:16:48.500
+<v katharina-hoelzle>und gleichzeitig hat er aber dann eben mit anderen Teams, mit anderen involvierten Menschen
+
+01:16:48.501 --> 01:16:52.200
+<v katharina-hoelzle>hat er Interviews geführt und hat gefragt, warum hast du mitgemacht?
+
+01:16:52.201 --> 01:16:54.400
+<v katharina-hoelzle>Was hat dich eigentlich daran gereizt?
+
+01:16:54.401 --> 01:16:57.300
+<v katharina-hoelzle>Ist das gut gelaufen, was ist an diesem Wochenende gut gelaufen?
+
+01:16:57.301 --> 01:17:00.700
+<v katharina-hoelzle>Was ist vielleicht nicht so gut gelaufen, was würdest du beim nächsten Mal anders machen?
+
+01:17:00.701 --> 01:17:07.300
+<v katharina-hoelzle>So und das, was halt rauskam, und da kann man wieder sagen, da sind wir als Wissenschaft nicht so wahnsinnig überrascht gewesen,
+
+01:17:07.301 --> 01:17:13.800
+<v katharina-hoelzle>der zentrale Faktor war dieses Zusammengehörigkeitsgefühl, dieses Community-Feeling.
+
+01:17:13.801 --> 01:17:18.000
+<v katharina-hoelzle>Ich bin mehr als nur einer oder eine, sondern wir sind eine Gemeinschaft.
+
+01:17:18.001 --> 01:17:22.900
+<v katharina-hoelzle>Und in dieser Gemeinschaft haben wir Dinge erreicht, von denen ich nicht dachte, dass die möglich wären.
+
+01:17:22.901 --> 01:17:30.500
+<v katharina-hoelzle>In so kurzer Zeit, in einer solche Kreativität, wir hatten das Gefühl, dass wir sehr viel Unterstützung erfahren haben.
+
+01:17:30.501 --> 01:17:35.000
+<v katharina-hoelzle>Also dieses gesamte Begleitprogramm ist sehr gelobt worden, dass man das Gefühl hatte,
+
+01:17:35.001 --> 01:17:42.700
+<v katharina-hoelzle>da gibt es tatsächlich Unterstützung und dann, das ist so der dritte Erfolgsfaktor, wenn wir ihn mal so nennen dürfen,
+
+01:17:42.701 --> 01:17:48.400
+<v katharina-hoelzle>war tatsächlich das Thema, wir gegen das Virus.
+
+01:17:48.401 --> 01:17:58.400
+<v katharina-hoelzle>Und da merkt man eben, wie wichtig diese Gemeinsamkeit oder wir nennen es ja dann als Wirtschaftswissenschaftler immer gerne Vision, ist.
+
+01:17:58.401 --> 01:18:04.000
+<v katharina-hoelzle>Aber sich darauf einzulassen und zu sagen, ja, dafür mache ich das.
+
+01:18:04.001 --> 01:18:08.000
+<v katharina-hoelzle>Und alle, die hier in diesem virtuellen Raum zusammen sind, die haben alle dieselbe Motivation.
+
+01:18:08.001 --> 01:18:12.900
+<v katharina-hoelzle>Und das waren so die drei Faktoren, aus denen wir dann eben, und deswegen macht man ja so eine Begleitforschung,
+
+01:18:12.901 --> 01:18:16.400
+<v katharina-hoelzle>entsprechend Handlungsempfehlungen abgeleitet haben, an die Politik,
+
+01:18:16.401 --> 01:18:22.400
+<v katharina-hoelzle>aber genauso an Hochschulen, an Schule, an Bürgerinitiativen.
+
+01:18:22.401 --> 01:18:29.300
+<v katharina-hoelzle>Wenn ihr solche Initiativen machen wollt, solche Hackathons, dann achtet darauf,
+
+01:18:29.301 --> 01:18:33.800
+<v katharina-hoelzle>findet eine Gemeinsamkeit, findet eine gemeinsame Vision, ein Leitmotiv,
+
+01:18:33.801 --> 01:18:36.900
+<v katharina-hoelzle>unter das sich die Leute finden können.
+
+01:18:36.901 --> 01:18:44.600
+<v katharina-hoelzle>Sorgt dafür, dass dieses Gemeinsamkeitsgefühl geschaffen und dann auch aufrechterhalten wird.
+
+01:18:44.601 --> 01:18:53.700
+<v katharina-hoelzle>Und seht zu, dass ihr dann entsprechende Unterstützung anbieten könnt, um aus diesen Ideen tatsächlich konkrete Dinge machen zu können.
+
+01:18:53.701 --> 01:18:59.100
+<v katharina-hoelzle>Dass man das Gefühl hat, es verpufft eben nicht einfach so, sondern es kommt wirklich etwas raus.
+
+01:18:59.101 --> 01:19:04.100
+<v timpritlove>Findet denn das noch statt, also ist diese Begleitung noch, wir die noch betrieben oder ist das abgeschlossen?
+
+01:19:04.101 --> 01:19:06.800
+<v katharina-hoelzle>Nein, das ist abgeschlossen.
+
+01:19:06.801 --> 01:19:08.600
+<v timpritlove>Hat das gereicht der Zeitraum?
+
+01:19:08.601 --> 01:19:15.000
+<v katharina-hoelzle>Naja, es war halt der Zeitraum einer Masterarbeit und er hat schon deutlich mehr Zeit reingesteckt,
+
+01:19:15.001 --> 01:19:18.600
+<v katharina-hoelzle>also er hat acht Monate reingesteckt und wie gesagt, ich sagte ja gerade,
+
+01:19:18.601 --> 01:19:20.700
+<v katharina-hoelzle>die Projekte laufen teilweise ja immer noch.
+
+01:19:20.701 --> 01:19:26.900
+<v katharina-hoelzle>Aber uns ging es ja wirklich mehr darum zu verstehen, was sind eigentlich bedeutsame Faktoren,
+
+01:19:26.901 --> 01:19:33.800
+<v katharina-hoelzle>um so eine Initiative zunächst einmal zum Erfolg zu führen, kurzfristiger Erfolg.
+
+01:19:33.801 --> 01:19:41.300
+<v katharina-hoelzle>Und insofern würde ich sagen, für diese Fragestellung, mit der er rangegangen ist, hat es erst mal gereicht.
+
+01:19:41.301 --> 01:19:47.400
+<v timpritlove>Ja ist so ein bisschen die Dynamik so auch der Hackerszene, da kennt man das ja sehr stark,
+
+01:19:47.401 --> 01:19:54.300
+<v timpritlove>diese Community-Ausprägung des Selbermachens, Selberrausfindens, so Eigeninitiative machen
+
+01:19:54.301 --> 01:19:58.600
+<v timpritlove>und das Ganze auch über so eine Community zu lenken.
+
+01:19:58.601 --> 01:20:02.400
+<v timpritlove>Würde mich noch mal interessieren, was man da jetzt wirklich für Lehren draus ziehen kann,
+
+01:20:02.401 --> 01:20:04.800
+<v timpritlove>außer dass das Projekt jetzt an sich toll war.
+
+01:20:04.801 --> 01:20:12.100
+<v timpritlove>Weil so, sagen wir mal, dieser Motivationstrieb war natürlich in dem Moment der hereinbrechenden Pandemie,
+
+01:20:12.101 --> 01:20:14.500
+<v timpritlove>ist ja auch jetzt nicht so ohne weiteres replizierbar.
+
+01:20:14.501 --> 01:20:20.100
+<v timpritlove>Also das ist so eine Ausnahmesituation gewesen.
+
+01:20:20.101 --> 01:20:25.000
+<v timpritlove>Also reflektiert schön diese Feststellung, die wir vorhin hatten, mit, es muss erst mal ganz dicke kommen,
+
+01:20:25.001 --> 01:20:27.800
+<v timpritlove>bevor irgendwie überhaupt erst mal was passiert.
+
+01:20:27.801 --> 01:20:30.900
+<v timpritlove>So ja klar, so globale Pandemie da lässt sich was machen.
+
+01:20:30.901 --> 01:20:38.200
+<v timpritlove>Frage ist natürlich, wie kann man das dann im Kleinen mit den normalen Innovationsschüben auch als Lehre heranziehen.
+
+01:20:38.201 --> 01:20:41.000
+<v timpritlove>Also was würden Sie denn jetzt sozusagen empfehlen?
+
+01:20:41.001 --> 01:20:49.600
+<v timpritlove>Dass solche Hackathons ein wichtiger Faktor sind, um sich überall anzugliedern an den politischen Prozess?
+
+01:20:49.601 --> 01:20:51.700
+<v timpritlove>Ist das überhaupt wünschenswert, ist das leistbar?
+
+01:20:51.701 --> 01:20:56.500
+<v timpritlove>Wäre die Politik bereit, mit den Erfahrungen, das überhaupt anzunehmen?
+
+01:20:56.501 --> 01:21:00.200
+<v timpritlove>Oder bleibt das eher eine einmalige Geschichte?
+
+01:21:00.201 --> 01:21:02.000
+<v katharina-hoelzle>Ich denke nicht, dass das eine einmalige Geschichte bleibt.
+
+01:21:02.001 --> 01:21:10.100
+<v katharina-hoelzle>Das, was wir im Moment sehen, ist, die Innovationen der Zukunft sind nicht technologische Innovationen.
+
+01:21:10.101 --> 01:21:14.200
+<v katharina-hoelzle>Sondern sie werden immer eine Kombination sein aus technologischen und sozialen Innovationen.
+
+01:21:14.201 --> 01:21:19.500
+<v katharina-hoelzle>Da haben wir wieder diesen Menschenfokus mit drin.
+
+01:21:19.501 --> 01:21:24.400
+<v katharina-hoelzle>Das weiß die Politik grundsätzlich, die Unternehmen wissen es grundsätzlich auch.
+
+01:21:24.401 --> 01:21:31.300
+<v katharina-hoelzle>Und wenn es jetzt darum geht, diesen Bereich, den ich jetzt mal Sozialinnovationen nenne
+
+01:21:31.301 --> 01:21:35.600
+<v katharina-hoelzle>oder Gesellschaftsinnovationen nenne, um das mit reinzukriegen,
+
+01:21:35.601 --> 01:21:44.600
+<v katharina-hoelzle>werden wir ganz stark eine Bürgergesellschaftsnutzerbeteiligung brauchen.
+
+01:21:44.601 --> 01:21:47.200
+<v katharina-hoelzle>Ohne die wird es nicht funktionieren.
+
+01:21:47.201 --> 01:21:53.100
+<v katharina-hoelzle>Da werden wir Disruption nicht durchsetzen können und wir werden vielleicht auch gar nicht erst die Ideen dafür kriegen.
+
+01:21:53.101 --> 01:21:58.400
+<v katharina-hoelzle>Das heißt, das, was wir aus so einer Initiative lernen können und wir wissen ja,
+
+01:21:58.401 --> 01:22:04.100
+<v katharina-hoelzle>Bürgerinitiativen gibt es schon ganz lange und es gibt jetzt auch immer diese Labore,
+
+01:22:04.101 --> 01:22:09.100
+<v katharina-hoelzle>da werden dann Bürgerinnen und Bürger eingeladen und wir wissen auch, es sind immer wieder dieselben Menschen,
+
+01:22:09.101 --> 01:22:10.600
+<v katharina-hoelzle>die sich engagieren bei so was.
+
+01:22:10.601 --> 01:22:18.600
+<v katharina-hoelzle>Und es gibt einen ganz großen Anteil an Menschen, die erreichen wir nicht, adressieren wir nicht, die engagieren sich nicht.
+
+01:22:18.601 --> 01:22:21.400
+<v katharina-hoelzle>Die werden wir aber brauchen.
+
+01:22:21.401 --> 01:22:30.100
+<v katharina-hoelzle>Und die Erfahrungen und die Lernerfahrung aus so einer Initiative wie „we versus virus“ kann uns helfen,
+
+01:22:30.101 --> 01:22:38.600
+<v katharina-hoelzle>wenn wir über Politikmaßnahmen, über neue disruptive Technologieinnovationen nachdenken,
+
+01:22:38.601 --> 01:22:44.000
+<v katharina-hoelzle>von Anfang an mitzudenken, wie sorgen wir dafür, dass wir die Menschen mitnehmen, wie sprechen wir die an?
+
+01:22:44.001 --> 01:22:50.100
+<v katharina-hoelzle>Wie schaffen wir eine solche Vision, wo die sich vielleicht auch wiederfinden können?
+
+01:22:50.101 --> 01:22:56.900
+<v katharina-hoelzle>Wie gehen wir früh genug auf diese Akteure zu, um sie einzubinden, um ihre Stimme zu hören?
+
+01:22:56.901 --> 01:23:05.500
+<v katharina-hoelzle>Um diese Stimme dann aber auch, und das ist ja immer so dieses ganz wichtige, was gerne vergessen wird,
+
+01:23:05.501 --> 01:23:10.100
+<v katharina-hoelzle>die eben nicht nur einmal zu hören, zur Kenntnis zu nehmen, sondern sie dann auch mit umzusetzen.
+
+01:23:10.101 --> 01:23:14.200
+<v katharina-hoelzle>Und da braucht es dann natürlich auf beiden Seiten ein Umdenken.
+
+01:23:14.201 --> 01:23:19.200
+<v timpritlove>Das sind super Fragen, aber was sind die Antworten darauf?
+
+01:23:19.201 --> 01:23:19.500
+<v katharina-hoelzle>Wie wir das machen?
+
+01:23:19.501 --> 01:23:20.200
+<v timpritlove>Ja.
+
+01:23:20.201 --> 01:23:25.100
+<v katharina-hoelzle>Pf, das kommt dann ganz drauf an, was wir da jetzt konkret vorhaben.
+
+01:23:25.101 --> 01:23:29.700
+<v timpritlove>Naja, also nehmen wir doch mal irgendeinen Bereich heraus, der jetzt nicht die Pandemie ist,
+
+01:23:29.701 --> 01:23:40.500
+<v timpritlove>wo wäre denn so ein Vorstoß der Einbindung der Gesellschaft für so innovative Projekte,
+
+01:23:40.501 --> 01:23:47.800
+<v timpritlove>vielleicht jetzt nicht in derselben Dimension und nicht mit demselben Druck wie die Pandemiebekämpfung, sondern eben so andere Sachen.
+
+01:23:47.801 --> 01:23:51.100
+<v timpritlove>Sagen wir mal Umgestaltung der Städte im Verkehrsbereich.
+
+01:23:51.101 --> 01:23:53.000
+<v katharina-hoelzle>Richtig, nachhaltige Mobilität.
+
+01:23:53.001 --> 01:24:06.000
+<v timpritlove>Betrifft alle enorm, wird viel diskutiert, wenn man so soziale Medien verfolgt, so hier den Beschwerdekanal Twitter zum Beispiel,
+
+01:24:06.001 --> 01:24:12.900
+<v timpritlove>da wird also permanent darauf hingewiesen, wie kaputt doch so unser autoorientiertes Verkehrssystem so ist,
+
+01:24:12.901 --> 01:24:18.100
+<v timpritlove>habe ich vorhin ja auch schon mal als Beispiel genommen, da sehe ich eine ganze Menge Potenzial.
+
+01:24:18.101 --> 01:24:21.000
+<v timpritlove>So und wie geht man dann jetzt vor?
+
+01:24:21.001 --> 01:24:24.600
+<v timpritlove>Wie bindet man das denn jetzt ein?
+
+01:24:24.601 --> 01:24:33.000
+<v timpritlove>Ich meine, Verkehrsministerium wäre sicherlich ganz gut beraten an der Stelle, konkret wäre ja jetzt mal so ein Vorschlag.
+
+01:24:33.001 --> 01:24:37.600
+<v timpritlove>Gut, wie machen wir das denn jetzt mit der Umgestaltung der Städte, damit das nicht irgendwie 30 Jahre dauert,
+
+01:24:37.601 --> 01:24:40.300
+<v timpritlove>bis wir da wirklich an den Punkt kommen, weil der Bedarf ist ja offensichtlich da
+
+01:24:40.301 --> 01:24:44.900
+<v timpritlove>und es ist ja auch etwas, was die Wirtschaft dann unmittelbar wiederum betrifft.
+
+01:24:44.901 --> 01:24:48.500
+<v timpritlove>Da haben wir den Kreis jetzt auch mal geschlossen, nicht wahr, mit der Automobilindustrie, 
+
+01:24:48.501 --> 01:24:57.700
+<v timpritlove>die sich vielleicht mehr als Mobilitätsindustrie verstehen muss, weil eben ja hier noch ein konkreter infrastruktureller Wandel auch ansteht.
+
+01:24:57.701 --> 01:25:01.600
+<v katharina-hoelzle>Ja. Also da ganz konkret würde ich eben tatsächlich, Sie haben jetzt die Städte angesprochen,
+
+01:25:01.601 --> 01:25:07.500
+<v katharina-hoelzle>aber ich würde das wahrscheinlich direkt parallel laufen lassen und würde mir ein städtisches Experimentallabor ausdenken
+
+01:25:07.501 --> 01:25:14.200
+<v katharina-hoelzle>und würde mir eins im ländlichen Raum aussuchen, denn die Zukunft der Mobilität da müssen wir in Deutschland beides bespielen.
+
+01:25:14.201 --> 01:25:15.700
+<v timpritlove>Ja richtig.
+
+01:25:15.701 --> 01:25:22.700
+<v katharina-hoelzle>Und würde dann sagen, okay Berlin Neukölln und Ostwestfalen-Lippe, so die nehmen wir uns,
+
+01:25:22.701 --> 01:25:35.400
+<v katharina-hoelzle>da holen wir uns die Bezirkspolitik mit ins Boot und sagen, also ihr werdet jetzt für die nächsten 24 Monate seid ihr unser Zukunftsstandort die Zukunft der Mobilität.
+
+01:25:35.401 --> 01:25:46.400
+<v katharina-hoelzle>Ihr bekommt Betrag X, fünf, zehn Millionen dafür, dass ihr gemeinsam mit der Wirtschaft vor Ort,
+
+01:25:46.401 --> 01:25:52.900
+<v katharina-hoelzle>das ist jetzt in Berlin Neukölln nicht so stark ausgeprägt, aber da darf dann vielleicht BMW mitspielen,
+
+01:25:52.901 --> 01:25:59.800
+<v katharina-hoelzle>wenn Volkswagen nach Ostwestfalen-Lippe geht und ihr macht euch gemeinsam mit diesen vier Parteien,
+
+01:25:59.801 --> 01:26:04.400
+<v katharina-hoelzle>die ich jetzt schon ein paarmal genannt habe, Wirtschaft, Wissenschaft, Politik und Gesellschaft,
+
+01:26:04.401 --> 01:26:07.000
+<v katharina-hoelzle>darüber Gedanken, wie ihr das vor Ort umgestalten wollt.
+
+01:26:07.001 --> 01:26:09.400
+<v katharina-hoelzle>So und dann werden wir unterschiedliche Instrumente bespielen.
+
+01:26:09.401 --> 01:26:15.900
+<v katharina-hoelzle>Dann werden wir einen Hackathon machen, mindestens einen, wir werden das Ganze also über eine Plattform machen,
+
+01:26:15.901 --> 01:26:25.000
+<v katharina-hoelzle>wir werden aber genau so mit Bürgerbüros vor Ort arbeiten, wo wir dann vielleicht die nicht so sozialmedienaffinen einladen und sagen,
+
+01:26:25.001 --> 01:26:32.300
+<v katharina-hoelzle>hier das ist die Vision, das stellen wir uns vor, was sind eure Ideen dazu oder wo seht ihr eigentlich die Probleme?
+
+01:26:32.301 --> 01:26:37.500
+<v katharina-hoelzle>Die Nutzer mit an den Tisch bringen zu sagen, was sind denn eigentlich eure konkreten Probleme?
+
+01:26:37.501 --> 01:26:40.800
+<v katharina-hoelzle>Und dann gemeinsam mit denen Lösungen entwickeln.
+
+01:26:40.801 --> 01:26:44.900
+<v katharina-hoelzle>Und immer unter diesem Kontext, da komme ich jetzt wieder auf diesen einen Erfolgsfaktor,
+
+01:26:44.901 --> 01:26:54.700
+<v katharina-hoelzle>ihr als Gemeinschaft hier vor Ort in diesen beiden Experimentallaboren könnt die Zukunft so gestalten,
+
+01:26:54.701 --> 01:26:56.900
+<v katharina-hoelzle>wie sie für euch passt.
+
+01:26:56.901 --> 01:27:00.700
+<v timpritlove>Super Idee, wo klopft man da jetzt an, um das durchzusetzen?
+
+01:27:00.701 --> 01:27:04.000
+<v katharina-hoelzle>Naja, Sie nannten das ja gerade schon, wir haben ja jetzt ein Ministerium für Digitalisierung und Verkehr,
+
+01:27:04.001 --> 01:27:08.600
+<v katharina-hoelzle>das ist unser erster Faktor, dann nehmen wir das BMBF noch mit rein in die Begleitforschung
+
+01:27:08.601 --> 01:27:11.400
+<v katharina-hoelzle>und das BMWI für die Startups.
+
+01:27:11.401 --> 01:27:15.500
+<v katharina-hoelzle>Und dann kommen wir nämlich auf das nächste große Problem, was wir noch nicht gelöst haben
+
+01:27:15.501 --> 01:27:19.600
+<v katharina-hoelzle>und wo ich mir sehr viel mehr Innovativität gewünscht hätte von der neuen Regierung,
+
+01:27:19.601 --> 01:27:24.800
+<v katharina-hoelzle>das ist nämlich das Thema interministerielle Zusammenarbeit.
+
+01:27:24.801 --> 01:27:25.600
+<v timpritlove>Was es so nicht gibt?
+
+01:27:25.601 --> 01:27:27.400
+<v katharina-hoelzle>Nein.
+
+01:27:27.401 --> 01:27:28.300
+<v timpritlove>Warum?
+
+01:27:28.301 --> 01:27:38.300
+<v katharina-hoelzle>Das größte, wie sagte mir mal jemand aus einem der Ministerien, also die größte Bestrafung sind die IMAKs,
+
+01:27:38.301 --> 01:27:42.800
+<v katharina-hoelzle>die interministeriellen Arbeitskreise.
+
+01:27:42.801 --> 01:27:42.800
+<v timpritlove>IMAKs?
+
+01:27:42.801 --> 01:27:49.400
+<v katharina-hoelzle>Mhm /bejahend/, da wird man also abgeordnet, weil ja dann zwischen den Ministerien eine Koordination erfolgen soll
+
+01:27:49.401 --> 01:27:52.500
+<v katharina-hoelzle>und da kommt überhaupt nichts raus.
+
+01:27:52.501 --> 01:28:00.300
+<v katharina-hoelzle>Weil, da sind wir wieder relativ zu Beginn, kein Haus will Macht abgeben, kein Haus will die zweite Geige spielen,
+
+01:28:00.301 --> 01:28:04.600
+<v katharina-hoelzle>kein Haus will im Zweifel zu etwas zustimmen, was das andere Haus bestimmt hat.
+
+01:28:04.601 --> 01:28:14.200
+<v katharina-hoelzle>So und solange wir das nicht haben, solange die Regierung, die Ministerien sich nicht als ein verantwortlicher Körper versteht,
+
+01:28:14.201 --> 01:28:21.900
+<v katharina-hoelzle>da werden viele von den Punkten, über die wir gesprochen haben, schwierig umzusetzen sein.
+
+01:28:21.901 --> 01:28:24.200
+<v timpritlove>Aber ist doch im Prinzip genau das gleiche Problem, was wir vorhin bei der Wirtschaft auch schon festgemacht haben.
+
+01:28:24.201 --> 01:28:25.400
+<v katharina-hoelzle>Ja klar.
+
+01:28:25.401 --> 01:28:32.500
+<v timpritlove>Dass hier die richtigen Leistungskennzahlen, tolles Wort, Belohnungssysteme vorhanden sind.
+
+01:28:32.501 --> 01:28:32.000
+<v katharina-hoelzle>Ja ist richtig, klar.
+
+01:28:32.001 --> 01:28:37.600
+<v timpritlove>Welche Belohnungssysteme könnten denn dann an der Stelle etwas mit reinbringen?
+
+01:28:37.601 --> 01:28:45.300
+<v timpritlove>Wie kann man denn sozusagen belohnt werden, um durch interministerielle Zusammenarbeit trotzdem zu glänzen
+
+01:28:45.301 --> 01:28:50.000
+<v timpritlove>und nicht sofort der Später zu sein, der das Budget senkt?
+
+01:28:50.001 --> 01:28:50.900
+<v timpritlove>Schwierig, ne?
+
+01:28:50.901 --> 01:28:51.800
+<v katharina-hoelzle>Sehr sehr schwierig.
+
+01:28:51.801 --> 01:28:52.800
+<v timpritlove>Ich habe nicht gesagt, dass es einfach ist.
+
+01:28:52.801 --> 01:29:01.000
+<v katharina-hoelzle>Ja, also auch da wieder, ich meine, das, was wir da schon als Entwürfe oder mal als Vorschläge entwickelt haben, wäre natürlich,
+
+01:29:01.001 --> 01:29:12.400
+<v katharina-hoelzle>dann themenspezifische Töpfe, und das wäre jetzt nachhaltige Mobilität, die Zukunft der Mobilität im städtischen und ländlichen Raum,
+
+01:29:12.401 --> 01:29:16.200
+<v katharina-hoelzle>wohlwissend, dass das Digital- und Verkehrsministerium als erstes schreien würde,
+
+01:29:16.201 --> 01:29:23.700
+<v katharina-hoelzle>das ist in unserer Verantwortung und gleich sagen, nein, diesen Topf bekommt ihr nur dann, wenn alle dabei sind.
+
+01:29:23.701 --> 01:29:29.400
+<v katharina-hoelzle>Und dementsprechend werden dann die Gelder verteilt.
+
+01:29:29.401 --> 01:29:33.800
+<v katharina-hoelzle>Ja, wohlwissend … nein, so und das ist aber jetzt sozusagen meine Milchmädchenrechnung
+
+01:29:33.801 --> 01:29:37.600
+<v katharina-hoelzle>und ich weiß, dass da noch ganz viele Punkte entsprechend adressiert werden müssen,
+
+01:29:37.601 --> 01:29:45.500
+<v katharina-hoelzle>aber wir müssen diese Themen aus der ministeriellen Zuordnung und Verantwortung müssen wir rauslösen,
+
+01:29:45.501 --> 01:29:48.600
+<v katharina-hoelzle>deswegen hoffe ich sehr auf diese sogenannte Hightech- oder Zukunftsstrategie,
+
+01:29:48.601 --> 01:29:52.600
+<v katharina-hoelzle>da müssten in meinen Augen solche Themen adressiert werden.
+
+01:29:52.601 --> 01:29:58.400
+<v katharina-hoelzle>Sie müssten mit Zielkennzahlen hinterlegt werden und dann natürlich auch entsprechend mit Budgets.
+
+01:29:58.401 --> 01:30:05.400
+<v katharina-hoelzle>Und dann müssen wir wahrscheinlich im Zusammenspiel dieser Missionen, nenne ich sie jetzt mal,
+
+01:30:05.401 --> 01:30:13.300
+<v katharina-hoelzle>vielleicht heißen sie in Zukunft anders, müssen wir dann austarieren, also da darf mal das Ministerium im Lead sein
+
+01:30:13.301 --> 01:30:17.300
+<v katharina-hoelzle>und da das Ministerium, aber insgesamt muss klar sein, ihr könnt es nur alle zusammen.
+
+01:30:17.301 --> 01:30:25.800
+<v katharina-hoelzle>Aber das ist ein sehr dickes Brett, weil wir da nämlich genau auf dieses Thema Belohnungsstrukturen, Leistungskennzahlen,
+
+01:30:25.801 --> 01:30:30.400
+<v katharina-hoelzle>Macht abgeben, zusammenarbeiten, wenn ich womöglich die Sprache des anderen nicht verstehe,
+
+01:30:30.401 --> 01:30:34.500
+<v katharina-hoelzle>weil das BMWI da ganz anders arbeitet als das BMBF und so weiter.
+
+01:30:34.501 --> 01:30:41.500
+<v katharina-hoelzle>Aber ich glaube, das wäre ein zentrales Zeichen für uns alle, für die Wirtschaft, für die Gesellschaft,
+
+01:30:41.501 --> 01:30:50.600
+<v katharina-hoelzle>das bereit ist, über den eigenen Schatten zu springen und zu sagen, Innovation funktioniert nur dann, wenn wir alle mitarbeiten.
+
+01:30:50.601 --> 01:30:53.500
+<v timpritlove>Schönes Schlusswort, würde ich sagen an der Stelle.
+
+01:30:53.501 --> 01:31:02.700
+<v timpritlove>Könnten jetzt sicherlich noch viel weiter philosophieren und uns fragen, was die Politikwissenschaften hier noch für neue Aufgabenfelder entdeckt haben,
+
+01:31:02.701 --> 01:31:06.300
+<v timpritlove>aber vielleicht haben die ja zugehört und denken sich ihren Teil.
+
+01:31:06.301 --> 01:31:12.900
+<v timpritlove>Gibt es noch irgendeinen letzten Gedanken, den wir noch hinterher werfen sollten oder können wir es damit beschließen?
+
+01:31:12.901 --> 01:31:15.600
+<v katharina-hoelzle>Ich glaube, wir können es damit gut beschließen.
+
+01:31:15.601 --> 01:31:16.200
+<v timpritlove>Super, dann beschließen wir das damit.
+
+01:31:16.201 --> 01:31:17.700
+<v timpritlove>Damit vielen vielen Dank für Ihre Zeit.
+
+01:31:17.701 --> 01:31:19.200
+<v katharina-hoelzle>Danke Ihnen.
+
+01:31:19.201 --> 01:31:23.200
+<v timpritlove>Und vielen Dank für das Zuhören hier bei Forschergeist, bald geht es wieder weiter.
+
+01:31:23.201 --> 01:31:26.400
+<v timpritlove>Und ich sage, tschüss und bis bald.

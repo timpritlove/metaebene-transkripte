@@ -1,0 +1,3940 @@
+﻿WEBVTT
+
+00:00:43.301 --> 00:00:48.000
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:48.001 --> 00:00:53.700
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zur 99. Ausgabe von Forschergeist.
+
+00:00:53.701 --> 00:00:59.000
+<v timpritlove>Ja, die 100 ist nah, aber eine Sendung müssen wir jetzt vorher noch durchziehen.
+
+00:00:59.001 --> 00:01:06.800
+<v timpritlove>Und ja, dafür hat mich der Weg nach Braunschweig geführt, genauer zum DSMZ,
+
+00:01:06.801 --> 00:01:13.100
+<v timpritlove>der Deutschen Sammlung von Mikroorganismen und Zellkulturen in Braunschweig.
+
+00:01:13.101 --> 00:01:17.200
+<v timpritlove>Und ich begrüße meinen Gesprächspartner, nämlich Jörg Overmann, schönen guten Tag.
+
+00:01:17.201 --> 00:01:20.000
+<v joergovermann>Guten Tag, freut mich.
+
+00:01:20.001 --> 00:01:23.100
+<v timpritlove>Ja, mich auch. Herzlich willkommen bei Forschergeist.
+
+00:01:23.101 --> 00:01:27.500
+<v timpritlove>Ja, Herr Overmann, Sie sind hier wissenschaftlicher Direktor beim DSMZ
+
+00:01:27.501 --> 00:01:34.500
+<v timpritlove>und außerdem auch noch Professor für Mikrobiologie an der TU hier in Braunschweig.
+
+00:01:34.501 --> 00:01:37.600
+<v timpritlove>Sind die eigentlich auf dem gleichen Campus, wo wir gerade sind?
+
+00:01:37.601 --> 00:01:44.900
+<v joergovermann>Nein, wir sind hier auf dem Forschungscampus Süd, der ist relativ jung noch, acht Jahre glaube ich.
+
+00:01:44.901 --> 00:01:53.200
+<v joergovermann>Und auf diesem Forschungscampus befinden sich neben dem Leibniz-Institut DSMZ auch das Helmholtz-Zentrum für Infektionsforschung.
+
+00:01:53.201 --> 00:02:00.000
+<v joergovermann>Da ist ein Fraunhofer-Institut und die TU Braunschweig hat in der Tat auch hier Labore.
+
+00:02:00.001 --> 00:02:08.900
+<v joergovermann>Aber die restlichen und großen Gebäude der TU befinden sich stadtnäher im Zentrum, im Norden, also verteilt über Braunschweig.
+
+00:02:08.901 --> 00:02:10.400
+<v joergovermann>Wir sind der Forschungscampus Süd.
+
+00:02:10.401 --> 00:02:14.500
+<v timpritlove>Genau, und sehr fokussiert auf Mikrobiologie.
+
+00:02:14.501 --> 00:02:20.700
+<v joergovermann>Relativ stark, wenn Sie das Helmholtz-Zentrum und Fraunhofer dazu rechnen, ja.
+
+00:02:20.701 --> 00:02:25.400
+<v timpritlove>Ja genau, und darüber wollen wir heute auch reden, über Bakterien
+
+00:02:25.401 --> 00:02:33.000
+<v timpritlove>oder sagen wir mal generell auch über die Frage der Biodiversität von Mikroorganismen.
+
+00:02:33.001 --> 00:02:37.600
+<v timpritlove>Ja, aber wie es meine Art ist, würde ich ganz gerne erst mal mit Ihnen anfangen,
+
+00:02:37.601 --> 00:02:42.900
+<v timpritlove>weil das ist ja eine lange Reise gewesen, nehme ich an, bis hierher.
+
+00:02:42.901 --> 00:02:48.500
+<v timpritlove>Wann hat es denn angefangen so mit der Wissenschaft bei Ihnen?
+
+00:02:48.501 --> 00:02:50.500
+<v joergovermann>Mit dem Interesse an der Wissenschaft oder mit der Wissenschaft selber?
+
+00:02:50.501 --> 00:02:51.800
+<v timpritlove>Ja, mit dem Interesse an Wissenschaft.
+
+00:02:51.801 --> 00:03:01.200
+<v joergovermann>Mit dem Interesse, ja, es hat mich schon eigentlich sehr sehr früh interessiert, wie Leben funktioniert.
+
+00:03:01.201 --> 00:03:12.700
+<v joergovermann>Ich bin auch in einer Familie aufgewachsen, wo Draußensein, Urlaub in der Natur, in den Alpen oder wo auch immer, eine große rolle gespielt hat.
+
+00:03:12.701 --> 00:03:17.900
+<v joergovermann>Wo wir uns immer damit beschäftigt haben und das hat mich von Anfang an eigentlich besonders interessiert, neben anderen Dingen auch.
+
+00:03:17.901 --> 00:03:21.200
+<v joergovermann>Wie Musik oder Kunst.
+
+00:03:21.201 --> 00:03:27.600
+<v joergovermann>Und so ist es dann zum Leistungskurs gekommen Biologie/Physik, das hat mir auch sehr viel Spaß gemacht.
+
+00:03:27.601 --> 00:03:31.300
+<v joergovermann>Und dann habe ich beschlossen, dort weiter zu machen und Biologie zu studieren.
+
+00:03:31.301 --> 00:03:36.300
+<v joergovermann>Zunächst an der Universität Bochum, dann bin ich zum Hauptstudium nach Freiburg gegangen,
+
+00:03:36.301 --> 00:03:41.200
+<v joergovermann>habe Diplomarbeit und dann auch Doktorarbeit in der Folge in Konstanz gemacht und so ging es dann weiter.
+
+00:03:41.201 --> 00:03:46.000
+<v timpritlove>Genau und dann waren auch so ein paar Weltreisen angesagt.
+
+00:03:46.001 --> 00:03:55.900
+<v joergovermann>Privat auch, aber auch eben dann irgendwann dienstlich, weil die Forschungsarbeiten das eben auch notwendig gemacht haben
+
+00:03:55.901 --> 00:03:59.200
+<v joergovermann>und weil das Interesse auch da war.
+
+00:03:59.201 --> 00:04:05.800
+<v joergovermann>Wir sind dann in verschiedenen Forschungsverbünden tatsächlich in Afrika tätig gewesen.
+
+00:04:05.801 --> 00:04:11.800
+<v joergovermann>Dann in jüngerer Zeit auch in Lateinamerika, also in Kolumbien und Costa Rica, in Chile.
+
+00:04:11.801 --> 00:04:19.200
+<v joergovermann>Das hat sich eben ergeben durch verschiedene wissenschaftliche Fragestellungen, dass wir dort oder ich vor allem dort aktiv geworden bin mit meiner Arbeitsgruppe natürlich.
+
+00:04:19.201 --> 00:04:23.700
+<v timpritlove>Was kann man da finden, was man hier nicht findet?
+
+00:04:23.701 --> 00:04:29.300
+<v joergovermann>Bei Mikroorganismen ist das eigentlich interessanterweise so, dass Sie das meiste überall finden.
+
+00:04:29.301 --> 00:04:35.100
+<v joergovermann>Das ist auch dann ein Problem, wenn es um rechtliche Vereinbarungen geht,
+
+00:04:35.101 --> 00:04:38.700
+<v joergovermann>weil die von einer anderen Situation ausgehen.
+
+00:04:38.701 --> 00:04:43.400
+<v joergovermann>Es ist also nicht so, dass wir irgendwo hingehen in den Urwald und dort außergewöhnliche Mikroorganismen suchen.
+
+00:04:43.401 --> 00:04:49.400
+<v joergovermann>Es ist tatsächlich so, wenn Sie einen Fingerhut Erde, also ein Gramm Boden nehmen,
+
+00:04:49.401 --> 00:04:53.600
+<v joergovermann>dann finden Sie darin 50.0000 Bakterienarten, geschätzt.
+
+00:04:53.601 --> 00:04:56.600
+<v joergovermann>Das ist molekular durch Sequenzierung festgestellt worden.
+
+00:04:56.601 --> 00:04:59.700
+<v joergovermann>Der Wissenschaft bekannt sind knapp 19.000.
+
+00:04:59.701 --> 00:05:05.800
+<v joergovermann>Das heißt, Sie haben in einem Gramm Boden schon dreimal mehr, als dass was der Wissenschaft formal bekannt ist als beschriebene Bakterienarten.
+
+00:05:05.801 --> 00:05:10.300
+<v joergovermann>Wenn Sie das nächste Gramm Boden nehmen, sind da vielleicht 10.000 andere Arten drin dafür.
+
+00:05:10.301 --> 00:05:19.200
+<v joergovermann>Das heißt also, unsere Fragestellung ist gar nicht, dass wir das Besondere in exotischen Ländern suchen,
+
+00:05:19.201 --> 00:05:22.300
+<v joergovermann>sondern es gibt da bestimmte Fragestellungen, die anders sind.
+
+00:05:22.301 --> 00:05:27.900
+<v joergovermann>Zum Beispiel wenn ich nach Namibia gehe, dann habe ich dort sehr nährstoffarme Kalahari-Sandböden,
+
+00:05:27.901 --> 00:05:31.100
+<v joergovermann>auf denen die Bevölkerung versucht, Mais zum Beispiel anzubauen.
+
+00:05:31.101 --> 00:05:34.700
+<v joergovermann>Wenn Sie ein Maisfeld sehen, sind die Maispflanzen vielleicht einen Meter auseinander und sehr niedrig,
+
+00:05:34.701 --> 00:05:41.100
+<v joergovermann>so wie wir das im letzten Sommer hier teilweise auch gesehen haben, noch extremer.
+
+00:05:41.101 --> 00:05:47.200
+<v joergovermann>Und die Frage ist, wie funktioniert dort der Nährstoffkreislauf, was muss ich dort machen, wenn ich dort anbauen will
+
+00:05:47.201 --> 00:05:50.500
+<v joergovermann>oder bis zu welchem Grad kann ich es da überhaupt anbauen?
+
+00:05:50.501 --> 00:05:52.700
+<v joergovermann>Das sind eigentlich die interessanten Fragen.
+
+00:05:52.701 --> 00:05:56.300
+<v joergovermann>Und dabei spielen natürlich Mikroorganismen eine große Rolle.
+
+00:05:56.301 --> 00:06:00.600
+<v joergovermann>Aber dazu muss man die erst mal verstehen und nachdem was ich gerade gesagt habe,
+
+00:06:00.601 --> 00:06:02.700
+<v joergovermann>versteht man eben noch viel zu wenig.
+
+00:06:02.701 --> 00:06:08.500
+<v joergovermann>Also die Fragestellung fokussieren auf spezifische Gegebenheiten.
+
+00:06:08.501 --> 00:06:15.500
+<v joergovermann>In Chile zum Beispiel gibt es ein Fischpathogen, der dort die Lachszucht massiv wirtschaftlich auch beeinflusst.
+
+00:06:15.501 --> 00:06:22.400
+<v joergovermann>Da sind hunderte von Millionen Euro, die da an Verlusten eingefahren werden teilweise, besonders in Chile.
+
+00:06:22.401 --> 00:06:26.200
+<v joergovermann>Die Frage ist, was macht dieses Pathogen? Was ist das überhaupt?
+
+00:06:26.201 --> 00:06:29.800
+<v joergovermann>Und dort haben wir dann festgestellt, es sind eigentlich mehrere Arten, die unterscheiden sich sehr deutlich.
+
+00:06:29.801 --> 00:06:32.800
+<v joergovermann>Und haben dort Eigenschaften festgestellt, die vorher überhaupt nicht bekannt waren.
+
+00:06:32.801 --> 00:06:37.200
+<v joergovermann>Aber dieses Bakterium gibt es weltweit, bloß in Chile ist es eben besonders relevant.
+
+00:06:37.201 --> 00:06:42.500
+<v joergovermann>Und das hat dann direkte Anwendungsbezug, denn dort werden natürlich Antibiotika eingesetzt
+
+00:06:42.501 --> 00:06:47.000
+<v joergovermann>und das möchte man natürlich vermeiden, also muss man verstehen, was dieses Laxpathogen(?) tut.
+
+00:06:47.001 --> 00:06:50.000
+<v joergovermann>Haben wir gerade eine Arbeit zu eingereicht.
+
+00:06:50.001 --> 00:06:57.900
+<v joergovermann>Also es ist bedingt durch die spezifischen Fragestellungen, dass wir dort in diesen Ländern mit unseren Kooperationspartnern arbeiten.
+
+00:06:57.901 --> 00:07:01.500
+<v timpritlove>Aber die anderen 30.000 Bakterien, die man noch nicht kennt, die würde man trotzdem ganz gerne mal kennenlernen?
+
+00:07:01.501 --> 00:07:08.100
+<v joergovermann>Ja. Es ist leider so, dass es nicht nur 50.000 sind, sondern wie gesagt, wenn Sie zum nächsten Boden gehen,
+
+00:07:08.101 --> 00:07:12.600
+<v joergovermann>sind schon wieder dann 10.000 andere und wenn Sie so Abschätzungen sehen,
+
+00:07:12.601 --> 00:07:19.700
+<v joergovermann>dann rangieren Sie und je nachdem welchen Mikrobiologen Sie fragen, rangieren die Schätzungen für die Diversität von Bakterien allein,
+
+00:07:19.701 --> 00:07:26.900
+<v joergovermann>also ich spreche noch gar nicht von Pilzen beispielsweise oder Protisten, also kleine Algen und dergleichen,
+
+00:07:26.901 --> 00:07:37.500
+<v joergovermann>Zilliarden, solche Dinge, wenn Sie allein die Bakterien angucken, dann belaufen sich die Schätzungen so irgendwo zwischen 10 Millionen bis 1 Milliarde Arten.
+
+00:07:37.501 --> 00:07:44.100
+<v joergovermann>Und das liegt deutlich über dem, was Sie heute sehr häufig hören, nämlich die 8 Millionen Tier- und Pflanzenarten, von denen man ausgeht,
+
+00:07:44.101 --> 00:07:46.300
+<v joergovermann>wo die Schätzungen bisher so liegen.
+
+00:07:46.301 --> 00:07:48.500
+<v timpritlove>Und davon kennen wir 19.000?
+
+00:07:48.501 --> 00:07:53.200
+<v joergovermann>Und davon ganz richtig, das ist der springende Punkt, wir kennen 19.000.
+
+00:07:53.201 --> 00:07:56.800
+<v joergovermann>Also wir reden von einer Kenntnis von 0,001 Prozent oder so was.
+
+00:07:56.801 --> 00:07:57.600
+<v timpritlove>Okay.
+
+00:07:57.601 --> 00:07:58.100
+<v joergovermann>Und das ist nun das Problem.
+
+00:07:58.101 --> 00:08:05.800
+<v joergovermann>Wenn wir also jetzt jede einzelne Art separat und jetzt kommt das Problem, wie erkenne ich Arten,
+
+00:08:05.801 --> 00:08:11.500
+<v joergovermann>wenn ich die separat bearbeiten wollte, das würde oder wird Jahrtausende gehen.
+
+00:08:11.501 --> 00:08:12.900
+<v joergovermann>Also so kann man natürlich nicht vorgehen.
+
+00:08:12.901 --> 00:08:17.100
+<v joergovermann>Man muss sich also fragen, welche Arten sind eigentlich die wichtigen.
+
+00:08:17.101 --> 00:08:20.200
+<v joergovermann>Zum Beispiel in einem nährstoffarmen Boden.
+
+00:08:20.201 --> 00:08:26.800
+<v joergovermann>Zum Beispiel bei der Infektion von Laxen oder anderen Dingen oder in Symbiosen und dergleichen mehr.
+
+00:08:26.801 --> 00:08:30.400
+<v joergovermann>Man muss die wesentlichen Spieler kennen und die verstehen.
+
+00:08:30.401 --> 00:08:39.100
+<v joergovermann>Und da stellt sich eben auch heraus, dass wir die wesentlichen Spieler eben auch im Ackerboden nur wenig verstehen.
+
+00:08:39.101 --> 00:08:44.100
+<v joergovermann>Also diese Konzentration, das Erkennen, was sind die wichtigen, die wichtige Relationen beispielsweise machen,
+
+00:08:44.101 --> 00:08:49.100
+<v joergovermann>die wichtige Krankheitseigenschaften haben und so weiter, die müssen wir identifizieren
+
+00:08:49.101 --> 00:08:52.800
+<v joergovermann>und dann da gezielt weiterkommen, das ist das Vorgehen.
+
+00:08:52.801 --> 00:08:56.000
+<v timpritlove>Wie hat den diese Reise überhaupt begonnen?
+
+00:08:56.001 --> 00:09:02.400
+<v timpritlove>Weil jetzt weiß man zumindest worauf man schauen muss, auch wenn es da noch sehr viel mehr gibt, als man erfassen kann.
+
+00:09:02.401 --> 00:09:07.800
+<v timpritlove>Aber es gab ja auch mal so die Zeit, da war sozusagen diese Kenntnis über das Kleinste so überhaupt nicht da.
+
+00:09:07.801 --> 00:09:13.600
+<v timpritlove>Der Mensch hat einfach seine Welt über das wahrgenommen, was er selber fühlen, schmecken, riechen, sehen kann.
+
+00:09:13.601 --> 00:09:21.300
+<v timpritlove>Und die Vorstellung, dass sozusagen etwas unserer Beobachtung sich entzieht, das war ja nicht so klar.
+
+00:09:21.301 --> 00:09:30.100
+<v timpritlove>Und Fragestellungen rund um Krankheiten, was so die Ursache war etc., wurde dann halt mit allerlei Theorie belegt,
+
+00:09:30.101 --> 00:09:32.700
+<v timpritlove>die nicht unbedingt jetzt immer zugetroffen hat.
+
+00:09:32.701 --> 00:09:41.700
+<v timpritlove>Wie weit muss man in der Wissenschaftsgeschichte zurückgehen, um zu schauen, okay hier gab es dann das erste Mal wirklich eine Öffnung für diese Mikrowelt?
+
+00:09:41.701 --> 00:09:49.800
+<v joergovermann>Wenn man jetzt mal absieht von der praktischen Erfahrung, dass der Mensch schon sehr früh vor tausenden von Jahren die Gärung entdeckt hat,
+
+00:09:49.801 --> 00:09:52.500
+<v joergovermann>aber natürlich nicht wusste was passiert.
+
+00:09:52.501 --> 00:09:56.000
+<v joergovermann>Also die Nutzung von Mikroorganismen ist sehr alt.
+
+00:09:56.001 --> 00:09:58.000
+<v timpritlove>Auch so Pflanzen als Heilungsmittel etc..
+
+00:09:58.001 --> 00:10:04.600
+<v joergovermann>Ja gut, das sind dann häufig die Pflanzeninhaltsstoffe, aber manchmal eben auch die assoziierten Mikroorganismen.
+
+00:10:04.601 --> 00:10:11.000
+<v joergovermann>Aber das Bewusstsein und das ist eigentlich eine ganz spannende Entwicklung aus der Wissenschaftsgeschichte,
+
+00:10:11.001 --> 00:10:15.300
+<v joergovermann>das Bewusstsein, dass dort eine Welt existiert, die ich zunächst einmal überhaupt nicht sehen konnte,
+
+00:10:15.301 --> 00:10:22.300
+<v joergovermann>deshalb lange verborgen blieb, die sehr vielseitig ist und die relevant ist,
+
+00:10:22.301 --> 00:10:27.300
+<v joergovermann>dann als erstes natürlich für Krankheiten, das interessiert den Menschen natürlich ganz besonders,
+
+00:10:27.301 --> 00:10:37.100
+<v joergovermann>gerade wo im 19. Jahrhundert Cholera zum Beispiel viele Ausbrüche waren, wo die Pest in Wellen gekommen ist,
+
+00:10:37.101 --> 00:10:42.400
+<v joergovermann>also seit dem Altertum immer wieder und erst mal gar nicht klar war, was verursacht das?
+
+00:10:42.401 --> 00:10:51.600
+<v joergovermann>Obwohl da einige Ideen schon waren, wenn man Pestdoktoren anguckt, mit dem Gewand, mit der schnabelartigen Maske
+
+00:10:51.601 --> 00:10:56.300
+<v joergovermann>und dem Schutz der Augen und dem Abstandhalten, da war schon einiges an Erfahrung,
+
+00:10:56.301 --> 00:10:58.700
+<v joergovermann>dass da irgendwie etwas übertragen wird.
+
+00:10:58.701 --> 00:11:01.400
+<v timpritlove>Zumindest eine Ahnung.
+
+00:11:01.401 --> 00:11:04.800
+<v joergovermann>Irgendein Gefühl, dass da was übertragen werden muss.
+
+00:11:04.801 --> 00:11:07.200
+<v joergovermann>Aber dass es da eine Lebewelt gibt, das ist eigentlich erst mit der Sichtbarmachung gekommen.
+
+00:11:07.201 --> 00:11:08.900
+<v timpritlove>Wofür war denn dieser Schnabel eigentlich?
+
+00:11:08.901 --> 00:11:20.200
+<v joergovermann>Der Schnabel wurde mit, wie man in den alten Quellen lesen kann, Spezereien, also stark riechenden Pflanzensubstanzen gefüllt,
+
+00:11:20.201 --> 00:11:24.200
+<v joergovermann>um den Pestgestank zu absorbieren.
+
+00:11:24.201 --> 00:11:30.100
+<v joergovermann>Und es waren dann Gläser eingesetzt, die waren damals nicht aus Glas, sondern am Anfang waren sie aus Beryll geschliffen,
+
+00:11:30.101 --> 00:11:41.300
+<v joergovermann>also aus einem Mineral, aber auch eben um eine direkte Kontamination durch das, was dann in der Luft eben durch die Kranken abgegeben wurde, abzuhalten.
+
+00:11:41.301 --> 00:11:46.200
+<v joergovermann>Also da sieht man, da war schon etwas Pragmatismus da, aber man wusste eigentlich gar nicht worum es geht.
+
+00:11:46.201 --> 00:11:55.300
+<v joergovermann>Und im 17. Jahrhundert gelang es dann, diese ersten Bakterienzellen sichtbar zu machen.
+
+00:11:55.301 --> 00:12:01.600
+<v joergovermann>Antoni van Leeuwenhoek ist ganz berühmt, wird immer wieder zitiert, weil er sehr kunstvoll Einlinser offenbar schleifen konnte
+
+00:12:01.601 --> 00:12:07.200
+<v joergovermann>und da zum ersten Mal auch im Zahnbeleg, das ist ein ganz interessantes Experiment,
+
+00:12:07.201 --> 00:12:12.300
+<v joergovermann>bei uns im Zahnbelag sieht man sehr große Bakterien, deshalb funktioniert das so gut, das sichtbar machen konnte.
+
+00:12:12.301 --> 00:12:21.500
+<v joergovermann>Dann gab es zusammengesetzte Mikroskope von Robert Hooke und erst dann ging das Ganze im 19. Jahrhundert dann wirklich in die Wissenschaft.
+
+00:12:21.501 --> 00:12:29.600
+<v joergovermann>Wo dann Größen wie Louis Pasteur und natürlich Robert Koch gelernt haben, mit diesen Organismen zu arbeiten.
+
+00:12:29.601 --> 00:12:34.600
+<v joergovermann>Also die Beobachtung ist das eine, das Problem ist, dass ich an einem mikroskopisch beobachteten Bakterium,
+
+00:12:34.601 --> 00:12:39.400
+<v joergovermann>gerade wenn ich es dann noch präpariere, also anfärbe beispielsweise, dann ist das tot.
+
+00:12:39.401 --> 00:12:43.600
+<v joergovermann>Ich kann nicht mehr beobachten, was es tut.
+
+00:12:43.601 --> 00:12:48.400
+<v joergovermann>Das ist auch einer der wesentlichen Unterschiede, was die Mikrobiologie auszeichnet,
+
+00:12:48.401 --> 00:12:52.500
+<v joergovermann>ich muss die Untersuchung an den Lebensfunktionen ganz anders machen.
+
+00:12:52.501 --> 00:13:02.200
+<v joergovermann>Ich muss mit den Organismen arbeiten, indem ich sie wachsen lasse und dann diese Organismen bei diesem Wachstum testen.
+
+00:13:02.201 --> 00:13:06.100
+<v joergovermann>Also Substanzen dazugeben, um festzustellen, mit was wachsen sie.
+
+00:13:06.101 --> 00:13:10.400
+<v joergovermann>Ein Infektionsmodell haben, wo ich die Bakterien in irgendein Tier bringe und schaue,
+
+00:13:10.401 --> 00:13:15.700
+<v joergovermann>ist das jetzt wirklich das Pathogen, was ich bekämpfen möchte bei einem Menschen etc. pp.
+
+00:13:15.701 --> 00:13:21.100
+<v joergovermann>Das ist viel komplizierter, als wenn ich beobachte, dass eine Giraffe Akazienblätter frisst und wo sie vorkommt,
+
+00:13:21.101 --> 00:13:25.900
+<v joergovermann>das ist einfacher von dieser Sichtweise her.
+
+00:13:25.901 --> 00:13:29.900
+<v joergovermann>Das ist also etwas, was erst im 19. Jahrhundert dann tatsächlich etabliert wurde
+
+00:13:29.901 --> 00:13:38.900
+<v joergovermann>und das Interessante ist, dass die Techniken von Robert Koch, also auf mit Agar verfestigten Nährböden in runden Petrischalen,
+
+00:13:38.901 --> 00:13:45.600
+<v joergovermann>Kolonien zu erzeugen von isolierten Bakterienzellen, so dass alle Nachkommen erbgleich sind,
+
+00:13:45.601 --> 00:13:50.400
+<v joergovermann>das nennen wir einen Bakterienstamm, so dass, wenn ich dann an dieser großen Menge,
+
+00:13:50.401 --> 00:13:54.100
+<v joergovermann>das sind Milliarden von Bakterienzellen, wenn ich die abnehme und damit teste,
+
+00:13:54.101 --> 00:14:01.600
+<v joergovermann>dann sehe ich etwas, dann kann ich etwas so testen, dass ich es nachweisen kann, biochemisch oder optisch, wie auch immer,
+
+00:14:01.601 --> 00:14:04.200
+<v joergovermann>und dann geht das erst, dann erkenne ich das erst.
+
+00:14:04.201 --> 00:14:10.000
+<v joergovermann>Aber dazu muss ich natürlich eine Milliarde erbgleiche Bakterien haben, damit alle dasselbe tun.
+
+00:14:10.001 --> 00:14:15.800
+<v joergovermann>Wenn ich eine Mischung habe, dann tut in dem einen Test die eine Fraktion etwas und in dem anderen die andere.
+
+00:14:15.801 --> 00:14:26.900
+<v joergovermann>Also ein ganz anderes Arbeiten und das hatte bisher diese Analysen sehr erschwert, diese Erkenntnisse sehr erschwert.
+
+00:14:26.901 --> 00:14:30.600
+<v joergovermann>Und dann erst in den eigentlich 80er/90er Jahren kamen die molekularbiologischen Methoden.
+
+00:14:30.601 --> 00:14:37.300
+<v joergovermann>Und erst dann wurde deutlich, dass es diese Masse von Bakterien gibt, dass sie um uns herum sind
+
+00:14:37.301 --> 00:14:44.300
+<v joergovermann>und dass sie eigentlich auch unsere Lebensfunktionen, aber nicht nur die, sondern auch alles um uns herum ganz wesentlich gestalten.
+
+00:14:44.301 --> 00:14:47.300
+<v joergovermann>Bis hin zum Klimawandel, CO2-Produktion und so weiter.
+
+00:14:47.301 --> 00:14:55.200
+<v timpritlove>Das heißt, vorher war der Blick eher so da drauf, dass es so was zwischendurch mal vorkommendes ist sozusagen,
+
+00:14:55.201 --> 00:14:59.600
+<v timpritlove>oh da ist jetzt ein Bakterien und vorher waren da keine, so die Sichtweise.
+
+00:14:59.601 --> 00:15:00.700
+<v joergovermann>Genau.
+
+00:15:00.701 --> 00:15:05.500
+<v timpritlove>Und wer war da jetzt noch mal so die Person, die sozusagen mit ihrer Forschung aufgedeckt hat?
+
+00:15:05.501 --> 00:15:14.100
+<v timpritlove>Also was hat sozusagen dazu geführt, dass man überhaupt erst mal akzeptiert hat, dass es da etwas kleinstes gibt, was man so nicht sehen kann?
+
+00:15:14.101 --> 00:15:17.500
+<v joergovermann>Das waren natürlich wie immer in der Wissenschaft Arbeiten…
+
+00:15:17.501 --> 00:15:19.300
+<v timpritlove>Prozesse.
+
+00:15:19.301 --> 00:15:19.900
+<v joergovermann>…die aufeinander aufbauen.
+
+00:15:19.901 --> 00:15:25.500
+<v joergovermann>Also die erste Sichtbarmachung wie gesagt im 17. Jahrhundert zeigte, da ist etwas.
+
+00:15:25.501 --> 00:15:30.000
+<v joergovermann>Aber das war natürlich an bestimmten Standorten, es fing an mit dem Zahnbelag beispielsweise.
+
+00:15:30.001 --> 00:15:38.000
+<v joergovermann>Dann im 19. Jahrhundert konnte man tatsächlich dann die Organismen zum Wachstum bringen.
+
+00:15:38.001 --> 00:15:40.100
+<v joergovermann>Das fokussierte sehr stark auf die Infektionserreger.
+
+00:15:40.101 --> 00:15:45.900
+<v joergovermann>Und wenn Sie auch heute viele Menschen fragen und das ist immer so ein Beispiel, was ich nenne,
+
+00:15:45.901 --> 00:15:51.700
+<v joergovermann>wenn Sie fragen, was tun Bakterien, viele denken, Bakterien sind böse.
+
+00:15:51.701 --> 00:15:54.200
+<v joergovermann>Ist auch vollkommen klar, denn da kommt man tatsächlich, wenn man eine Infektion hat,
+
+00:15:54.201 --> 00:16:00.800
+<v joergovermann>kommt man tatsächlich oder bei Viren kürzlich die letzten drei Jahre, das betrifft einen direkt,
+
+00:16:00.801 --> 00:16:06.900
+<v joergovermann>also ist das das, was das Bewusstsein schärft.
+
+00:16:06.901 --> 00:16:08.700
+<v timpritlove>Wir sind ja voll mit Bakterien.
+
+00:16:08.701 --> 00:16:15.800
+<v joergovermann>Ja und das Interessante ist eben, es gibt Listen von bösen Bakterien, also pathogenen Bakterien, das sind ungefähr 550.
+
+00:16:15.801 --> 00:16:19.800
+<v joergovermann>Und jetzt vergleichen Sie das mit den eine Milliarde Bakterienarten.
+
+00:16:19.801 --> 00:16:27.500
+<v joergovermann>Also das typische Bakterium ist nicht böse, aber das wissen wir nicht, wenn wir uns nicht näher damit beschäftigt haben, weil sie eben unsichtbar sind.
+
+00:16:27.501 --> 00:16:31.600
+<v joergovermann>Das ist so diese typische Sache, was ich nicht sehe, ist schwierig zu beurteilen.
+
+00:16:31.601 --> 00:16:37.500
+<v timpritlove>Aber das Gramm Erde, was man so vielleicht nebenbei mal isst so, hat einem ja bisher noch nicht geschadet.
+
+00:16:37.501 --> 00:16:42.200
+<v joergovermann>Genau, wenn Sie schwimmen, nehmen Sie leicht einen Fingerhut Wasser auf, wahrscheinlich mehrere Fingerhüte
+
+00:16:42.201 --> 00:16:45.200
+<v joergovermann>und in jedem Fingerhut sind eine Millionen Bakterienzellen.
+
+00:16:45.201 --> 00:16:46.500
+<v timpritlove>Also im See?
+
+00:16:46.501 --> 00:16:48.400
+<v joergovermann>Im See zum Beispiel.
+
+00:16:48.401 --> 00:16:48.000
+<v timpritlove>Ja, im Schwimmbad wahrscheinlich nicht.
+
+00:16:48.001 --> 00:16:53.900
+<v joergovermann>Und auch das hat man erst eigentlich in den 60er/70er Jahren gelernt, dass da so viele drin sind.
+
+00:16:53.901 --> 00:16:59.400
+<v joergovermann>Vorher hatte man eben auch, was man konnte, eine Agar-Platte genommen mit irgendwelchen Medien,
+
+00:16:59.401 --> 00:17:03.700
+<v joergovermann>hat einen Milliliter Wasser darauf aufgebracht oder weniger und hat dann gezählt, wieviele Kolonien kommen da,
+
+00:17:03.701 --> 00:17:09.600
+<v joergovermann>aber da konnten nur ein Bruchteil wachsen, also dachte man, naja so 100 Zellen sind da vielleicht drin oder 1000.
+
+00:17:09.601 --> 00:17:18.100
+<v joergovermann>Und plötzlich hatte man Farbstoffe, die DNA floreszenzbasiert anfärben können und hat im Mikroskop geschaut mit speziellen Techniken
+
+00:17:18.101 --> 00:17:21.200
+<v joergovermann>und plötzlich sah man eine Million Zellen in einem Milliliter.
+
+00:17:21.201 --> 00:17:25.100
+<v joergovermann>Da fing das eigentlich an und dann hat man sich natürlich gefragt, was machen die eigentlich?
+
+00:17:25.101 --> 00:17:30.400
+<v joergovermann>Wovon leben die überhaupt? Da dürfte eigentlich gar nicht viel sein.
+
+00:17:30.401 --> 00:17:41.700
+<v joergovermann>Und da hat sich unser Bild dann, was die Vielfalt und was die Aktivität von Bakterien angeht, seit den 50er/60er/70er Jahren grundlegend gewandelt.
+
+00:17:41.701 --> 00:17:45.200
+<v timpritlove>Und mit Pasteur natürlich auch so der Umgang mit Lebensmittel etc..
+
+00:17:45.201 --> 00:17:45.300
+<v joergovermann>Genau.
+
+00:17:45.301 --> 00:17:51.800
+<v timpritlove>Also die Pasteurisierung ist ja letzten Endes die Erkenntnis daraus, dass man dann sozusagen mit diesen Bakterien auch in irgendeiner Form umgehen muss
+
+00:17:51.801 --> 00:17:58.800
+<v timpritlove>und dass dann die Erhitzung uns auch schützt etc. pp.
+
+00:17:58.801 --> 00:18:10.700
+<v timpritlove>Ja, jetzt ist schon klar geworden, was so die Herausforderungen der aktuellen Wissenschaft zumindest teilweise mit betrifft so.
+
+00:18:10.701 --> 00:18:15.600
+<v timpritlove>Also auf der einen Seite, wir wissen erst mal, dass wir eine Menge nicht wissen so.
+
+00:18:15.601 --> 00:18:20.900
+<v timpritlove>Das ist ja immer so eine Frage, wie groß sind so die Unknowns und wie groß sind vor allem die unknown Unknowns,
+
+00:18:20.901 --> 00:18:26.300
+<v timpritlove>also was wissen wir denn alles noch nicht, von dem wir noch nicht mal ahnen, dass es da ist.
+
+00:18:26.301 --> 00:18:40.400
+<v timpritlove>Insgesamt ist also, glaube ich, die Bedeutung ist klar. Also ich denke nicht, dass jetzt in irgendeiner Form jemand sagt, ja Mikrobiologie wozu brauchen wir das.
+
+00:18:40.401 --> 00:18:45.700
+<v timpritlove>Also gerade die Corona-Zeit hat ja nun jetzt die Viren halt wieder natürlich auf den Tisch gelegt 
+
+00:18:45.701 --> 00:18:51.600
+<v timpritlove>und da eine etwas intensivere Auseinandersetzung auch in der Gesellschaft begonnen,
+
+00:18:51.601 --> 00:18:54.300
+<v timpritlove>natürlich auch aus dieser Bedrohungsperspektive zunächst einmal,
+
+00:18:54.301 --> 00:18:58.600
+<v timpritlove>aber natürlich dann auch genauso die Erkenntnis, dass wir auch irgendwie voll mit Viren sind
+
+00:18:58.601 --> 00:19:04.400
+<v timpritlove>und nicht nur das, sondern dass auch die Viren letzten Endes eine evolutionäre Kraft haben.
+
+00:19:04.401 --> 00:19:10.400
+<v timpritlove>Und das ist ja bei den Bakterien auch nicht anders.
+
+00:19:10.401 --> 00:19:21.000
+<v timpritlove>Was sind jetzt so die Schwerpunkte der Mikrobiologie, wie sie sich denn so in der aktuellen wissenschaftlichen Auseinandersetzung abzeichnen?
+
+00:19:21.001 --> 00:19:27.900
+<v timpritlove>Ich meine, auf der einen Seite gibt es natürlich so klassische Biologie, im Sinne von, wir wollen verstehen wie das funktioniert etc.,
+
+00:19:27.901 --> 00:19:34.300
+<v timpritlove>aber es spielt ja auch eine große Rolle in der Medizin und es spielt ja auch eine große Rolle in der Landwirtschaft,
+
+00:19:34.301 --> 00:19:44.200
+<v timpritlove>wo der Umgang mit so Resistenzen auch ein großer Problem darstellt und natürlich dann eben auch umgekehrt in der Medizin.
+
+00:19:44.201 --> 00:19:54.500
+<v timpritlove>Also was sind so die großen Schwerpunkte, mit denen sich die Forschung im mikrobiologischen Bereich heute vor allem auseinandersetzen?
+
+00:19:54.501 --> 00:19:55.100
+<v joergovermann>Das ist natürlich sehr breit.
+
+00:19:55.101 --> 00:20:01.900
+<v joergovermann>also Mikrobiologie an sich ist ja eigentlich nur dadurch definiert, dass sie sich mit Organismen auseinandersetzt,
+
+00:20:01.901 --> 00:20:09.200
+<v joergovermann>die kleiner als das, was man mit dem unbewaffneten Auge sichtbar machen kann, beschäftigt.
+
+00:20:09.201 --> 00:20:13.300
+<v joergovermann>Und das wird in der Regel definiert so alles unter einem Millimeter.
+
+00:20:13.301 --> 00:20:16.600
+<v joergovermann>Da sieht man noch ein bisschen was, aber wenn es dann kleiner wird gar nicht mehr.
+
+00:20:16.601 --> 00:20:23.800
+<v joergovermann>Jetzt ist natürlich der Punkt, warum ist die Mikrobiologie abgetrennt von anderen Disziplinen in der Biologie?
+
+00:20:23.801 --> 00:20:30.900
+<v joergovermann>Und der interessante Aspekt dabei ist, dass, wenn ein Organismus sehr sehr klein wird, er sich anders verhält.
+
+00:20:30.901 --> 00:20:37.600
+<v joergovermann>Und deshalb hat sich Mikrobiologie als eine abgetrennte Disziplin entwickelt.
+
+00:20:37.601 --> 00:20:43.300
+<v joergovermann>Und das liegt simpel daran, dass das Oberfläche zu Volumen Verhältnis immer größer wird, je kleiner ich werde.
+
+00:20:43.301 --> 00:20:54.300
+<v joergovermann>Also ich habe immer mehr Möglichkeit, mein Zytoplasma, also mein Zellinneres, zu versorgen mit Nährstoffen, ganz simpel und Abfallstoffe loszuwerden.
+
+00:20:54.301 --> 00:21:03.600
+<v joergovermann>Und das bedeutet, dass Mikroorganismen wesentlich aktiver sind, um Größenordnungen aktiver sind
+
+00:21:03.601 --> 00:21:05.200
+<v joergovermann>als dieselbe Menge an größeren Organismen.
+
+00:21:05.201 --> 00:21:09.400
+<v joergovermann>Also so ein typisches Beispiel ist, ich nehme einen Elefanten und nehme eine Anzahl von Ratten,
+
+00:21:09.401 --> 00:21:14.600
+<v joergovermann>die diesem Gewicht von dem einen Elefanten entsprechen und schaue, wie schnell Futter umgesetzt wird.
+
+00:21:14.601 --> 00:21:20.100
+<v joergovermann>Dann stelle ich fest, dass die Ratten das Futter wesentlich schneller verbrauchen und wachsen als der Elefant.
+
+00:21:20.101 --> 00:21:23.100
+<v joergovermann>Das liegt am Oberfläche zu Volumen Verhältnis.
+
+00:21:23.101 --> 00:21:25.200
+<v joergovermann>Und noch extremer ist es, wenn ich zu Mikroorganismen gehe.
+
+00:21:25.201 --> 00:21:33.500
+<v joergovermann>Das heißt, bestimmte Mikroorganismen können tausendmal schneller atmen als größere Organismen, die ein-zwei Größenordnungen größer sind.
+
+00:21:33.501 --> 00:21:39.500
+<v joergovermann>Weil das eben Oberfläche zu Volumen Verhältnis ist und physikalische Begebenheiten.
+
+00:21:39.501 --> 00:21:47.300
+<v joergovermann>Bedeutet, dass Mikroorganismen, selbst wenn sie nicht in großer Abundanz da sind, viel schneller umsetzen.
+
+00:21:47.301 --> 00:21:48.400
+<v joergovermann>Das ist der eine Punkt.
+
+00:21:48.401 --> 00:21:54.900
+<v joergovermann>Der andere Punkt ist, dass Mikroorganismen vier Milliarden zur Entwicklung hatten, Evolution hatten.
+
+00:21:54.901 --> 00:22:05.500
+<v joergovermann>Im Gegensatz zu Mehrzellern, die ja dann irgendwann vor einer halben Milliarde Jahren, ein bisschen früher, auftauchten.
+
+00:22:05.501 --> 00:22:13.500
+<v joergovermann>Also die ersten Fossilien, die so in diese Richtung deuten, sind vielleicht vor einer Milliarde Jahre festzumachen.
+
+00:22:13.501 --> 00:22:20.000
+<v joergovermann>Das bedeutet, diese viel längere Entwicklungszeit hat natürlich auch zu einer größeren physiologischen und biochemischen Diversifizierung geführt.
+
+00:22:20.001 --> 00:22:28.100
+<v joergovermann>Das heißt, sehr sehr viele Reaktionen, die wir auch nutzen in der Biotechnologie, in der Abwasseraufbereitung,
+
+00:22:28.101 --> 00:22:32.500
+<v joergovermann>in der Erzeugung von Sekundärstoffen bis hin zu Antibiotika,
+
+00:22:32.501 --> 00:22:39.600
+<v joergovermann>all das ist nur da, weil Mikroorganismen, Bakterien gerade, sich so lange entwickeln konnten, diversifizieren konnten,
+
+00:22:39.601 --> 00:22:49.400
+<v joergovermann>so viel Zeit einfach hatten, neue Gene zu entwickeln und da diese Fähigkeiten zu entwickeln.
+
+00:22:49.401 --> 00:22:56.900
+<v joergovermann>Diese beiden Aspekte bedingen, dass wir Mikrobiologie als separate Wissenschaft haben,
+
+00:22:56.901 --> 00:23:05.500
+<v joergovermann>aber wie in der Biologie allgemein gibt es da sehr sehr unterschiedliche Zweige.
+
+00:23:05.501 --> 00:23:09.300
+<v joergovermann>Es gibt die Biochemie, die ist relativ alt, Biochemie und Physiologie von diesen Mikroorganismen,
+
+00:23:09.301 --> 00:23:15.200
+<v joergovermann>man konnte, sobald man sie auf Agar-Platten wachsen lassen konnte, dann eben testen, was die Organismen tun.
+
+00:23:15.201 --> 00:23:21.600
+<v joergovermann>Das gibt es schon ganz lange, schon seit Anfang des 20. Jahrhunderts oder eigentlich schon davor.
+
+00:23:21.601 --> 00:23:23.300
+<v joergovermann>Wo man getestet hat, was tun die denn.
+
+00:23:23.301 --> 00:23:32.200
+<v joergovermann>Dann wurden natürlich Virulenzfaktoren etc. untersucht, das ist eben ein großes Interesse, das ist die medizinische Mikrobiologie,
+
+00:23:32.201 --> 00:23:38.900
+<v joergovermann>die untersucht natürlich auch, wie verbreiten sich die Organismen in Kliniken oder wie kommen sie in die Klinik, wie verbreiten sie sich in der Bevölkerung,
+
+00:23:38.901 --> 00:23:46.600
+<v joergovermann>was sind die Transmissionswege, wie geht das Immunsystem damit um, das ist wieder ein ganz anderer Blickwinkel.
+
+00:23:46.601 --> 00:23:53.300
+<v joergovermann>Und dann gibt es natürlich auch, wie auch sonst in der Biologie allgemein, die Evolutionsforschung und die Ökologie.
+
+00:23:53.301 --> 00:24:02.800
+<v joergovermann>Und bei der Ökologie da ist es eben eine sehr junge Erkenntnis, dass wir es mit dieser großen Diversität zu tun haben.
+
+00:24:02.801 --> 00:24:09.900
+<v joergovermann>Und dadurch, dass es jetzt molekularbiologische Methoden und sehr ausgefeilte auch biochemische Methoden,
+
+00:24:09.901 --> 00:24:18.200
+<v joergovermann>metabolomex(?) Methoden gibt, die jetzt zugänglich machen, was tatsächlich in komplexen Bakteriengemeinschaften passiert,
+
+00:24:18.201 --> 00:24:27.900
+<v joergovermann>dadurch hat diese Richtung in der Ökologie und das geht bis hin zu Umweltbiologie, hat diese Richtung sehr an Fahrt aufgenommen.
+
+00:24:27.901 --> 00:24:31.200
+<v joergovermann>Wie gesagt, das seit den 70er/80er Jahren.
+
+00:24:31.201 --> 00:24:38.700
+<v joergovermann>Also das ist sehr unterschiedlich und es ist tatsächlich so, dass da teilweise noch nicht die Querverbindungen sind,
+
+00:24:38.701 --> 00:24:46.900
+<v joergovermann>weil es sich wieder aufspaltet in diese Teildisziplinen zwischen medizinischer Mikrobiologie beispielsweise und Ökologie.
+
+00:24:46.901 --> 00:24:53.000
+<v joergovermann>Und was uns zum Beispiel interessiert ist jetzt, wie laufen eigentlich Übertragungswege in der Natur?
+
+00:24:53.001 --> 00:24:57.800
+<v joergovermann>Woher kommen manche Erreger, die müssen ja irgendwelche Reservoirs in der Natur haben.
+
+00:24:57.801 --> 00:25:03.600
+<v joergovermann>Und da ist dann der Mikrobiologe gefragt, der dann beispielsweise danach suchen sollte,
+
+00:25:03.601 --> 00:25:09.700
+<v joergovermann>wo ist so ein Reservoire, mit diesen Methoden, die die Mikroökologie nun zur Verfügung hat.
+
+00:25:09.701 --> 00:25:17.000
+<v joergovermann>Mit den kulturunabhängigen molekularbiologischen Methoden, Sequenzierung insbesondere von Umwelt-DNA.
+
+00:25:17.001 --> 00:25:25.000
+<v timpritlove>Die von Ihnen angesprochene Evolution, die nun schon seit Ewigkeiten geht bei Milliarden von unterschiedlichen Bakterien,
+
+00:25:25.001 --> 00:25:33.600
+<v timpritlove>die daraus jetzt entstanden sind, stellt natürlich auch die Frage, wie schnell läuft denn eigentlich diese Evolution auf dieser kleinsten Ebene ab.
+
+00:25:33.601 --> 00:25:39.900
+<v timpritlove>Kleinsein heißt ja dann auch, eben nicht so viele Komponenten und Abhängigkeiten zu haben,
+
+00:25:39.901 --> 00:25:44.300
+<v timpritlove>so dass ich quasi ja immer wieder etwas neues ausprobieren kann.
+
+00:25:44.301 --> 00:25:50.900
+<v timpritlove>Wenn man jetzt mal auf so Probleme schaut, wie zum Beispiel die Plastikverschmutzung der Meere,
+
+00:25:50.901 --> 00:25:56.900
+<v timpritlove>hier und da in den letzten Jahren meine ich aus dem Augenwinkel Forschung wahrgenommen zu haben,
+
+00:25:56.901 --> 00:26:07.900
+<v timpritlove>die Bakterien erkannt hat, die in irgendeiner Form zumindest bestimmte Plastikstrukturen auffressen, umwandeln.
+
+00:26:07.901 --> 00:26:09.200
+<v joergovermann>Ja zumindest aufschließen.
+
+00:26:09.201 --> 00:26:15.000
+<v timpritlove>Worauf weist das hin? Weist das darauf hin, dass wir einfach nur nicht viel beobachten können
+
+00:26:15.001 --> 00:26:25.900
+<v timpritlove>oder dass tatsächlich hier eine Evolution im Schnelldurchlauf stattfindet, die sich unter Umständen auch treiben lässt in gewisser Hinsicht?
+
+00:26:25.901 --> 00:26:28.300
+<v joergovermann>Also es gibt natürlich beides.
+
+00:26:28.301 --> 00:26:35.700
+<v joergovermann>Das eine ist, dass wir viele Funktionen sicher noch nicht in Gänze verstanden haben.
+
+00:26:35.701 --> 00:26:43.900
+<v joergovermann>Es gab in den 30er/40er/50er vielleicht auch bis in die 60er Jahre das Vorgehen und das war sehr erfolgreich,
+
+00:26:43.901 --> 00:26:49.100
+<v joergovermann>dass man einfach gesagt hat, wenn es einen natürlichen Stoff irgendwo gibt, irgendeine Verbindung,
+
+00:26:49.101 --> 00:26:55.400
+<v joergovermann>dann gibt es bestimmt ein Bakterien, das diese Verbindung abbaut mit einem bestimmten Stoffwechsel, den ich mir vorstelle.
+
+00:26:55.401 --> 00:26:56.700
+<v timpritlove>Einfach so Angebot und Nachfrage.
+
+00:26:56.701 --> 00:27:03.200
+<v timpritlove>Also da ist dann einfach was, wo sich sonst drum keiner kümmert, das ist ja dann quasi eine evolutionäre Nische, die man nutzen kann.
+
+00:27:03.201 --> 00:27:09.000
+<v joergovermann>Ja, einfach dadurch, dass der Stoff eben da ist und Bakterien in dieser großen Vielfalt müssen ja sehen,
+
+00:27:09.001 --> 00:27:14.600
+<v joergovermann>dass sie neue Nischen erschließen, also war das Postulat, ich werde dann schon irgendwie ein Bakterium finden,
+
+00:27:14.601 --> 00:27:18.400
+<v joergovermann>das die Reaktion tut, auch wenn sie noch so abstrus ist.
+
+00:27:18.401 --> 00:27:23.000
+<v joergovermann>Wenn sie thermodynamisch funktioniert, wenn ich auf dem Papier ausrechnen kann,
+
+00:27:23.001 --> 00:27:29.600
+<v joergovermann>es ist eine thermodynamisch mögliche Reaktion, wobei Stoffwechselenergie erzeugt werden kann
+
+00:27:29.601 --> 00:27:32.700
+<v joergovermann>und sie ist nicht bergauf, so dass ich also Energie reinstecken muss, dass sie abläuft,
+
+00:27:32.701 --> 00:27:36.700
+<v joergovermann>sondern ich gewinne damit Energie, dann finde ich mit Sicherheit ein Bakterium.
+
+00:27:36.701 --> 00:27:37.500
+<v joergovermann>Und das war sehr erfolgreich.
+
+00:27:37.501 --> 00:27:40.300
+<v joergovermann>Man hat also einfach Komponenten zusammengegeben in ein Medium,
+
+00:27:40.301 --> 00:27:43.900
+<v joergovermann>hat das beimpft mit ein bisschen Boden, Wasser oder irgendeiner anderen Probe.
+
+00:27:43.901 --> 00:27:47.600
+<v joergovermann>Und wenn man es gut gemacht hat, hat man dann das entsprechende Bakterium gefunden.
+
+00:27:47.601 --> 00:27:54.400
+<v joergovermann>Egal ob das aromatische Kohlenstoffverbindungen waren und dergleichen mehr.
+
+00:27:54.401 --> 00:28:00.500
+<v joergovermann>Diese selektive Anreicherung zeigt also immer wieder, es gibt immer wieder solche Fälle, wo man was neues findet,
+
+00:28:00.501 --> 00:28:05.200
+<v joergovermann>dass wir da noch nicht alles überblicken.
+
+00:28:05.201 --> 00:28:09.400
+<v joergovermann>Das ist bedingt durch diese enorme Diversität von Bakterien, die sie über die Milliarden Jahre entwickelt haben.
+
+00:28:09.401 --> 00:28:12.700
+<v joergovermann>Also wir sind auch da noch teilweise blind.
+
+00:28:12.701 --> 00:28:19.100
+<v joergovermann>Das Interessante dann war, man war davon ausgegangen, es gibt Xenobiotika, also Substanzen, die der Mensch erzeugt hat,
+
+00:28:19.101 --> 00:28:24.600
+<v joergovermann>und dadurch dass das der Mensch sie erzeugt hat, hatten die Bakterien ja keine Möglichkeit,
+
+00:28:24.601 --> 00:28:27.800
+<v joergovermann>sich da eine neue Nische zu erschließen und diese Substanz abzubauen.
+
+00:28:27.801 --> 00:28:30.000
+<v timpritlove>Was wäre da ein Beispiel für so was?
+
+00:28:30.001 --> 00:28:37.600
+<v joergovermann>Das PER aus chemischen Reinigungen, was auch zum Entfetten von Metallgegenständen in der Industrie lange Zeit genutzt wurde.
+
+00:28:37.601 --> 00:28:44.200
+<v joergovermann>Das ist jetzt ja verboten, das wurde als extrem stabil angesehen, also Tetrachlorethylen.
+
+00:28:44.201 --> 00:28:49.000
+<v timpritlove>Also das ist jetzt eine reine chemische Verbindung, kein Bakterium in dem Sinne.
+
+00:28:49.001 --> 00:28:52.700
+<v joergovermann>Genau, es sind zwei Kohlenstoffatome, die durch eine Doppelbindung verbunden sind
+
+00:28:52.701 --> 00:28:57.800
+<v joergovermann>und an jedem Kohlenstoffatom hängen zwei Chloratome.
+
+00:28:57.801 --> 00:29:07.200
+<v joergovermann>Und solche Chlorkohlenstoffverbindungen, so ähnlich wie auch bei Teflon, ähnliche Diskussion,
+
+00:29:07.201 --> 00:29:16.800
+<v joergovermann>wurden als so inert angesehen, dass man dafür erst mal nicht vermutete, dass es Mikroorganismen gibt, die das abbauen.
+
+00:29:16.801 --> 00:29:18.300
+<v timpritlove>Also unwandelbar sozusagen.
+
+00:29:18.301 --> 00:29:20.900
+<v joergovermann>Genau, also sehr stabil.
+
+00:29:20.901 --> 00:29:24.900
+<v joergovermann>Und tatsächlich das schien auch so zu sein, weil man im Grundwasser, und jetzt kommt das praktische Problem,
+
+00:29:24.901 --> 00:29:29.000
+<v joergovermann>weil man im Grundwasser und das gab es sogar hier in Braunschweig unter chemischen Reinigungen
+
+00:29:29.001 --> 00:29:35.500
+<v joergovermann>oder entsprechenden metallverarbeitenden Betrieben, die dann zur Entfettung eben auch diese Lösung einsetzten,
+
+00:29:35.501 --> 00:29:39.200
+<v joergovermann>tatsächlich im Grundwasser eine erhebliche Akkumulation bekommen hat.
+
+00:29:39.201 --> 00:29:46.300
+<v joergovermann>Weil man früher auch noch nicht die Vorschriften hatte, dass das Ganze gesammelt werden muss etc..
+
+00:29:46.301 --> 00:29:52.800
+<v joergovermann>Ein Kollege von mir in New York, also im Staat New York, hat zehn Jahre gebraucht und hat dann tatsächlich es geschafft,
+
+00:29:52.801 --> 00:29:58.400
+<v joergovermann>einen Organismus anzureichern und zu isolieren, der genau diese Reaktion macht.
+
+00:29:58.401 --> 00:30:02.500
+<v joergovermann>Der macht die sogar ohne molekularen Sauerstoff.
+
+00:30:02.501 --> 00:30:10.900
+<v joergovermann>Man hatte nämlich gedacht, das geht eigentlich nur, wenn man so ein aggressives Molekül, das ja Sauerstoff ist eigentlich, zur Verfügung hat.
+
+00:30:10.901 --> 00:30:13.900
+<v joergovermann>Der kann das sogar ohne Sauerstoff machen und abbauen.
+
+00:30:13.901 --> 00:30:20.400
+<v joergovermann>Und das war eine Sensation, denn das bedeutete, man kann Altlasten tatsächlich sanieren mit diesem Bakterium,
+
+00:30:20.401 --> 00:30:27.200
+<v joergovermann>wenn man es in genügender Menge anreichert, das wächst sehr langsam, ist sehr aufwändig zu kultivieren, deshalb ging das so lange,
+
+00:30:27.201 --> 00:30:33.500
+<v joergovermann>und dann in die Grundwasserfahne, wo diese Stoffe sind, einbringt und tatsächlich, das ist auch schon so gemacht worden,
+
+00:30:33.501 --> 00:30:37.300
+<v joergovermann>da sind Millionen von Milliarden Zellen gezüchtet worden, hinuntergepumpt worden,
+
+00:30:37.301 --> 00:30:44.800
+<v joergovermann>das war in Michigan zum Beispiel und dann hat man innerhalb von ein paar Monaten 60 Prozent Abbau bekommen.
+
+00:30:44.801 --> 00:30:48.000
+<v joergovermann>Mit anderen Worten, selbst Substanzen, die der Mensch erfunden hat, die die Bakterien vorher nicht gesehen haben,
+
+00:30:48.001 --> 00:30:56.500
+<v joergovermann>auch dafür gibt es teilweise schon die Enzyme, also die Moleküle in den Zellen, die Proteine in den Zellen, die das umsetzen können.
+
+00:30:56.501 --> 00:31:00.900
+<v joergovermann>So ähnlich ist das beim Plastik auch, da gibt es auch verschiedene.
+
+00:31:00.901 --> 00:31:06.300
+<v joergovermann>Der zweite Teil von der Frage ist ja, wie schnell passen sich Bakterien denn nun an?
+
+00:31:06.301 --> 00:31:10.200
+<v joergovermann>Und auch da ist es in der Mikrobiologie etwas anders.
+
+00:31:10.201 --> 00:31:17.800
+<v joergovermann>Wenn allein schon eine stecknadelkopfgroße Kolonie von Bakterien, ungefähr 10 hoch 9, also eine Milliarde Zellen enthält,
+
+00:31:17.801 --> 00:31:23.100
+<v joergovermann>dann werden seltene Ereignisse plötzlich doch häufig.
+
+00:31:23.101 --> 00:31:27.400
+<v joergovermann>Und das ist genau das Wesen der Evolution von Bakterien.
+
+00:31:27.401 --> 00:31:35.800
+<v joergovermann>Genetische Änderungen, so selten sie eigentlich statistisch bei der einzelnen Zelle sind zum Glück,
+
+00:31:35.801 --> 00:31:42.100
+<v joergovermann>wenn ich das Ganze milliardenfach probiere, dann ist immer eine Zelle dabei, die eine bestimmte Mutation hat.
+
+00:31:42.101 --> 00:31:48.400
+<v joergovermann>Das liegt also an der schieren Größe der Bakterienpopulation auf dieser Welt,
+
+00:31:48.401 --> 00:31:55.200
+<v joergovermann>es gibt Abschätzungen, wieviele Bakterienzellen es auf dieser Welt gibt, das ist eine irrsinnige Zahl, das ist eine 10 mit 30 Nullen möglicherweise.
+
+00:31:55.201 --> 00:32:05.900
+<v joergovermann>Also aufgrund dieser enormen Größe der Population von Bakterien, sind die an und für sich seltenen genetischen Änderungen treten sie sehr häufig auf dann doch.
+
+00:32:05.901 --> 00:32:07.900
+<v joergovermann>Und das beobachten wir tatsächlich.
+
+00:32:07.901 --> 00:32:12.300
+<v joergovermann>Sie können bestimmte Experimente im Labor machen, eins der bekannten Bakterienexperimente ist,
+
+00:32:12.301 --> 00:32:17.100
+<v joergovermann>ich nehme einen Nährboden, in dem Antibiotikum ist und kultiviere da drauf und gucke,
+
+00:32:17.101 --> 00:32:21.700
+<v joergovermann>wann ich dann Zellen bekomme, die spontan gegen dieses Antibiotikum resistent sind.
+
+00:32:21.701 --> 00:32:26.600
+<v joergovermann>Es gibt bestimmte Punktmutationen, die reichen aus, zum Beispiel in Ribosomen,
+
+00:32:26.601 --> 00:32:31.000
+<v joergovermann>so dass dann ein Bakterium gegen Streptomycin resistent wird.
+
+00:32:31.001 --> 00:32:37.800
+<v joergovermann>Und das kann ich beobachten im Labor innerhalb von kurzer Zeit, einfach dadurch, weil es so viele Zellen auf einmal sind.
+
+00:32:37.801 --> 00:32:44.200
+<v timpritlove>Das heißt, es ist sozusagen auch ein natürliches Ende der Antibiotika abzusehen?
+
+00:32:44.201 --> 00:32:45.200
+<v timpritlove>Weil sich im Prinzip die Natur gegen alles stemmt?
+
+00:32:45.201 --> 00:32:49.100
+<v joergovermann>Ich weiß nicht, Ende.
+
+00:32:49.101 --> 00:32:51.700
+<v timpritlove>Wie funktionieren dies Antibiotika denn sozusagen?
+
+00:32:51.701 --> 00:32:54.800
+<v timpritlove>Also warum funktionieren die überhaupt so gut?
+
+00:32:54.801 --> 00:33:04.000
+<v joergovermann>Man bemüht sich, gezielt Stoffwechselfunktionen, bestimmte Funktionen in den Bakterienzellen, die sich unterscheiden von unseren Zellen, zu hemmen.
+
+00:33:04.001 --> 00:33:10.400
+<v joergovermann>Wenn also ein Bakterium und das haben viele Bakterien, eine Zellwand aus einer Substanz synthetisiert,
+
+00:33:10.401 --> 00:33:17.400
+<v joergovermann>die bei uns im Körper nicht vorkommt, und ich diesen Syntheseweg, zum Beispiel mit Penicillin,
+
+00:33:17.401 --> 00:33:22.300
+<v joergovermann>oder moderneres Vancomycin, hemme, und das Bakterium also seine Zellwand nicht bilden kann,
+
+00:33:22.301 --> 00:33:28.900
+<v joergovermann>dann ist es nicht geschützt gegen Änderungen in der Salzkonzentration außen herum und platzt.
+
+00:33:28.901 --> 00:33:31.800
+<v joergovermann>Das war also, Penicillin ist ja eines der ersten Antibiotika.
+
+00:33:31.801 --> 00:33:36.900
+<v joergovermann>Ein anderes ganz frühes Antibiotikum wie Streptomycin zum Beispiel greift auf Komponenten innerhalb der Zelle zu.
+
+00:33:36.901 --> 00:33:40.900
+<v joergovermann>Also es gibt sehr unterschiedliche Angriffspunkte in Bakterienzellen.
+
+00:33:40.901 --> 00:33:47.400
+<v joergovermann>Zum Beispiel die Maschinen, die Stoffwechselmaschinen, die Proteine synthetisieren, die Ribosomen.
+
+00:33:47.401 --> 00:33:56.400
+<v joergovermann>Davon gibt es zigtausende in so einer Zelle und die sind natürlich absolut überlebenswichtig, weil die Zelle ja Proteine bilden muss,
+
+00:33:56.401 --> 00:34:03.500
+<v joergovermann>auch sie baut manche Proteine ab, sie muss sie ersetzen, sie will wachsen, sie muss Proteine, 50 Prozent der Zelle sind Proteine, also ganz wichtig.
+
+00:34:03.501 --> 00:34:10.200
+<v joergovermann>Jede Zelle, auch unsere Zellen haben Ribosomen, aber unsere Ribosomen sind anders aufgebaut.
+
+00:34:10.201 --> 00:34:16.100
+<v joergovermann>Die kernhaltigen Organismen haben sich ja von denen ohne Kerne sehr früh abgespalten.
+
+00:34:16.101 --> 00:34:17.700
+<v joergovermann>Ohne da jetzt im Detail darauf eingehen wollen.
+
+00:34:17.701 --> 00:34:26.100
+<v joergovermann>Und das hat dazu geführt, dass diese Zellkomponenten im Prinzip in beiden Linien, also bei den eukalen wie bei den prokalen da sind,
+
+00:34:26.101 --> 00:34:31.600
+<v joergovermann>aber sehr unterschiedlich aufgebaut sind, durch die lange unterschiedliche Evolutionszeit.
+
+00:34:31.601 --> 00:34:39.100
+<v joergovermann>Und das bedeutet, die Ribosomen in Bakterienzellen sind empfindlich gegen bestimmte Substanzen, die in unseren Zellen nicht wirken.
+
+00:34:39.101 --> 00:34:44.400
+<v joergovermann>Kleine interessante Anmerkung am Rande allerdings, in unseren Zellen befinden sich auch Bakterien.
+
+00:34:44.401 --> 00:34:49.900
+<v joergovermann>Die sind nämlich vor langer langer Zeit aufgenommen worden von unseren Vorfahren, das sind die Mitochondrien.
+
+00:34:49.901 --> 00:34:56.900
+<v joergovermann>Das heißt, also die Organellen in unseren Zellen, die die Atmung eigentlich machen, das sind Bakterien.
+
+00:34:56.901 --> 00:35:01.700
+<v joergovermann>Man kann die einordnen in den Stammbaum der Bakterien, weil die noch etwas DNA haben.
+
+00:35:01.701 --> 00:35:10.200
+<v timpritlove>Der Grund, warum die Mitochondrien nicht gehemmt werden durch Antibiotika, die eigentlich gegen sie wirken sollten, ist, dass die geschützt sind durch mehrere Zelllagen,
+
+00:35:10.201 --> 00:35:16.700
+<v joergovermann>Sodass man eine viel höhere Konzentration beispielsweise von Streptomycin uns verabreichen müsste,
+
+00:35:16.701 --> 00:35:21.300
+<v joergovermann>damit dieses Streptomycin dann innerhalb der Mitochondrien tatsächlich wirken kann, das ist der Grund.
+
+00:35:21.301 --> 00:35:28.200
+<v joergovermann>Also es ist einerseits diese Abschottung bei unseren Mitochondrien, so dass es nicht passiert,
+
+00:35:28.201 --> 00:35:33.700
+<v joergovermann>aber es gibt eben auch, die Mitochondrien haben keine Zellwand wie Bakterien, es gibt welche, die sehr spezifisch sind,
+
+00:35:33.701 --> 00:35:40.600
+<v joergovermann>gerade die Zellwand und das versucht man eben zu hemmen.
+
+00:35:40.601 --> 00:35:47.200
+<v joergovermann>Allerdings und da kommen wir wieder zurück zu der Anpassungsfähigkeit der Bakterien, in manchen Fällen reicht eine Punktmutation,
+
+00:35:47.201 --> 00:35:51.900
+<v joergovermann>das ist zum Beispiel beim Streptomycin so, ist auch bei einigen anderen.
+
+00:35:51.901 --> 00:35:58.400
+<v joergovermann>Bei Ciprofloxacin zum Beispiel auch, das wirkt auf einer ganz anderen Ebene bei der DNA-Replikation, also bei der Vermehrung der Erbsubstanz.
+
+00:35:58.401 --> 00:36:05.400
+<v joergovermann>Da gibt es auch eine Punktmutation, die verhindert dann das Ciprofloxacin wirkt.
+
+00:36:05.401 --> 00:36:10.400
+<v joergovermann>Ein noch viel größeres Problem ist aber eine weitere Eigenschaft von Bakterien, auf die wir bisher noch gar nicht eingegangen sind,
+
+00:36:10.401 --> 00:36:16.300
+<v joergovermann>und das ist, dass Bakterien genetisches Material austauschen können, teilweise sehr effizient,
+
+00:36:16.301 --> 00:36:21.000
+<v joergovermann>abhängig davon, welche Art es ist, mit nicht verwandten Bakterien.
+
+00:36:21.001 --> 00:36:33.200
+<v joergovermann>Das wäre also so, wie wenn wir mit einer Maispflanze oder mit einem Fisch oder irgendeinem ganz weit entfernten Organismus genetisches Material,
+
+00:36:33.201 --> 00:36:38.300
+<v joergovermann>nur Stücke, aber immerhin wirksame Gene austauschen können.
+
+00:36:38.301 --> 00:36:43.400
+<v joergovermann>Das ist in vielen vielen Fällen das größere Problem bei der Resistenzbildung,
+
+00:36:43.401 --> 00:36:47.800
+<v joergovermann>weil nämlich dann das Bakterium diese Resistenz nicht selber durch Mutation
+
+00:36:47.801 --> 00:36:55.600
+<v joergovermann>und durch Genduplikation und langsame Evolution dieser neuen Gene und Anpassungen herausbilden muss,
+
+00:36:55.601 --> 00:36:59.200
+<v joergovermann>sondern diese Resistenz ist schon da, die befindet sich schon in der Natur.
+
+00:36:59.201 --> 00:36:59.400
+<v timpritlove>Nur woanders.
+
+00:36:59.401 --> 00:37:05.400
+<v joergovermann>Das Bakterium muss es nur aufnehmen und dazu hat es eben die Möglichkeit,
+
+00:37:05.401 --> 00:37:13.900
+<v joergovermann>anders als die meisten eukaryotischen Zellen und das hat zur Folge, dass dann viel viel schneller Antibiotikaresistenzen auftauchen.
+
+00:37:13.901 --> 00:37:15.100
+<v joergovermann>Es ist also ein permanenter Wettstreit…
+
+00:37:15.101 --> 00:37:17.600
+<v timpritlove>Die Klonkrieger der Mikrobiologie sozusagen, ja okay.
+
+00:37:17.601 --> 00:37:28.500
+<v joergovermann>Ja. Ist ein permanenter Wettstreit, ein Wettlauf zwischen dem Herausfinden oder Entdecken neuer Arten von Antibiotika, die neu wirken
+
+00:37:28.501 --> 00:37:32.600
+<v joergovermann>und der entsprechenden Resistenzbildung von Bakterien.
+
+00:37:32.601 --> 00:37:38.800
+<v joergovermann>WAs man also jetzt versucht ist, dass man Antibiotika findet, die beispielsweise die Zelle nicht abtöten,
+
+00:37:38.801 --> 00:37:43.300
+<v joergovermann>aber sie nicht mehr virulent wachsen lassen beispielsweise, dass sie einfach nicht mehr gefährlich sind.
+
+00:37:43.301 --> 00:37:47.600
+<v joergovermann>Dann gibt es nicht so einen Druck darauf, dass sie sich komplett verändern.
+
+00:37:47.601 --> 00:37:55.900
+<v joergovermann>Oder man nimmt Antibiotika, wo es notwendig ist, dass das bakteriomere(?) Gene aufnimmt und da ist die Chance dann auch geringer,
+
+00:37:55.901 --> 00:37:58.300
+<v joergovermann>dass die Resistenzbildung ist.
+
+00:37:58.301 --> 00:38:06.200
+<v joergovermann>Also es gibt so verschiedene Möglichkeiten, dagegen anzugehen, aber das große Problem ist dieser Wettlauf, das ist in der Tat soll.
+
+00:38:06.201 --> 00:38:15.000
+<v joergovermann>Man muss also warten, dann stellt man aber fest, wenn man 10-20 Jahre wartet, ist es teilweise so, dass die Resistenzen verloren gehen,
+
+00:38:15.001 --> 00:38:17.000
+<v joergovermann>denn das ist ja genetischer Ballast.
+
+00:38:17.001 --> 00:38:23.200
+<v joergovermann>Die Zelle investiert in zusätzliche Eigenschaften, das kostet Energie.
+
+00:38:23.201 --> 00:38:25.800
+<v joergovermann>Wenn sie das nicht braucht, wirft sie das wieder raus.
+
+00:38:25.801 --> 00:38:31.600
+<v joergovermann>Also nach einiger Zeit werden Bakterien wieder empfänglich gegen deutlich früher eingesetzte Antibiotika.
+
+00:38:31.601 --> 00:38:38.400
+<v joergovermann>Das muss man also sehr genau verfolgen, was in der Klinik passiert und stellt dann unter Umständen fest,
+
+00:38:38.401 --> 00:38:41.600
+<v joergovermann>jetzt kann ich aber dieses alte Antibiotikum doch wieder für eine gewisse Zeit.
+
+00:38:41.601 --> 00:38:47.300
+<v timpritlove>Man muss es sozusagen nur erst außer Betrieb stellen für eine Weile und dann sagen die Bakterien,
+
+00:38:47.301 --> 00:38:53.400
+<v timpritlove>ach ja okay, es gibt jetzt nichts worüber wir uns aufregen müssen, wir bilden uns jetzt zurück und dann kann man das wieder einsetzen.
+
+00:38:53.401 --> 00:38:56.200
+<v joergovermann>Ja, aber das ist ein permanenter Wettstreit.
+
+00:38:56.201 --> 00:39:01.400
+<v joergovermann>Und eine neuere Tendenz ist jetzt und das ist ein ganz neuer Aspekt, man kann natürlich auch,
+
+00:39:01.401 --> 00:39:07.200
+<v joergovermann>da sind wir auch etwas involviert, Viren gegen Bakterien einsetzen, die sogenannten Bakteriophagen,
+
+00:39:07.201 --> 00:39:12.600
+<v joergovermann>das nennt man dann Phagentherapie, die sind noch spezifischer, das ist das Wunderbare daran,
+
+00:39:12.601 --> 00:39:13.500
+<v joergovermann>die sind noch spezifischer als Antibiotika.
+
+00:39:13.501 --> 00:39:19.400
+<v joergovermann>Sie können also eine bestimmte Art oder Unterart gezielt zerstören.
+
+00:39:19.401 --> 00:39:22.500
+<v joergovermann>Aber auch da gibt es natürlich dann irgendwann Resistenzbildung.
+
+00:39:22.501 --> 00:39:27.200
+<v joergovermann>Aber wenn Sie diese Art von Viren ziehen, wir haben die hier auch in der Sammlung, 
+
+00:39:27.201 --> 00:39:31.700
+<v joergovermann>dann können Sie die anwenden, zum Beispiel wenn Sie Wunden haben, die nie mehr verheilen.
+
+00:39:31.701 --> 00:39:40.100
+<v joergovermann>Es gibt ja zunehmend solche Fälle, wo resistente Bakterien permanente Infektionen über Jahrzehnte fast herausbilden.
+
+00:39:40.101 --> 00:39:44.300
+<v joergovermann>Und wenn Sie das dann auf diese Wunden bringen, dann können Sie in relativ kurzer Zeit, in günstigsten Fällen,
+
+00:39:44.301 --> 00:39:49.400
+<v joergovermann>das funktioniert aber sehr gut, diese Bakterien bekämpfen, abtöten und dann wächst die Wunde wieder zu.
+
+00:39:49.401 --> 00:39:52.900
+<v timpritlove>Und die Viren die greifen die Bakterien auch so ähnlich an, wie sie das bei Menschen tun?
+
+00:39:52.901 --> 00:39:59.500
+<v timpritlove>Also sie treten dann die Zellwände ein und sorgen dann dafür, dass sie dann von innen heraus selbst produziert werden oder bestimmte Bakterien zu töten.
+
+00:39:59.501 --> 00:40:04.600
+<v joergovermann>Ganz genau. Selbes Prinzip, allerdings sehen die ganz anders aus, die sehen so wie kleine Raumlandefähren aus,
+
+00:40:04.601 --> 00:40:09.800
+<v joergovermann>das hat man ja bei menschlichen Viren nicht, weil die an eine starre Zellwand binden müssen
+
+00:40:09.801 --> 00:40:15.300
+<v joergovermann>und dann durch die Zellwand durchkommen müssen, chemisch auflösen müssen,
+
+00:40:15.301 --> 00:40:18.000
+<v joergovermann>das sieht also auch morphologisch schon ganz anders aus, deshalb sind die so spezifisch.
+
+00:40:18.001 --> 00:40:19.600
+<v timpritlove>Das sind schon kleine Maschinen richtig?
+
+00:40:19.601 --> 00:40:21.100
+<v joergovermann>Ja.
+
+00:40:21.101 --> 00:40:30.700
+<v timpritlove>Vielleicht noch mal kurz zurück zu dem Aspekt Plastik, sozusagen einfach so auch mal als anerkanntes Problem.
+
+00:40:30.701 --> 00:40:37.900
+<v timpritlove>Nicht alle Dinge, die möglich und nötig wären, werden ja auch von der Gesellschaft als Problem angesehen.
+
+00:40:37.901 --> 00:40:43.700
+<v timpritlove>Bei dem Plastik, denke ich mal, bildet sich zumindest in unseren Breiten so ein gewisses Grundverständnis heraus.
+
+00:40:43.701 --> 00:40:47.800
+<v timpritlove>Gibt ja auch viele Ansätze, dieser Plage Herr zu werden.
+
+00:40:47.801 --> 00:40:54.900
+<v timpritlove>Aber ist denn das sozusagen eine realistische Option, hier in der Form bakteriologisch gerettet zu werden?
+
+00:40:54.901 --> 00:41:01.200
+<v timpritlove>Ich meine, das ist so ein bisschen Krieg der Welten, dieser Roman hat ja auch so dieses Bild so des Angriffs aus dem Weltall
+
+00:41:01.201 --> 00:41:05.100
+<v timpritlove>und die Menschen sind im Prinzip schon geschlagen und am Ende sind es so die Bakterien,
+
+00:41:05.101 --> 00:41:08.400
+<v timpritlove>die uns sozusagen von dieser Plage befreien.
+
+00:41:08.401 --> 00:41:11.400
+<v timpritlove>Kann man ähnliche Hoffnung hier auch im Plastikbereich haben?
+
+00:41:11.401 --> 00:41:15.500
+<v timpritlove>Bedarf es der Forschung oder müssen wir einfach nur warten, bis die Natur selber zuschlägt?
+
+00:41:15.501 --> 00:41:24.300
+<v joergovermann>Ich glaube, da müssen wir uns überlegen, was für ein Resultat wir wollen.
+
+00:41:24.301 --> 00:41:29.100
+<v joergovermann>Also ich war vor Corona zur Probennahme in Senegal und bin an einen Strand gekommen,
+
+00:41:29.101 --> 00:41:33.800
+<v joergovermann>wo ein idyllisches Fischerdorf lag, da kommt man dran vorbei, einfach auf einer Durchgangsstraße,
+
+00:41:33.801 --> 00:41:36.700
+<v joergovermann>da ist auch nicht viel Verkehr, also es war eigentlich sehr ländlich.
+
+00:41:36.701 --> 00:41:41.000
+<v joergovermann>Die Fischerboote bunt bemalt lagen auf dem Strand, wie man das so manchmal sieht auf Bildern.
+
+00:41:41.001 --> 00:41:49.700
+<v joergovermann>Aber der ganze Strand war komplett ohne Lücke mit Plastikflaschen und Plastikmüll bedeckt.
+
+00:41:49.701 --> 00:41:50.900
+<v joergovermann>Der garantiert nicht aus diesem Fischerdorf kam.
+
+00:41:50.901 --> 00:41:53.600
+<v joergovermann>Also das hat mich schon beeindruckt.
+
+00:41:53.601 --> 00:41:59.900
+<v joergovermann>Ich hatte nur selten oder eigentlich noch nie in dieser Dichte über wirklich den gesamten Strand,
+
+00:41:59.901 --> 00:42:04.400
+<v joergovermann>so weit man blicken konnte, das gesehen.
+
+00:42:04.401 --> 00:42:09.700
+<v joergovermann>Und was ich damit sagen will ist, ja es gibt erste Hinweise, es gibt ganz gute Hinweise,
+
+00:42:09.701 --> 00:42:14.700
+<v joergovermann>dass bestimmte Plastiksorten von Bakterien und Pilzen teilweise auch abgebaut werden.
+
+00:42:14.701 --> 00:42:17.600
+<v joergovermann>Aber es ist ein Problem der Rate.
+
+00:42:17.601 --> 00:42:27.100
+<v joergovermann>Wenn wir also wesentlich mehr Plastik in die Umwelt verbringen, als die natürliche Kapazität der Bakterien dort bewältigen kann
+
+00:42:27.101 --> 00:42:30.900
+<v joergovermann>und das ist im Moment das Problem, deshalb sinkt das Ganze auch in die Tiefsee
+
+00:42:30.901 --> 00:42:37.300
+<v joergovermann>und deshalb wird das Ganze bestenfalls zu kleinen Pellets zerlegt und findet sich dann in der Nahrungskette wieder und so weiter.
+
+00:42:37.301 --> 00:42:39.500
+<v timpritlove>Und in uns.
+
+00:42:39.501 --> 00:42:43.000
+<v joergovermann>Am Ende landet es dann auch bei uns.
+
+00:42:43.001 --> 00:42:45.600
+<v joergovermann>Dann ist das eine Ratenfrage.
+
+00:42:45.601 --> 00:42:53.100
+<v joergovermann>Es geht gar nicht so sehr darum, ja oder nein, man würde den Abbau unter ganz günstigen Bedingungen wahrscheinlich zumindest zum Teil ganz gut hinbekommen,
+
+00:42:53.101 --> 00:42:57.700
+<v joergovermann>aber dafür ist die Rate einfach zu hoch, also das wird nicht ausreichen.
+
+00:42:57.701 --> 00:43:00.800
+<v joergovermann>Nachdem was man bisher so sieht, wird es sicher nicht ausreichen,
+
+00:43:00.801 --> 00:43:05.100
+<v joergovermann>dass man auf die Selbstheilungskräfte, wie man das so gerne sagt, der Natur einfach vertraut und sagt,
+
+00:43:05.101 --> 00:43:08.900
+<v joergovermann>das hat man früher auch gemacht, auch beim Verklappen von dem PER hat man gesagt,
+
+00:43:08.901 --> 00:43:13.900
+<v joergovermann>ja also irgendwie wird die Natur da schon mit klarkommen, man wusste es halt nicht besser.
+
+00:43:13.901 --> 00:43:24.100
+<v joergovermann>Aber das Potenzial ist das eine, aber die Umsatzrate, die wir benötigen, um so ein Problem zu bewältigen,
+
+00:43:24.101 --> 00:43:27.700
+<v joergovermann>reicht, wie wir ganz anschaulich sehen, überhaupt nicht aus.
+
+00:43:27.701 --> 00:43:32.600
+<v timpritlove>Ja, ich wollte auch nicht die Hoffnung beschleunigen, dass man sozusagen das komplette Müllproblem gelöst bekommt.
+
+00:43:32.601 --> 00:43:34.600
+<v timpritlove>Man muss natürlich da auf allen Ebenen greifen.
+
+00:43:34.601 --> 00:43:39.000
+<v timpritlove>Es gibt ja auch interessante Projekte „Ocean Cleanup“ und andere Filtersysteme etc.,
+
+00:43:39.001 --> 00:43:45.200
+<v timpritlove>aber natürlich ist es vor allem eine Frage der Produktion und es ist natürlich auch eine Frage der Produktion der Materialien selber,
+
+00:43:45.201 --> 00:43:50.400
+<v timpritlove>die ja hier mikrobiologisch auch vorankommen kann.
+
+00:43:50.401 --> 00:43:54.900
+<v timpritlove>Es wird ja viel diskutiert über die Abbaufähigkeit von plastikartigen Stoffen 
+
+00:43:54.901 --> 00:44:02.900
+<v timpritlove>und da gibt es ja zumindest schon Fortschritte, dass zumindest so eine Kompostierung theoretisch zumindest in so einem kontrollieren Industriellen Modus möglich ist.
+
+00:44:02.901 --> 00:44:11.100
+<v timpritlove>Also mit den richtigen Temperaturen, ich glaube so von, die Flasche zersetzt sich komplett selber innerhalb von zwei Wochen in der Sonne,
+
+00:44:11.101 --> 00:44:14.600
+<v timpritlove>davon sind wir, glaube ich, noch weit entfernt, aber das wäre ja alles vorstellbar.
+
+00:44:14.601 --> 00:44:21.300
+<v timpritlove>Und sicherlich wird auch hier die mikrobielle Forschung etwas beitragen können oder?
+
+00:44:21.301 --> 00:44:28.000
+<v joergovermann>Wenn man das Ganze so konzentrieren kann, dass man das näher am Ursprungsort oder an der Quelle konzentriert macht,
+
+00:44:28.001 --> 00:44:35.900
+<v joergovermann>dann ist das im Verein mit neuen Materialien, die besser abbaubar sind, die aber ähnliche Eigenschaften haben, sicher machbar.
+
+00:44:35.901 --> 00:44:39.000
+<v joergovermann>Also es ist sicher dann auch teilweise eine Kostenfrage.
+
+00:44:39.001 --> 00:44:48.300
+<v joergovermann>Aber das ist genau der Punkt, wenn es mal so diffus ist, dann ist es sicher schwerer, mit typischen mikrobiellen Methoden daran zu gehen.
+
+00:44:48.301 --> 00:44:55.300
+<v joergovermann>Das ist genau so wie Sie in der Kläranlage versuchen, den Abbau sehr gut gesteuert und sehr effizient zu machen
+
+00:44:55.301 --> 00:44:57.300
+<v joergovermann>und auch beispielsweise Phosphat zu eliminieren.
+
+00:44:57.301 --> 00:45:06.500
+<v joergovermann>In der Zeit, als ich in Konstanz am Bodensee war, da wurde gerade der Peak des Phosphatgehaltes im Freiwasser erreicht,
+
+00:45:06.501 --> 00:45:13.600
+<v joergovermann>aber mit allen Problemen bis hin zur Trinkwasser Versorgung von Stuttgart, die dann zur Debatte stand
+
+00:45:13.601 --> 00:45:20.300
+<v joergovermann>und seitdem ist das aber untergegangen, einfach weil man das Problem an der Quelle in den Griff bekommen hat
+
+00:45:20.301 --> 00:45:25.400
+<v joergovermann>und sowohl Stickstoff als auch Phosphat entfernt aus dem Abwasser,
+
+00:45:25.401 --> 00:45:27.100
+<v joergovermann>bevor es dann diffus in die Umwelt geleitet wird.
+
+00:45:27.101 --> 00:45:35.500
+<v joergovermann>Also es ist schon nur dann effizient, wenn man das dann eben biotechnologisch in so konzentrierter Form machen kann.
+
+00:45:35.501 --> 00:45:39.100
+<v timpritlove>Genau, ich meine, die Quelle wäre ja dann an der Stelle natürlich dann die Produktion,
+
+00:45:39.101 --> 00:45:45.700
+<v timpritlove>also die Industrie, die solche Stoffe dann, also die chemische Industrie, die solche Stoffe dann herstellt.
+
+00:45:45.701 --> 00:45:47.700
+<v timpritlove>Und ich meine, das ist ja auch Teil der wissenschaftlichen Forschung.
+
+00:45:47.701 --> 00:45:52.000
+<v timpritlove>Ich weiß nicht, gibt es hier viel Kontakt mit der chemischen Industrie zum Beispiel in Ihrer Arbeit?
+
+00:45:52.001 --> 00:46:01.600
+<v joergovermann>Das ist eher mit der Industrie, die Mikroorganismen benötigt und in ihren Forschungslabors solche Dinge macht.
+
+00:46:01.601 --> 00:46:07.300
+<v joergovermann>Also es gibt bestimmte Stämme, die notwendig sind, um Qualitätskontrollen zu machen,
+
+00:46:07.301 --> 00:46:13.500
+<v joergovermann>um zum Beispiel zu untersuchen, ob ein bestimmter Fermenter(?) für die Produktion von einem Stoff steril ist
+
+00:46:13.501 --> 00:46:18.100
+<v joergovermann>oder dann würde man zum Beispiel so einen Teststamm hineingeben, dann sterilisiert man und guckt,
+
+00:46:18.101 --> 00:46:20.700
+<v joergovermann>ob dieser Teststamm noch lebensfähig da drin ist.
+
+00:46:20.701 --> 00:46:27.000
+<v joergovermann>Solche Prozesse werden mit unseren Ressourcen untersucht.
+
+00:46:27.001 --> 00:46:31.300
+<v joergovermann>Oder es sind richtige Forschungslabors, die verschiedene Eigenschaften, ob es Gärungen sind,
+
+00:46:31.301 --> 00:46:37.700
+<v joergovermann>Milchsäuregärung oder eben andere Produkte, hier untersuchen.
+
+00:46:37.701 --> 00:46:46.700
+<v joergovermann>Wobei ich sagen kann, dass wir eine Abgabe der Organismen grundsätzlich für die Grundlagenforschung machen,
+
+00:46:46.701 --> 00:46:54.300
+<v joergovermann>wenn man die Ressourcen, die wir zur Verfügung stellen von der DSMZ, kommerziell nutzen will,
+
+00:46:54.301 --> 00:46:58.800
+<v joergovermann>dann braucht man dafür eine Genehmigung, denn das ist nicht für alle Stämme möglich.
+
+00:46:58.801 --> 00:47:04.700
+<v joergovermann>Weil diejenigen, die es isoliert haben, beispielsweise das nicht freigegeben haben
+
+00:47:04.701 --> 00:47:11.800
+<v joergovermann>oder es gehört nach der neueren Gesetzgebung eben einem anderen Land rechtmäßig,
+
+00:47:11.801 --> 00:47:16.000
+<v joergovermann>das darüber zu entscheiden hat, ob andere Länder kommerziell daran forschen.
+
+00:47:16.001 --> 00:47:22.700
+<v joergovermann>Also die echte kommerzielle Forschung, zum Beispiel wenn ich ein Antibiotikum herstellen möchte aus irgendeiner Ressource, die hier ist,
+
+00:47:22.701 --> 00:47:28.000
+<v joergovermann>das bedarf einer gesonderten Genehmigung und das müssen wir überprüfen, ob das rechtlich möglich ist nach den Konditionen,
+
+00:47:28.001 --> 00:47:33.400
+<v joergovermann>unter denen wir diese Ressource hier aufgenommen haben.
+
+00:47:33.401 --> 00:47:38.600
+<v timpritlove>Genau, damit kommen wir ja eigentlich auch mal hier zur Aufgabe dieses Instituts,
+
+00:47:38.601 --> 00:47:39.900
+<v timpritlove>das würde ich jetzt gerne mal in den Mittelpunkt stellen.
+
+00:47:39.901 --> 00:47:45.200
+<v timpritlove>Also das DSMZ, Deutsche Sammlung von Mikroorganismen und Zellkulturen.
+
+00:47:45.201 --> 00:47:54.400
+<v timpritlove>Seit wann gibt es dieses Projekt, seit wann gibt es diese Organisation und worum kümmert sich das DSMZ?
+
+00:47:54.401 --> 00:47:59.700
+<v joergovermann>Ja, Sie finden anders als in anderen Ländern in Deutschland diese eine nationale Sammlung.
+
+00:47:59.701 --> 00:48:08.200
+<v joergovermann>Das war, glaube ich, eine sehr richtungsweisende Entscheidung damals des Forschungsministeriums vor vielen Jahren.
+
+00:48:08.201 --> 00:48:14.500
+<v joergovermann>Es gibt uns seit 53 Jahren, wir gehen jetzt ins 54. Jahr.
+
+00:48:14.501 --> 00:48:18.300
+<v joergovermann>Die verschiedenen Sammlungen, die es an verschiedenen Universitäten ursprünglich gab und die wichtig waren,
+
+00:48:18.301 --> 00:48:21.800
+<v joergovermann>weil die Forschung sie benötigt, zusammenzulegen.
+
+00:48:21.801 --> 00:48:25.800
+<v joergovermann>Da mussten also alle Ressourcen hierhin verbracht werden, die Experten, die damit gearbeitet haben,
+
+00:48:25.801 --> 00:48:29.300
+<v joergovermann>die Kuratoren mussten hierhin umziehen.
+
+00:48:29.301 --> 00:48:33.000
+<v joergovermann>Das war also schon ein wichtiger Schritt, aber eben zukunftsweisend, weil das Ganze viel effizienter geht,
+
+00:48:33.001 --> 00:48:38.300
+<v joergovermann>Sie brauchen nicht sieben Verwaltungen, damals waren es sieben Sammlungen, die zusammengelegt wurden,
+
+00:48:38.301 --> 00:48:44.300
+<v joergovermann>aus allen größeren Städten oder vielen größeren Städten hier in Deutschland.
+
+00:48:44.301 --> 00:48:50.900
+<v joergovermann>Und seitdem sind wir eben eine große Sammlung.
+
+00:48:50.901 --> 00:48:53.900
+<v timpritlove>Also es wurde quasi aus den Universitäten ausgelagert und das war dann sozusagen der Startpunkt?
+
+00:48:53.901 --> 00:48:54.800
+<v joergovermann>Genau.
+
+00:48:54.801 --> 00:49:01.400
+<v timpritlove>Und wir reden ja jetzt hier wirklich auch von Sammlung, das ist ja jetzt nicht so, Papier im Regal, wo draufsteht, wie das zusammengesetzt ist,
+
+00:49:01.401 --> 00:49:06.400
+<v timpritlove>sondern wir reden hier wirklich von den Mikroorganismen selbst, die hier gesammelt werden.
+
+00:49:06.401 --> 00:49:09.700
+<v joergovermann>Genau, wenn wir in den Keller gehen würden, dann würden wir Glasampullen sehen,
+
+00:49:09.701 --> 00:49:14.300
+<v joergovermann>in denen gefriergetrocknete Kulturen sind, zwei Drittel von dem was wir hier haben kann man gefriertrocknen,
+
+00:49:14.301 --> 00:49:20.000
+<v joergovermann>so ähnlich wie Pulverkaffee, das kann man ganz leicht verschicken und dann muss man da nur ein Nährmedium dazugeben,
+
+00:49:20.001 --> 00:49:24.300
+<v joergovermann>dann wachsen die Organismen wieder an, das muss man speziell erzeugen, damit die lebensfähig bleiben die Bakterien.
+
+00:49:24.301 --> 00:49:29.200
+<v joergovermann>Aber alles was wir haben ist in flüssigem Stickstoff, also ist bei sehr niedrigen Temperaturen,
+
+00:49:29.201 --> 00:49:36.600
+<v joergovermann>das muss immer unter Minus 150 Grad Celsius sein, nach Frostschutzmittelzugabe eingefroren werden.
+
+00:49:36.601 --> 00:49:40.600
+<v joergovermann>Dann erhält man die Bakterien in einem lebensfähigem Zustand, ohne dass sie sich vermehren.
+
+00:49:40.601 --> 00:49:44.000
+<v joergovermann>Und das verhindert dann diese genetischen Veränderungen, über die wir gesprochen haben,
+
+00:49:44.001 --> 00:49:51.100
+<v joergovermann>denn wir wollen natürlich auch in 20 Jahren ein Bakterium so anbieten, wie es ursprünglich erforscht und beschrieben worden ist.
+
+00:49:51.101 --> 00:49:55.600
+<v joergovermann>Es kann dann nicht plötzlich andere Eigenschaften haben oder Eigenschaften verloren haben, was ansonsten passiert.
+
+00:49:55.601 --> 00:49:58.300
+<v joergovermann>In 10-20 Jahren kann es Eigenschaften verlieren.
+
+00:49:58.301 --> 00:50:04.600
+<v joergovermann>Wie gesagt, also wir haben das schon festgestellt, dann verliert es plötzlich eine Eigenschaft wie die Antibiotikaresistenz,
+
+00:50:04.601 --> 00:50:10.100
+<v joergovermann>man kann das am Genom auch sehen, wie das passiert ist und das wollen wir natürlich verhindern.
+
+00:50:10.101 --> 00:50:14.800
+<v joergovermann>Also alles wird konserviert auf zwei verschiedene Arten, alles in flüssigem Stickstoff
+
+00:50:14.801 --> 00:50:20.500
+<v joergovermann>und zwei Drittel von dem was wir haben auch gefriergetrocknet, weil das für den Kunden einfacher ist.
+
+00:50:20.501 --> 00:50:23.900
+<v timpritlove>Also flüssiger Stickstoff sorgt einfach für Kälte.
+
+00:50:23.901 --> 00:50:24.500
+<v joergovermann>Genau.
+
+00:50:24.501 --> 00:50:31.500
+<v timpritlove>Und gefriergetrocknet heißt, dass sozusagen dem Substanz Wasser entzogen wird.
+
+00:50:31.501 --> 00:50:35.900
+<v joergovermann>Genau, das Wesentliche bei dieser Konservierung ist ja, dass kein flüssiges Wasser existiert,
+
+00:50:35.901 --> 00:50:41.600
+<v joergovermann>so dass die Lebensfunktionen, die Enzyme, die Proteine, die die Umsetzung in der Zelle machen,
+
+00:50:41.601 --> 00:50:45.500
+<v joergovermann>über die wir eben auch schon gesprochen haben, dass die nicht tätig werden.
+
+00:50:45.501 --> 00:50:49.200
+<v joergovermann>Und das geht nur, wenn kein flüssiges Wasser da ist.
+
+00:50:49.201 --> 00:50:55.900
+<v joergovermann>Wenn Sie normal einfrieren, da bilden sich Kristalle in den Zellen, die Zellen werden zerstört, es friert Salz aus,
+
+00:50:55.901 --> 00:51:03.100
+<v joergovermann>so ähnlich wie unter Meereis, da gibt es ja auch solche Salzschlieren, da wird es sehr salzig, und das zerstört die Proteine.
+
+00:51:03.101 --> 00:51:09.700
+<v joergovermann>Das heißt, die Zellen sind dann zwar vielleicht noch einigermaßen intakt, aber es ist so, dass die Zellen dann tot sind,
+
+00:51:09.701 --> 00:51:17.300
+<v joergovermann>weil durch diesen Salzstress und auch durch die mechanische Störung der Zellmembran beispielsweise die Zellen nicht mehr lebensfähig sind.
+
+00:51:17.301 --> 00:51:24.100
+<v joergovermann>Deshalb Gefrierschutzmittel, deshalb mit dem Gefrierschutzmittel verhindern die Kristallbildung,
+
+00:51:24.101 --> 00:51:31.000
+<v joergovermann>dass die Zelle verglast sozusagen, also da bildet sich glasförmiges Eis ohne Kristall.
+
+00:51:31.001 --> 00:51:37.600
+<v joergovermann>Das ist bei der Kryokonservierung im flüssigen Stickstoff, beim Gefriertrocknen entziehen Sie das Wasser der Zelle.
+
+00:51:37.601 --> 00:51:41.500
+<v joergovermann>Das ist natürlich viel härter, deshalb überleben viele das nicht.
+
+00:51:41.501 --> 00:51:47.800
+<v joergovermann>Sie geben auch da ein Frostschutzmittel dazu, Sie frieren die auch da ein und dann sublimieren Sie sozusagen,
+
+00:51:47.801 --> 00:51:53.200
+<v joergovermann>das heißt, das Wasser geht von dem gefrorenen Zustand direkt in die Gasphase und wird entzogen durch die Gefriertrocknung.
+
+00:51:53.201 --> 00:51:56.900
+<v joergovermann>Das ist aber härter für die Zelle, manche Zellen überleben das nicht.
+
+00:51:56.901 --> 00:51:59.700
+<v joergovermann>Ungefähr ein Drittel von den Arten, die wir hier haben.
+
+00:51:59.701 --> 00:52:02.700
+<v timpritlove>Das heißt, es gibt auch Bakterien, die sich nicht wirklich konservieren lassen?
+
+00:52:02.701 --> 00:52:06.400
+<v joergovermann>Naja, in Flüssigstickstoff doch die meisten, die allermeisten.
+
+00:52:06.401 --> 00:52:10.200
+<v joergovermann>Es gibt ganz wenige Dinge, die wir haben, manche Pflanzenviren, wir haben auch Pflanzenviren hier,
+
+00:52:10.201 --> 00:52:17.800
+<v joergovermann>wichtige Nutzpflanzenkrankheiten, das ist alles hier, für die Forschung, die wir in der Pflanze belassen
+
+00:52:17.801 --> 00:52:22.200
+<v joergovermann>und die nur dort weitergeführt werden können.
+
+00:52:22.201 --> 00:52:26.400
+<v joergovermann>Aber das allerallermeiste ist im flüssigen Stickstoff.
+
+00:52:26.401 --> 00:52:31.800
+<v joergovermann>Wenn man es richtig macht, das ist ziemlich aufwendig, ist dort konservierbar.
+
+00:52:31.801 --> 00:52:36.000
+<v joergovermann>Und das ist eben das, was wir hier machen.
+
+00:52:36.001 --> 00:52:41.900
+<v joergovermann>Allerdings sind wir nicht so wie eine naturwissenschaftliche Sammlung, wie man sich das vielleicht vorstellt,
+
+00:52:41.901 --> 00:52:46.100
+<v joergovermann>Schubladen mit diesen Ampullen drin und das war es und ein bisschen verstaubt,
+
+00:52:46.101 --> 00:52:54.600
+<v joergovermann>sondern wir sind ein Leibniz-Institut und das bedeutet, ein Leibniz-Institut bedient mehr als nur den Bedarf an bestimmten Dingen,
+
+00:52:54.601 --> 00:53:02.800
+<v joergovermann>sondern es stellt vor allem dafür auch die notwendigen Erkenntnisse bei und erforscht selber gerade diese beispielsweise Methoden der Kryokonservierung,
+
+00:53:02.801 --> 00:53:05.500
+<v joergovermann>aber auch die Eigenschaften, also es geht weit darüber hinaus.
+
+00:53:05.501 --> 00:53:10.100
+<v joergovermann>Um zu unterstützen, dass mit diesen Bakterien weiter gearbeitet werden kann.
+
+00:53:10.101 --> 00:53:14.700
+<v joergovermann>Also unser Institut als Leibniz-Institut ist eine Forschungsinfrastruktur.
+
+00:53:14.701 --> 00:53:21.600
+<v joergovermann>Das erste Wort ist Forschung, also der Forschungsanteil ist sehr wichtig, weil wir unsere Mission erfüllen müssen,
+
+00:53:21.601 --> 00:53:30.200
+<v joergovermann>nämlich die Erforschung, die Bereitstellung und die Nutzbarmachung von Mikroorganismen, von Mikrobiodiversität, das ist unsere Mission.
+
+00:53:30.201 --> 00:53:33.800
+<v joergovermann>Und das heißt also, Sie finden hier auch aktive Forschung auf verschiedenen Bereichen,
+
+00:53:33.801 --> 00:53:39.200
+<v joergovermann>wie zum Beispiel auch dann angesprochen in Afrika oder in Lateinamerika.
+
+00:53:39.201 --> 00:53:43.600
+<v timpritlove>Wieviele Bakterien, also wieviele Mikroorganismen, also das sind ja nicht alles Bakterien.
+
+00:53:43.601 --> 00:53:45.200
+<v joergovermann>Richtig.
+
+00:53:45.201 --> 00:53:49.800
+<v timpritlove>Aber das meiste wahrscheinlich, sind alle 19.000, die wir kennen, liegen hier auch irgendwie rum?
+
+00:53:49.801 --> 00:53:56.300
+<v joergovermann>Fast alle, wir haben 80 Prozent und das unterscheidet uns von allen anderen Sammlungen weltweit.
+
+00:53:56.301 --> 00:54:00.400
+<v joergovermann>Wir bieten 80 Prozent der bekannten Bakteriendiversität an.
+
+00:54:00.401 --> 00:54:02.600
+<v timpritlove>Das ist ja eine Menge.
+
+00:54:02.601 --> 00:54:08.500
+<v timpritlove>Was gibt es denn neben der deutschen Sammlung der Bakterien noch für Sammlungen?
+
+00:54:08.501 --> 00:54:12.900
+<v joergovermann>Also es gibt ein Register von Sammlungen, die einen gewissen Qualitätsstandard erfüllen
+
+00:54:12.901 --> 00:54:16.000
+<v joergovermann>und da sind ungefähr 600 Sammlungen registriert.
+
+00:54:16.001 --> 00:54:19.900
+<v joergovermann>Das Interessante ist, dass die meisten anderen Länder,
+
+00:54:19.901 --> 00:54:26.000
+<v joergovermann>also gerade Industrieländer wie Frankreich, England mehrere Sammlungen haben, die spezialisiert sind.
+
+00:54:26.001 --> 00:54:30.000
+<v joergovermann>Sie haben mal welche für pflanzenpathogene Bakterien, welche für humanpathogene Bakterien,
+
+00:54:30.001 --> 00:54:35.700
+<v joergovermann>welche mit Viren, also das ist alles getrennt.
+
+00:54:35.701 --> 00:54:41.600
+<v joergovermann>Und das ist ein ganz großer Nachteil in manchen Fällen, eine ganz große Erschwernis,
+
+00:54:41.601 --> 00:54:45.400
+<v joergovermann>manche dieser Sammlungen sind gezwungen, die Einnahmen, die sie aus der Abgabe erzielen,
+
+00:54:45.401 --> 00:54:49.300
+<v joergovermann>als alleinige Quell- oder Hauptgeldquelle zu nutzen.
+
+00:54:49.301 --> 00:54:53.000
+<v joergovermann>Und das führt dazu, dass so eine Sammlung eigentlich nicht mehr funktionsfähig ist.
+
+00:54:53.001 --> 00:54:57.100
+<v joergovermann>Denn was man an Arbeit hineinstecken muss, gerade diesen Forschungsanteil,
+
+00:54:57.101 --> 00:55:02.000
+<v joergovermann>das kostet so viel Geld, das kann man durch Einnahmen nicht erzielen,
+
+00:55:02.001 --> 00:55:07.800
+<v joergovermann>ansonsten müsste man pro abgegebene Bakterienkultur 1000 Euro erheben und das Geld hat kein Wissenschaftler.
+
+00:55:07.801 --> 00:55:13.000
+<v joergovermann>Der hat schon teilweise Schwierigkeiten, wenn er zehn Kaufen muss á 100 Euro.
+
+00:55:13.001 --> 00:55:15.300
+<v joergovermann>Aber durch Forschungsgelder würde das nie abgebildet.
+
+00:55:15.301 --> 00:55:21.200
+<v joergovermann>Und deshalb sind wir eben öffentlich gefördert, um sicher zu stellen, dass hochqualitative, wachstumsfähige
+
+00:55:21.201 --> 00:55:27.800
+<v joergovermann>und genetisch nicht veränderte Organismen in gleichbleibender Qualität schnell abgegeben werden können,
+
+00:55:27.801 --> 00:55:31.300
+<v joergovermann>damit die Forschung damit weiterkommt.
+
+00:55:31.301 --> 00:55:32.600
+<v joergovermann>Das ist ein wesentlicher Teil unserer Mission.
+
+00:55:32.601 --> 00:55:36.100
+<v timpritlove>Ja so eine Art mikrobielles Wasserwerk.
+
+00:55:36.101 --> 00:55:41.100
+<v timpritlove>Wasser und Strom und so weiter, das braucht man auch, das muss man der Öffentlichkeit bereitstellen
+
+00:55:41.101 --> 00:55:47.000
+<v timpritlove>und die entsprechenden Gelder dafür aus der Gesellschaft heraus aufbringen,
+
+00:55:47.001 --> 00:55:55.100
+<v timpritlove>damit überhaupt irgendwas funktioniert und in dem Sinne braucht ja auch die Forschung quasi einen Zufluss von Quellmaterialien.
+
+00:55:55.101 --> 00:56:03.900
+<v timpritlove>Und ich denke, es ist auch wichtig, dass Forschung nicht nur über Finanzierbarkeit allein arbeitet oder überhaupt darüber arbeitet,
+
+00:56:03.901 --> 00:56:09.800
+<v timpritlove>weil dass dann einfach nicht dazu führt, dass man an dem forscht, was vielleicht wirklich interessant ist und vielversprechend ist
+
+00:56:09.801 --> 00:56:15.500
+<v timpritlove>oder eben auch nicht so vielversprechend ist, aber eben diesen Eureka-Moment erzeugen kann,
+
+00:56:15.501 --> 00:56:23.900
+<v timpritlove>wo man etwas entdeckt, was keiner vermutet hat, wo man eben auch kein Geld sonst reingesteckt hätte.
+
+00:56:23.901 --> 00:56:28.600
+<v timpritlove>Das ist ja irgendwie massiv, also wie groß muss ich mir diesen Keller jetzt hier vorstellen?
+
+00:56:28.601 --> 00:56:31.900
+<v timpritlove>Ich war jetzt noch nicht da.
+
+00:56:31.901 --> 00:56:37.500
+<v joergovermann>Wir bauen gerade um bzw. wir setzen um.
+
+00:56:37.501 --> 00:56:43.400
+<v joergovermann>Wir hatten bisher Schubladenschränke, das ist also ein Raum, der dreimal so groß wie dieser ist.
+
+00:56:43.401 --> 00:56:46.200
+<v timpritlove>Den sieht jetzt natürlich auch keiner.
+
+00:56:46.201 --> 00:56:46.500
+<v joergovermann>Ja, das sind dann vielleicht …
+
+00:56:46.501 --> 00:56:47.400
+<v timpritlove>150 Quadratmeter.
+
+00:56:47.401 --> 00:56:49.800
+<v joergovermann>150 Quadratmeter, ja das kommt ungefähr hin.
+
+00:56:49.801 --> 00:56:57.600
+<v joergovermann>Der ist aber schon voll, da sind 370.000 Ampullen gelagert in Schubladen nach Stämmen separiert.
+
+00:56:57.601 --> 00:57:03.200
+<v joergovermann>Wir wollten aber jetzt längerfristig eine Lösung finden, die das Ganze automatisiert,
+
+00:57:03.201 --> 00:57:09.700
+<v joergovermann>damit das auch fehlerfrei und digital gut bearbeitbar gelagert wird.
+
+00:57:09.701 --> 00:57:19.300
+<v joergovermann>Und dazu haben wir jetzt Roboter gekauft, also man braucht auch immer erhebliche finanzielle Investitionen in so eine Struktur,
+
+00:57:19.301 --> 00:57:21.700
+<v joergovermann>damit sie dann auch wirklich wissenschaftlich aktuell bleibt.
+
+00:57:21.701 --> 00:57:27.200
+<v joergovermann>Und diese Roboter die sind von der Grundfläche wahrscheinlich mindestens 150 Quadratmeter,
+
+00:57:27.201 --> 00:57:32.200
+<v joergovermann>aber die werden jetzt nicht diese 370.000, wo es schon überfüllt ist unten im Keller,
+
+00:57:32.201 --> 00:57:36.300
+<v joergovermann>sondern die werden über eine Million dieser Ampullen lagern.
+
+00:57:36.301 --> 00:57:40.700
+<v joergovermann>Das wichtigere ist eigentlich noch, dass das Ganze dann automatisiert eingelagert und ausgelagert wird.
+
+00:57:40.701 --> 00:57:47.100
+<v joergovermann>Also diese stupide Arbeit, das dann von Hand alles machen zu müssen und kontrollieren zu müssen, entfällt.
+
+00:57:47.101 --> 00:57:52.900
+<v joergovermann>Das heißt, der ganze Prozess des Bestellens kann auf den Roboter, die Bestellung kann auf den Roboter geleitet werden.
+
+00:57:52.901 --> 00:57:59.800
+<v joergovermann>Der Roboter sucht sich die gewünschten gefriergetrockneten Ampullen der bestimmten Bakterienarten zusammen
+
+00:57:59.801 --> 00:58:08.200
+<v joergovermann>und vorne kommt dann nur ein Kästchen raus, in dem diese verschiedenen Ampullen zusammengestellt sind für diese Raussendung.
+
+00:58:08.201 --> 00:58:14.200
+<v joergovermann>Das Ganze ist also wesentlich professioneller, wesentlich vorhersagbarer und vor allem kann digitalisiert werden,
+
+00:58:14.201 --> 00:58:18.300
+<v joergovermann>um den Prozess einfach zuverlässiger zu gestalten.
+
+00:58:18.301 --> 00:58:21.600
+<v timpritlove>Im Prinzip so ein kleines Hochregallager für Ampullen.
+
+00:58:21.601 --> 00:58:27.600
+<v joergovermann>Ja, Sie kennen so was vielleicht aus den Großapotheken, die machen das Ganze mit den Medikamentenpackungen.
+
+00:58:27.601 --> 00:58:30.200
+<v joergovermann>Die sind nun allerdings ein bisschen anders, die sind größer und leichter.
+
+00:58:30.201 --> 00:58:33.700
+<v joergovermann>Das heißt, wir müssen diese Technologie natürlich anpassen, das ist nicht ganz einfach.
+
+00:58:33.701 --> 00:58:39.300
+<v joergovermann>Also es ist auch immer eine technologische Innovation in so einer Sammlung.
+
+00:58:39.301 --> 00:58:41.400
+<v timpritlove>Wieviele Anfragen kommen denn hier so rein pro Tag?
+
+00:58:41.401 --> 00:58:46.300
+<v joergovermann>Ja, die Statistiken sind so, dass wir im Jahr, ich kann Ihnen die Jahreszahlen vielleicht am besten nennen,
+
+00:58:46.301 --> 00:58:50.900
+<v joergovermann>43.000 Dinge aussenden, dann können Sie sich jetzt ausrechnen, wieviel das pro Tag sind.
+
+00:58:50.901 --> 00:58:52.600
+<v joergovermann>Das ist also schon erheblich.
+
+00:58:52.601 --> 00:58:54.600
+<v joergovermann>Wir haben also eine Versandabteilung, die sich darum kümmert,
+
+00:58:54.601 --> 00:58:57.700
+<v joergovermann>deshalb ist auch diese Digitalisierung so wichtig.
+
+00:58:57.701 --> 00:59:02.200
+<v joergovermann>Wir bekommen pro Jahr ungefähr 2500 Hinterlegungen rein.
+
+00:59:02.201 --> 00:59:06.800
+<v joergovermann>Das heißt, also auch unser Bestand und unsere Arbeit wächst kontinuierlich
+
+00:59:06.801 --> 00:59:13.400
+<v joergovermann>und deshalb ist es wichtig, dass man da immer wieder schaut, ob die Technologie jetzt so weit sich entwickelt hat, dass man es vereinfacht.
+
+00:59:13.401 --> 00:59:21.600
+<v joergovermann>Denn ich kann ja nicht unbegrenzt jedes Jahr zwei Kuratoren zusätzlich einstellen mit technischem Personal,
+
+00:59:21.601 --> 00:59:24.000
+<v joergovermann>was ich eigentlich machen müsste bei dieser Anwachsrate.
+
+00:59:24.001 --> 00:59:27.500
+<v joergovermann>Denn das Geld bekomme ich natürlich nicht.
+
+00:59:27.501 --> 00:59:32.200
+<v joergovermann>Wir haben ein relativ fixes Budget, das heißt, wir müssen immer effizienter werden, das ist das Problem dabei.
+
+00:59:32.201 --> 00:59:35.900
+<v joergovermann>Und wir liefern an, vielleicht ist das auch noch ganz interessant, wir liefern nicht nur an Deutschland aus,
+
+00:59:35.901 --> 00:59:40.500
+<v joergovermann>sondern wir liefern in der Tat an derzeit 81 Länder weltweit.
+
+00:59:40.501 --> 00:59:47.500
+<v joergovermann>Das zeigt, wie wichtig für die internationale Forschung auch diese Ressourcen sind und wir haben ungefähr 10.000 Kunden.
+
+00:59:47.501 --> 00:59:56.800
+<v timpritlove>Also ich komme jetzt so bei acht Stunden Betrieb auf ungefähr 15 Auslieferungen pro Stunde, das ist schon was.
+
+00:59:56.801 --> 00:59:58.500
+<v timpritlove>Wie muss man sich denn diesen Prozess vorstellen?
+
+00:59:58.501 --> 01:00:04.000
+<v timpritlove>Also wenn ich jetzt, sagen wir mal, ich würde jetzt in irgendsoeinem Labor arbeiten
+
+01:00:04.001 --> 01:00:10.100
+<v timpritlove>und dann kommt so die Erkenntnis, so jetzt bräuchten wir aber jetzt mal hier wirklich dieses Bakterium XY,
+
+01:00:10.101 --> 01:00:15.000
+<v timpritlove>haben wir nicht, wo kriegen das her, rufen wir doch mal beim DSMZ an.
+
+01:00:15.001 --> 01:00:16.100
+<v joergovermann>Genau.
+
+01:00:16.101 --> 01:00:20.800
+<v timpritlove>Klickt man sich das einfach auf der Webseite zusammen, ist das einfach so ein Bakterien-Amazon oder wie läuft der Prozess?
+
+01:00:20.801 --> 01:00:25.700
+<v joergovermann>Ja, wenn Sie so wollen, ist es Bakterien-Amazon, mit dem Unterschied, dass natürlich nicht jeder bei uns bestellen kann.
+
+01:00:25.701 --> 01:00:27.800
+<v joergovermann>Das geht natürlich nicht.
+
+01:00:27.801 --> 01:00:28.600
+<v timpritlove>Okay.
+
+01:00:28.601 --> 01:00:33.500
+<v joergovermann>Es ist ein Katalog, den Sie im Internet aufrufen können, wo Sie schauen können, ob das Bakterium,
+
+01:00:33.501 --> 01:00:38.900
+<v joergovermann>wenn Sie jetzt wissen, welches Sie wollen, ob das dabei ist, da gibt es eine große Chance, dass es dabei ist,
+
+01:00:38.901 --> 01:00:45.500
+<v joergovermann>weil wir eben 80 Prozent haben, und dann können Sie online, im Webshop das bestellen
+
+01:00:45.501 --> 01:00:48.800
+<v joergovermann>und das wird dann elektronisch hier bearbeitet im Workflow.
+
+01:00:48.801 --> 01:00:50.200
+<v timpritlove>Wie wird das identifiziert?
+
+01:00:50.201 --> 01:00:53.900
+<v timpritlove>Also gibt es da so für jedes Bakterium schon so eine ID in irgendeiner Form?
+
+01:00:53.901 --> 01:00:57.700
+<v joergovermann>Es gibt einen wissenschaftlichen Namen und eine Stammbezeichnung, das ist ganz wichtig.
+
+01:00:57.701 --> 01:01:02.700
+<v joergovermann>Der wissenschaftliche Name ist wie bei höheren Organismen auch, ist zweigeteilt,
+
+01:01:02.701 --> 01:01:08.200
+<v joergovermann>der Gattungsname und das Artepiton(?), wie man sagt, also Escherichia Coli.
+
+01:01:08.201 --> 01:01:16.700
+<v joergovermann>Escherichia nach Theodor Escherich, das war ein Forscher, der viel daran gearbeitet hat, ihm zu Ehren das benannt und Coli ist dann der Artname.
+
+01:01:16.701 --> 01:01:24.000
+<v joergovermann>Aber es gibt natürlich, das hatten wir eingangs ja schon besprochen, es gibt natürlich die Nachkommenschaft einer isolierten Zelle.
+
+01:01:24.001 --> 01:01:29.900
+<v joergovermann>Das heißt, es gibt von Organismen, die Escherich als Escherichia Coli eingeordnet worden sind,
+
+01:01:29.901 --> 01:01:32.400
+<v joergovermann>anhand bestimmter Merkmale, mehrere Isolate.
+
+01:01:32.401 --> 01:01:37.800
+<v joergovermann>Und jedes dieser Isolat, also die Nachkommenschaft einer einzelnen Zelle, die irgendwann mal angeschaut worden ist, 
+
+01:01:37.801 --> 01:01:43.900
+<v joergovermann>hat eine Stammnummer und diese Stammnummer ist die wichtigste, denn die verweist immer auf dasselbe.
+
+01:01:43.901 --> 01:01:49.700
+<v joergovermann>Also wenn ich ein Ergebnis habe, was in USA erzielt worden ist an einem Stamm,
+
+01:01:49.701 --> 01:01:55.000
+<v joergovermann>dann kann ich das hier reproduzieren, indem ich mir genau diesen Stamm besorge und dann muss der dasselbe machen.
+
+01:01:55.001 --> 01:01:57.400
+<v joergovermann>Weil es ja genetisch der identische Organismus ist.
+
+01:01:57.401 --> 01:02:00.500
+<v joergovermann>So funktioniert das System.
+
+01:02:00.501 --> 01:02:04.800
+<v joergovermann>Also dieser Identifier ist die Stammbezeichnung und die ist festgelegt.
+
+01:02:04.801 --> 01:02:14.000
+<v joergovermann>In unserem Fall steht davor immer DSM und dann folgt eine mehrstellige, fünfstellige in der Regel, Nummer
+
+01:02:14.001 --> 01:02:19.300
+<v joergovermann>und die ist einzigartig und die wird also fortlaufend vergeben, wenn wir neue Stämme reinbekommen.
+
+01:02:19.301 --> 01:02:23.400
+<v joergovermann>Und erst wenn wir die getestet haben, das gehört eben zu unseren umfassenden Aufgaben,
+
+01:02:23.401 --> 01:02:30.000
+<v joergovermann>wir testen, ob das wirklich, was wir bei uns erhalten zur Hinterlegung, ob es sich wirklich um das Bakterium handelt
+
+01:02:30.001 --> 01:02:35.600
+<v joergovermann>als das es identifiziert worden ist, ob es wirklich neu ist, ob die Sequenzen stimmen, ob die Eigenschaften stimmen
+
+01:02:35.601 --> 01:02:37.900
+<v joergovermann>und wie man es dann konservieren kann.
+
+01:02:37.901 --> 01:02:44.500
+<v joergovermann>Das ist ein enormes Arbeitspaket und daraus erklärt sich auch, dass wir öffentlich gefördert werden.
+
+01:02:44.501 --> 01:02:50.100
+<v joergovermann>Das könnte man gar nicht abdecken durch die Kosten, die man durch die Abgabe der Kulturen bekommt.
+
+01:02:50.101 --> 01:02:56.400
+<v joergovermann>Und dann wird das hinterlegt und erhält eben diese eindeutige Nummer, zu dem Zeitpunkt, wo es hinterlegt wird.
+
+01:02:56.401 --> 01:03:03.000
+<v joergovermann>Ab dem Zeitpunkt existiert das Bakterium, dieser Stamm, mit dieser Art für die Forschung.
+
+01:03:03.001 --> 01:03:07.700
+<v timpritlove>Und jetzt kann ich mir das sozusagen bestellen, also ich habe die korrekte Bezeichnung und die Stammnummer angegeben
+
+01:03:07.701 --> 01:03:10.700
+<v timpritlove>und habe gesagt, so hätte ich jetzt mal gerne.
+
+01:03:10.701 --> 01:03:17.300
+<v timpritlove>Heißt das, dass dann sozusagen jetzt einfach nur so aus dem Bestand die Ampullen rausgeschickt werden, bis keine mehr da sind?
+
+01:03:17.301 --> 01:03:23.600
+<v timpritlove>Oder wir das dann in dem Moment dann noch mal dupliziert und neu angezüchtet, damit auch genug verbleibt?
+
+01:03:23.601 --> 01:03:27.300
+<v joergovermann>Genau, das ist exakt der Punkt.
+
+01:03:27.301 --> 01:03:31.100
+<v joergovermann>Denn wir lagern in der Regel so 24 Ampullen ein nach einer Lieferung.
+
+01:03:31.101 --> 01:03:36.200
+<v joergovermann>Also der Prozess ist so, es wird hinterlegt, wir machen die Qualitätstests und so weiter,
+
+01:03:36.201 --> 01:03:43.900
+<v joergovermann>wir lernen, wie das Bakterium konserviert werden kann und dann werden daraus als erstes die kryokonservierten Kulturen erzeugt,
+
+01:03:43.901 --> 01:03:50.600
+<v joergovermann>indem sie in ganz dünnwandige Glaskapillaren eingefüllt werden, an beiden Enden zuggeschmolzen werden,
+
+01:03:50.601 --> 01:03:56.900
+<v joergovermann>das ist also hermetisch abgeriegelt und in flüssigen Stickstoff geworfen werden, so dass sie schockartig gefrieren.
+
+01:03:56.901 --> 01:04:01.800
+<v joergovermann>Sie haben das Frostschutzmittel, also die leben dann noch, sind aber dann nicht mehr aktiv.
+
+01:04:01.801 --> 01:04:02.500
+<v joergovermann>Und davon haben wir sehr viele Kapillaren.
+
+01:04:02.501 --> 01:04:05.000
+<v joergovermann>Das ist also das, was am Anfang passiert.
+
+01:04:05.001 --> 01:04:14.800
+<v joergovermann>Und dann wird aus einer Kapillare, wenn es geht, bei zwei Dritteln der Kulturen diese gefriergetrocknete Kultur erzeugt, 24 Ampullen.
+
+01:04:14.801 --> 01:04:26.000
+<v joergovermann>Wenn die Zahl abnimmt auf 5, sagt der Workflow dem entsprechend zuständigen Kurator, dass neue produziert werden müssen.
+
+01:04:26.001 --> 01:04:31.600
+<v joergovermann>Dann wird da aus einer der letzten Ampullen eine neue Charge produziert und das Ganze passiert fünfmal.
+
+01:04:31.601 --> 01:04:38.600
+<v joergovermann>Aber wenn wir beim fünften wieder anziehen sind für die gefriergetrockneten Kulturen,
+
+01:04:38.601 --> 01:04:42.500
+<v joergovermann>dann bricht man das ab und geht zurück auf die ursprüngliche Kapillare,
+
+01:04:42.501 --> 01:04:46.300
+<v joergovermann>weil sonst die genetischen Veränderungen messbar würden.
+
+01:04:46.301 --> 01:04:51.600
+<v joergovermann>Also das ist so ein Erfahrungswert, wenn man fünfmal überimpft und nicht lange,
+
+01:04:51.601 --> 01:04:54.800
+<v joergovermann>sondern einfach nur, um diese Kultur zu erzeugen, dann hält sich das sehr in Grenzen,
+
+01:04:54.801 --> 01:05:02.800
+<v joergovermann>dann muss man es noch nicht machen, aber dann muss man zurück, um zu verhindern, dass größere Veränderungen dann da sind.
+
+01:05:02.801 --> 01:05:10.000
+<v joergovermann>Und auf diese Weise stellen wir sicher, dass eben permanent genügend da ist, auch wenn viel davon verschickt wird
+
+01:05:10.001 --> 01:05:14.700
+<v joergovermann>und dass wir immer wieder denselben Organismus anbieten.
+
+01:05:14.701 --> 01:05:20.300
+<v timpritlove>Das heißt, da gibt es dann auch so Hits hier quasi im Angebot, die am laufenden Meter bestellt
+
+01:05:20.301 --> 01:05:26.100
+<v timpritlove>und dann auch entsprechend wieder reproduziert werden und andere Sachen liegen schon seit Ewigkeiten rum und keiner will es haben?
+
+01:05:26.101 --> 01:05:32.600
+<v joergovermann>Genau, das ist auch ein ganz wesentliches Argument für eine solche öffentlich geförderte Sammlung.
+
+01:05:32.601 --> 01:05:37.800
+<v joergovermann>Ansonsten müsste man und das tun manche Kultursammlungen in anderen Ländern, die verkaufen nur diese Bestseller,
+
+01:05:37.801 --> 01:05:44.600
+<v joergovermann>weil sie Gelder generieren müssen, können aber nicht die seltener nachgefragten sichern.
+
+01:05:44.601 --> 01:05:50.600
+<v joergovermann>Und das ist fatal, das ist auch volkswirtschaftlich nicht sinnvoll.
+
+01:05:50.601 --> 01:05:52.500
+<v joergovermann>Wir haben hier in meiner Gruppe mal, wir haben auch einen Controller, ausgerechnet,
+
+01:05:52.501 --> 01:05:56.500
+<v joergovermann>was die Isolierung eines neuartigen Bakteriums kostet, weil wir das viel machen.
+
+01:05:56.501 --> 01:06:00.700
+<v joergovermann>Wir beschreiben viele neue Bakterien selber, gerade auch aus diesen afrikanischen Böden,
+
+01:06:00.701 --> 01:06:04.600
+<v joergovermann>wo man die besonders gut offensichtlich bekommen kann.
+
+01:06:04.601 --> 01:06:08.300
+<v joergovermann>Und da hat sich herausgestellt, dass eine anspruchsvolle Bakterienart 10.000 Euro kostet.
+
+01:06:08.301 --> 01:06:15.100
+<v joergovermann>Das ist also oft Steuergeld, was genutzt wird, damit man neuartige Funktionen dann zur Verfügung hat
+
+01:06:15.101 --> 01:06:20.500
+<v joergovermann>und nicht nur daran forschen kann, sondern auch biotechnologisch nutzen kann etc..
+
+01:06:20.501 --> 01:06:26.500
+<v joergovermann>Wenn dieser Stamm verloren ginge und das passiert, wenn dann ein Professor in Rente geht beispielsweise
+
+01:06:26.501 --> 01:06:30.300
+<v joergovermann>und der Nachfolger kommt und kein Interesse an so einer Sammlung im Kühlschrank hat,
+
+01:06:30.301 --> 01:06:33.700
+<v joergovermann>dann wird das tot autoklariert oder es geht verloren.
+
+01:06:33.701 --> 01:06:39.900
+<v joergovermann>Wenn so etwas passiert, sind 10.000 Euro Steuergelder umsonst.
+
+01:06:39.901 --> 01:06:44.400
+<v joergovermann>Das ist also nicht sinnvoll, das so zu machen.
+
+01:06:44.401 --> 01:06:50.300
+<v joergovermann>Und irgendwann, Sie haben es eben schon angedeutet, irgendwann unvorhergesehener Weise wird man lernen,
+
+01:06:50.301 --> 01:06:55.100
+<v joergovermann>dass man mit diesem einen Isolat etwas ganz besonders machen kann, aber erst später.
+
+01:06:55.101 --> 01:06:57.100
+<v timpritlove>Oder irgendsoeine Pandemie kommt vorbei.
+
+01:06:57.101 --> 01:06:58.700
+<v joergovermann>Was auch immer.
+
+01:06:58.701 --> 01:07:00.100
+<v timpritlove>Und man muss dann halt auf so was zurückgreifen.
+
+01:07:00.101 --> 01:07:06.700
+<v joergovermann>Ja und wir wissen einfach, dass von den Forschungsergebnissen 95 Prozent erst mal nicht genutzt werden.
+
+01:07:06.701 --> 01:07:11.300
+<v joergovermann>Aber man weiß nicht, welche fünf Prozent es sind, die genutzt werden und deshalb gibt es eben die Grundlagenforschung,
+
+01:07:11.301 --> 01:07:16.600
+<v joergovermann>damit man überhaupt Ergebnisse hat, die dann zu neuen Erkenntnissen führen und Anwendungen.
+
+01:07:16.601 --> 01:07:24.700
+<v joergovermann>Also um das zu sichern, brauchen wir drei Euro pro Jahr, um diese 10.000 Euro Investment zu sichern,
+
+01:07:24.701 --> 01:07:29.200
+<v joergovermann>ist es also sehr effizient, in einer öffentlichen Sammlung zu hinterlegen.
+
+01:07:29.201 --> 01:07:34.400
+<v joergovermann>Das ist das Konzept, auch für diejenigen Organismen, die man im Moment nicht so häufig braucht.
+
+01:07:34.401 --> 01:07:41.100
+<v joergovermann>Denn es wird für manche dieser Stämme der Tag kommen, wo man diese Stämme dringend brauchen wird.
+
+01:07:41.101 --> 01:07:48.300
+<v joergovermann>Und das ist genau das Konzept einer öffentlichen Sammlung, die die breite mikrobielle Diversität, soweit sie bekannt ist,
+
+01:07:48.301 --> 01:07:52.600
+<v joergovermann>dann tatsächlich sichert für die Wissenschaft und für die Anwendung.
+
+01:07:52.601 --> 01:07:58.300
+<v timpritlove>Jetzt hatten wir ja schon, so Mikrobiologie sind nicht nur Bakterien, auch wenn Bakterien hier eine große Rolle spielen,
+
+01:07:58.301 --> 01:08:00.200
+<v timpritlove>also was liegt hier auch noch rum?
+
+01:08:00.201 --> 01:08:02.200
+<v timpritlove>Also hier werden dann auch Pilze gesammelt?
+
+01:08:02.201 --> 01:08:07.700
+<v joergovermann>Ja, wir sind sehr breit, das ist eins unserer Merkmale, deshalb haben wir eine sehr diverse Struktur hier auch.
+
+01:08:07.701 --> 01:08:15.600
+<v joergovermann>Wir sind ja mittlerweile 220 Mitarbeitende, sehr stark angewachsen über die letzten zehn Jahre.
+
+01:08:15.601 --> 01:08:23.500
+<v joergovermann>Und neben Bakterien und Archaeen, den meisten wird nicht bekannt sein, dass Archaeen die sehen aus wie Bakterien,
+
+01:08:23.501 --> 01:08:28.000
+<v joergovermann>aber das ist die dritte große Domäne des Lebens, das sind diejenigen Organismen,
+
+01:08:28.001 --> 01:08:32.900
+<v joergovermann>die in diesen heißen Quellen beispielsweise leben, die also ganz besondere Eigenschaften haben.
+
+01:08:32.901 --> 01:08:37.200
+<v joergovermann>Witzigerweise enger verwandt mit uns sind, also mit den Eukörnten(?) als die typischen Bakterien.
+
+01:08:37.201 --> 01:08:44.000
+<v joergovermann>Die haben wir auch, da haben wir praktisch eine vollständige Sammlung, das sind nicht so viele, das sind ein paar hundert.
+
+01:08:44.001 --> 01:08:52.500
+<v joergovermann>Aber wir haben auch sehr viele Pilze, tausende von verschiedenen Pilzarten, die auch in der Tendenz sehr stark steigend sind.
+
+01:08:52.501 --> 01:08:55.500
+<v joergovermann>Wir haben, wie schon gesagt, Pflanzenviren, alle wichtigen Pflanzenkrankheiten,
+
+01:08:55.501 --> 01:09:02.400
+<v joergovermann>die gerade in den Tropen ja verheerend sind, haben wir hier als Viren vorliegen und da wird intensiv dran geforscht.
+
+01:09:02.401 --> 01:09:08.500
+<v joergovermann>Wir haben auch die Quarantäne-Viren, also das, was der Zoll überprüfen muss,
+
+01:09:08.501 --> 01:09:13.500
+<v joergovermann>wenn eine Pflanzenlieferung aus bestimmten Ländern kommen.
+
+01:09:13.501 --> 01:09:18.300
+<v joergovermann>Wir stellen auch zur Verfügung Antiseren, also das sieht ganz so ähnlich aus wie der Covid-Test,
+
+01:09:18.301 --> 01:09:26.400
+<v joergovermann>das sind Teststreifen mit Antigenen, Antikörpernachweis, wo Sie eine zweite Bande kriegen, so rot, also sieht ganz genau so aus,
+
+01:09:26.401 --> 01:09:32.500
+<v joergovermann>Woman bestimmte Viren dann ganz schnell, indem man ein Blatt zerreibt und dort draufgibt, nachweisen kann.
+
+01:09:32.501 --> 01:09:39.300
+<v joergovermann>Also auch solche Antiseren produzieren wir, damit sie beispielsweise vom Zoll oder Forschern verwendet werden können.
+
+01:09:39.301 --> 01:09:45.000
+<v joergovermann>Pflanzenviren, wir haben Bakterienviren, die genannten Bakteriophagen, eine mittlerweile sehr große Sammlung von 1000,
+
+01:09:45.001 --> 01:09:51.200
+<v joergovermann>die jetzt schon wiederholt für Behandlungen auch interessant geworden sind.
+
+01:09:51.201 --> 01:09:58.300
+<v joergovermann>Wir haben und das ist auch ein wachsender Bestand isolierte genomische DNA von Bakterien,
+
+01:09:58.301 --> 01:10:04.000
+<v joergovermann>denn viele Forschungsarbeiten brauchen eigentlich nur die genomische DNA, um damit weiterarbeiten zu können.
+
+01:10:04.001 --> 01:10:12.700
+<v joergovermann>Das heißt, wir bieten saubere und qualitätskontrollierte Extrakte mit einer gewissen DNA-Konzentration an, die ready to use sind.
+
+01:10:12.701 --> 01:10:17.700
+<v joergovermann>Also man kann die bestellen und kann sofort molekularbiologisch damit arbeiten
+
+01:10:17.701 --> 01:10:21.000
+<v joergovermann>und das sind auch schon jetzt 10.000 verschiedene Arten.
+
+01:10:21.001 --> 01:10:24.400
+<v joergovermann>Wir haben menschliche und tierische Zellkulturen, also auch eukaryontische Zellen,
+
+01:10:24.401 --> 01:10:29.400
+<v joergovermann>aber auch die sehen Sie nicht, die wachsen nämlich auch in einem Kolben als Einzelzellen,
+
+01:10:29.401 --> 01:10:36.500
+<v joergovermann>oder auf einer festen Oberfläche und da haben wir die vollständigste Sammlung von Leukämie- und Lymphomzelllinien weltweit,
+
+01:10:36.501 --> 01:10:39.000
+<v joergovermann>die auch ganz essentiell für die Krebsforschung sind.
+
+01:10:39.001 --> 01:10:44.400
+<v joergovermann>Das sind also Modellsysteme, es ist sehr aufwändig damit zu arbeiten
+
+01:10:44.401 --> 01:10:50.700
+<v joergovermann>und deshalb ist diese Sammlung auch wieder qualitätskontrolliert, da wachsen gerne bestimmte Bakterien als Kontaminanten drin.
+
+01:10:50.701 --> 01:10:53.600
+<v joergovermann>Da muss man aufpassen, das man die raushält etc..
+
+01:10:53.601 --> 01:10:58.600
+<v joergovermann>Das ist also eine ganz wichtige auf Forschungsressource, sogar im eukaryontischen Bereich.
+
+01:10:58.601 --> 01:11:02.100
+<v timpritlove>Also sind hier auch alle böse Krankheiten der Welt vertreten?
+
+01:11:02.101 --> 01:11:03.700
+<v joergovermann>Nicht alle.
+
+01:11:03.701 --> 01:11:05.000
+<v timpritlove>Welche denn so?
+
+01:11:05.001 --> 01:11:09.400
+<v joergovermann>Wir haben an Krankheitserregern nur die, die in der Risikogruppe 2 zu finden sind.
+
+01:11:09.401 --> 01:11:14.400
+<v joergovermann>Das sind also diejenige, die bei Ihnen und mir zum Teil auf der Haut sind.
+
+01:11:14.401 --> 01:11:20.700
+<v joergovermann>Bei 30-40 Prozent der Bevölkerung findet sich Staphylokokkus Aureus, da weiß jeder, was das für ein wichtiges Bakterium ist.
+
+01:11:20.701 --> 01:11:25.400
+<v joergovermann>Häufig Antibiotikaresistenz in der Nase, auf der Nasenschleimhaut.
+
+01:11:25.401 --> 01:11:30.500
+<v joergovermann>Das kann man nachweisen, das kann man mit einem Studentenpraktikum nachweisen, dass das so viele sind.
+
+01:11:30.501 --> 01:11:36.200
+<v joergovermann>Nur wenn dieser Organismus, also im Falle von Staphylokokkus Aureus, an eine Stelle kommt, wo er nicht hin gehört,
+
+01:11:36.201 --> 01:11:43.200
+<v joergovermann>also zum Beispiel durch Intubation ins Gewebe eindringen kann oder gar Richtung Herz wandern kann
+
+01:11:43.201 --> 01:11:49.700
+<v joergovermann>und dort Herzbeutelentzündungen und solche Dinge macht, dann wird es problematisch.
+
+01:11:49.701 --> 01:12:00.300
+<v joergovermann>Aber diese Art von Erregern sind welche, die wir hier anbieten, sind welche, die man mit verhältnismäßig überschaubaren Aufwand bearbeiten kann,
+
+01:12:00.301 --> 01:12:07.400
+<v joergovermann>also in der Forschung gut untersuchen kann, deshalb sind sie so wichtig, aber die man auch sehr leicht bekämpfen kann,
+
+01:12:07.401 --> 01:12:13.800
+<v joergovermann>dadurch dass es etablierte Therapien gibt, Sie stecken sich nicht so schnell an.
+
+01:12:13.801 --> 01:12:17.600
+<v joergovermann>Alles, was wirklich die gefährlichen Krankheiten angeht, haben wir hier nicht.
+
+01:12:17.601 --> 01:12:27.100
+<v joergovermann>Das liegt einfach daran, dass die Labors, die sich mit Tuberkulose, mit Pest oder gar dann Risikogruppe 4, Ebola und diesen Dingen beschäftigen,
+
+01:12:27.101 --> 01:12:33.800
+<v joergovermann>das sind ein paar Speziallabors in Deutschland, die haben diese Organismen ohnehin in den entsprechenden Sicherheitslaboren,
+
+01:12:33.801 --> 01:12:37.200
+<v joergovermann>die müssen wir nicht mit großem Aufwand durch die Republik schicken.
+
+01:12:37.201 --> 01:12:43.800
+<v joergovermann>Also es lohnt sich überhaupt nicht von der Menge her des Bedarfes, wir müssen ja den Bedarf decken in der Forschung,
+
+01:12:43.801 --> 01:12:50.700
+<v joergovermann>in diesem hochspezialisierten Segment mit Risikogruppe 3 oder 4 irgendetwas anzubieten und dementsprechend haben wir das auch einfach nicht.
+
+01:12:50.701 --> 01:13:01.500
+<v joergovermann>Sondern wir haben die, die breit untersucht werden, die nicht gefährlich, also sehr schnell zu gefährlichen Erkrankung bei einem normalresistenten Menschen,
+
+01:13:01.501 --> 01:13:03.800
+<v joergovermann>also einem normal gesunden Menschen führen.
+
+01:13:03.801 --> 01:13:09.500
+<v joergovermann>Nur wenn Sie eben immungeschwächt sind, dann kriegen Sie solche Organismen, aber häufig durch sich selber,
+
+01:13:09.501 --> 01:13:15.000
+<v joergovermann>weil die Organismen häufig auf Ihrer Haut, in Ihrer Nase oder wo auch immer sich finden.
+
+01:13:15.001 --> 01:13:17.800
+<v joergovermann>Diese Art von Pathogenen haben wir.
+
+01:13:17.801 --> 01:13:20.600
+<v timpritlove>Also wenn hier mal was explodiert, dann wäre das zwar schade, aber es wäre keine Katastrophe.
+
+01:13:20.601 --> 01:13:23.500
+<v joergovermann>Ja. Also wir müssen nicht evakuieren oder dergleichen.
+
+01:13:23.501 --> 01:13:24.900
+<v timpritlove>Okay, das ist ja auch schon mal ganz gut.
+
+01:13:24.901 --> 01:13:30.000
+<v timpritlove>Aber wo liegt dann so die Pest rum und Ebola und solche fiesen Dinger?
+
+01:13:30.001 --> 01:13:35.200
+<v joergovermann>Ja, dafür gibt es sogenannte nationale Referenzzentren, die sehr stark darauf spezialisiert sind.
+
+01:13:35.201 --> 01:13:38.600
+<v joergovermann>Ebola wird zum Beispiel in Hamburg untersucht.
+
+01:13:38.601 --> 01:13:41.700
+<v joergovermann>Es gibt ja in Hamburg auch ein Leibniz-Institut, Leibniz ist ja sehr groß,
+
+01:13:41.701 --> 01:13:44.700
+<v joergovermann>das ist die größter außeruniversitäre Gemeinschaft.
+
+01:13:44.701 --> 01:13:51.900
+<v joergovermann>Wir haben 97 Institute, mehr als jede andere, also als Max-Planck und Fraunhofer und Helmholtz sowieso.
+
+01:13:51.901 --> 01:13:54.800
+<v joergovermann>Und dort am Bernhard-Nocht-Institut werden ein paar untersucht,
+
+01:13:54.801 --> 01:14:00.000
+<v joergovermann>im Forschungszentrum Borstel, auch ein Leibniz-Institut, gibt es Speziallabore, um Tuberkulose zu untersuchen.
+
+01:14:00.001 --> 01:14:09.000
+<v joergovermann>Also es gibt nationale Referenzzentren, die sich sehr stark spezialisiert haben auf diese schwierigen Erreger.
+
+01:14:09.001 --> 01:14:14.300
+<v joergovermann>In Marburg an der Universität gibt es auch ein entsprechendes Sicherheitsstufe 4 Labor.
+
+01:14:14.301 --> 01:14:20.700
+<v joergovermann>Da wurde ja auch das Marburg-Virus entdeckt beispielsweise, ist gerade aktuell in Zentralafrika,
+
+01:14:20.701 --> 01:14:22.200
+<v joergovermann>scheint es einen Ausbruch zu geben.
+
+01:14:22.201 --> 01:14:28.100
+<v joergovermann>Also diese Dinge sind ganz lokalisiert auf wenige Standorte und spezialisiert.
+
+01:14:28.101 --> 01:14:33.300
+<v joergovermann>Die haben nicht alles, sondern die haben meist so einige wenige Erreger, um die sie sich kümmern.
+
+01:14:33.301 --> 01:14:36.600
+<v joergovermann>Das ist ganz anders organisiert.
+
+01:14:36.601 --> 01:14:43.000
+<v timpritlove>Okay. Also hier geht es dann doch wirklich primär um die Forschung.
+
+01:14:43.001 --> 01:14:47.200
+<v timpritlove>Diese Forschung findet ja nun in zunehmendem Maße auch im Computer statt.
+
+01:14:47.201 --> 01:14:52.400
+<v timpritlove>Nicht immer braucht man jetzt unbedingt eine Kopie von einem Bakterium in echt,
+
+01:14:52.401 --> 01:14:58.200
+<v timpritlove>sondern es reicht ja im Prinzip oder zumindest kann man auch auf diese Art und Weise jetzt erst mal forschen,
+
+01:14:58.201 --> 01:15:02.300
+<v timpritlove>wir haben ja gerade jetzt bei Corona gesehen, was das für Ausmaße angenommen hat.
+
+01:15:02.301 --> 01:15:11.300
+<v timpritlove>Also die ganze Sequenzierung des Virus, die Beobachtung der Mutation des Virus, die ja auch immer noch voranschreitet.
+
+01:15:11.301 --> 01:15:15.900
+<v timpritlove>Das Ding ist ja sehr kreativ in seiner Vervielfältigung.
+
+01:15:15.901 --> 01:15:22.400
+<v timpritlove>Das wird aber hier auch gemacht, also hier wird auch das Ganze digital erfasst?
+
+01:15:22.401 --> 01:15:26.000
+<v joergovermann>Das ist richtig, das ist sogar sehr stark angewachsen.
+
+01:15:26.001 --> 01:15:31.000
+<v joergovermann>Wir haben vor 11-12 Jahren begonnen mit einer Datenbank, die bisher überhaupt fehlte.
+
+01:15:31.001 --> 01:15:37.300
+<v joergovermann>Man hat öffentliche Datenbanken zu Genomsequenzen, überhaupt zu Nukleotidsequenzen,
+
+01:15:37.301 --> 01:15:40.800
+<v joergovermann>die sind öffentlich zugänglich, da kann jeder sich Sequenzen runterladen,
+
+01:15:40.801 --> 01:15:48.700
+<v joergovermann>aber was es nicht gab, war eine Datenbank, in der die Eigenschaften von verschiedenen Bakterienarten insbesondere gelistet waren.
+
+01:15:48.701 --> 01:15:57.000
+<v joergovermann>Also man konnte jetzt nicht feststellen, mich interessiert, ob Eschericheria Coli zum Beispiel oder Bacillus Subtilis, irgendein Bakterium diese oder jene Eigenschaften hat.
+
+01:15:57.001 --> 01:16:04.200
+<v joergovermann>Zum Beispiel ob Traubenzucker verwendet wird, ob ein Gärprodukt gebildet wird, wie groß die Zellen sind,
+
+01:16:04.201 --> 01:16:11.900
+<v joergovermann>wo sie vorkommen, welche Eigenschaften ihre Zellmembran hat und der gleichen mehr.
+
+01:16:11.901 --> 01:16:14.900
+<v joergovermann>Damit haben wir begonnen, diese Datenbank heißt BacDive.
+
+01:16:14.901 --> 01:16:18.900
+<v joergovermann>Man kann die also auch in Google, das ist das erste, was in Google kommt, wenn man da sucht,
+
+01:16:18.901 --> 01:16:21.500
+<v joergovermann>und da kann man, das ist öffentlich, das stellen wir also öffentlich zur Verfügung,
+
+01:16:21.501 --> 01:16:28.900
+<v joergovermann>da kann man praktisch zu jedem beschriebenen Bakterium, im Moment sind es 1,2 Millionen Datenpunkte, die schon da drin sind,
+
+01:16:28.901 --> 01:16:35.400
+<v joergovermann>die vorhandenen Eigenschaften in standardisierter Weise finden.
+
+01:16:35.401 --> 01:16:42.100
+<v joergovermann>Standardisiert heißt, es ist eine bestimmte Wortwahl und das ist sehr wichtig, denn das erlaubt nicht nur nachzusehen,
+
+01:16:42.101 --> 01:16:50.100
+<v joergovermann>was kann ein Bakterium, was schon sehr wichtig ist, ansonsten haben früher immer die Kunden oder Forscher überhaupt bei der DSMZ angerufen und gehofft,
+
+01:16:50.101 --> 01:16:55.700
+<v joergovermann>sei finden einen Spezialisten, der diese Frage nunmal gerade zufällig beantworten kann.
+
+01:16:55.701 --> 01:17:00.500
+<v joergovermann>Wir haben aus der Literatur alle Daten versucht zusammenzutragen, alles was bekannt ist zu einem Bakterium,
+
+01:17:00.501 --> 01:17:03.500
+<v joergovermann>das ist also eine sehr wertvolle Quelle.
+
+01:17:03.501 --> 01:17:06.800
+<v joergovermann>Noch wertvoller ist aber eigentlich, dass ich nicht pro Bakterium suchen kann,
+
+01:17:06.801 --> 01:17:11.700
+<v joergovermann>sondern dass ich suchen kann nach einem Bakterium, was bestimmte Eigenschaften hat,
+
+01:17:11.701 --> 01:17:14.200
+<v joergovermann>von denen ich aber nicht weiß, ob die existieren.
+
+01:17:14.201 --> 01:17:18.500
+<v joergovermann>Also so quersuchen über den ganzen Datensatz und dazu haben wir…
+
+01:17:18.501 --> 01:17:21.600
+<v timpritlove>Also ob die Eigenschaften existieren oder ob ein Bakterium mit diesen Eigenschaften existiert?
+
+01:17:21.601 --> 01:17:24.800
+<v joergovermann>Ich suche mir eine Kombination von Eigenschaften aus.
+
+01:17:24.801 --> 01:17:27.200
+<v joergovermann>Also nehmen wir mal ein Beispiel, ich möchte Plastik abbauen, ich möchte wissen,
+
+01:17:27.201 --> 01:17:32.000
+<v joergovermann>ob es ein Bakterium gibt, was PET angreift, bei einer Temperatur von 20 Grad wächst,
+
+01:17:32.001 --> 01:17:37.000
+<v joergovermann>weil ich es im Ozeanwasser einsetzen will und aus dem Meer stammt.
+
+01:17:37.001 --> 01:17:45.300
+<v joergovermann>Dann bin ich sicher, dann ist es auch angepasst an Salz, ich kann auch fragen, wächst bei höheren Salzkonzentrationen
+
+01:17:45.301 --> 01:17:47.000
+<v joergovermann>und ob es andere Eigenschaften hat, die vielleicht noch wichtig für mich wären.
+
+01:17:47.001 --> 01:17:53.100
+<v joergovermann>Und das kann ich in die Datenbank eingeben, in eine komplexe Suchfunktion, das ist alles relativ einfach,
+
+01:17:53.101 --> 01:18:00.200
+<v joergovermann>und dann spuckt mir der Algorithmus gibt, ob es so ein Bakterium gibt und wenn ja, welches und sogar wo ich das finden kann
+
+01:18:00.201 --> 01:18:02.900
+<v joergovermann>und die anderen Eigenschaften.
+
+01:18:02.901 --> 01:18:08.000
+<v joergovermann>Das heißt also, die Nutzbarkeit der Informationen von Mikroorganismen wird dadurch massiv verbessert.
+
+01:18:08.001 --> 01:18:11.000
+<v timpritlove>Wieviel Eigenschaften werden da abgebildet ungefähr?
+
+01:18:11.001 --> 01:18:15.100
+<v joergovermann>Also das sind hunderte von Datenfeldern, also wir haben ja eben schon darüber geredet,
+
+01:18:15.101 --> 01:18:21.000
+<v joergovermann>dass die Vielseitigkeit der Bakterien viel höher ist, das heißt, wenn ich also beschreiben will, was für einen Stoffwechsel die haben,
+
+01:18:21.001 --> 01:18:23.500
+<v joergovermann>gibt es sehr sehr viele Eigenschaften.
+
+01:18:23.501 --> 01:18:28.200
+<v joergovermann>Also typischerweise sind da 150 verschiedene Eigenschaften, aber es gibt noch mehr.
+
+01:18:28.201 --> 01:18:31.000
+<v joergovermann>Also wir haben da vorgesehen, ich glaube, bis zu 400 Datenfelder dafür.
+
+01:18:31.001 --> 01:18:34.200
+<v joergovermann>Also ein riesiger Datensatz.
+
+01:18:34.201 --> 01:18:41.300
+<v joergovermann>Alles, was wir irgendwie finden und da nutzen wir zunehmend Natural Language Processing,
+
+01:18:41.301 --> 01:18:46.800
+<v joergovermann>um aus der Literatur das zusammenzusammeln, das landet dort und wird zugänglich gemacht.
+
+01:18:46.801 --> 01:18:56.200
+<v joergovermann>Und darauf basierend ist es gelungen vor drei Jahren, einen sogenannte Sondertatbestand einzuwerben,
+
+01:18:56.201 --> 01:19:03.200
+<v joergovermann>der dann zu einer permanenten Erhöhung unser Grundetats führt und mit diesem Geld sind wir jetzt in der Lage,
+
+01:19:03.201 --> 01:19:07.900
+<v joergovermann>diese Datenbanklandschaft massiv zu erweitern durch Aufnahme weiterer Datenbanken,
+
+01:19:07.901 --> 01:19:15.200
+<v joergovermann>so dass alle Eigenschaften, also auch die Sequenzeigenschaften, die Einordnung der Sequenzen in den Stammbaum der Organismen,
+
+01:19:15.201 --> 01:19:24.300
+<v joergovermann>die Interpretation der Genome, alle diese Dinge vereint werden können und auch Enzymeigenschaften in eine riesige Datenbankplattform,
+
+01:19:24.301 --> 01:19:33.300
+<v joergovermann>die, so denken wir, dann irgendwann auch wirklich einzigartig weltweit sein wird und das Wissen um die Mikroorganismen deutlich zugänglicher macht.
+
+01:19:33.301 --> 01:19:37.300
+<v timpritlove>Wo kommen diese anderen Datenbanken her, die da aufgenommen werden?
+
+01:19:37.301 --> 01:19:42.400
+<v joergovermann>Die eine Datenbank ist in Bremen, die ist schon seit Jahrzehnten etabliert, das ist die Silver-Datenbank,
+
+01:19:42.401 --> 01:19:46.000
+<v joergovermann>die das taxonomische System der Bakterien, also wo gehört ein Bakterium zu,
+
+01:19:46.001 --> 01:19:52.800
+<v joergovermann>das ist ja auch wichtig, wenn ich es einordnen will, was macht das Bakterium wahrscheinlich, kann ich daran sehen.
+
+01:19:52.801 --> 01:20:01.600
+<v joergovermann>Anhand von Gensequenzen tut, und wir übernehmen das, wir integrieren das jetzt hier und haben auf diese Weise diese Datenbank auch verstetigt.
+
+01:20:01.601 --> 01:20:07.900
+<v joergovermann>Denn es war auch wieder wie bei unserer zuvor so, dass diese Datenbanken zunächst immer durch Projekte,
+
+01:20:07.901 --> 01:20:15.400
+<v joergovermann>also immer für drei Jahre, mal für zwei Jahre und das ist natürlich ein Problem, wenn man dieses Angebot erweitern und aufrechterhalten will für die Forschung,
+
+01:20:15.401 --> 01:20:18.000
+<v joergovermann>was ganz wichtig ist.
+
+01:20:18.001 --> 01:20:18.800
+<v joergovermann>Noch wichtiger als diese …
+
+01:20:18.801 --> 01:20:25.200
+<v joergovermann>Die andere Datenbank Brenda ist hier an der TU Braunschweig, auch die haben wir ab 01.01. diesen Jahres aufgenommen.
+
+01:20:25.201 --> 01:20:30.400
+<v joergovermann>Aber fast eigentlich noch wichtiger ist die Integration und Weiterentwicklung dieses Datenangebots.
+
+01:20:30.401 --> 01:20:42.200
+<v joergovermann>Das bietet jetzt die Basis, aber die Weiterentwicklung und weitere Verbesserungen dieses digitalen Datenangebotes wird sicher immer wichtiger.
+
+01:20:42.201 --> 01:20:43.000
+<v joergovermann>Wie Sie schon selber sagen.
+
+01:20:43.001 --> 01:20:47.300
+<v joergovermann>Und wir nennen das DSMZ Digital Diversity.
+
+01:20:47.301 --> 01:20:52.400
+<v joergovermann>Weil wir eben jetzt nicht nur die Diversität der physischen Ressourcen hier haben, mikrobiellen Ressourcen,
+
+01:20:52.401 --> 01:20:56.400
+<v joergovermann>sondern wir haben die Diversität der Daten zu diesen Ressourcen.
+
+01:20:56.401 --> 01:21:02.600
+<v timpritlove>Und die Daten sind ja dann auch selbst gerne sehr divers, also verschiedene Datenbanken zusammenzuführen heißt ja im Prinzip auch,
+
+01:21:02.601 --> 01:21:06.900
+<v timpritlove>dass man sich zunähst einmal auf ein einheitliches taxonomisches Modell einigen muss.
+
+01:21:06.901 --> 01:21:08.300
+<v joergovermann>Zum Beispiel.
+
+01:21:08.301 --> 01:21:10.900
+<v timpritlove>Und vielleicht ist das schon abgeschlossen, ich weiß nicht, ob das so ein Prozess ist.
+
+01:21:10.901 --> 01:21:15.000
+<v timpritlove>Gab es da schon immer etwas, worauf man klar aufsetzen kann, 
+
+01:21:15.001 --> 01:21:18.000
+<v timpritlove>aber im Prinzip solche Eigenschaften, man entdeckt ja eigentlich immer wieder neue
+
+01:21:18.001 --> 01:21:21.600
+<v timpritlove>oder neue werden interessant und überhaupt das erste Mal sozusagen untersucht.
+
+01:21:21.601 --> 01:21:25.400
+<v timpritlove>Was weiß ich, so was wie wächst im Salz, was Sie gerade erwähnten.
+
+01:21:25.401 --> 01:21:33.500
+<v timpritlove>Dann muss das ja auch irgendwie konkret benannt werden und in solchen digitalen Systemen muss man sich ja konkret auf irgendwas festlegen.
+
+01:21:33.501 --> 01:21:41.100
+<v timpritlove>Findet diese Festlegung ausschließlich hier selber statt oder ist das schon Teil eines internationalen normativen Prozesses,
+
+01:21:41.101 --> 01:21:45.200
+<v timpritlove>den auch andere Datenbanken weltweit in irgendeiner Form anwenden?
+
+01:21:45.201 --> 01:21:50.000
+<v joergovermann>Das gibt es natürlich, sonst würde man im Chaos enden, wenn die Leute von verschiedenen Dingen reden,
+
+01:21:50.001 --> 01:21:55.700
+<v joergovermann>ob wir dasselbe meinen oder umgekehrt.
+
+01:21:55.701 --> 01:22:00.100
+<v joergovermann>Es gibt den internationalen Code, wie man das nennt, der Nomenklatur von Prokaryonten.
+
+01:22:00.101 --> 01:22:06.800
+<v joergovermann>Das bedeutet, es ist sehr präzise festgelegt, wie ich etwas benenne und wie ich etwas benenne,
+
+01:22:06.801 --> 01:22:10.200
+<v joergovermann>wenn dasselbe schon mal vorher benannt ist, dann kann ich nämlich den Namen nicht mehr ändern.
+
+01:22:10.201 --> 01:22:15.600
+<v joergovermann>Und es ist festgelegt, dass als Beleg für diese neue Art, die benannt worden ist,
+
+01:22:15.601 --> 01:22:20.100
+<v joergovermann>eine Kultur in einer öffentlichen Sammlung hinterlegt wird, so dass ich immer dort hingehen kann
+
+01:22:20.101 --> 01:22:26.000
+<v joergovermann>und diese Kultur noch mal nachuntersuchen kann und feststellen kann, stimmt das, was der Vorgänger ermittelt hat.
+
+01:22:26.001 --> 01:22:29.900
+<v timpritlove>Das heißt, es gibt auf jeden Fall einen garantierten unmittelbaren Bezug vom Digitalen zum Physischen?
+
+01:22:29.901 --> 01:22:35.500
+<v joergovermann>Ganz genau, das ist essentiell für das Ganze, sonst würde das nicht funktionieren.
+
+01:22:35.501 --> 01:22:38.100
+<v joergovermann>Und wir fungieren eben als eine der Hinterlegungsstellen.
+
+01:22:38.101 --> 01:22:41.900
+<v joergovermann>Man macht das immer in zwei internationalen Sammlungen, falls mal einer verloren geht,
+
+01:22:41.901 --> 01:22:48.300
+<v joergovermann>dann habe ich immer noch das Backup in der anderen Sammlung und das ist das Gerüst, unter dem wir arbeiten.
+
+01:22:48.301 --> 01:22:53.800
+<v joergovermann>Nun ist ja natürlich, und da wird die Sache interessant, nun gibt es natürlich sehr viele Arten da draußen,
+
+01:22:53.801 --> 01:22:57.600
+<v joergovermann>die nicht nach diesem Prozess beschrieben worden sind, weil sie noch nicht isoliert worden sind.
+
+01:22:57.601 --> 01:23:05.100
+<v joergovermann>Das geht nur, wenn ich ein Isolat habe, dass ich hinterlege und dafür gibt es im Moment in der Tat eine große globale Diskussion,
+
+01:23:05.101 --> 01:23:09.300
+<v joergovermann>an der wir auch massiv teilnehmen, wie man damit umgeht.
+
+01:23:09.301 --> 01:23:12.400
+<v joergovermann>Wie benennt man das, was ich noch nicht als Kultur habe,
+
+01:23:12.401 --> 01:23:18.700
+<v joergovermann>wo ich aber jetzt durch die molekularbiologischen Methoden tatsächlich Informationen schon habe, was diese Art ausmacht.
+
+01:23:18.701 --> 01:23:24.300
+<v joergovermann>Also das ist eben in der Diskussion, das ist aber eine Diskussion, die wir nicht nur in unserer Datenbank führen,
+
+01:23:24.301 --> 01:23:29.500
+<v joergovermann>sondern die weltweit unter der Wissenschaft, in der mikrobiologischen Wissenschaft vor allem, geführt wird.
+
+01:23:29.501 --> 01:23:35.800
+<v timpritlove>Na und vor allem, ich meine, wenn jetzt hier in der Datenbank oder vielleicht jetzt hier auch schon im Lager ein bestimmtes Bakterium vorhanden ist
+
+01:23:35.801 --> 01:23:40.700
+<v timpritlove>und dann wird eben irgendwo anders, in den USA sagen wir mal, daran intensiv geforscht,
+
+01:23:40.701 --> 01:23:47.900
+<v timpritlove>kommen irgendwie ein paar Studien raus und man ist sich sicher, guck mal, wir haben jetzt hier diese x neuen Eigenschaften festgelegt,
+
+01:23:47.901 --> 01:23:55.400
+<v timpritlove>was für ein Prozess führt dann dazu, dass diese Datenbank das dann auch reflektiert?
+
+01:23:55.401 --> 01:23:57.300
+<v timpritlove>Oder sind hier nur die eigenen Erkenntnisse?
+
+01:23:57.301 --> 01:23:59.300
+<v joergovermann>Nein, nein, das würde nicht weit führen.
+
+01:23:59.301 --> 01:24:03.900
+<v joergovermann>Natürlich machen wir selbst viele eigene Forschung, 2500 im Jahr,
+
+01:24:03.901 --> 01:24:10.300
+<v joergovermann>aber der Großteil der hinterlegten Kulturen ist ja von Forschern außerhalb, das könnten wir gar nicht leisten,
+
+01:24:10.301 --> 01:24:15.100
+<v joergovermann>außerhalb der DSMZ isoliert worden, beschrieben worden, analysiert worden.
+
+01:24:15.101 --> 01:24:24.200
+<v joergovermann>Wir machen ja nur die Qualitätskontrolle und die Qualitätskontrolle über die Daten erfolgt ja durch den Review-Prozess bei der Publikation.
+
+01:24:24.201 --> 01:24:28.200
+<v joergovermann>Wenn wir also die Daten aus der Publikation nun in die Datenbank einpflegen,
+
+01:24:28.201 --> 01:24:33.800
+<v joergovermann>dann ist das schon durch eine Qualitätskontrolle gegangen und wir beziehen uns auch eindeutig auf diese Publikationen.
+
+01:24:33.801 --> 01:24:36.200
+<v joergovermann>Wir sagen also für jeden Datenpunkt wo er herkommt.
+
+01:24:36.201 --> 01:24:41.400
+<v joergovermann>Man kann also auch nachverfolgen, wenn man den Eindruck hat, an dieser Publikation stimmt das nicht
+
+01:24:41.401 --> 01:24:45.500
+<v joergovermann>und hat Evidenzen dafür, dann kann man sehen, was für Daten beeinflusst das.
+
+01:24:45.501 --> 01:24:49.800
+<v timpritlove>Also da steht jetzt nicht nur, wächst im Salz, sondern da steht, wächst im Salz siehe Studie hier und hier und da.
+
+01:24:49.801 --> 01:24:55.300
+<v joergovermann>Ganz genau, da gibt es einen DOI, wo die Verlinkung ist, das ist absolut transparent,
+
+01:24:55.301 --> 01:25:01.100
+<v joergovermann>das ist die Voraussetzung dafür, dass wir dieses Wissen in eben kuratierter Form zur Verfügung stellen.
+
+01:25:01.101 --> 01:25:05.800
+<v timpritlove>DOI ist der Digital Objekt Identifier, der eindeutig die Publikation zeigt.
+
+01:25:05.801 --> 01:25:09.400
+<v joergovermann>Den gibt es entsprechend dafür.
+
+01:25:09.401 --> 01:25:12.800
+<v timpritlove>Okay. Das eröffnet ja dann eine ganze Menge an Möglichkeiten.
+
+01:25:12.801 --> 01:25:19.000
+<v timpritlove>Ich meine, auf der einen Seite kann man mit der Datenbank schon mal vorab hier forschen,
+
+01:25:19.001 --> 01:25:23.800
+<v timpritlove>weil die Information, ob das hier dann auch vorliegt, hängt da ja wahrscheinlich auch noch mit dran,
+
+01:25:23.801 --> 01:25:30.800
+<v timpritlove>aber man kann ja schon mal nach Eigenschaften filtern, man kann darüber überhaupt erst mal herausfinden,
+
+01:25:30.801 --> 01:25:36.300
+<v timpritlove>was suche ich vielleicht unter Umständen und das entsprechend anfordern.
+
+01:25:36.301 --> 01:25:42.200
+<v timpritlove>Aber es schreit natürlich jetzt auch so nach BigData Maschinenlearning Systemen.
+
+01:25:42.201 --> 01:25:51.200
+<v timpritlove>Werden da selber schon entsprechende Untersuchungen hier auch selbst durchgeführt oder gibt es dann andere, die das tun?
+
+01:25:51.201 --> 01:25:58.100
+<v joergovermann>Solche Dinge, wenn wir neue Forschungsrichtungen einschlagen, versuchen wir immer zu finanzieren über Drittmittelprojekte.
+
+01:25:58.101 --> 01:26:01.200
+<v joergovermann>Das ist natürlich nicht in unserem Haushalt mit abgebildet.
+
+01:26:01.201 --> 01:26:06.000
+<v joergovermann>Wir haben relativ viele Drittmittel, wir werben im Jahr fast drei Millionen ein.
+
+01:26:06.001 --> 01:26:09.500
+<v joergovermann>Und das ist zum Beispiel eins unserer Drittmittelprojekte.
+
+01:26:09.501 --> 01:26:12.700
+<v joergovermann>Wir haben ein Projekt finanziert durch zentrale Fonds der Leibniz-Gemeinschaft,
+
+01:26:12.701 --> 01:26:21.100
+<v joergovermann>wo wir genau diese Dinge, künstliche Intelligenz, Naturale Language Processing zur Gewinnung von Daten aus der Literatur
+
+01:26:21.101 --> 01:26:26.900
+<v joergovermann>und vor allem zur Verknüpfung dieser Daten, um neues Wissen zu generieren, durchführen.
+
+01:26:26.901 --> 01:26:32.300
+<v joergovermann>Das machen wir mit unseren Kollegen von der TIB, also Technischen Informationsbibliothek in Hannover,
+
+01:26:32.301 --> 01:26:37.300
+<v joergovermann>und mit der ZB MED in Köln zusammen, weil die verschiedene Expertisen reinbringen.
+
+01:26:37.301 --> 01:26:43.800
+<v joergovermann>Das sind so typische Projekte, wie wir sie in Leibniz machen, mit Partnern, um ein großes Problem anzugehen.
+
+01:26:43.801 --> 01:26:52.300
+<v joergovermann>Und über diese Entwicklungen versuchen wir eben jetzt unsere Datenbanken noch besser und noch umfassender zu füllen.
+
+01:26:52.301 --> 01:26:57.400
+<v timpritlove>Das klingt ja so nach eine Two-Way-Ansatz, dass man also auf der einen Seite die Daten, die schon drin sind,
+
+01:26:57.401 --> 01:27:04.800
+<v timpritlove>quasi analysiert und sagt, okay jetzt gucken wir mal, was wir alles haben, wo sind Ähnlichkeiten, Verwandtschaften etc.
+
+01:27:04.801 --> 01:27:09.000
+<v timpritlove>und Naturale Language Processing heißt, dass man dann sozusagen die Studien automatisiert auswertet,
+
+01:27:09.001 --> 01:27:12.500
+<v timpritlove>um dann sozusagen Eigenschaften erst mal zu ermitteln und rückführen zu können.
+
+01:27:12.501 --> 01:27:20.700
+<v joergovermann>Genau. Das ganz spannende ist, und das ist für uns jetzt zumindest, ich denke aber auch generell, der Heilige Gral ist,
+
+01:27:20.701 --> 01:27:24.400
+<v joergovermann>bringt man Daten, die noch nicht verknüpft sind, so zusammen, dass man etwas lernt,
+
+01:27:24.401 --> 01:27:27.700
+<v joergovermann>was man vorher gar nicht gesehen hat, über die Mikroorganismen.
+
+01:27:27.701 --> 01:27:32.500
+<v joergovermann>Also ich nenne mal ein Beispiel, ich beobachte einen bestimmten Typ von Genomsequenz,
+
+01:27:32.501 --> 01:27:35.900
+<v joergovermann>ich weiß gar nicht was das ist, im Meer an einer bestimmten Stelle
+
+01:27:35.901 --> 01:27:41.400
+<v joergovermann>und ich finde in einer anderen Publikation, dass an dieser Stelle ein bestimmter Salzgehalt, ein bestimmter pH,
+
+01:27:41.401 --> 01:27:47.300
+<v joergovermann>eine bestimmte Temperatur gemessen worden ist und vielleicht auch eine bestimmte andere Umsetzung.
+
+01:27:47.301 --> 01:27:51.100
+<v joergovermann>Dann könnte ich die Hypothese entwickeln, dieser Organismus, der diese Genomsequenz hat,
+
+01:27:51.101 --> 01:27:55.600
+<v joergovermann>kann unter diesen Bedingungen leben und das und das machen, dann könnte ich in das Genom gucken,
+
+01:27:55.601 --> 01:28:03.500
+<v joergovermann>wieder eine andere Datenbank, und sagen, gibt es da solche Gene, über die man schon weiß, dass sie daran beteiligt worden sind?
+
+01:28:03.501 --> 01:28:09.100
+<v joergovermann>Also auf diese Weise könnte man in der Zukunft, wenn man das weit genug treibt,
+
+01:28:09.101 --> 01:28:17.100
+<v joergovermann>aus den irgendwo und sehr dispers, also sehr verbreitet und nicht standardisierten Informationen,
+
+01:28:17.101 --> 01:28:25.000
+<v joergovermann>die da irgendwo da draußen sind, Wissen generieren, ohne dass man selber jetzt wirklich alle Experimente selber machen muss.
+
+01:28:25.001 --> 01:28:27.900
+<v joergovermann>Das wäre natürlich ein erheblicher Gewinn, wenn man diese riesigen wachsenden Datenmengen,
+
+01:28:27.901 --> 01:28:37.300
+<v joergovermann>Sie hatten gerade von BigData gesprochen, auf diese Weise durch geschickte und sehr anspruchsvolle Verknüpfungen besser zusammenführen kann,
+
+01:28:37.301 --> 01:28:43.800
+<v joergovermann>um dann neue Erkenntnisse zu gewinnen, die man eben allein aus dem Vorhandensein der Daten ermitteln kann.
+
+01:28:43.801 --> 01:28:49.100
+<v joergovermann>Das wäre ein längerfristiges Ziel von dieser Aktivität.
+
+01:28:49.101 --> 01:28:53.800
+<v timpritlove>Ist ja immer so ein bisschen so eine Gefahr bei solchen Datenbanken, dass sie…
+
+01:28:53.801 --> 01:29:00.800
+<v timpritlove>Also klar, wenn das alles stimmt, was da drinsteht, dann super, hat man ja eine erstklassige Quelle,
+
+01:29:00.801 --> 01:29:06.000
+<v timpritlove>aber jetzt bei jeder Erkenntnis gibt es ja sozusagen auch so eine mitschwingende Unsicherheit.
+
+01:29:06.001 --> 01:29:11.800
+<v timpritlove>Also eine Studie kann mehr oder weniger gut abgesichert sein, manchmal geht den Reviewern halt auch mal was durch
+
+01:29:11.801 --> 01:29:16.400
+<v timpritlove>oder da war mal ein handwerklicher Fehler und die Messergebnisse so und das hat sich dann später festgestellt.
+
+01:29:16.401 --> 01:29:24.500
+<v timpritlove>Gibt es in irgendeiner Form auch eine Methode, wie man quasi diese Unsicherheit einer Erkenntnis mit in den Daten ablegt?
+
+01:29:24.501 --> 01:29:30.400
+<v joergovermann>Ja, also als erstes referenzieren natürlich alles, damit ist die Nachprüfbarkeit und Nachverfolgbarkeit schon mal gegeben, das ist logisch.
+
+01:29:30.401 --> 01:29:31.900
+<v timpritlove>Klar.
+
+01:29:31.901 --> 01:29:36.300
+<v joergovermann>Man kann beispielsweise, wenn man Vorhersagen in Genomen macht durch künstliche Intelligenz,
+
+01:29:36.301 --> 01:29:43.100
+<v joergovermann>das haben wir angefangen, kann man da durch den Trainingsdatensatz eine bestimmte Zuverlässigkeit ermitteln.
+
+01:29:43.101 --> 01:29:48.500
+<v joergovermann>Diese Zuverlässigkeitsdaten bei solchen Vorhersagen gehören dazu.
+
+01:29:48.501 --> 01:29:56.000
+<v joergovermann>Also ich kann dann sehen, der Algorithmus sagt, die Eigenschaft einer bestimmten chemischen Zusammensetzung der Zellwand des Bakteriums mit 90 Prozent,
+
+01:29:56.001 --> 01:30:00.600
+<v joergovermann>das ist zum Beispiel so etwas, was man relativ gut vorhersagen kann, mit 90 Prozent oder 95 Prozent,
+
+01:30:00.601 --> 01:30:03.900
+<v joergovermann>wir haben auch 98 Prozent, voraus.
+
+01:30:03.901 --> 01:30:10.100
+<v joergovermann>Das heißt, der Anwender/die Anwenderin kann dann tatsächlich selbst beurteilen, ob,
+
+01:30:10.101 --> 01:30:16.600
+<v joergovermann>wenn ich diese Daten verknüpfe mit andere, was für ein Vorhersagegehalt oder …
+
+01:30:16.601 --> 01:30:18.800
+<v timpritlove>Richtung oder so.
+
+01:30:18.801 --> 01:30:25.500
+<v joergovermann>Vorhersagemöglichkeit da existiert, das muss man natürlich machen, das ist ganz klar.
+
+01:30:25.501 --> 01:30:37.300
+<v timpritlove>Jetzt gibt es ja neben der reinen wissenschaftlichen, forschenden und sonstigen administrativen Tätigkeit ja auch noch so eine gewisse politische Komponente.
+
+01:30:37.301 --> 01:30:46.300
+<v timpritlove>Hier sind ja auch sehr engagiert, glaube ich, was so internationale politische, wissenschaftspolitische Aktivitäten betrifft.
+
+01:30:46.301 --> 01:30:53.000
+<v timpritlove>Es gibt ja auch verschiedenste Vereinbarungen auf internationaler Ebene, konkret vor allem zum Schutz der Biodiversität,
+
+01:30:53.001 --> 01:30:58.600
+<v timpritlove>die ja hier im Prinzip auch im Raum steht, auch wenn Forschung jetzt erst mal so klingt wie,
+
+01:30:58.601 --> 01:31:01.400
+<v timpritlove>naja wir müssen uns das alles ganz genau anschauen, das ist natürlich auch so,
+
+01:31:01.401 --> 01:31:07.500
+<v timpritlove>aber es geht ja dann vor allem auch um den Schutz des Lebens und eben damit auch der Diversität.
+
+01:31:07.501 --> 01:31:09.600
+<v timpritlove>Da waren Sie auch so ein bisschen involviert oder?
+
+01:31:09.601 --> 01:31:10.200
+<v joergovermann>Das ist richtig.
+
+01:31:10.201 --> 01:31:16.800
+<v joergovermann>Ich war auch zum Beispiel im Dezember in Montreal bei COP15, also der Conference of the Party,
+
+01:31:16.801 --> 01:31:25.000
+<v joergovermann>wo es tatsächlich um eine neue Vereinbarung zum Biodiversitätsschutz geht, dem Global Diversity Framework(?),
+
+01:31:25.001 --> 01:31:33.700
+<v joergovermann>und da spielen diese Erkenntnisse, die wir beispielsweise in der Mikrobiologie, aber natürlich nicht nur dort, haben dann schon eine ausschlaggebende Rolle,
+
+01:31:33.701 --> 01:31:40.800
+<v joergovermann>damit die Vereinbarungen auch wirklich am Ende funktionieren können.
+
+01:31:40.801 --> 01:31:49.300
+<v joergovermann>Und da sehe ich und wir sehen es als unsere Aufgabe durchaus an, diese Argumente und diese Fakten in den Prozess einzuspeisen.
+
+01:31:49.301 --> 01:31:54.000
+<v joergovermann>Das ist also das, was wir da auch machen.
+
+01:31:54.001 --> 01:31:57.400
+<v timpritlove>Wie einfach ist das, sich da international zu einigen?
+
+01:31:57.401 --> 01:32:11.200
+<v joergovermann>Die Einigung selber ist natürlich eine diplomatische Sache, da gibt es sehr unterschiedliche Interessenlagen, auch unterschiedliche Befindlichkeiten.
+
+01:32:11.201 --> 01:32:20.000
+<v joergovermann>Es ist mittlerweile glaube ich soweit, dass die Fakten gesehen werden, dass wir gehört werden.
+
+01:32:20.001 --> 01:32:25.600
+<v joergovermann>Nicht als irgendwie eine Art von Lobbygruppe, darum geht es nicht, sondern es geht uns darum,
+
+01:32:25.601 --> 01:32:30.900
+<v joergovermann>dass sachdienliche Abkommen geschlossen werden.
+
+01:32:30.901 --> 01:32:38.000
+<v joergovermann>Dass also die Abkommen nicht … und es gibt einige Probleme, beispielsweise beim Nagoya-Protokoll, dadurch,
+
+01:32:38.001 --> 01:32:44.100
+<v joergovermann>dass bestimmte Fakten nicht ausreichend berücksichtigt worden sind.
+
+01:32:44.101 --> 01:32:47.300
+<v joergovermann>Und dann gibt es natürlich in der Nachfolge Konflikte.
+
+01:32:47.301 --> 01:32:54.500
+<v joergovermann>Mittlerweile sind, glaube ich, die Fakten ganz gut bekannt durch verschiedene Aktivitäten, an denen wir auch beteiligt sind.
+
+01:32:54.501 --> 01:32:59.600
+<v timpritlove>Also diese Konferenz in Montreal hat ja auch Ergebnisse gebracht.
+
+01:32:59.601 --> 01:33:00.800
+<v joergovermann>Richtig.
+
+01:33:00.801 --> 01:33:02.000
+<v timpritlove>Da wurde wohl schwer drum gerungen.
+
+01:33:02.001 --> 01:33:12.800
+<v timpritlove>Wenn ich es richtig sehe, gab es so grob die Vereinbarung, dass man so 30 Prozent von Land und Meer auf die ein oder andere Art und Weise unter Schutz stellt.
+
+01:33:12.801 --> 01:33:17.400
+<v timpritlove>Das ist ja schon mal etwas, inwiefern dass dann eben auch konkret wird, das muss man natürlich dann noch mal sehen,
+
+01:33:17.401 --> 01:33:23.500
+<v timpritlove>aber das ist ja schon mal etwas, wenn man sich generell auf den Weg schon mal an sich verständigt hat.
+
+01:33:23.501 --> 01:33:35.800
+<v timpritlove>Dieses Nagoya-Protokoll ist ja schon ein bisschen älter, also es ist Teil dieses gesamten Biodiversitätsprozesses der UN.
+
+01:33:35.801 --> 01:33:43.600
+<v timpritlove>Was, wenn ich das richtig sehe, im wesentlichen so einen rechtlich verbindlichen Rahmen gelegt hat,
+
+01:33:43.601 --> 01:33:50.600
+<v timpritlove>jetzt im Hinblick auf die Frage, genetische Ressourcen und einen gewissen Vorteilsausgleich weltweit.
+
+01:33:50.601 --> 01:33:56.800
+<v timpritlove>Vielleicht können Sie ja mal kurz beschreiben, was die Abkommen so bisher geleistet haben, die es gab.
+
+01:33:56.801 --> 01:34:00.000
+<v timpritlove>Also was das auch, sagen wir mal, konkret für Auswirkungen hatte.
+
+01:34:00.001 --> 01:34:02.400
+<v timpritlove>Weil wenn das auf dem Papier steht, ist das ja das eine.
+
+01:34:02.401 --> 01:34:06.600
+<v timpritlove>Wie kommt das voran, diese ganze Debatte?
+
+01:34:06.601 --> 01:34:14.200
+<v joergovermann>Ja, das ist von außen vielleicht etwas schlecht einsehbar.
+
+01:34:14.201 --> 01:34:19.900
+<v joergovermann>Also zunächst einmal geht es ja seit 1993, nachdem die Convention of Biological Diversity,
+
+01:34:19.901 --> 01:34:25.400
+<v joergovermann>also die Konvention zum Biodiversitätsschutz, zunächst einmal geschlossen worden sind,
+
+01:34:25.401 --> 01:34:35.100
+<v joergovermann>der die meisten Staaten, außer USA und dem Vatikan und ich glaube Südsudan, nicht beigetreten sind interessanterweise.
+
+01:34:35.101 --> 01:34:36.900
+<v timpritlove>Somalia auch noch nicht.
+
+01:34:36.901 --> 01:34:41.600
+<v joergovermann>Ja. Also bis auf ganz wenige Ausnahmen, die verschiedene Gründe haben natürlich.
+
+01:34:41.601 --> 01:34:45.300
+<v timpritlove>Hat das was mit dem metrischen System vielleicht zu tun?
+
+01:34:45.301 --> 01:34:49.700
+<v joergovermann>Nein, das hat was mit Unabhängigkeit auch sicher zu tun, und Freiheit zu operieren.
+
+01:34:49.701 --> 01:34:55.300
+<v joergovermann>Aber sei es drum, die meisten Staaten der Welt sind dem beigetreten.
+
+01:34:55.301 --> 01:35:01.200
+<v joergovermann>Und da geht es ja darum, einerseits die Biodiversität zu schützen, das ist ein Ziel,
+
+01:35:01.201 --> 01:35:05.900
+<v joergovermann>nachhaltig zu nutzen, aber, und das ist das dritte Ziel, auch die Nutzungsvorteile,
+
+01:35:05.901 --> 01:35:14.200
+<v joergovermann>die bei der Anwendung von Biodiversität allgemein erzeugt werden, fair aufzuteilen unter den Beteiligten.
+
+01:35:14.201 --> 01:35:22.600
+<v joergovermann>Heißt also, wenn, und das ist immer das Paradebeispiel, wenn also eine Pflanze im brasilianischen Urwald gefunden,
+
+01:35:22.601 --> 01:35:27.500
+<v joergovermann>die einen bestimmten Wirkstoff bildet, so was gibt es natürlich,
+
+01:35:27.501 --> 01:35:33.400
+<v joergovermann>dann kann es nicht sein, dass ein Unternehmen aus einem anderen Land, geradeaus dem globalen Norden,
+
+01:35:33.401 --> 01:35:44.600
+<v joergovermann>diese Pflanze sammelt, das erforscht oder am besten noch das Wissen der indigenen Völker vor Ort nutzt,
+
+01:35:44.601 --> 01:35:45.400
+<v joergovermann>um ein …
+
+01:35:45.401 --> 01:35:46.100
+<v timpritlove>Patent oder so.
+
+01:35:46.101 --> 01:35:50.700
+<v joergovermann>Das Beispiel ist dann Krebsmedikament, weil da die Gewinnmargen sehr hoch sind.
+
+01:35:50.701 --> 01:36:00.300
+<v joergovermann>Ein Krebsmedikament entwickelt, das patentiert und das Herkunftsland, geschweige denn die indigenen Völker, leer ausgehen.
+
+01:36:00.301 --> 01:36:04.800
+<v joergovermann>Das ist das Szenario und das Szenario ist natürlich nicht vollkommen aus der Luft gegriffen,
+
+01:36:04.801 --> 01:36:11.100
+<v joergovermann>es gab solche Fälle von, wie das heute heißt, Biopiraterie.
+
+01:36:11.101 --> 01:36:13.000
+<v joergovermann>Und das ist natürlich zu begrenzen.
+
+01:36:13.001 --> 01:36:17.800
+<v joergovermann>Das kann man nicht machen, das ist ganz klar.
+
+01:36:17.801 --> 01:36:23.300
+<v joergovermann>Und man hat sich dann geeinigt auf ein bestimmtes Prozedere, auch wie das durchzuführen ist
+
+01:36:23.301 --> 01:36:29.200
+<v joergovermann>und das hat unmittelbare rechtliche Konsequenzen und damit kommen wir jetzt auch auf den Alltag auch in der Forschung zurück,
+
+01:36:29.201 --> 01:36:34.600
+<v joergovermann>das hat unmittelbare Konsequenzen darauf, wie man nun mit irgendwelchen biologischen Ressourcen,
+
+01:36:34.601 --> 01:36:40.600
+<v joergovermann>seien es Pflanzenproben, Bodenproben, da sind ja auch Organismen drin oder ein Insekt,
+
+01:36:40.601 --> 01:36:44.100
+<v joergovermann>ein aufgespießtes Insekt aus der Sammlung oder eben auch Mikroorganismen umgeht.
+
+01:36:44.101 --> 01:36:48.500
+<v joergovermann>Das bedeutet nämlich, dass ich, bevor ich irgendeine Forschung in irgendeinem Land anfange,
+
+01:36:48.501 --> 01:36:54.400
+<v joergovermann>mir zunächst einmal klar werden muss darüber, wie sind die Bestimmungen vor Ort?
+
+01:36:54.401 --> 01:36:56.100
+<v joergovermann>In der Regel kann ich da nicht so einfach da irgendwo hingehen und was sammeln.
+
+01:36:56.101 --> 01:36:59.600
+<v joergovermann>In Deutschland können Sie das, in den Niederlanden auch und in einigen europäischen Ländern,
+
+01:36:59.601 --> 01:37:08.000
+<v joergovermann>weil die das freier behandeln, aber die meisten Länder des globalen Südens, auch basierend auf solchen Erfahrungen,
+
+01:37:08.001 --> 01:37:15.300
+<v joergovermann>sagen natürlich, das ist jetzt unter unserer Kontrolle und wir wollen bestimmen, wer was nutzt.
+
+01:37:15.301 --> 01:37:18.100
+<v joergovermann>Wir wollen aber vorher wissen wozu.
+
+01:37:18.101 --> 01:37:24.100
+<v joergovermann>Dafür gibt es einen sogenannten Prior Inform Consent(?), ich muss also vorher darlegen, was ich machen will.
+
+01:37:24.101 --> 01:37:26.900
+<v joergovermann>Dann wird dem zugestimmt, da kriege ich ein Dokument drüber.
+
+01:37:26.901 --> 01:37:34.000
+<v joergovermann>Dann wird vereinbart, was diese Forschung beinhaltet und wie dann auch entsprechend das Herkunftsland davon protofiteren soll.
+
+01:37:34.001 --> 01:37:36.200
+<v joergovermann>Ob und in welchem Umfang und so weiter.
+
+01:37:36.201 --> 01:37:41.600
+<v joergovermann>Und diese Dokumente muss ich haben, erst dann darf ich tatsächlich, nachdem ich dann vielleicht noch eine Sammelgenehmigung,
+
+01:37:41.601 --> 01:37:46.400
+<v joergovermann>eine Exportgenehmigung brauche, kann ich mein Projekt durchführen.
+
+01:37:46.401 --> 01:37:50.400
+<v timpritlove>Sprechen wir jetzt nur über die Realität, wie sich das sozusagen gerade abzeichnet
+
+01:37:50.401 --> 01:37:55.300
+<v timpritlove>oder ist auch schon Teil dieser Biodiversitätsabkommen geworden?
+
+01:37:55.301 --> 01:37:59.000
+<v joergovermann>Das ist rechtlich verbindlich vorgeschrieben im Nagoya-Protokoll,
+
+01:37:59.001 --> 01:38:06.600
+<v joergovermann>was hier in Europa zum 12. Oktober 2014 in Kraft gesetzt worden ist.
+
+01:38:06.601 --> 01:38:11.300
+<v joergovermann>Was bedeutet, wenn ich das verletze, dieses Abkommen, dann könnte man ja denken,
+
+01:38:11.301 --> 01:38:15.400
+<v joergovermann>und das war auch vor diesen Regelungen schon der Fall, wenn ich dann zurück nach Brasilien reise,
+
+01:38:15.401 --> 01:38:20.500
+<v joergovermann>kann ich, beispielsweise wenn es schlecht läuft, ins Gefängnis geworfen werden.
+
+01:38:20.501 --> 01:38:28.400
+<v joergovermann>Das gab es allerdings vorher auch schon, weil die nationale Gesetzgebung natürlich unabhängig davon ist und die gab es schon vorher.
+
+01:38:28.401 --> 01:38:28.300
+<v joergovermann>Das ist auch in Brasilien schon passiert.
+
+01:38:28.301 --> 01:38:30.800
+<v timpritlove>Jetzt dürfte man sozusagen dafür auch ausgeliefert werden?
+
+01:38:30.801 --> 01:38:37.000
+<v joergovermann>Nein, der Punkt ist, und das ist das interessante Konstrukt daran, dass diejenigen, die dem beigetreten sind,
+
+01:38:37.001 --> 01:38:40.200
+<v joergovermann>sich verpflichtet haben, auf ihrem eigenen Territorium diese Dinge zu überprüfen.
+
+01:38:40.201 --> 01:38:46.100
+<v joergovermann>Mit anderen Worten, das Bundesamt für Naturschutz ist hier die ausführende Behörde.
+
+01:38:46.101 --> 01:38:55.000
+<v joergovermann>Die kann also überprüfen, das tut sie, sie kann also kommen und abfragen, Sie haben da was publiziert,
+
+01:38:55.001 --> 01:38:57.400
+<v joergovermann>bei einem Grundlagenforscher, der also überhaupt kein kommerzielles Interesse hat,
+
+01:38:57.401 --> 01:39:02.000
+<v joergovermann>bei einer Firma kann sie es sowieso machen, eigentlich ist die Zielrichtung ja die Firma,
+
+01:39:02.001 --> 01:39:04.800
+<v joergovermann>die Gewinne erzeugt.
+
+01:39:04.801 --> 01:39:08.700
+<v joergovermann>Aber das passiert bei Grundlagenforschern und kann verlangen, diese Dokumente einzusehen.
+
+01:39:08.701 --> 01:39:13.700
+<v joergovermann>Also die Genehmigungen für das, was da durchgeführt wurde und publiziert wurde.
+
+01:39:13.701 --> 01:39:20.000
+<v joergovermann>Oder es kann auch sein, dass irgendjemand anders das erfährt und anzeigt oder so was.
+
+01:39:20.001 --> 01:39:24.000
+<v joergovermann>Und es hat jetzt schon einige Verfahren gegeben, wo deutsche Forscher rechtlich belangt werden
+
+01:39:24.001 --> 01:39:32.200
+<v joergovermann>und das kann bis zu einer Strafe von 50.000 Euro bedeuten für nichteingeholte Genehmigungen.
+
+01:39:32.201 --> 01:39:36.800
+<v joergovermann>Man denkt immer, das betrifft mich nicht, ich mache ja nur Grundlagenforschung und keine Gewinnerzeugung.
+
+01:39:36.801 --> 01:39:44.000
+<v joergovermann>Also so weit ist das Konstrukt, so weit ist auch die Umsetzung, das ist mit der EU-Richtlinie 511 von 2014 ganz genau festgelegt.
+
+01:39:44.001 --> 01:39:49.100
+<v timpritlove>Und ist dann mit dieser Genehmigung dann auch eine Einnahme für diese Länder verbunden?
+
+01:39:49.101 --> 01:39:50.600
+<v timpritlove>Also das wäre ja dann auch wieder problematisch.
+
+01:39:50.601 --> 01:39:59.100
+<v joergovermann>Es war natürlich gehäuft, es war so, das ursprüngliche Ansinnen von diesen ganzen Konstrukten ist ja,
+
+01:39:59.101 --> 01:40:06.600
+<v joergovermann>dass man ärmere Länder in die Lage versetzt, effektiven Biodiversitätsschutz durchzuführen
+
+01:40:06.601 --> 01:40:10.100
+<v joergovermann>und eben nicht Raubbau zu machen, um die Bevölkerung zu ernähren.
+
+01:40:10.101 --> 01:40:12.300
+<v joergovermann>Das Konzept ist ja klar.
+
+01:40:12.301 --> 01:40:20.800
+<v joergovermann>Und man hat deshalb gesagt, ja Biodiversität ist das grüne Gold, das gibt es wirklich wörtlich so diesen Begriff.
+
+01:40:20.801 --> 01:40:25.900
+<v joergovermann>Und da kommen die wissenschaftlichen Fakten ins Spiel und wie wir überhaupt Forschung machen
+
+01:40:25.901 --> 01:40:28.200
+<v joergovermann>und wie der Erkenntnisgewinn läuft.
+
+01:40:28.201 --> 01:40:32.200
+<v joergovermann>das Problem bei dem Begriff grünes Gold ist natürlich, dass es kein Gold ist.
+
+01:40:32.201 --> 01:40:39.200
+<v joergovermann>Gold erweckt die Vorstellung, ich brauche bloß hinzugehen, es einzusammeln und ich habe den Wert in der Hand.
+
+01:40:39.201 --> 01:40:46.400
+<v joergovermann>Wenn ich eine Pflanze habe, von der ich nicht weiß was sie tut oder nur eine Ahnung habe vielleicht was sie tut,
+
+01:40:46.401 --> 01:40:51.200
+<v joergovermann>dann investiere ich erst Millionen und Abermillionen in die Forschung unter Umständen,
+
+01:40:51.201 --> 01:41:00.700
+<v joergovermann>bevor dann am Ende die Erkenntnis reift, dass mit diesem oder jener Eigenschaft irgendwann mal vielleicht ein Produkt erzeugt wird,
+
+01:41:00.701 --> 01:41:03.400
+<v joergovermann>was dann Einkommen generiert.
+
+01:41:03.401 --> 01:41:08.800
+<v joergovermann>Und die Bilanzierung von dem, was ich erst investiere, bevor ich dann am Ende einen Gewinn mache,
+
+01:41:08.801 --> 01:41:13.000
+<v joergovermann>das beeinflusst natürlich den Erfolg einer solchen Regelung.
+
+01:41:13.001 --> 01:41:18.700
+<v joergovermann>Heißt also, wenn ich sehr viele verschiedene Organismen erst mal überhaupt durchschauen muss,
+
+01:41:18.701 --> 01:41:23.400
+<v joergovermann>wenn ich auf der Suche nach irgendeinem Antibiotikum bin, dann kostet das erst mal Geld.
+
+01:41:23.401 --> 01:41:27.200
+<v joergovermann>Ich kann aber noch nicht absehen, welches Bakterium oder welche Pflanze dieses Produkt bietet.
+
+01:41:27.201 --> 01:41:32.800
+<v joergovermann>Es ist also sehr schwer, darauf basierend eine Planung zu machen von Einkommen,
+
+01:41:32.801 --> 01:41:38.300
+<v joergovermann>was ich eigentlich benötige in einem Land des globalen Südens für den Biodiversitätsschutz.
+
+01:41:38.301 --> 01:41:40.300
+<v joergovermann>Das ist das Problem mit diesem Konstrukt.
+
+01:41:40.301 --> 01:41:53.000
+<v joergovermann>Es generiert nicht selbstverständlich und verlässlich Einkommen, sondern es kann an irgendeinem Punkt in zehn Jahren im Schnitt oder noch länger
+
+01:41:53.001 --> 01:42:00.000
+<v joergovermann>mal Einkommen erzielen, aber nur an einem Bruchteil der Ressourcen, die untersucht worden sind.
+
+01:42:00.001 --> 01:42:06.100
+<v timpritlove>Weil es kann ja sein, dass man 200 Pflanzen weltweit untersucht hat und man brauchte vielleicht auch 190 davon,
+
+01:42:06.101 --> 01:42:14.200
+<v timpritlove>die nur ein Ausschlusskriterium waren, aber am Ende nicht wirklich diese Substanz enthielten, um zu einem Ergebnis zu kommen.
+
+01:42:14.201 --> 01:42:14.600
+<v joergovermann>Die Zahlen sind sogar noch schlimmer.
+
+01:42:14.601 --> 01:42:22.400
+<v joergovermann>Wenn Sie auf die Suche nach einem Antibiotikum gehen, dann lauten die zahlen 10.000-100.000 verschiedene Bakterien.
+
+01:42:22.401 --> 01:42:28.000
+<v joergovermann>Und wir haben eben gesagt, die Isolation eines besonders neuen Bakteriums, was natürlich dann interessant wäre,
+
+01:42:28.001 --> 01:42:31.800
+<v joergovermann>kann 10.000 Euro kosten, dann können Sie sich jetzt ausrechnen, wieviel das an Investment kostet,
+
+01:42:31.801 --> 01:42:36.100
+<v joergovermann>bevor Sie überhaupt mal die Sammlung haben, an der Sie dann weiter forschen.
+
+01:42:36.101 --> 01:42:39.600
+<v joergovermann>Das heißt also, es ist eben nicht grünes Gold, das ist das Problem.
+
+01:42:39.601 --> 01:42:45.900
+<v joergovermann>Dieser Begriff grünes Gold kommt von der Tatsache her, dass es bestimmte Baumarten gibt, die endemisch sind in bestimmten Ländern,
+
+01:42:45.901 --> 01:42:50.100
+<v joergovermann>die wertvoll erschienen, ob es jetzt Holz war oder Medikamente,
+
+01:42:50.101 --> 01:42:54.000
+<v joergovermann>so dass man gesagt hat, das ist so ähnlich wie Gold, ich muss es ja nur sammeln,
+
+01:42:54.001 --> 01:42:57.300
+<v joergovermann>es ist nur in diesem Land, es ist begrenzte Verfügbarkeit, was wirtschaftlich immer bedeutet,
+
+01:42:57.301 --> 01:43:05.200
+<v joergovermann>ich kann mehr Geld erzeugen, aber dieses Bild, was basierend auf einigen endemischen tropischen Baumarten beruht,
+
+01:43:05.201 --> 01:43:12.800
+<v joergovermann>ist nicht anwendbar für den Großteil der biologischen Diversität allgemein und vor allem nicht für Mikroorganismen.
+
+01:43:12.801 --> 01:43:19.100
+<v joergovermann>Wenn man jetzt noch weiß, dass wenn Sie die Patente durchschauen, die auf Organismen bezogen sind,
+
+01:43:19.101 --> 01:43:21.600
+<v joergovermann>60 Prozent davon beziehen sich auf Mikroorganismen.
+
+01:43:21.601 --> 01:43:26.500
+<v joergovermann>Das heißt, Mikroorganismen sind besonders interessant, um am Ende ein Produkt zu erzeugen.
+
+01:43:26.501 --> 01:43:29.200
+<v joergovermann>Aber Mikroorganismen kommen überall vor.
+
+01:43:29.201 --> 01:43:33.700
+<v joergovermann>Ich kann also in meinem Garten eine Menge Mikroorganismen einfach isolieren, ich muss nirgendwo hinfahren.
+
+01:43:33.701 --> 01:43:37.900
+<v joergovermann>Deshalb fahre ich auch nicht nach Afrika, wie wir es schon besprochen haben.
+
+01:43:37.901 --> 01:43:47.800
+<v joergovermann>Also die Annahmen passen nicht zu dem, wie die Realität in der äiodiversität zum großen Teil tatsächlich ist.
+
+01:43:47.801 --> 01:43:53.400
+<v joergovermann>Und was wir beobachtet haben ist, nach Einführung des Nagoya-Protokolls ist,
+
+01:43:53.401 --> 01:44:00.400
+<v joergovermann>dass die bilateralen Kooperationen mit gerade vielen Ländern des globalen Südens abgenommen haben,
+
+01:44:00.401 --> 01:44:06.600
+<v joergovermann>dass sie erschwert worden sind, dass manche Großprojekte, wo viel auch in diese Länder investiert worden wäre,
+
+01:44:06.601 --> 01:44:13.600
+<v joergovermann>dadurch dass es eben Forschungsgelder flossen und die Kollegen vor Ort beteiligt wurden, die sind komplett gescheitert.
+
+01:44:13.601 --> 01:44:20.000
+<v joergovermann>Da gibt es ein Projekt, was 10 Millionen Euro zur Verfügung hatte, für neun Jahre angelegt war in einem Land,
+
+01:44:20.001 --> 01:44:21.300
+<v joergovermann>ist nach einem Jahr gescheitert.
+
+01:44:21.301 --> 01:44:27.000
+<v timpritlove>Also gescheitert, weil man sich das durchgerechnet hat und es hätte einem dann am Ende zu viel gekostet?
+
+01:44:27.001 --> 01:44:27.900
+<v joergovermann>Nein.
+
+01:44:27.901 --> 01:44:29.300
+<v timpritlove>Oder weil man die Genehmigungen nicht bekommen hat?
+
+01:44:29.301 --> 01:44:32.500
+<v joergovermann>Weil wir schlichtweg die Papiere nicht bekommen haben.
+
+01:44:32.501 --> 01:44:36.100
+<v joergovermann>Also nicht nur wir, sondern das war ein Konsortium von vielen Projekten.
+
+01:44:36.101 --> 01:44:40.100
+<v joergovermann>Und das ist natürlich das Aus für die Biodiversitätsforschung.
+
+01:44:40.101 --> 01:44:43.500
+<v joergovermann>Und da reden wir überhaupt nicht über irgendwelche monetären Vorteile, das sind ja Grundlagenforschungen.
+
+01:44:43.501 --> 01:44:53.100
+<v joergovermann>Und es hat sich also gezeigt, und das meinte ich eben, wenn wir die Fakten nicht vermitteln,
+
+01:44:53.101 --> 01:45:00.100
+<v joergovermann>die wichtig sind für solche Abkommen, dann ist die Ausgestaltung der Abkommen nicht geeignet, um den gewünschten Effekt zu erzielen.
+
+01:45:00.101 --> 01:45:06.300
+<v joergovermann>Das ist eben zum Teil zumindest bisher beim Nagoya-Protokoll passiert.
+
+01:45:06.301 --> 01:45:08.000
+<v joergovermann>Jetzt ist die Diskussion, was machen wir mit den Daten?
+
+01:45:08.001 --> 01:45:14.800
+<v joergovermann>Und da ist dieselbe Diskussion wieder aufgekommen, dass einige Länder sehr rigide gesagt haben,
+
+01:45:14.801 --> 01:45:18.600
+<v joergovermann>wir wollen nicht, dass Daten von uns in öffentlichen Datenbanken sind.
+
+01:45:18.601 --> 01:45:23.300
+<v joergovermann>Das kann man einerseits nachvollziehen, weil die Frage dann immer ist, wer nutzt das?
+
+01:45:23.301 --> 01:45:27.800
+<v joergovermann>Ich kann nicht kontrollieren wer das nutzt und dann das Blockbuster-Antibiotikum macht.
+
+01:45:27.801 --> 01:45:32.400
+<v joergovermann>Aber das Problem ist eben, dass Forschung nicht so läuft.
+
+01:45:32.401 --> 01:45:37.700
+<v joergovermann>Nur durch die freie Verfügbarkeit vieler Daten gewinne ich Erkenntnisse, auch in diesen Ländern.
+
+01:45:37.701 --> 01:45:49.700
+<v joergovermann>Und dieses Problem bezüglich der Datenverfügbarkeit, das haben wir jetzt versucht, auch durch Erhebungen, durch Studien genau zu belegen,
+
+01:45:49.701 --> 01:45:57.900
+<v joergovermann>dass man das anders regeln muss, um sicherzustellen, dass am Schluss auch gerade nicht die Länder der dritten Welt leer ausgehen, weil es nicht funktioniert.
+
+01:45:57.901 --> 01:46:04.900
+<v joergovermann>Das war ein wesentliches Element und das war nicht so sichtbar bei der Berichterstattung,
+
+01:46:04.901 --> 01:46:11.000
+<v joergovermann>natürlich dass dieses eine Problem zum digitalen Datenzugang in Montreal eine so große Rolle gespielt hat.
+
+01:46:11.001 --> 01:46:17.000
+<v joergovermann>Das wurde vor Ort ganz heiß diskutiert, weil viele Länder gesagt haben,
+
+01:46:17.001 --> 01:46:23.800
+<v joergovermann>ohne eine Einigung über den Datenzugang, ob er frei ist, wie da der Vorteilsausgleich gestaltet werden kann,
+
+01:46:23.801 --> 01:46:31.100
+<v joergovermann>oder ob er nicht frei ist, ohne diese Einigung wird das gesamte Abkommen nicht zustande kommen.
+
+01:46:31.101 --> 01:46:36.700
+<v joergovermann>Da gab es den ganzen Block der afrikanischen Länder, die gesagt haben, ohne eine Einigung dazu kein Biodiversitätsabkommen.
+
+01:46:36.701 --> 01:46:41.700
+<v joergovermann>Insofern war das, wie man so sagt, ein Gatekeeper für das Ganze.
+
+01:46:41.701 --> 01:46:52.400
+<v joergovermann>Und da war es eben wichtig darzulegen, warum ein Modell des Nagoya-Protokolls, also viele viele bilaterale Abkommen,
+
+01:46:52.401 --> 01:46:57.200
+<v joergovermann>zu der Verfügbarkeit der Daten aus verschiedenen Ländern nicht funktionieren kann,
+
+01:46:57.201 --> 01:47:03.600
+<v joergovermann>wenn man Biodiversität am Ende auch nutzbringend auch kommerzialisieren will.
+
+01:47:03.601 --> 01:47:10.100
+<v timpritlove>Wo geht jetzt die Reise hin bei diesen völkerrechtlichen verbindlichen Abkommen?
+
+01:47:10.101 --> 01:47:12.200
+<v timpritlove>Ist das eher hilfreich oder?
+
+01:47:12.201 --> 01:47:20.900
+<v joergovermann>Man hat durchaus, glaube ich, jetzt versanden in den meisten Ländern, dass die Daten, die da sind, gar nicht aus diesen Ländern sind.
+
+01:47:20.901 --> 01:47:22.800
+<v joergovermann>Da hatte man auch falsche Annahmen.
+
+01:47:22.801 --> 01:47:31.400
+<v joergovermann>Es wurde festgestellt, auch durch eine Abteilung hier bei mir im Haus, dass der Großteil der Daten, der verfügbar ist, aus dem globalen Norden ist.
+
+01:47:31.401 --> 01:47:37.900
+<v joergovermann>Wenn man also die ist Gebühren belegt, nimmt der globale Norden die Gebühren ein.
+
+01:47:37.901 --> 01:47:44.600
+<v joergovermann>Abgesehen davon, dass der globale Norden, also USA, Europa und Japan, die großen Datenbanken ja finanziell überhaupt aufrechterhält.
+
+01:47:44.601 --> 01:47:49.300
+<v joergovermann>Das sind allein 50 Millionen Euro oder Dollar in den USA.
+
+01:47:49.301 --> 01:47:56.700
+<v joergovermann>Dann würde man natürlich sofort sagen, wenn es Nutzungsgebühren gibt, dann wird da als erstes mal die Datenbank mit aufrechterhalten.
+
+01:47:56.701 --> 01:48:00.800
+<v joergovermann>Also das kann nicht funktionieren.
+
+01:48:00.801 --> 01:48:06.200
+<v joergovermann>Im Gegenteil, man muss ermöglichen und das sagen mir Kollegen in Lateinamerika beispielsweise immer wieder,
+
+01:48:06.201 --> 01:48:16.000
+<v joergovermann>dass dort relativ effizient und schnell und verlässlich Zugänge zu Datenbanken geschaffen werden,
+
+01:48:16.001 --> 01:48:20.000
+<v joergovermann>damit dort die Innovationssprünge stattfinden.
+
+01:48:20.001 --> 01:48:23.900
+<v joergovermann>Also es ist eigentlich genau andersrum, man muss eigentlich ein multilaterales System schaffen,
+
+01:48:23.901 --> 01:48:28.800
+<v joergovermann>und dahin geht jetzt tatsächlich die Reise, das ist auch in den Dokumenten festgelegt, 
+
+01:48:28.801 --> 01:48:35.600
+<v joergovermann>dass man zunächst einmal versuchen wird, eine multilaterale Lösung zu finden, mit freien Daten sogar.
+
+01:48:35.601 --> 01:48:40.700
+<v joergovermann>Also es kann nicht sein, dass man Gebühren erhebt für den Zugang zu den Datenbanken, aus den genannten Gründen,
+
+01:48:40.701 --> 01:48:49.600
+<v joergovermann>sondern jetzt muss es so sein, dass wer mehr einspeist in die Datenbanken, über ein zentralen Fond eine Ausgleichszahlung erhält.
+
+01:48:49.601 --> 01:48:56.200
+<v joergovermann>Das würde also sogar noch unterstützen, dass mehr Daten verfügbar sind, dass man Biodiversitätsschutz besser machen kann,
+
+01:48:56.201 --> 01:49:02.400
+<v joergovermann>dass man das Monitoring von Biodiversität besser machen kann, weil die Daten einfach da sind, das will man ja.
+
+01:49:02.401 --> 01:49:06.200
+<v joergovermann>Das ist auch so festgelegt, dass man das jetzt will.
+
+01:49:06.201 --> 01:49:11.400
+<v joergovermann>Und dann muss es natürlich eine Anerkennung, eine Zuwendung dafür geben, dass das getan wird,
+
+01:49:11.401 --> 01:49:17.400
+<v joergovermann>dass ein Land das bereit stellt und das kann nur über eine multilateralen, zentralen Fond geschehen,
+
+01:49:17.401 --> 01:49:22.800
+<v joergovermann>aus dem dann Biodiversitätsprojekte dann auch wirklich verlässlich finanzierbar sind.
+
+01:49:22.801 --> 01:49:31.100
+<v joergovermann>Das ist im Moment die Richtung, in der sich die Diskussionen entwickeln, und wo wir dann tatsächlich auch denken, dass das funktionieren könnte.
+
+01:49:31.101 --> 01:49:37.700
+<v timpritlove>Also mer so ein Verteilungsfond, der generell die Forschung im Bereich Biodiversität
+
+01:49:37.701 --> 01:49:41.600
+<v timpritlove>und dann eben vor allem in den ärmeren Ländern fördert?
+
+01:49:41.601 --> 01:49:48.100
+<v joergovermann>Nicht nur Forschung, es geht einerseits um Forschung, es aber auch um Erfassung, es geht um Schutzmaßnahmen.
+
+01:49:48.101 --> 01:49:49.200
+<v timpritlove>Ja genau.
+
+01:49:49.201 --> 01:49:56.500
+<v joergovermann>Es geht auch um beispielsweise Zahlungen an die lokale Bevölkerung, die sich für den Schutz eines Urwaldgebietes einsetzt.
+
+01:49:56.501 --> 01:50:07.100
+<v joergovermann>Es geht auch sehr viel um die indigenen Völker, wie kann man die so unterstützen, dass das alles ihren Bedürfnissen gerecht wird
+
+01:50:07.101 --> 01:50:09.800
+<v joergovermann>und vereinbar ist mit Biodiversitätsschutz.
+
+01:50:09.801 --> 01:50:16.700
+<v joergovermann>Aber das kann man eben sinnvollerweise, so ist jetzt denke ich schon die überwiegende Überzeugung,
+
+01:50:16.701 --> 01:50:25.600
+<v joergovermann>über einen Fond, der eben wie verlässliche Mittel nach klaren Kriterien bereitstellt.
+
+01:50:25.601 --> 01:50:27.600
+<v joergovermann>Diese Einzelabkommen die führen nie zu Geldfluss.
+
+01:50:27.601 --> 01:50:35.300
+<v joergovermann>Man hat das auch festgestellt, als das Abkommen zum Nagoya-Protokoll geschlossen worden ist, ist fast nichts finanziell geflossen.
+
+01:50:35.301 --> 01:50:38.500
+<v timpritlove>Also es ist genau das Gegenteil eigentlich von dem was man haben wollte, das ist dann passiert.
+
+01:50:38.501 --> 01:50:42.900
+<v timpritlove>Das heißt, man setzt eher auf ein pauschales System, in dem ein Geldfluss an sich stattfindet,
+
+01:50:42.901 --> 01:50:47.800
+<v timpritlove>aber nicht an so viele Details und Bedingungen geknüpft ist und dass man dann auf der anderen Seite sagt,
+
+01:50:47.801 --> 01:50:53.000
+<v timpritlove>okay aber Forschung ist frei und dann können die Informationen wieder fließen, nur so haben alle was davon.
+
+01:50:53.001 --> 01:51:01.200
+<v joergovermann>Die Forschung ist ja nicht frei, sondern das würde ermöglichen, dass durch kooperative Forschungen der Knowhow-Transfer
+
+01:51:01.201 --> 01:51:05.900
+<v joergovermann>und die infrastrukturellen Aufbauarbeiten stimuliert würden.
+
+01:51:05.901 --> 01:51:14.000
+<v joergovermann>Wenn Sie gemeinsam die Datensätze aufbauen und erweitern und Brückenköpfe in den Ländern schaffen, dann begünstigt das das Ganze.
+
+01:51:14.001 --> 01:51:21.600
+<v joergovermann>Wenn Sie aber durch Einzelabkommen, die dann nicht zustande kommen, in so einem Land diesen Austausch behindern,
+
+01:51:21.601 --> 01:51:30.200
+<v joergovermann>dann kann es erst gar nicht zu der Entwicklung einer digital getriebenen Bioökonomie beispielsweise kommen.
+
+01:51:30.201 --> 01:51:34.400
+<v joergovermann>Also das wäre komplett gegenläufig.
+
+01:51:34.401 --> 01:51:45.100
+<v timpritlove>Ja, ich denke, jetzt haben wir das Feld der Biodiversität im mikrobiologischen Blick ganz gut eingekreist.
+
+01:51:45.101 --> 01:51:53.700
+<v timpritlove>Gibt es noch irgendeinen Aspekt, den wir noch hinten dran werfen sollten, den wir vielleicht so noch nicht bedacht haben?
+
+01:51:53.701 --> 01:51:56.200
+<v timpritlove>War umfassend, wa?
+
+01:51:56.201 --> 01:52:03.000
+<v joergovermann>Ich kann Ihnen gerne noch weitere Fakten oder Ansichten hier darstellen.
+
+01:52:03.001 --> 01:52:13.800
+<v timpritlove>Was wünschen Sie sich denn, was sozusagen als nächstes in Bewegung kommt, sei es in der Politik, sei es in der Gesellschaft, sei es in der Wissenschaft?
+
+01:52:13.801 --> 01:52:16.200
+<v timpritlove>Was wäre denn ein Anliegen?
+
+01:52:16.201 --> 01:52:19.100
+<v joergovermann>Das ist eine gute Frage.
+
+01:52:19.101 --> 01:52:24.600
+<v joergovermann>Also ich glaube, das hängt damit zusammen, dass man Bakterien nicht sieht, immer noch.
+
+01:52:24.601 --> 01:52:30.000
+<v joergovermann>Dass nämlich in den ganzen Diskussionen, die wir bisher, man muss sagen bisher,
+
+01:52:30.001 --> 01:52:34.900
+<v joergovermann>es scheint sich so langsam zu ändern, hier auch in diesem Land führen über Biodiversitätsschutz,
+
+01:52:34.901 --> 01:52:41.900
+<v joergovermann>immer gedacht wird, und das ist natürlich auch richtig, an Singvögel, an seltene Pflanzen, an Orchideen, dergleichen.
+
+01:52:41.901 --> 01:52:45.600
+<v joergovermann>Aussterbende Arten, rote Listen.
+
+01:52:45.601 --> 01:52:50.400
+<v joergovermann>Was für unsere Zukunft aber auch entscheidend sein wird ist,
+
+01:52:50.401 --> 01:53:00.400
+<v joergovermann>dass sich die Biodiversität beispielsweise im Boden massiv durch verschiedene anthropogene Maßnahmen verändert.
+
+01:53:00.401 --> 01:53:07.600
+<v joergovermann>Dass man das a) aber sehr schlecht weiß bisher, was das bedeutet, was das für die Ökosystemdienstleistung bedeutet.
+
+01:53:07.601 --> 01:53:11.100
+<v joergovermann>Es wird besonders viel für Ökosystemdienstleistung bedeuten.
+
+01:53:11.101 --> 01:53:16.000
+<v joergovermann>Es bedeutet, dass wissen wir schon, sehr viel für Treibhausgase.
+
+01:53:16.001 --> 01:53:18.600
+<v joergovermann>Manche Treibhausgase kommen null durch Bakterien zustande und Archaeen.
+
+01:53:18.601 --> 01:53:24.100
+<v joergovermann>Methan wird gebildet, das Methanproblem was wir haben, das sind Archaeen, das sind also Prokaryonten.
+
+01:53:24.101 --> 01:53:28.900
+<v joergovermann>Und Stickoxid zum Beispiel, das ist bakteriell.
+
+01:53:28.901 --> 01:53:37.800
+<v joergovermann>Also das Einbeziehen von Mikrobiodiversität in diese Diskussion ist glaube ich ausschlaggebend für den Erfolg.
+
+01:53:37.801 --> 01:53:42.600
+<v joergovermann>Das scheint sich so langsam zu ändern, aber im Moment geht es immer noch darum,
+
+01:53:42.601 --> 01:53:51.800
+<v joergovermann>ja wir müssen die Arten schützen, wir müssen die Insekten schützen, sonst die Ökosystemdienstleistungen, Bestäubung beispielsweise, nicht da.
+
+01:53:51.801 --> 01:53:57.400
+<v joergovermann>Ein Großteil, quantitativ Großteil und wichtiger Teil der Ökosystemdienstleistungen wird durch etwas gemacht,
+
+01:53:57.401 --> 01:53:59.900
+<v joergovermann>was in der ganzen Konzeption noch nicht vorkommt.
+
+01:53:59.901 --> 01:54:08.300
+<v joergovermann>Und ich glaube, es wäre besser und es wäre zukunftsweisender, wenn das beim Monitoring zum Beispiel allein schon mit berücksichtigt wird.
+
+01:54:08.301 --> 01:54:11.800
+<v joergovermann>Ich habe ein bestimmtes Gebiet, ich möchte feststellen, wie wertvoll ist das Gebiet,
+
+01:54:11.801 --> 01:54:16.700
+<v joergovermann>wie ändert sich das Gebiet durch verschiedene anthropogene Nutzungsformen.
+
+01:54:16.701 --> 01:54:24.600
+<v joergovermann>Wenn ich da nur die Insekten und nur bestimmte Pflanzen angucke, ist das nur ein gewisser Teil und wahrscheinlich weniger als die Hälfte von der ganzen Geschichte,
+
+01:54:24.601 --> 01:54:31.900
+<v joergovermann>ich brauche eigentlich die Information, was passiert sonst nicht, dort wo ich es nicht sehe.
+
+01:54:31.901 --> 01:54:38.800
+<v joergovermann>Also ich glaube, wir müssen bei der ganzen Biodiversitätsdiskussion diesen nichtsichtbaren Teil
+
+01:54:38.801 --> 01:54:43.700
+<v joergovermann>und da rede ich auch von der kleinen Bodenfauna, der Meiofauna, auch das was man nicht gut sieht,
+
+01:54:43.701 --> 01:54:48.500
+<v joergovermann>die ganz ausschlaggebend für die Bodenfunktionen sind, die müssen wir berücksichtigen.
+
+01:54:48.501 --> 01:54:55.200
+<v joergovermann>Also wir wissen nicht davon, dass Bakterien im großen Maße aussterben und das ist das Problem.
+
+01:54:55.201 --> 01:54:59.600
+<v joergovermann>Man denkt, das ist nur wichtig, wenn die Organismen aussterben, dass man sich drum kümmern muss.
+
+01:54:59.601 --> 01:55:05.900
+<v joergovermann>Aber es geht um Biodiversitätsänderungen, es geht nicht ausschließlich um das Aussterben und das Verschwinden.
+
+01:55:05.901 --> 01:55:12.100
+<v joergovermann>Das ist ein großes Problem, das ist eine Verarmung des Genpools in bestimmten Organismengruppen,
+
+01:55:12.101 --> 01:55:14.600
+<v joergovermann>aber das ist eben nicht der einzige Aspekt von Biodiversitätsveränderungen.
+
+01:55:14.601 --> 01:55:21.600
+<v joergovermann>Das wäre etwas, glaube ich, was zukunftsweisend wäre, wenn das integriert wird.
+
+01:55:21.601 --> 01:55:27.800
+<v joergovermann>Da setzen wir uns für ein, dass in den Monitoring-Programmen das jetzt mitgedacht wird,
+
+01:55:27.801 --> 01:55:31.300
+<v joergovermann>dass wir sehen, dass das jetzt aufgegriffen wird auch, aber da muss noch einiges passieren.
+
+01:55:31.301 --> 01:55:32.400
+<v joergovermann>Das ist das /unverständlich/
+
+01:55:32.401 --> 01:55:35.000
+<v timpritlove>Das ist eine wissenschaftspolitische Forderung?
+
+01:55:35.001 --> 01:55:42.200
+<v joergovermann>Ja, im Prinzip ist das eine wissenschaftspolitische Forderung, die wir haben.
+
+01:55:42.201 --> 01:55:42.500
+<v joergovermann>Das ist richtig.
+
+01:55:42.501 --> 01:55:53.800
+<v joergovermann>Und spezifisch könnte ich mir vorstellen, dass Phagentherapie deutlich nachhaltiger etabliert werden sollte.
+
+01:55:53.801 --> 01:55:56.800
+<v joergovermann>Da sehen wir ein erhebliches Potenzial.
+
+01:55:56.801 --> 01:56:04.000
+<v joergovermann>Es ist problematisch auch aus legaler Sicht, weil Sie Phagen nicht nach den üblichen Standards von Medikamenten zulassen können,
+
+01:56:04.001 --> 01:56:08.000
+<v joergovermann>denn da brauchen Sie zehn Jahre und dann ist der Patient tot.
+
+01:56:08.001 --> 01:56:10.800
+<v joergovermann>Außerdem ändern sich die Bakterien auch und die Phagen ändern sind,
+
+01:56:10.801 --> 01:56:15.300
+<v joergovermann>also man muss ganz andere Reaktionszeiten haben, wenn man das irgendwann hinbekommt,
+
+01:56:15.301 --> 01:56:21.100
+<v joergovermann>dass man das im größeren Maßstab tatsächlich anwendet, wird das auch gesundheitspolitisch relevant sein.
+
+01:56:21.101 --> 01:56:29.600
+<v joergovermann>Auch da sehen wir deutlich gestiegenes Interesse einfach aufgrund der Problematik der multiresistenten Keime.
+
+01:56:29.601 --> 01:56:36.800
+<v joergovermann>Aber auch da müssen wir die Entwicklung weitertreiben, damit das auch zum Vorteil von vielen betroffenen Patienten geschieht.
+
+01:56:36.801 --> 01:56:44.000
+<v joergovermann>Das denke ich ist auch eine zukünftig relevante Entwicklung, an der wir teilnehmen können.
+
+01:56:44.001 --> 01:56:52.700
+<v timpritlove>Ich sehe schon, das DSMZ ist hier nicht nur ein Dienstleister, sondern trägt auch zur wissenschaftspolitischen Diskussion bei
+
+01:56:52.701 --> 01:56:59.000
+<v joergovermann>und ich glaube auch, dann ist es ganz wichtig, dass bestimmte Dinge auch an verschiedenen Orten konzentriert werden,
+
+01:56:59.001 --> 01:57:04.200
+<v timpritlove>damit sich dort auch die entsprechende Kompetenz und Ansprechbarkeit auch herausbilden kann,
+
+01:57:04.201 --> 01:57:13.900
+<v timpritlove>um diese ganze Debatte dann auch fruchtbar zu führen, um unter anderem fruchtbare Böden zu erhalten
+
+01:57:13.901 --> 01:57:14.200
+<v timpritlove>und was sonst noch so wünschenswert wäre.
+
+01:57:14.201 --> 01:57:17.600
+<v timpritlove>Ich bedanke mich jetzt auf jeden Fall erst mal an dieser Stelle.
+
+01:57:17.601 --> 01:57:18.000
+<v joergovermann>Ich bedanke mich auch.
+
+01:57:18.001 --> 01:57:20.200
+<v timpritlove>Herr Overmann das war super.
+
+01:57:20.201 --> 01:57:24.500
+<v timpritlove>Ja und ich bedanke mich auch fürs Zuhören und hier geht es bald wieder weiter.
+
+01:57:24.501 --> 01:57:28.100
+<v timpritlove>Ich sage, tschüss und bis bald.

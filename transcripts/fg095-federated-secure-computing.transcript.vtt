@@ -1,0 +1,3031 @@
+﻿WEBVTT
+
+00:00:43.201 --> 00:00:48.300
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:48.301 --> 00:00:54.000
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zur 95. Aussage unserer Gesprächsreihe,
+
+00:00:54.001 --> 00:00:58.400
+<v timpritlove>in der es heute mal etwas digitaler zugehen wird.
+
+00:00:58.401 --> 00:01:02.200
+<v timpritlove>Hatten natürlich auch hier eine Menge digitale Themen schon.
+
+00:01:02.201 --> 00:01:06.700
+<v timpritlove>Heute geht es ein bisschen ans Eingemachte, jetzt wollen wir mal so ein bisschen schauen,
+
+00:01:06.701 --> 00:01:10.300
+<v timpritlove>wie wir denn so die aktuellen Herausforderungen angehen können,
+
+00:01:10.301 --> 00:01:15.500
+<v timpritlove>die sich insbesondere durch die hohe Verfügbarkeit von Daten auf der einen Seite
+
+00:01:15.501 --> 00:01:22.200
+<v timpritlove>und dem hohen Bedarf an Datenschutz und natürlich auch Privatsphäre so ergeben.
+
+00:01:22.201 --> 00:01:25.900
+<v timpritlove>Ja und dazu begrüße ich erst mal meinen Gesprächspartner, nämlich Hendrik Ballhausen, hallo.
+
+00:01:25.901 --> 00:01:27.900
+<v hendrikballhausen>Hallo, danke für die Einladung.
+
+00:01:27.901 --> 00:01:31.100
+<v timpritlove>Ja, herzlich willkommen bei Forschergeist.
+
+00:01:31.101 --> 00:01:40.100
+<v timpritlove>Hendrik, du bist bei, ja, du bist an der Universität, der LMU, der Ludwig-Maximilian-Universität München.
+
+00:01:40.101 --> 00:01:42.400
+<v hendrikballhausen>So ist das.
+
+00:01:42.401 --> 00:01:43.400
+<v timpritlove>Im medizinischen Bereich oder?
+
+00:01:43.401 --> 00:01:45.800
+<v hendrikballhausen>Ja, das ist richtig.
+
+00:01:45.801 --> 00:01:50.500
+<v hendrikballhausen>Ich bin eigentlich selbst gar kein Mediziner, aber auf verschlungenen Wegen bin ich da gelandet.
+
+00:01:50.501 --> 00:01:57.900
+<v timpritlove>Du bist also jetzt in der Medizin, in welcher offiziellen Bezeichnung?
+
+00:01:57.901 --> 00:02:04.200
+<v hendrikballhausen>Tagsüber, wofür ich bezahlt werde, ich leite die Forschungsverwaltung an der medizinischen Fakultät der LMU.
+
+00:02:04.201 --> 00:02:07.900
+<v hendrikballhausen>Das heißt, sowohl für den klinischen Bereich wie auch für den vorklinischen Bereich
+
+00:02:07.901 --> 00:02:13.500
+<v hendrikballhausen>und helfe da letztlich unserem Dekan, unserem Forschungsdekan bei allen Fragen,
+
+00:02:13.501 --> 00:02:15.500
+<v hendrikballhausen>die die Forschung in irgendeiner Weise berühren.
+
+00:02:15.501 --> 00:02:18.700
+<v timpritlove>Aber du bist kein Mediziner?
+
+00:02:18.701 --> 00:02:19.200
+<v hendrikballhausen>Das ist richtig.
+
+00:02:19.201 --> 00:02:20.300
+<v timpritlove>Sondern?
+
+00:02:20.301 --> 00:02:22.800
+<v hendrikballhausen>Bin einer dieser klassischen Physikerallzweckwaffen, die auf verschlungenen Wegen da hingekommen sind.
+
+00:02:22.801 --> 00:02:27.400
+<v timpritlove>Aha so einer. Okay.
+
+00:02:27.401 --> 00:02:28.800
+<v timpritlove>Und wie verschlungen waren denn die Wege?
+
+00:02:28.801 --> 00:02:33.000
+<v timpritlove>Also was nimmt man denn da für eine Weg, um dann dort zu landen?
+
+00:02:33.001 --> 00:02:36.100
+<v hendrikballhausen>Ja, nicht zu Hause nachmachen.
+
+00:02:36.101 --> 00:02:41.100
+<v hendrikballhausen>Also ich kreise eigentlich immer schon in irgendeiner Form um die Universität, die Wissenschaft.
+
+00:02:41.101 --> 00:02:47.600
+<v hendrikballhausen>Das fing an der Schule an, da hatten wir in Hamburg ein tolles Programm von der William-Stern-Gesellschaft,
+
+00:02:47.601 --> 00:02:51.300
+<v hendrikballhausen>die haben Schülerinnen an die Uni geholt, das war so das erste Mal,
+
+00:02:51.301 --> 00:02:56.600
+<v hendrikballhausen>dass ich mich in diesen Mikrokosmos verliebt habe eigentlich, ja.
+
+00:02:56.601 --> 00:02:58.100
+<v timpritlove>Was ist die William-Stern-Gesellschaft?
+
+00:02:58.101 --> 00:03:07.800
+<v hendrikballhausen>Die ist benannt nach einem jüdischen Gelehrten und das ist ein Zusammenschluss von Mathematik und Psychologiestudierenden,
+
+00:03:07.801 --> 00:03:12.700
+<v hendrikballhausen>die Schülerinnen von Hamburger Schulen zusammenholen und dann tatsächlich am Wochenende mit denen Mathe machen.
+
+00:03:12.701 --> 00:03:17.400
+<v hendrikballhausen>Das ist eigentlich keine gute Value Proposition???, würde man heutzutage sagen,
+
+00:03:17.401 --> 00:03:20.200
+<v hendrikballhausen>Mathe tauschen gegen Wochenende, aber mir hat das gut gefallen
+
+00:03:20.201 --> 00:03:24.100
+<v hendrikballhausen>und ich habe zum ersten Mal gemerkt, da gibt es eben eine Welt,
+
+00:03:24.101 --> 00:03:27.600
+<v hendrikballhausen>wo man sich mit vielen spannenden Dingen beschäftigen kann.
+
+00:03:27.601 --> 00:03:30.800
+<v hendrikballhausen>Ja und das hat mir sehr getaugt, da bin ich dann dabei geblieben.
+
+00:03:30.801 --> 00:03:34.700
+<v timpritlove>Und dann ist es auch gleich in ein Physikstudium gemündet?
+
+00:03:34.701 --> 00:03:41.500
+<v hendrikballhausen>/lacht/ Ja, auch da wieder, erst mal kam Jugend forscht, Mathe, Informatik,
+
+00:03:41.501 --> 00:03:43.600
+<v hendrikballhausen>spannende Sachen damals, wir haben Computergrafik gemacht,
+
+00:03:43.601 --> 00:03:50.200
+<v hendrikballhausen>was in den 90er Jahren ganz ein heißes Thema war, überhaupt natürlich noch nicht so wie heute,
+
+00:03:50.201 --> 00:03:55.600
+<v hendrikballhausen>wo in jedem Spiel also die 3D-Grafik perfekt ist, sondern das waren wirklich noch die Anfänge.
+
+00:03:55.601 --> 00:04:03.100
+<v hendrikballhausen>Und dann kam die erste Krise, der neue Markt im Jahr 2001 und dann habe ich mir überlegt,
+
+00:04:03.101 --> 00:04:11.200
+<v hendrikballhausen>vielleicht ist es doch besser, was zu studieren, was ein bisschen mehr ja Substanz hat als die Informatik.
+
+00:04:11.201 --> 00:04:14.300
+<v hendrikballhausen>Im Rückblick völlig falsche Entscheidung, aber damals war es richtig
+
+00:04:14.301 --> 00:04:17.500
+<v hendrikballhausen>und dann sollte es halt Physik sein, Physik ist ja auch Mathematik, ist auch Informatik,
+
+00:04:17.501 --> 00:04:25.100
+<v hendrikballhausen>aber handfester und ja, so bin ich dann nach Heidelberg gekommen und habe dort Physik studiert.
+
+00:04:25.101 --> 00:04:26.200
+<v timpritlove>Okay.
+
+00:04:26.201 --> 00:04:30.700
+<v hendrikballhausen>Eigentlich hätte es die USA sein sollen, aber ich habe Zivildienst gemacht,
+
+00:04:30.701 --> 00:04:38.100
+<v hendrikballhausen>da unterliegt man der Kreiswehrerfassung und der Urlaub wurde abgelehnt, um sich in den USA zu bewerben.
+
+00:04:38.101 --> 00:04:41.600
+<v hendrikballhausen>Ich habe dann noch mal gefragt, was passiert, wenn ich trotzdem ausreise.
+
+00:04:41.601 --> 00:04:46.900
+<v hendrikballhausen>Dann hieß es, sie werden bei der Einreise in Frankfurt verhaftet und ja, so ist es dann Heidelberg geworden.
+
+00:04:46.901 --> 00:04:49.300
+<v hendrikballhausen>Das war im Rückblick genau richtig.
+
+00:04:49.301 --> 00:04:51.600
+<v timpritlove>Okay. Und in Heidelberg war dann das Physikstudium?
+
+00:04:51.601 --> 00:04:52.700
+<v hendrikballhausen>Heidelberg war Physik, ja.
+
+00:04:52.701 --> 00:04:53.700
+<v timpritlove>Okay.
+
+00:04:53.701 --> 00:04:56.400
+<v hendrikballhausen>So richtig, wie man es sich vorstellt, Philosophenweg.
+
+00:04:56.401 --> 00:04:59.400
+<v timpritlove>Und dann denkt man doch eigentlich viel übers Universum nach oder?
+
+00:04:59.401 --> 00:05:05.000
+<v hendrikballhausen>Ja, vor allen Dingen auch, weil wir ja bei uns die Astrophysiker hatten ein Haus weiter.
+
+00:05:05.001 --> 00:05:07.000
+<v timpritlove>Spannender Standort Heidelberg auf jeden Fall.
+
+00:05:07.001 --> 00:05:13.200
+<v hendrikballhausen>Ja, er war das klein und das ganz große ganz nah beieinander.
+
+00:05:13.201 --> 00:05:15.700
+<v timpritlove>Aber dazu kam es nicht, keine astronomische Karriere?
+
+00:05:15.701 --> 00:05:21.800
+<v hendrikballhausen>Ja, da kam dann das Wissenschaftssystem dazu und wir haben uns eigentlich überlegt so gegen Ende der Promotion,
+
+00:05:21.801 --> 00:05:25.400
+<v hendrikballhausen>dass wir uns das doch nicht antun wollen.
+
+00:05:25.401 --> 00:05:30.000
+<v hendrikballhausen>Das waren so ein paar Freunde und wir haben gesagt, Physik finden wir super,
+
+00:05:30.001 --> 00:05:33.600
+<v hendrikballhausen>aber so wie Wissenschaft an der Universität gemacht wird, finden wir es nicht so super.
+
+00:05:33.601 --> 00:05:36.200
+<v hendrikballhausen>Dann sind wir alle woanders hingegangen.
+
+00:05:36.201 --> 00:05:40.300
+<v hendrikballhausen>Ich habe dann noch schnell VWL drauf gesattelt, Volkswirtschaft
+
+00:05:40.301 --> 00:05:44.300
+<v hendrikballhausen>und bin dann tatsächlich ein paar Jahre ganz aus dem Universitären verschwunden.
+
+00:05:44.301 --> 00:05:49.100
+<v timpritlove>Was hat dir denn nicht gefallen daran, wie die Wissenschaft an der Universität gemacht wird?
+
+00:05:49.101 --> 00:05:54.700
+<v hendrikballhausen>Ja, dass eigentlich extrem schlaue Leute, zu denen will ich mich jetzt gar nicht zählen,
+
+00:05:54.701 --> 00:05:58.500
+<v hendrikballhausen>aber die beobachtet man ja, also Leute, die viel besser sind als man selber,
+
+00:05:58.501 --> 00:06:02.600
+<v hendrikballhausen>die schon unglaublich Paper geschrieben haben, unglaublich was eingeworben haben,
+
+00:06:02.601 --> 00:06:07.900
+<v hendrikballhausen>dass die eigentlich sehr lange bitten und betteln müssen, um das tun zu dürfen,
+
+00:06:07.901 --> 00:06:14.700
+<v hendrikballhausen>was sie eigentlich am besten können und was ja eigentlich auch der Gesellschaft am meisten nutzt.
+
+00:06:14.701 --> 00:06:20.600
+<v hendrikballhausen>Und dass das eigentlich so als Gnade gesehen wird, da arbeiten zu dürfen unter teilweise sehr schwierigen Bedingungen.
+
+00:06:20.601 --> 00:06:25.200
+<v hendrikballhausen>Und da haben wir gesagt, nein, den Markt wollen wir nicht noch schlechter machen,
+
+00:06:25.201 --> 00:06:29.100
+<v hendrikballhausen>indem wir hier noch zusätzliche Arbeitskraft anbieten.
+
+00:06:29.101 --> 00:06:31.100
+<v hendrikballhausen>Sind dann ganz bewusst weggegangen, aber ist eine schwere Entscheidung,
+
+00:06:31.101 --> 00:06:37.200
+<v hendrikballhausen>weil man liebt das Fach ja, man möchte ja eigentlich ganz genau das machen,
+
+00:06:37.201 --> 00:06:39.100
+<v hendrikballhausen>aber man muss ja auch ehrlich vor sich selber bleiben.
+
+00:06:39.101 --> 00:06:40.500
+<v timpritlove>Was meinst du mit wir?
+
+00:06:40.501 --> 00:06:45.900
+<v hendrikballhausen>Ja, Freunde, Freunde, mit denen man dann zusammengesessen hat und überlegt hat,
+
+00:06:45.901 --> 00:06:48.100
+<v hendrikballhausen>tun wir uns das jetzt noch an, wollen wir jetzt noch Postdoc-Phase machen?
+
+00:06:48.101 --> 00:06:54.600
+<v hendrikballhausen>Der eine ist dann Lehrer geworden, viele sind in die Industrie gegangen oder in die Wirtschaft.
+
+00:06:54.601 --> 00:07:03.000
+<v hendrikballhausen>Und insofern ich kenne noch ein oder zwei, die dabei geblieben sind und ja, die sind immer noch in der Ochsentour.
+
+00:07:03.001 --> 00:07:07.800
+<v timpritlove>Okay, aber dann gab es einen Ausflug in die Wirtschaft, der dann aber dann doch wieder zur Universität zurückgeführt hat.
+
+00:07:07.801 --> 00:07:15.500
+<v hendrikballhausen>Ja, ja, ein paar Jahre was ganz anderes gemacht, dann kam Bereich Finanzen, dann kam die Bankenkrise 2008/2010.
+
+00:07:15.501 --> 00:07:18.100
+<v hendrikballhausen>Das war die nächste große Krise.
+
+00:07:18.101 --> 00:07:23.400
+<v hendrikballhausen>Und dann habe ich gedacht, eigentlich war es doch an der Uni am schönsten
+
+00:07:23.401 --> 00:07:28.200
+<v hendrikballhausen>und habe dann für mich diesen goldenen Mittelweg gefunden, nicht jetzt selber primär zu forschen,
+
+00:07:28.201 --> 00:07:30.700
+<v hendrikballhausen>aber anderen dabei zu helfen, zu forschen.
+
+00:07:30.701 --> 00:07:36.800
+<v hendrikballhausen>Und witzigerweise war dann plötzlich alles ganz einfach.
+
+00:07:36.801 --> 00:07:41.600
+<v hendrikballhausen>Also Forscher sein ist schwer, Forschung verwalten ist einfach.
+
+00:07:41.601 --> 00:07:41.800
+<v timpritlove>Ist das so?
+
+00:07:41.801 --> 00:07:43.500
+<v hendrikballhausen>Ja, war mein Eindruck.
+
+00:07:43.501 --> 00:07:46.700
+<v timpritlove>Okay. Hat sich das bestätigt der Eindruck?
+
+00:07:46.701 --> 00:07:52.800
+<v hendrikballhausen>/lacht/ Naja, zumindest ist man die letzten zehn Jahre sehr gut zu mir gewesen.
+
+00:07:52.801 --> 00:07:54.400
+<v timpritlove>Okay.
+
+00:07:54.401 --> 00:08:01.000
+<v timpritlove>Gut, also letzten Endes bist du dann doch in der medizinischen Fakultät der LMU gelandet
+
+00:08:01.001 --> 00:08:05.600
+<v timpritlove>und wie hieß das, Forschungsverwaltung? Nein.
+
+00:08:05.601 --> 00:08:08.900
+<v hendrikballhausen>Das ist der trockene Titel, ja Forschungsreferent würde man wahrscheinlich sagen,
+
+00:08:08.901 --> 00:08:12.700
+<v hendrikballhausen>wenn man dem Ganzen jetzt einen Namen geben wollte.
+
+00:08:12.701 --> 00:08:15.800
+<v hendrikballhausen>Ich weiß gar nicht, ob meine Stelle eine offizielle Bezeichnung hat.
+
+00:08:15.801 --> 00:08:22.000
+<v timpritlove>Jetzt bist du aber dann sozusagen dann doch der Informatik wieder etwas näher gekommen.
+
+00:08:22.001 --> 00:08:24.400
+<v hendrikballhausen>Ja.
+
+00:08:24.401 --> 00:08:26.300
+<v timpritlove>Ist dann so eine späte Liebe in gewisser Hinsicht?
+
+00:08:26.301 --> 00:08:33.800
+<v hendrikballhausen>Ja, ich meine, ganz damit aufgehört hat man ja nie, wenn man Nerd ist,
+
+00:08:33.801 --> 00:08:35.600
+<v hendrikballhausen>dann lässt man das nie ganz sein.
+
+00:08:35.601 --> 00:08:37.600
+<v hendrikballhausen>Ich meine, das ist ja auch was, was man ständig gebrauchen kann.
+
+00:08:37.601 --> 00:08:40.600
+<v hendrikballhausen>Also das habe ich in der Physik gebraucht, das habe ich in der Industrie gebraucht,
+
+00:08:40.601 --> 00:08:47.300
+<v hendrikballhausen>in der Wirtschaft habe ich das gebraucht und in der Medizin heute brauchen wir es natürlich auch total dringend.
+
+00:08:47.301 --> 00:08:54.900
+<v hendrikballhausen>Und deswegen der Weg nicht weit, dass ich mich auch um dieses Thema bei uns in der Fakultät ein bisschen kümmern sollte.
+
+00:08:54.901 --> 00:09:01.200
+<v timpritlove>Ist ja auch, Medizin ist ja auch eine so der ersten Disziplinen gewesen,
+
+00:09:01.201 --> 00:09:05.400
+<v timpritlove>die sich so im universitären Bereich mit der Informatik verheiratet haben.
+
+00:09:05.401 --> 00:09:10.500
+<v timpritlove>Also ganz zu Beginn gab es halt so die reine Informatik als Studium
+
+00:09:10.501 --> 00:09:15.400
+<v timpritlove>und später kamen dann halt diese ganzen Kombinationsstudiengänge dazu.
+
+00:09:15.401 --> 00:09:19.100
+<v timpritlove>Da war es auf der einen Seite so die Wirtschaft und auf der anderen Seite die Medizin,
+
+00:09:19.101 --> 00:09:22.800
+<v timpritlove>die eigentlich da so in der ersten Reihe stand.
+
+00:09:22.801 --> 00:09:24.300
+<v hendrikballhausen>Ist immer die Frage, wen man fragt.
+
+00:09:24.301 --> 00:09:27.300
+<v hendrikballhausen>Also in Heidelberg gab es gar keine Informatik, da gab es Mathematik
+
+00:09:27.301 --> 00:09:31.100
+<v hendrikballhausen>und da war völlig klar, Informatik ist angewandte Mathematik.
+
+00:09:31.101 --> 00:09:34.900
+<v hendrikballhausen>Und wir haben im gesamten Studium keinen Computer gesehen.
+
+00:09:34.901 --> 00:09:37.700
+<v hendrikballhausen>Es lief über Beweise.
+
+00:09:37.701 --> 00:09:44.000
+<v hendrikballhausen>Wenn man die Statistiker fragt, an der LMU gibt es eine Fakultät für Mathematik, Informatik und Statistik,
+
+00:09:44.001 --> 00:09:50.600
+<v hendrikballhausen>wenn man die Statistiker fragt, dann ist maschinelles Lernen alles Statistik.
+
+00:09:50.601 --> 00:09:53.900
+<v hendrikballhausen>Und als Physiker würde ich natürlich sagen, dass die Physiker die ersten waren,
+
+00:09:53.901 --> 00:09:58.600
+<v hendrikballhausen>die nach dem Zweiten Weltkrieg die ersten Computer verwendet haben und damit nie aufgehört haben,
+
+00:09:58.601 --> 00:10:03.200
+<v hendrikballhausen>insofern könnte man auch behaupten, dass die Physik die ersten waren.
+
+00:10:03.201 --> 00:10:08.500
+<v timpritlove>Klar, hängt alles zusammen, aber in der Medizin hat sich natürlich dann, wie auch in der Wirtschaft,
+
+00:10:08.501 --> 00:10:10.700
+<v timpritlove>eben auch schnell gezeigt, okay hier gibt es praktische Anwendungen,
+
+00:10:10.701 --> 00:10:16.700
+<v timpritlove>hier kann man der Disziplin als solcher etwas neues hinzufügen
+
+00:10:16.701 --> 00:10:21.100
+<v timpritlove>und die ganze Domäne der Medizin noch mal ganz anders anschieben,
+
+00:10:21.101 --> 00:10:27.400
+<v timpritlove>jenseits aller biologischen medizinischen Erkenntnisse.
+
+00:10:27.401 --> 00:10:31.700
+<v timpritlove>Inwiefern ist das dann jetzt ein Thema für dich geworden?
+
+00:10:31.701 --> 00:10:38.400
+<v hendrikballhausen>Ja, auf der einen Seite die eigene Forschung, also das habe ich dann halt doch nicht ganz sein lassen,
+
+00:10:38.401 --> 00:10:41.000
+<v hendrikballhausen>so wie die Kollegen halt bis abends ihre PatientInnen haben,
+
+00:10:41.001 --> 00:10:47.300
+<v hendrikballhausen>habe ich halt bis abends meine Aktenmappen und nach Feierabend geht es dann ans Paperschreiben.
+
+00:10:47.301 --> 00:10:51.600
+<v hendrikballhausen>Und auf der anderen Seite aber eben auch dadurch, dass ich mich für die Fakultät um diese Thema,
+
+00:10:51.601 --> 00:10:58.200
+<v hendrikballhausen>man darf ja nicht Digitalisierung sagen, man muss ja digitale Transformation sagen,
+
+00:10:58.201 --> 00:11:01.300
+<v hendrikballhausen>dass ich mich darum kümmern sollte und dann merkt man ja relativ schnell,
+
+00:11:01.301 --> 00:11:05.300
+<v hendrikballhausen>dass es schon unheimlich viel gibt und man merkt auf der anderen Seite,
+
+00:11:05.301 --> 00:11:10.800
+<v hendrikballhausen>dass es halt noch so ein paar Themen gibt, die wenig beachtet werden.
+
+00:11:10.801 --> 00:11:19.000
+<v hendrikballhausen>Und was halt total, wo es total viel schon gibt, das ist halt alles, was irgendwie in die Richtung geht,
+
+00:11:19.001 --> 00:11:21.700
+<v hendrikballhausen>Daten sammeln und Daten verarbeiten im weitesten Sinne.
+
+00:11:21.701 --> 00:11:25.100
+<v hendrikballhausen>Das machen ja die Leute auch schon wirklich, wirklich lange.
+
+00:11:25.101 --> 00:11:31.100
+<v hendrikballhausen>Und da, wo es halt jetzt gerade groß das Thema für alle ist, was jetzt neu kommt,
+
+00:11:31.101 --> 00:11:35.600
+<v hendrikballhausen>das ist halt künstliche Intelligenz, das ist maschinelles Lernen.
+
+00:11:35.601 --> 00:11:39.700
+<v hendrikballhausen>Und das, was noch gar nicht so da ist, das sind die Ansätze, die fragen,
+
+00:11:39.701 --> 00:11:45.600
+<v hendrikballhausen>ja, wie wollen wir denn eigentlich mit den Daten wirklich umgehen?
+
+00:11:45.601 --> 00:11:50.800
+<v hendrikballhausen>Wollen wir möglichst große Datensammlungen anlegen, wem gehören die Daten?
+
+00:11:50.801 --> 00:11:55.500
+<v hendrikballhausen>Früher war völlig klar, die Daten, die gesammelt, erhoben werden,
+
+00:11:55.501 --> 00:11:59.800
+<v hendrikballhausen>die gehören dem Arzt, die gehören dem Universitätsklinikum.
+
+00:11:59.801 --> 00:12:04.800
+<v hendrikballhausen>Nur irgendwann später kam dann sozusagen, ja wir sollten den Patienten zumindest um Consent bitten,
+
+00:12:04.801 --> 00:12:07.800
+<v hendrikballhausen>um Zustimmung bitten, dass uns diese Daten gehören dürfen.
+
+00:12:07.801 --> 00:12:15.000
+<v hendrikballhausen>Ja und heute fängt man so langsam an zu fragen, gehören die Daten vielleicht eigentlich der Patientin zunächst mal,
+
+00:12:15.001 --> 00:12:22.000
+<v hendrikballhausen>bevor der sie hergibt oder bevor sie sie vielleicht auch gar nicht hergeben möchte?
+
+00:12:22.001 --> 00:12:31.900
+<v hendrikballhausen>Und die spannende Frage dann eigentlich ist auch, wer behält die Hoheit über diese Daten?
+
+00:12:31.901 --> 00:12:34.700
+<v hendrikballhausen>Wer muss auch später noch irgendeiner Verwendung zustimmen?
+
+00:12:34.701 --> 00:12:42.000
+<v timpritlove>Wenn wir über die Daten reden, was für Daten meinen wir denn jetzt?
+
+00:12:42.001 --> 00:12:47.900
+<v timpritlove>Was ist denn so eigentlich der Datenbereich, der sich heute einem entgegenstreckt?
+
+00:12:47.901 --> 00:12:52.000
+<v hendrikballhausen>Ja, also in der Medizin ist das eigentlich immer ganz ähnlich.
+
+00:12:52.001 --> 00:12:56.700
+<v hendrikballhausen>Das sind zunächst mal Daten, die die Patientinnen und Patienten beschreiben.
+
+00:12:56.701 --> 00:12:57.500
+<v hendrikballhausen>Die Demographics.
+
+00:12:57.501 --> 00:13:04.800
+<v hendrikballhausen>Also wie alt ist derjenige, wo kommt der her, körperliche Eigenschaften,
+
+00:13:04.801 --> 00:13:10.600
+<v hendrikballhausen>von Größe über Gewicht, Geschlecht, etc. pp., Herkunft.
+
+00:13:10.601 --> 00:13:18.100
+<v hendrikballhausen>Dann sind das Daten, die das akute Ereignis betreffen, also warum ist diejenige oder derjenige jetzt im Krankenhaus?
+
+00:13:18.101 --> 00:13:21.600
+<v hendrikballhausen>Was hat der, Diagnosen.
+
+00:13:21.601 --> 00:13:27.300
+<v hendrikballhausen>Und dann natürlich am Ende Aufzeichnungen über die Behandlung.
+
+00:13:27.301 --> 00:13:32.300
+<v hendrikballhausen>Man möchte ja auch letztlich lernen, ein lernendes System haben,
+
+00:13:32.301 --> 00:13:33.500
+<v hendrikballhausen>welche Therapieentscheidungen sind die richtigen.
+
+00:13:33.501 --> 00:13:36.300
+<v hendrikballhausen>Und dann die berühmten Endpunkte.
+
+00:13:36.301 --> 00:13:42.900
+<v hendrikballhausen>Wird der Tumor geheilt, gibt es eine Metastase, wird der Patient entlassen,
+
+00:13:42.901 --> 00:13:46.800
+<v hendrikballhausen>kommt der wieder nach einer Woche?
+
+00:13:46.801 --> 00:13:53.300
+<v hendrikballhausen>Das sind dann sozusagen die spannenden Endpunkte, auf die dann auch die meisten klinischen Studien gemünzt sind.
+
+00:13:53.301 --> 00:14:00.500
+<v hendrikballhausen>Und man muss sagen, dass im Bereich der Medizin das formalisierte Format das sind die klinischen Studien.
+
+00:14:00.501 --> 00:14:08.400
+<v hendrikballhausen>Das sind auch, sagen wir mal, die hochwertigen Daten, die unter wissenschaftlich strengen Gesichtspunkten gesammelt werden,
+
+00:14:08.401 --> 00:14:13.000
+<v hendrikballhausen>wo die Fragestellung im Vorhinein festgelegt ist, die Endpunkte im Vorhinein festgelegt wird,
+
+00:14:13.001 --> 00:14:16.800
+<v hendrikballhausen>wo man dann möglichst wenig „schummeln“ kann.
+
+00:14:16.801 --> 00:14:19.800
+<v hendrikballhausen>Denn dieses explorative Suchen in großen Datenmengen,
+
+00:14:19.801 --> 00:14:22.900
+<v hendrikballhausen>was ja beispielsweise heutzutage in der Wirtschaft sehr gern gemacht wird,
+
+00:14:22.901 --> 00:14:28.300
+<v hendrikballhausen>ob es jetzt um online-Marketing geht oder wenn Salesforce analysiert,
+
+00:14:28.301 --> 00:14:32.600
+<v hendrikballhausen>was sind gute Abläufe im Unternehmen, da wird ja zunächst mal in großen Datenmengen einfach gesucht,
+
+00:14:32.601 --> 00:14:34.600
+<v hendrikballhausen>finden wir irgendein Muster.
+
+00:14:34.601 --> 00:14:37.500
+<v hendrikballhausen>Und in der Medizin sind wir meisten oder sollten wir strenger sein
+
+00:14:37.501 --> 00:14:41.300
+<v hendrikballhausen>und sollten eigentlich mit einer wissenschaftlichen Forschungsfrage rangehen
+
+00:14:41.301 --> 00:14:45.700
+<v hendrikballhausen>und dann schauen, ob wir die tatsächlich in einer idealerweise doppelt verblindeten Studie
+
+00:14:45.701 --> 00:14:48.700
+<v hendrikballhausen>oder wie auch immer verifizieren können.
+
+00:14:48.701 --> 00:14:54.900
+<v timpritlove>An der Stelle vielleicht kurze Anmerkung, Forschergeist Nummer 56 mit dem passenden Titel,
+
+00:14:54.901 --> 00:14:59.500
+<v timpritlove>die digitale Medizin, da hatte ich mich mit Sebastian Kuhn unterhalten,
+
+00:14:59.501 --> 00:15:03.400
+<v timpritlove>der ja im Prinzip auch genau das beklagt hat, dass eigentlich sehr viele Daten da sind so
+
+00:15:03.401 --> 00:15:11.700
+<v timpritlove>oder sehr viele Daten sich im Prinzip anbieten und dass es jetzt eigentlich der nächste Schritt für die Medizin sein müsste,
+
+00:15:11.701 --> 00:15:16.800
+<v timpritlove>mit denen halt irgendetwas anzufangen, einerseits, andererseits natürlich auch Apps,
+
+00:15:16.801 --> 00:15:21.900
+<v timpritlove>zum Beispiel zur, ja gar nicht mal nur zur Diagnose, aber auch zur Diagnose
+
+00:15:21.901 --> 00:15:28.700
+<v timpritlove>oder eben auch tatsächlich zur Behandlung für bestimmte Fälle oder als Therapiemaßnahme mit einzubringen,
+
+00:15:28.701 --> 00:15:31.600
+<v timpritlove>da haben wir eine relativ breiten Bogen gespannt.
+
+00:15:31.601 --> 00:15:37.400
+<v timpritlove>Jetzt ist natürlich klar, okay das Datenmaterial ist da, es ist, sagen wir mal,
+
+00:15:37.401 --> 00:15:44.300
+<v timpritlove>ganz klar das klassischen personenbezogene Datum, was man hier vorfindet.
+
+00:15:44.301 --> 00:15:52.900
+<v timpritlove>Und ich würde meinen, in der Wahrnehmung der Leute ist es so für sie so mit das persönlichste in gewisser Hinsicht.
+
+00:15:52.901 --> 00:15:59.700
+<v timpritlove>Also auch so gefühlt sind das Daten, die einem sehr nahe sind, im wahrsten Sinne des Wortes natürlich,
+
+00:15:59.701 --> 00:16:07.000
+<v timpritlove>wenn es um den eigenen Körper, die eigene Gesundheit geht,
+
+00:16:07.001 --> 00:16:10.300
+<v timpritlove>so dass große Vorbehalte existieren in diesem ganzen Bereich.
+
+00:16:10.301 --> 00:16:14.100
+<v timpritlove>Und man sieht ja auch, dass die ganzen Digitalisierungsmaßnahmen,
+
+00:16:14.101 --> 00:16:21.800
+<v timpritlove>die im Gesundheitssystem bisher vorgenommen wurden, nicht sonderlich erfolgreich waren.
+
+00:16:21.801 --> 00:16:30.100
+<v timpritlove>Also wir haben sehr schön gesehen jetzt in der Corona-Krise, wieviele Informationen nicht vorhanden sind.
+
+00:16:30.101 --> 00:16:41.500
+<v timpritlove>Man weiß nicht, wie sind die Leute geimpft, man hat keine große Erkenntnis über die Symptome etc..
+
+00:16:41.501 --> 00:16:49.300
+<v timpritlove>Also nicht überall, aber an vielen Stellen hätte man sich ja quasi mehr gewünscht, als letztlich da war.
+
+00:16:49.301 --> 00:16:56.200
+<v hendrikballhausen>Ja, also ich glaube, das muss man wirklich differenziert sehen.
+
+00:16:56.201 --> 00:17:01.900
+<v hendrikballhausen>Es ist richtig, dass man häufig sich wünscht, dass mehr ginge,
+
+00:17:01.901 --> 00:17:05.500
+<v hendrikballhausen>aber es ist natürlich auch immer die Frage, zu welchem Preis?
+
+00:17:05.501 --> 00:17:10.600
+<v hendrikballhausen>Die Corona-Krise ist ein Beispiel, wo man natürlich sich aufgeregt hat,
+
+00:17:10.601 --> 00:17:16.300
+<v hendrikballhausen>dass vielleicht irgendwelche Gesundheitsämter Daten jetzt nicht ideal austauschen konnten,
+
+00:17:16.301 --> 00:17:21.200
+<v hendrikballhausen>aber es ist zugleich auch ein Paradebeispiel für etwas, was sehr gut funktioniert hat.
+
+00:17:21.201 --> 00:17:24.400
+<v hendrikballhausen>Beispielsweise diese Corona Warn App, die war ja ein Beispiel,
+
+00:17:24.401 --> 00:17:31.000
+<v hendrikballhausen>dass jetzt Millionen Menschen in sehr sehr kurzer Zeit sich verschaltet haben
+
+00:17:31.001 --> 00:17:37.800
+<v hendrikballhausen>und sich gegenseitig in einem, übrigens auch dezentralen Ansatz, gewandt haben.
+
+00:17:37.801 --> 00:17:42.300
+<v hendrikballhausen>Ein anderes Beispiel, was jetzt in der Öffentlichkeit sicherlich nicht so wahrgenommen wurde,
+
+00:17:42.301 --> 00:17:47.100
+<v hendrikballhausen>war, dass auch in dem sogenannten Netzwerk Universitätsmedizin,
+
+00:17:47.101 --> 00:17:54.500
+<v hendrikballhausen>das ist also ein Netzwerk, das binnen, eigentlich man muss sagen, Tagen und Wochen nach Beginn der Krise aufgesetzt wurde,
+
+00:17:54.501 --> 00:18:00.400
+<v hendrikballhausen>wo alle deutschen Universitätskliniker zusammenarbeiten, auch Datenplattformen geschaffen wurden,
+
+00:18:00.401 --> 00:18:09.400
+<v hendrikballhausen>dass die wirklich universitätsmedizinischen Daten sehr viel besser, sehr viel schneller als zuvor ausgetauscht werden konnten.
+
+00:18:09.401 --> 00:18:13.700
+<v hendrikballhausen>Also da ist auch wirklich viel geschehen, was man vielleicht von außen nicht sieht
+
+00:18:13.701 --> 00:18:23.500
+<v hendrikballhausen>und dass wir nach letztlich einem Jahr eines völlig neuen Krankheitsbildes nicht nur zur Diagnostik,
+
+00:18:23.501 --> 00:18:28.400
+<v hendrikballhausen>wir hatten ja ganz schnell auch Schnelltests, auch zuverlässige PCR-Tests,
+
+00:18:28.401 --> 00:18:34.100
+<v hendrikballhausen>und dass dann nach einem Jahr im Prinzip eine Prophylaxe zur Verfügung stand
+
+00:18:34.101 --> 00:18:37.800
+<v hendrikballhausen>und auch Therapieansätze, wenn man mal andere Erkrankungen sich anguckt,
+
+00:18:37.801 --> 00:18:41.600
+<v hendrikballhausen>das war ja eigentlich jetzt bei aller Kritik, weil uns das alle sehr betroffen hat,
+
+00:18:41.601 --> 00:18:44.300
+<v hendrikballhausen>das war ja eigentlich auch eine totale Erfolgsgeschichte.
+
+00:18:44.301 --> 00:18:48.900
+<v timpritlove>Im medizinischen Bereich auf jeden Fall, also ganz klar.
+
+00:18:48.901 --> 00:18:56.200
+<v timpritlove>Also allein die Entwicklung der Impfstoffe stellt ja auch an sich noch mal einen technologischen Durchbruch dar.
+
+00:18:56.201 --> 00:19:01.200
+<v timpritlove>Trotzdem bei der Bewertung der Pandemie, der Lage, der richtigen Einschätzung
+
+00:19:01.201 --> 00:19:05.800
+<v timpritlove>hätte man sich halt dann doch schon oft gerne auf detailliertere Daten gestützt.
+
+00:19:05.801 --> 00:19:08.800
+<v timpritlove>Aber das ist halt genau das Problem.
+
+00:19:08.801 --> 00:19:12.900
+<v timpritlove>In dem Moment, wo man mehr Daten möchte, erzeugt man natürlich eine ganze Menge Widerstand,
+
+00:19:12.901 --> 00:19:18.400
+<v timpritlove>der teilweise vielleicht berechtigt ist, teilweise vielleicht auch unnötig ist,
+
+00:19:18.401 --> 00:19:24.900
+<v timpritlove>weil es nicht wirklich in eine Privatsphäre eingreift, aber in diesem Spannungsfeld befindet man sich ja auf jeden Fall.
+
+00:19:24.901 --> 00:19:27.600
+<v hendrikballhausen>Also du hast ja eingangs auch ganz richtige Sachen gesagt.
+
+00:19:27.601 --> 00:19:32.200
+<v hendrikballhausen>Also Gesundheitsdaten genießen ja auch vor dem Gesetz einen besonderen Schutzstatus.
+
+00:19:32.201 --> 00:19:37.300
+<v hendrikballhausen>Du hast gesagt, das sind mit die sensibelsten Daten, die es gibt, das ist richtig.
+
+00:19:37.301 --> 00:19:40.900
+<v hendrikballhausen>Zusammen beispielsweise mit jetzt Daten zum Beispiel über die sexuelle Orientierung,
+
+00:19:40.901 --> 00:19:42.900
+<v hendrikballhausen>gehören die zum privatesten, was wir haben.
+
+00:19:42.901 --> 00:19:50.300
+<v hendrikballhausen>Andererseits beobachtet man da natürlich auch eigentlich eine große Divergenz zwischen dem,
+
+00:19:50.301 --> 00:19:53.800
+<v hendrikballhausen>was die Gesellschaft für wichtig hält und was der einzelne für wichtig hält.
+
+00:19:53.801 --> 00:19:55.900
+<v hendrikballhausen>Interessanterweise, wenn man mit einzelnen Menschen spricht,
+
+00:19:55.901 --> 00:20:00.600
+<v hendrikballhausen>dann haben die in der Regel oft gar keine große Scheu, ihre Daten zu teilen,
+
+00:20:00.601 --> 00:20:08.400
+<v hendrikballhausen>wenn man ihnen richtig erklärt, wofür die da sind und ihnen auch erklärt, was mit den Daten geschehen wird.
+
+00:20:08.401 --> 00:20:14.800
+<v hendrikballhausen>Häufig sind diese Daten ja auch dann interessant, gerade wenn sie über eine größere Menge von Menschen erhoben werden,
+
+00:20:14.801 --> 00:20:18.300
+<v hendrikballhausen>und zumindest dann, wenn sie anonymisiert werden können
+
+00:20:18.301 --> 00:20:23.200
+<v hendrikballhausen>und nur eigentlich in aggregierter Form, das heißt, dass man jetzt Summen bildet,
+
+00:20:23.201 --> 00:20:24.900
+<v hendrikballhausen>dass man nicht über den Einzelnen mehr Datensätze hat,
+
+00:20:24.901 --> 00:20:30.000
+<v hendrikballhausen>sondern dass man nur sagen kann, so und so viele Menschen in Summe haben jetzt dieses Merkmal.
+
+00:20:30.001 --> 00:20:33.700
+<v hendrikballhausen>Dann wird das Problem auch sehr viel kleiner sehr schnell.
+
+00:20:33.701 --> 00:20:41.800
+<v hendrikballhausen>Andererseits und das ist ja auch das Paradoxe, an anderer Stelle geben wir diese Daten ja sehr viel bereitwilliger her.
+
+00:20:41.801 --> 00:20:48.300
+<v hendrikballhausen>Du hast Apps erwähnt, was unsere Smartphones über uns an Bewegungsprofilen,
+
+00:20:48.301 --> 00:20:54.700
+<v hendrikballhausen>auch Sozialprofilen, ökonomischen Profilen sammeln, indem wir einfach nur wischen
+
+00:20:54.701 --> 00:21:00.300
+<v hendrikballhausen>und uns gar nicht durchlesen, zu was wir da zustimmen, das ist Größenordnungen mehr als das,
+
+00:21:00.301 --> 00:21:06.600
+<v hendrikballhausen>was sozusagen nach schriftlicher Information und Unterschrift in einem Universitätsklinikum vielleicht über mich gesammelt wird.
+
+00:21:06.601 --> 00:21:13.300
+<v hendrikballhausen>Und vor allen Dingen natürlich auch mit einem ganz anderen Interesse gesammelt und verarbeitet wird für mich, nicht gegen mich.
+
+00:21:13.301 --> 00:21:16.000
+<v hendrikballhausen>Muss man ganz klar sagen, da kommt jetzt der Ökonom in mir durch,
+
+00:21:16.001 --> 00:21:22.100
+<v hendrikballhausen>je mehr ich über meinen Konsumenten weiß, desto mehr kann ich ihm sozusagen,
+
+00:21:22.101 --> 00:21:28.500
+<v hendrikballhausen>desto näher komme ich an seinen Reservationspreis ran, desto mehr Wohlfahrt kann ich ihm wegnehmen.
+
+00:21:28.501 --> 00:21:31.300
+<v hendrikballhausen>Das ist ja oft, dass wir heutzutage beobachten, wenn wir irgendwas kaufen,
+
+00:21:31.301 --> 00:21:35.200
+<v hendrikballhausen>dass wir uns gar nicht mehr freuen, weil das Unternehmen so geschickt war,
+
+00:21:35.201 --> 00:21:42.700
+<v hendrikballhausen>den Preis oder die Qualität der Ware so zu setzen, dass wir gerade noch bereit sind, das zu kaufen.
+
+00:21:42.701 --> 00:21:47.400
+<v hendrikballhausen>Und gar nicht das Gefühl haben, wir hätten jetzt irgendwie ein riesengroßen Schritt nach vorne gemacht.
+
+00:21:47.401 --> 00:21:52.500
+<v hendrikballhausen>Und das ist in der Medizin, muss man sagen, halt wirklich anders.
+
+00:21:52.501 --> 00:21:56.300
+<v hendrikballhausen>Zumindest in der universitären Medizin, das sind ja öffentlich-rechtliche Einrichtungen,
+
+00:21:56.301 --> 00:22:03.200
+<v hendrikballhausen>die keinen Profit machen, die haben in der Regeln wirklich ein wissenschaftliches Interesse.
+
+00:22:03.201 --> 00:22:06.900
+<v hendrikballhausen>Und da das die Forschenden zum großen Teil auch Ärztinnen und Ärzte sind,
+
+00:22:06.901 --> 00:22:13.400
+<v hendrikballhausen>die haben zuallermeist auch wirklich ein Interesse, dem Patienten, der Patientin zu nutzen.
+
+00:22:13.401 --> 00:22:17.500
+<v timpritlove>Was würdest du denn jetzt formulieren, was könnten denn jetzt Ziele sein?
+
+00:22:17.501 --> 00:22:25.800
+<v timpritlove>Was ist denn wünschenswert oder was ist sogar in der Medizin klar, dass man da auf jeden Fall hin möchte,
+
+00:22:25.801 --> 00:22:31.500
+<v timpritlove>auch wenn man vielleicht noch Probleme dabei sieht, wie man diese Ziele erreichen kann?
+
+00:22:31.501 --> 00:22:36.100
+<v hendrikballhausen>Also ich glaube, wir müssen als Gesellschaft klar diese Frage politisch beantworten.
+
+00:22:36.101 --> 00:22:47.400
+<v hendrikballhausen>Zunächst, wie stark wollen wir Datenschutz gegen wissenschaftliches, medizinisches Erkenntnisgewinninteresse abwägen?
+
+00:22:47.401 --> 00:22:49.600
+<v hendrikballhausen>Das ist auch eine Entscheidung, die kann kein Arzt, die kann keine Ärztin,
+
+00:22:49.601 --> 00:22:56.900
+<v hendrikballhausen>das kann kein Informatiker, das kann kein Cloudprovider beantworten.
+
+00:22:56.901 --> 00:23:02.100
+<v hendrikballhausen>Und wenn wir dann diese Entscheidung getroffen haben oder zumindest wissen, in welche Richtung wir uns bewegen wollen,
+
+00:23:02.101 --> 00:23:08.000
+<v hendrikballhausen>dann müssen wir eigentlich sehr schnell und möglichst auch unbürokratisch,
+
+00:23:08.001 --> 00:23:10.800
+<v hendrikballhausen>die technischen Infrastrukturen dafür schaffen.
+
+00:23:10.801 --> 00:23:15.300
+<v hendrikballhausen>Wir sind in Deutschland sehr gut darin, Komitees und Subkomitees zu bilden,
+
+00:23:15.301 --> 00:23:20.400
+<v hendrikballhausen>und wenn diese Strukturen groß genug werden, dann haben die irgendwann ihr eigenes Überleben im Sinn
+
+00:23:20.401 --> 00:23:23.900
+<v hendrikballhausen>und nicht mehr das Problem zu lösen, da müssen wir vorsichtig sein,
+
+00:23:23.901 --> 00:23:28.400
+<v hendrikballhausen>Dass wir vielleicht uns da auch die richtigen Anleihen aus der Industrie holen,
+
+00:23:28.401 --> 00:23:33.100
+<v hendrikballhausen>aus der Digitalwirtschaft, die ja teilweise mit sehr kleinen, sehr agilen Teams sehr viel erreichen.
+
+00:23:33.101 --> 00:23:39.300
+<v hendrikballhausen>Gar nicht so sehr, was jetzt dahinter vielleicht das ökonomische Interesse ist,
+
+00:23:39.301 --> 00:23:44.600
+<v hendrikballhausen>gar nicht eine Ökonomisierung der Medizindaten, aber die Abläufe,
+
+00:23:44.601 --> 00:23:50.200
+<v hendrikballhausen>die Strukturen die müssen einfach moderner, schneller, agiler werden.
+
+00:23:50.201 --> 00:23:54.600
+<v timpritlove>Gut, aber vielleicht kannst du ja mal ein paar konkrete Beispiele nennen,
+
+00:23:54.601 --> 00:23:58.300
+<v timpritlove>wo man sozusagen gerne Daten nutzen würde und zu welchem Zweck.
+
+00:23:58.301 --> 00:24:02.000
+<v timpritlove>Nur um einfach mal so ein bisschen zu verstehen, was so die Stoßrichtung wäre.
+
+00:24:02.001 --> 00:24:07.200
+<v hendrikballhausen>Ja, also ein Klassiker ist, Klinikum A hat eine klinische Studie gemacht,
+
+00:24:07.201 --> 00:24:10.600
+<v hendrikballhausen>die haben written informe consent von ihren Patienten, dass sie das auch auswerten dürfen,
+
+00:24:10.601 --> 00:24:17.100
+<v hendrikballhausen>Klinikum B hat die gleiche Studie gemacht und die merken eigentlich,
+
+00:24:17.101 --> 00:24:20.800
+<v hendrikballhausen>sie könnten viel granularer auswerten, wenn sie jetzt die Daten gegenseitig sich zeigen könnten,
+
+00:24:20.801 --> 00:24:23.200
+<v hendrikballhausen>dürfen sie aber nicht.
+
+00:24:23.201 --> 00:24:27.600
+<v hendrikballhausen>Das sind, die Daten müssen in Gewahrsam des Klinikums bleiben,
+
+00:24:27.601 --> 00:24:30.900
+<v hendrikballhausen>bzw. da sind dann oft auch, sobald eine Landesgrenze in Deutschland dazwischenkommt,
+
+00:24:30.901 --> 00:24:34.600
+<v hendrikballhausen>da sind noch mal andere Datenschutzgesetze, das sind andere Ethikkommissionen,
+
+00:24:34.601 --> 00:24:39.300
+<v hendrikballhausen>und das wird dann sehr schwierig, und der einfache Weg ist dann,
+
+00:24:39.301 --> 00:24:41.300
+<v hendrikballhausen>dass man dann eine Metaanalyse macht, das heißt,
+
+00:24:41.301 --> 00:24:45.000
+<v hendrikballhausen>man nimmt sozusagen die Summe der Erkenntnisse der einen Studie
+
+00:24:45.001 --> 00:24:47.300
+<v hendrikballhausen>und die Summe der Erkenntnisse der anderen Studie und versucht,
+
+00:24:47.301 --> 00:24:50.300
+<v hendrikballhausen>die irgendwie zu verheiraten, aber das ist halt nicht so einfach
+
+00:24:50.301 --> 00:24:56.600
+<v hendrikballhausen>und das ist halt auch nicht so gut, was heißt so gut, man kann oft nicht genau so viel ableiten,
+
+00:24:56.601 --> 00:25:02.100
+<v hendrikballhausen>wie man mit den Rohdaten beider Studien addieren könnte.
+
+00:25:02.101 --> 00:25:06.000
+<v hendrikballhausen>Das ist ein Beispiel für, um jetzt mal einen Fachausdruck zu bringen,
+
+00:25:06.001 --> 00:25:09.700
+<v hendrikballhausen>eine sogenannte horizontale Partitionierung, also jeder hat die gleichen Daten,
+
+00:25:09.701 --> 00:25:13.000
+<v hendrikballhausen>aber in Summe hat man mehr davon.
+
+00:25:13.001 --> 00:25:15.100
+<v hendrikballhausen>Dann gibt es noch ein anderes Problem, das ist eigentlich viel größer,
+
+00:25:15.101 --> 00:25:18.400
+<v hendrikballhausen>das ist die vertikale Partitionierung, das ist, wenn der eine die einen Daten hat
+
+00:25:18.401 --> 00:25:21.700
+<v hendrikballhausen>und der andere hat die anderen Daten, also über die gleichen Leute.
+
+00:25:21.701 --> 00:25:28.600
+<v hendrikballhausen>Beispielsweise der eine weiß, sind das Frauen oder Männer und der andere weiß, sind das Raucher oder Nichtraucher.
+
+00:25:28.601 --> 00:25:30.800
+<v hendrikballhausen>Nichtraucherinnen und Raucherinnen.
+
+00:25:30.801 --> 00:25:34.000
+<v hendrikballhausen>Und das wird dann schon sehr viel schwieriger, weil man kann sich überlegen,
+
+00:25:34.001 --> 00:25:37.400
+<v hendrikballhausen>da kann man eben nicht mehr erst summieren und dann austauschen,
+
+00:25:37.401 --> 00:25:41.100
+<v hendrikballhausen>sondern da muss man eigentlich über den einzelnen Patienten, die einzelne Patientin wissen,
+
+00:25:41.101 --> 00:25:46.600
+<v hendrikballhausen>ist das eine Frau, ist das ein Mann, ist das ein Raucher, eine Nichtraucherin.
+
+00:25:46.601 --> 00:25:52.100
+<v hendrikballhausen>Und dafür gibt es Verfahren, auch mathematische Verfahren, kryptografische Verfahren,
+
+00:25:52.101 --> 00:25:58.700
+<v hendrikballhausen>aber es ist halt immer sehr sehr viel schwieriger, als die Daten in einen großen Topf zu werfen.
+
+00:25:58.701 --> 00:26:04.900
+<v hendrikballhausen>Und deswegen kann man auch verstehen, dass der allererste Reflex, der allererste Impuls,
+
+00:26:04.901 --> 00:26:11.000
+<v hendrikballhausen>was die Leute auch können, ist, große Datentöpfe, große Datalags, große Datensilos zu schaffen
+
+00:26:11.001 --> 00:26:16.100
+<v hendrikballhausen>und die Juristen dann zu beschäftigen, dass die einen entsprechenden Rahmenvertrag dann darum bauen.
+
+00:26:16.101 --> 00:26:20.400
+<v hendrikballhausen>Und so funktioniert es da zurzeit und man muss sagen, ja auch gar nicht unerfolgreich.
+
+00:26:20.401 --> 00:26:24.700
+<v hendrikballhausen>Also es gibt ja in Deutschland die große Medizininformatikinitiative,
+
+00:26:24.701 --> 00:26:27.000
+<v hendrikballhausen>die sich genau mit dem Thema beschäftigt, wie können wir Daten austauschen,
+
+00:26:27.001 --> 00:26:32.300
+<v hendrikballhausen>wie können wir Daten auch harmonisieren, wie schaffen wir es, das ist ja die eigentliche digitale Transformation,
+
+00:26:32.301 --> 00:26:36.400
+<v hendrikballhausen>wie schaffen wir es, dass an den Standorten nicht nur Daten zur Verfügung stehen,
+
+00:26:36.401 --> 00:26:38.700
+<v hendrikballhausen>sondern eben auch strukturierte Daten.
+
+00:26:38.701 --> 00:26:42.400
+<v timpritlove>Was macht diese Medizininformatikinitiative so konkret?
+
+00:26:42.401 --> 00:26:49.700
+<v hendrikballhausen>Die haben sich verschiedene Usecases gesucht, Neurologe etc. pp.,
+
+00:26:49.701 --> 00:26:53.100
+<v hendrikballhausen>wo sie sagen, wir schauen uns jetzt bestimmte Krankheitsbilder in dem ersten Schritt an
+
+00:26:53.101 --> 00:26:58.900
+<v hendrikballhausen>und versuchen, für diese Krankheitsbilder jetzt entsprechende Strukturen aufzubauen,
+
+00:26:58.901 --> 00:27:01.700
+<v hendrikballhausen>dass die Leute da Daten austauschen können.
+
+00:27:01.701 --> 00:27:07.100
+<v hendrikballhausen>Ganz konkret sieht das so aus, dass an jedem Standort ein Datenintegrationszentrum geschaffen wird
+
+00:27:07.101 --> 00:27:11.700
+<v hendrikballhausen>und diese Datenintegrationszentren dann gemeinsame Standards verwenden,
+
+00:27:11.701 --> 00:27:15.100
+<v hendrikballhausen>um Daten eben gemeinsam verarbeiten zu können.
+
+00:27:15.101 --> 00:27:22.800
+<v hendrikballhausen>Das ist immer noch der Ansatz, dass Daten ausgetauscht werden und genau was du eingangs gesagt hast,
+
+00:27:22.801 --> 00:27:27.800
+<v hendrikballhausen>da ist eben nach wie vor die Befürchtung, Daten, die ich einmal herausgegeben habe,
+
+00:27:27.801 --> 00:27:30.400
+<v hendrikballhausen>die bekomme ich halt nicht zurück.
+
+00:27:30.401 --> 00:27:36.200
+<v hendrikballhausen>Ich weiß nicht, was mit denen gemacht wird, vielleicht gibt es in dem Konsortium einen starken Partner
+
+00:27:36.201 --> 00:27:45.400
+<v hendrikballhausen>und viele kleine Partner, dann ist auch immer die Frage, ist es ein gleichberechtigtes Zusammenarbeiten
+
+00:27:45.401 --> 00:27:49.400
+<v hendrikballhausen>oder ist da eine Asymmetrie drin?
+
+00:27:49.401 --> 00:27:54.500
+<v hendrikballhausen>Das sind so Fragen, die sich stellen, die aber in der Praxis eigentlich auch ganz gut funktionieren.
+
+00:27:54.501 --> 00:27:57.500
+<v timpritlove>Ja, aber wie überkommen die denn das Datenschutzproblem an der Stelle?
+
+00:27:57.501 --> 00:27:59.400
+<v hendrikballhausen>Über juristische Lösungen.
+
+00:27:59.401 --> 00:28:03.300
+<v hendrikballhausen>Das heißt, da werden dann tatsächlich Rahmenverträge geschlossen
+
+00:28:03.301 --> 00:28:09.000
+<v hendrikballhausen>und da müssen die Patienten dann eben entsprechend der Verarbeitung der Daten zustimmen.
+
+00:28:09.001 --> 00:28:12.300
+<v hendrikballhausen>Das Wunschziel ist immer der sogenannte Broad Consent(?), das heißt,
+
+00:28:12.301 --> 00:28:17.300
+<v hendrikballhausen>dass der Patient, die Patientin nicht nur zustimmt, dass ihre Daten jetzt für einen bestimmten Zweck verwendet werden,
+
+00:28:17.301 --> 00:28:22.900
+<v hendrikballhausen>sondern auch beispielsweise in Form einer Datenspende sagen, ich bin einverstanden,
+
+00:28:22.901 --> 00:28:27.500
+<v hendrikballhausen>dass meine Daten auch für zukünftige andere Forschungsfragen, die euch vielleicht in ein, zwei, fünf Jahren einfallen,
+
+00:28:27.501 --> 00:28:29.400
+<v hendrikballhausen>auch verwendet werden dürfen.
+
+00:28:29.401 --> 00:28:35.900
+<v timpritlove>Ähnliches hatten wir ja auch in der Corona-Krise, das RKI hat ja auch diese Datenspende-App rausgebracht,
+
+00:28:35.901 --> 00:28:39.500
+<v timpritlove>noch bevor das mit der Corona-Warn-App richtig losging.
+
+00:28:39.501 --> 00:28:42.500
+<v timpritlove>Ich weiß gar nicht, wie erfolgreich das eigentlich war, wissen wir nicht.
+
+00:28:42.501 --> 00:28:47.500
+<v timpritlove>Aber du meinst, das skaliert nicht, das stößt an seine Grenzen oder?
+
+00:28:47.501 --> 00:28:50.000
+<v hendrikballhausen>Das skaliert sehr gut.
+
+00:28:50.001 --> 00:28:53.400
+<v hendrikballhausen>Also wenn man die Daten in einen Topf werfen kann, dann ist das immer das einfachste
+
+00:28:53.401 --> 00:28:55.900
+<v hendrikballhausen>und das, was am allerbesten skaliert.
+
+00:28:55.901 --> 00:28:59.200
+<v hendrikballhausen>Auch vor allen Dinge, was natürlich, wenn man jetzt wieder die Informatik betrachtet,
+
+00:28:59.201 --> 00:29:03.400
+<v hendrikballhausen>die Algorithmen funktionieren am allerbesten, wenn die auf Daten lokal,
+
+00:29:03.401 --> 00:29:06.400
+<v hendrikballhausen>also auf einem großen Datensilo, das an einem Ort ist, läuft.
+
+00:29:06.401 --> 00:29:09.800
+<v timpritlove>Okay, das ist die Skalierung aus der technischen Perspektive, aber ich meinte eher,
+
+00:29:09.801 --> 00:29:15.400
+<v timpritlove>skaliert es sozusagen insofern, als dass man sehr viel mehr solche Ansätze machen kann?
+
+00:29:15.401 --> 00:29:20.900
+<v timpritlove>Also lässt sich das im Prinzip auf den gesamten medizinischen Bereich erweitern?
+
+00:29:20.901 --> 00:29:22.700
+<v timpritlove>Dann würde ich ja sagen, sind wir schon fast fertig hier mit dem Podcast.
+
+00:29:22.701 --> 00:29:25.400
+<v timpritlove>Dann lösen wir das einfach juristisch und das war es.
+
+00:29:25.401 --> 00:29:31.500
+<v hendrikballhausen>/lacht/ Naja, manche Länder, UK, Dänemark, glaube ich, die gehen ja durchaus diese Richtung,
+
+00:29:31.501 --> 00:29:40.200
+<v hendrikballhausen>dass die wirklich große nationale Datenbanken haben, die haben natürlich wieder andere Nachteile.
+
+00:29:40.201 --> 00:29:45.800
+<v hendrikballhausen>Es gibt, je größer die Datenbank ist, desto größer ist natürlich auch die Zielscheibe, die man drauf malt,
+
+00:29:45.801 --> 00:29:51.900
+<v hendrikballhausen>für beispielsweise irgendwelche Hackerangriffe, das ist natürlich immer alles im Vorwege total abgesichert,
+
+00:29:51.901 --> 00:29:55.600
+<v hendrikballhausen>aber wie man auch an der Gesundheitskarte und anderen Systemen sieht,
+
+00:29:55.601 --> 00:30:01.600
+<v hendrikballhausen>je größer so ein System wird, desto mehr Akteure gibt es, die in irgendeiner Form involviert sind,
+
+00:30:01.601 --> 00:30:06.000
+<v hendrikballhausen>desto mehr Schnittstellen gibt es und desto größer wird letztlich auch die Angriffsfläche.
+
+00:30:06.001 --> 00:30:15.400
+<v hendrikballhausen>Und insofern würde ich sagen, jain, vielleicht skaliert das in der Medizin sogar,
+
+00:30:15.401 --> 00:30:23.100
+<v hendrikballhausen>die Frage ist, gibt es andere Ansätze, die vielleicht in den moderneren demokratischeren auch Prozess hinweisen.
+
+00:30:23.101 --> 00:30:25.600
+<v hendrikballhausen>Du hast die Apps erwähnt, ja das wäre vielleicht auch noch mal meine Antwort auf,
+
+00:30:25.601 --> 00:30:28.800
+<v hendrikballhausen>wem gehören die Patienten?
+
+00:30:28.801 --> 00:30:33.800
+<v hendrikballhausen>Heutzutage, wenn die Daten am Universitätsklinikum entstehen und wir wollen ja zum Beispiel auch zunehmend an die Daten,
+
+00:30:33.801 --> 00:30:38.800
+<v hendrikballhausen>die beispielsweise bei den Niedergelassenen entstehen, das ist ja auch ein riesiger Datenschatz,
+
+00:30:38.801 --> 00:30:41.700
+<v hendrikballhausen>der noch in keiner Weise irgendwie gehoben ist.
+
+00:30:41.701 --> 00:30:48.300
+<v hendrikballhausen>Und weil mal ehrlich gesagt, die Universitätskliniker sehen ja oft auch die Sonderfälle.
+
+00:30:48.301 --> 00:30:55.900
+<v hendrikballhausen>Aber der Niedergelassene der sieht eigentlich das, was die Bevölkerung wirklich auch viel betrifft.
+
+00:30:55.901 --> 00:31:00.700
+<v hendrikballhausen>Und du hast die Apps erwähnt, ja, und in Zukunft tragen die Leute halt die Apps bei sich
+
+00:31:00.701 --> 00:31:06.100
+<v hendrikballhausen>und dann werden wir als Universitätsmedizin eines Tages wirklich die Leute bitten müssen,
+
+00:31:06.101 --> 00:31:09.200
+<v hendrikballhausen>darf ich die Daten aus deiner App haben?
+
+00:31:09.201 --> 00:31:13.600
+<v hendrikballhausen>Es ist noch nicht mal so, dass wir fragen müssen, dürfen wir die Daten, die wir von dir haben, verwenden,
+
+00:31:13.601 --> 00:31:17.200
+<v hendrikballhausen>sondern, wirst du uns wirklich deine Daten geben?
+
+00:31:17.201 --> 00:31:20.700
+<v hendrikballhausen>Und da kann man sich natürlich überlegen, wenn man ohnehin diesen Schritt vor sich hat,
+
+00:31:20.701 --> 00:31:25.600
+<v hendrikballhausen>dass man auf dezentrale Daten zugreifen muss, können wir dann vielleicht heute schon lernen,
+
+00:31:25.601 --> 00:31:31.100
+<v hendrikballhausen>auch auf dezentralen Daten zu rechnen, dass wir die gar nicht mehr austauschen müssen?
+
+00:31:31.101 --> 00:31:37.800
+<v timpritlove>Gibt ja auch entsprechende Initiativen von den Smartphone-Herstellern,
+
+00:31:37.801 --> 00:31:42.600
+<v timpritlove>vor allem Apple ist ja in diesem Gesundheitsbereich ganz weit vorne.
+
+00:31:42.601 --> 00:31:47.000
+<v timpritlove>Auch so mit der Apple Watch, hatten wir auch schon in diesem vorhin erwähnten Podcast drüber gesprochen,
+
+00:31:47.001 --> 00:31:51.500
+<v timpritlove>dass da ja massig sehr vergleichbare Daten gesammelt werden quasi,
+
+00:31:51.501 --> 00:31:57.400
+<v timpritlove>das Telefon selber überwacht ja im wahrsten Sinne des Wortes den Körper.
+
+00:31:57.401 --> 00:32:06.100
+<v timpritlove>Es gibt immer mehr Sensoriken, von Blutdruck etc., alles mögliche.
+
+00:32:06.101 --> 00:32:08.800
+<v timpritlove>Es gibt ja auch noch andere Messgeräte, die mittlerweile mit den Telefonen gekoppelt werden,
+
+00:32:08.801 --> 00:32:11.100
+<v timpritlove>bei Leuten, die da einen speziellen Bedarf haben.
+
+00:32:11.101 --> 00:32:15.400
+<v timpritlove>Das ist natürlich auch ein riesiger Datenschatz, der eigentlich nur darauf wartet,
+
+00:32:15.401 --> 00:32:19.000
+<v timpritlove>in irgendeiner Form ausgewertet zu werden.
+
+00:32:19.001 --> 00:32:25.300
+<v timpritlove>Bisher läuft das ja dann eben nur über solche meist dann universitären Studien,
+
+00:32:25.301 --> 00:32:29.700
+<v timpritlove>wo Leute dann quasi über Apps sagen können, okay ich will jetzt an dieser Studie teilnehmen
+
+00:32:29.701 --> 00:32:37.200
+<v timpritlove>und spende da quasi meine Daten mit rein, die ja dann auch mehr oder weniger automatisiert eingesammelt werden können.
+
+00:32:37.201 --> 00:32:43.600
+<v hendrikballhausen>Ja, aber Apple, ist zumindest jetzt mein Verständnis, ist ja ein Paradebeispiel dafür,
+
+00:32:43.601 --> 00:32:48.400
+<v hendrikballhausen>dass eben genau so ein proprietärer Datenraum geschaffen wird.
+
+00:32:48.401 --> 00:32:55.000
+<v hendrikballhausen>Apple zentralisiert ja eigentlich alle Daten, die auf irgendeinem, egal ob es die Smartwatch ist
+
+00:32:55.001 --> 00:33:00.700
+<v hendrikballhausen>oder das iPhone oder der PowerMac oder was auch immer das ist,
+
+00:33:00.701 --> 00:33:08.400
+<v hendrikballhausen>Apple ist ja eigentlich dafür bekannt, dass es den Benutzern eine sehr komfortable einheitliche Sicht auf ihre Daten bietet,
+
+00:33:08.401 --> 00:33:11.200
+<v hendrikballhausen>was aber eben bedeutet, dass diese Daten eben alle zentral liegen.
+
+00:33:11.201 --> 00:33:13.400
+<v hendrikballhausen>Und auch die allermeisten Geschäftsmodelle…
+
+00:33:13.401 --> 00:33:15.000
+<v timpritlove>Also zentral auf den Geräten liegen.
+
+00:33:15.001 --> 00:33:16.500
+<v hendrikballhausen>Zentral bei Apple liegen.
+
+00:33:16.501 --> 00:33:20.100
+<v timpritlove>Gesundheitsdaten nicht, nein.
+
+00:33:20.101 --> 00:33:21.200
+<v hendrikballhausen>Okay, gut, das weiß ich jetzt nicht.
+
+00:33:21.201 --> 00:33:21.800
+<v timpritlove>Nein, nein.
+
+00:33:21.801 --> 00:33:26.400
+<v timpritlove>Das ist halt das Modell, also die Daten verlassen eigentlich das Telefon nicht
+
+00:33:26.401 --> 00:33:34.900
+<v timpritlove>und man kann dann halt mit dem Apps an Studien teilnehmen und dann dafür sozusagen explizit die Datenspende quasi freigeben,
+
+00:33:34.901 --> 00:33:39.000
+<v timpritlove>aber ansonsten verlassen die halt das Telefon nicht.
+
+00:33:39.001 --> 00:33:44.700
+<v timpritlove>Es ist nur so, dass die Daten quasi auf den Geräten zentral gesammelt werden,
+
+00:33:44.701 --> 00:33:48.000
+<v timpritlove>also Apps, die irgendwas zu sammeln haben oder etwas anfragen möchten,
+
+00:33:48.001 --> 00:33:53.300
+<v timpritlove>wenden sich quasi über einen definierten Zugang an das Gerät und sagen,
+
+00:33:53.301 --> 00:33:58.900
+<v timpritlove>ich würde gern das auslesen dürfen bzw. ich würde gerne diese Information schreiben dürfen,
+
+00:33:58.901 --> 00:34:04.700
+<v timpritlove>weil ich die über irgendein, was weiß ich, Bluetooth gekoppeltes Sensorgerät, einsammle
+
+00:34:04.701 --> 00:34:11.600
+<v timpritlove>und dann liegen die da halt erst mal rum, aber warten ja im Prinzip darauf, auch mal sinnvoll ausgewertet zu werden.
+
+00:34:11.601 --> 00:34:17.100
+<v hendrikballhausen>Okay. Wenn du deine Smartwatch verlieren würdest und du würdest dir eine neue kaufen,
+
+00:34:17.101 --> 00:34:22.100
+<v hendrikballhausen>dann wären da keine Daten mehr drauf.
+
+00:34:22.101 --> 00:34:25.000
+<v timpritlove>Die Daten sind in meinem eigenen Backup natürlich erhalten.
+
+00:34:25.001 --> 00:34:28.400
+<v hendrikballhausen>Das meine ich, die Daten liegen bei Apple.
+
+00:34:28.401 --> 00:34:31.900
+<v timpritlove>Ach so, in dem Moment, wo man sein Backup bei Apple macht, liegen die Daten dort.
+
+00:34:31.901 --> 00:34:32.500
+<v hendrikballhausen>Ja.
+
+00:34:32.501 --> 00:34:34.400
+<v timpritlove>Das ist richtig.
+
+00:34:34.401 --> 00:34:38.400
+<v timpritlove>Aber es gibt nicht in dem eigentlichen Sinne eine zentrale Gesundheitsdatenbank,
+
+00:34:38.401 --> 00:34:41.400
+<v timpritlove>in der man sagen kann, gib mir mal die Daten von.
+
+00:34:41.401 --> 00:34:47.300
+<v hendrikballhausen>Das Geschäftsmodell der allermeisten Apps ist ja genau das,
+
+00:34:47.301 --> 00:34:54.600
+<v hendrikballhausen>die App ist oft kostenlos, ja, und das Unternehmen selber verdient dann daran,
+
+00:34:54.601 --> 00:35:01.500
+<v hendrikballhausen>dass die Daten als solche weitergegeben, verkauft, genutzt werden.
+
+00:35:01.501 --> 00:35:06.500
+<v hendrikballhausen>Ist ja heutzutage auch deswegen besonders spannend, weil gerade im Bereich des maschinellen Lernens
+
+00:35:06.501 --> 00:35:11.600
+<v hendrikballhausen>man natürlich sehr viel Daten auch über Benutzerinnen und Benutzer verknüpfen möchte
+
+00:35:11.601 --> 00:35:15.500
+<v hendrikballhausen>und vor allen Dingen überhaupt eigentlich auch vernünftig erst Modelle trainieren kann,
+
+00:35:15.501 --> 00:35:19.300
+<v hendrikballhausen>wenn man Millionen von Nutzern hat.
+
+00:35:19.301 --> 00:35:21.800
+<v hendrikballhausen>Und das beobachten wir in ganz vielen Bereichen.
+
+00:35:21.801 --> 00:35:27.500
+<v hendrikballhausen>Dass jetzt die klinische Studie am Ende auf einer Smartwatch ausgeführt wird,
+
+00:35:27.501 --> 00:35:33.700
+<v hendrikballhausen>das ist eigentlich, möchte ich mal behaupten, noch der absolute Ausnahmefall,
+
+00:35:33.701 --> 00:35:40.800
+<v hendrikballhausen>das gibt natürlich jetzt erste Ärztinnen und Ärzte, die das spannend finden
+
+00:35:40.801 --> 00:35:47.100
+<v hendrikballhausen>oder auch beispielsweise im Bereich der Sportmedizin da Bewegungsbilder auswerten.
+
+00:35:47.101 --> 00:35:55.800
+<v hendrikballhausen>Die typische klinische Studie, sagt ja auch der Name, klinisch, findet in der Klinik, am Klinikum statt,
+
+00:35:55.801 --> 00:36:00.200
+<v hendrikballhausen>ist meistens doch so, dass sie unter sehr kontrollierten Bedingungen stattfindet,
+
+00:36:00.201 --> 00:36:05.200
+<v hendrikballhausen>aber natürlich zunehmend interessieren wir uns auch dafür, Leuten Wearables mit nach Hause zu geben,
+
+00:36:05.201 --> 00:36:13.300
+<v hendrikballhausen>um die dann beispielsweise nachzuverfolgen oder eben, das kann dann auch einfach Arbeitserleichterung sein,
+
+00:36:13.301 --> 00:36:17.500
+<v hendrikballhausen>dass die Daten nicht ständig jetzt von Study Nurses erhoben werden müssen,
+
+00:36:17.501 --> 00:36:21.400
+<v hendrikballhausen>sondern dass die mehr oder weniger automatisiert abgerufen werden können.
+
+00:36:21.401 --> 00:36:24.300
+<v timpritlove>Blutdruck verfolgen etc.
+
+00:36:24.301 --> 00:36:25.300
+<v hendrikballhausen>Zum Beispiel, ja genau.
+
+00:36:25.301 --> 00:36:29.800
+<v timpritlove>Genau. So und jetzt muss man sich natürlich darüber Gedanken machen,
+
+00:36:29.801 --> 00:36:34.000
+<v timpritlove>wie kann man diese Ziele erreichen, die du vorhin genannt hast.
+
+00:36:34.001 --> 00:36:39.000
+<v timpritlove>Also wie kann man denn nun Daten zusammenführen, von denen eben nicht von vornherein gesagt wurde,
+
+00:36:39.001 --> 00:36:44.400
+<v timpritlove>ja die könnt ihr für alles mögliche verwenden, mir doch egal, macht doch was ihr wollt.
+
+00:36:44.401 --> 00:36:46.500
+<v timpritlove>Weil das ist ja nicht die Regel, sondern die Regel ist ja immer erst mal,
+
+00:36:46.501 --> 00:36:52.200
+<v timpritlove>da, wo keine explizite Einwilligung vorliegt, ist es halt alles erst mal wieder im Bunker.
+
+00:36:52.201 --> 00:36:58.900
+<v timpritlove>Und wenn ich das richtig verstehe, habt ihr jetzt ein Projekt gestartet mit dem schönen Namen,
+
+00:36:58.901 --> 00:37:06.600
+<v timpritlove>Federated Secure Computing, das halt informatische Methoden aufruft und sagt,
+
+00:37:06.601 --> 00:37:16.000
+<v timpritlove>hör mal, alles gar kein Problem, wir können diese Daten, ohne sie wirklich irgendjemandem zu öffnen,
+
+00:37:16.001 --> 00:37:25.400
+<v timpritlove>auch beliebigen Verarbeitungsschritten zuführen, ohne dass irgendjemandem was verraten wird.
+
+00:37:25.401 --> 00:37:29.000
+<v timpritlove>Ist das so erst mal von der Prämisse her richtig dargestellt?
+
+00:37:29.001 --> 00:37:32.800
+<v hendrikballhausen>Ja, gar kein Problem wäre schön, dann bräuchte es unser Projekt nicht,
+
+00:37:32.801 --> 00:37:35.800
+<v hendrikballhausen>aber im Prinzip ist es genau das.
+
+00:37:35.801 --> 00:37:40.900
+<v hendrikballhausen>Also wir wollen diesen alten Konflikt auflösen zwischen Kollaboration auf der einen Seite,
+
+00:37:40.901 --> 00:37:44.500
+<v hendrikballhausen>Daten gemeinsam zu nutzen und Datenschutz auf der anderen Seite.
+
+00:37:44.501 --> 00:37:48.100
+<v hendrikballhausen>Wir wollen eben erreichen, dass die Leute auf verteilten Daten so rechnen können,
+
+00:37:48.101 --> 00:37:52.300
+<v hendrikballhausen>als wären sie an einem Ort zusammen.
+
+00:37:52.301 --> 00:37:55.200
+<v hendrikballhausen>Dass beispielsweise auch so Dinge möglich werden wie Dynamic Consent.
+
+00:37:55.201 --> 00:37:59.500
+<v hendrikballhausen>Dass ich also auch im Nachhinein noch bestimmen kann, was mit meinen Daten geschieht,
+
+00:37:59.501 --> 00:38:02.400
+<v hendrikballhausen>eben weil ich sie nicht einmal herausgegeben habe,
+
+00:38:02.401 --> 00:38:06.400
+<v hendrikballhausen>sondern indem ich eigentlich bei jeder neuen Berechnung aktiv werden muss.
+
+00:38:06.401 --> 00:38:12.000
+<v hendrikballhausen>Und das ist vielleicht auch noch mal so ein Punkt, wer ist eigentlich aktiv und wer ist passiv in dem System?
+
+00:38:12.001 --> 00:38:19.300
+<v hendrikballhausen>Und es würde zu wesentlich demokratischeren Datenströmen und Datenstrukturen führen,
+
+00:38:19.301 --> 00:38:25.200
+<v hendrikballhausen>wenn eben die Konsumentinnen und Konsumenten, wenn die Patientinnen und Patienten wirklich auch zu Akteuren würden.
+
+00:38:25.201 --> 00:38:28.900
+<v hendrikballhausen>Da gibt es ja schöne Ansätze, beispielsweise Citizen Science.
+
+00:38:28.901 --> 00:38:33.300
+<v hendrikballhausen>Das eine Beispiel ist die Datenspende, aber es gibt noch andere Beispiele für Citizen Science,
+
+00:38:33.301 --> 00:38:38.300
+<v hendrikballhausen>wo Leute eben beispielsweise die Rechenleistung ihres Computers zur Verfügung stellen.
+
+00:38:38.301 --> 00:38:39.600
+<v hendrikballhausen>Und das passiert eben jedesmal wieder neu.
+
+00:38:39.601 --> 00:38:43.200
+<v hendrikballhausen>Die Leute werden jedesmal wieder aktiv und überlegen sich ja auch,
+
+00:38:43.201 --> 00:38:47.500
+<v hendrikballhausen>wo möchte ich mich engagieren, für was, wo sehe ich jetzt meine Daten gut verwendet?
+
+00:38:47.501 --> 00:38:52.000
+<v hendrikballhausen>Wo sehe ich auch mein eigenes Interesse, da mitmachen zu wollen?
+
+00:38:52.001 --> 00:38:58.200
+<v timpritlove>Also Citizen Science im Sinne von, ich würde es mal jetzt ein bisschen mit der Astronomie vergleichen,
+
+00:38:58.201 --> 00:39:05.100
+<v timpritlove>man hat diese ganzen Sternenkataloge, es gibt einfach von vielen Projekten, auch neueren Missionen,
+
+00:39:05.101 --> 00:39:09.800
+<v timpritlove>die ja auch umgeschwenkt haben zu diesem vollständig geschlossenen,
+
+00:39:09.801 --> 00:39:17.100
+<v timpritlove>das ist nur für unsere Hohepriester und Superwissenschaftler, dass die Daten halt quasi mehr oder weniger der Öffentlichkeit zur Verfügung stehen,
+
+00:39:17.101 --> 00:39:21.100
+<v timpritlove>weil es ohnehin so viele Daten sind, dass niemand auf alles drauf schauen kann
+
+00:39:21.101 --> 00:39:27.200
+<v timpritlove>und man es im Prinzip beliebigen Leuten ermöglicht, da einfach ganz eigene Analysen vorzunehmen
+
+00:39:27.201 --> 00:39:32.400
+<v timpritlove>und so verstehe ich das jetzt auch, ist es so ein bisschen diese Vision, was wäre wenn,
+
+00:39:32.401 --> 00:39:40.300
+<v timpritlove>wenn all diese Daten qualifiziert herumliegen, aber naja, wie wird dann der Datenschutz dabei nicht
+
+00:39:40.301 --> 00:39:44.500
+<v timpritlove>und die Privatsphäre dabei nicht verletzt?
+
+00:39:44.501 --> 00:39:46.900
+<v hendrikballhausen>Und da gibt es eben eigentlich Verfahren, die auch…
+
+00:39:46.901 --> 00:39:53.500
+<v hendrikballhausen>also ich bin froh, dass dieser Podcast Forschergeist heißt und nicht Erfindergeist.
+
+00:39:53.501 --> 00:39:57.900
+<v hendrikballhausen>Wir sind wirklich nicht Erfinder von diesen Verfahren, diese Verfahren gibt es eigentlich schon richtig lange.
+
+00:39:57.901 --> 00:40:03.700
+<v hendrikballhausen>Die gibt es so seit den 70er/80er Jahren und es ist ganz spannend, sich zu überlegen,
+
+00:40:03.701 --> 00:40:09.200
+<v hendrikballhausen>warum die eigentlich auch nicht so wirklich bisher gezündet haben.
+
+00:40:09.201 --> 00:40:12.200
+<v hendrikballhausen>Und das ist eigentlich so der Ansatz unseres Projektes, zu sagen,
+
+00:40:12.201 --> 00:40:19.500
+<v hendrikballhausen>wir wollen diesen Verfahren auch mal helfen, auch in dem schwierigen Feld der Medizin Fuß zu fassen,
+
+00:40:19.501 --> 00:40:24.400
+<v hendrikballhausen>und dort erste Showcases zu bauen, dass die wirklich auch gut funktionieren können.
+
+00:40:24.401 --> 00:40:31.700
+<v timpritlove>Es gibt ja auch gerade bei den schon angesprochenen Smartphones gibt es ja im Prinzip schon ähnliche Beispiele,
+
+00:40:31.701 --> 00:40:35.600
+<v timpritlove>die jetzt erst mal mit Medizin aber nichts zu tun haben.
+
+00:40:35.601 --> 00:40:42.400
+<v timpritlove>Verkehrsvorhersagen, man wundert sich immer, woher wissen die, dass da jetzt ein Stau ist in meiner Straße,
+
+00:40:42.401 --> 00:40:48.700
+<v timpritlove>ja, das wissen die, weil sie halt quasi alle Telefone die ganze Zeit überwachen,
+
+00:40:48.701 --> 00:40:53.300
+<v timpritlove>wie schnell sie sich denn jetzt bewegen und daran halt klare Patterns ableiten können,
+
+00:40:53.301 --> 00:40:59.400
+<v timpritlove>ah du bist hier irgendwie zu Fuß unterwegs, wahrscheinlich eher Fahrrad oder du stehst halt hier gerade mit deinem Auto im Stau,
+
+00:40:59.401 --> 00:41:04.000
+<v timpritlove>weil mal bewegst du dich mit 60km/h und dann stehst du halt wieder zwei Minuten rum.
+
+00:41:04.001 --> 00:41:10.300
+<v timpritlove>Und dann denkt man sich so, oh ja ist ja aber eigentlich genau auch super, Privatsphäre, du weißt wo ich bin etc..
+
+00:41:10.301 --> 00:41:15.900
+<v timpritlove>Und auch dort gab es ja schon verschiedene Verschleierungsansätze, ich glaube,
+
+00:41:15.901 --> 00:41:18.700
+<v timpritlove>so ein Modell, was sich differential privacy nennt, steht da ganz weit vorne.
+
+00:41:18.701 --> 00:41:20.000
+<v hendrikballhausen>Richtig.
+
+00:41:20.001 --> 00:41:28.200
+<v timpritlove>Dass man im Prinzip sagt, naja okay, alle schicken das jetzt irgendwie einerseits halt anonymisiert so,
+
+00:41:28.201 --> 00:41:34.900
+<v timpritlove>andererseits aber auch so, dass ein vorhersagbarer Teil der Daten quasi falsch ist,
+
+00:41:34.901 --> 00:41:37.500
+<v timpritlove>also man weiß, zehn Prozent der Antworten stimmen einfach nicht
+
+00:41:37.501 --> 00:41:42.600
+<v timpritlove>und das kann man dann im Nachhinein wieder rausrechnen und kommt dann trotzdem auf das richtige Ergebnis.
+
+00:41:42.601 --> 00:41:46.700
+<v hendrikballhausen>Ja, absolut richtig, du hast da jetzt genau eines dieser Verfahren genannt
+
+00:41:46.701 --> 00:41:55.200
+<v hendrikballhausen>oder sozusagen eine Klasse von Verfahren, differential privacy, auch in der Medizin viel verwendet.
+
+00:41:55.201 --> 00:41:59.800
+<v hendrikballhausen>Du hast es richtig gesagt, man verrauscht die Daten bzw. man erlaubt,
+
+00:41:59.801 --> 00:42:03.800
+<v hendrikballhausen>wenn man jetzt eine entsprechende Datenbank gebaut hat,
+
+00:42:03.801 --> 00:42:07.100
+<v hendrikballhausen>dann erlaubt man den Wissenschaftlern eben nur bestimmte Abfragen
+
+00:42:07.101 --> 00:42:10.900
+<v hendrikballhausen>und nicht beliebige Abfragen, ist aber auch wieder übrigens ein ganz interessantes
+
+00:42:10.901 --> 00:42:17.300
+<v hendrikballhausen>informationstheoretisches Entscheidungsproblem, welche Anfragen man zulassen darf.
+
+00:42:17.301 --> 00:42:18.600
+<v hendrikballhausen>Und ist gar nicht so leicht entscheidbar.
+
+00:42:18.601 --> 00:42:26.000
+<v timpritlove>Ja und vor allem bei den Beispielen, die du vorhin genannt hast, mit der vertikalen Partitionierung.
+
+00:42:26.001 --> 00:42:28.200
+<v hendrikballhausen>Da funktioniert das nicht.
+
+00:42:28.201 --> 00:42:33.100
+<v timpritlove>Genau, weil dann will man ja genau, da muss man ja exakt genau zuordnen
+
+00:42:33.101 --> 00:42:41.100
+<v timpritlove>und da darf man in dem Sinne ja auch keine falschen Daten haben, weil dann ist im Prinzip der ganze Witz schon wieder vorbei.
+
+00:42:41.101 --> 00:42:46.400
+<v timpritlove>Von daher taugt das eben für bestimmte Dinge vielleicht unter Umständen, aber auf gar keinen Fall für alle.
+
+00:42:46.401 --> 00:42:51.100
+<v hendrikballhausen>Ja, also es gibt auch da in der deutschen Medizininformatik initiative Leute,
+
+00:42:51.101 --> 00:42:57.700
+<v hendrikballhausen>nicht uns, die haben ganz Interessante Ansätze, wo sie eben auch verrauschte Identifier zuordnen können,
+
+00:42:57.701 --> 00:43:00.000
+<v hendrikballhausen>also auch wenn jetzt Namen ähnlich sind und auch da kann man einiges verschleiern
+
+00:43:00.001 --> 00:43:02.800
+<v hendrikballhausen>und trotzdem noch was lernen.
+
+00:43:02.801 --> 00:43:07.700
+<v hendrikballhausen>Aber das ist in der Tat natürlich schwierig und die spannende Frage ist natürlich auch,
+
+00:43:07.701 --> 00:43:10.600
+<v hendrikballhausen>was ist dann sozusagen die Sekundärnutzung dieser Daten.
+
+00:43:10.601 --> 00:43:14.300
+<v hendrikballhausen>Solange das Ganze für die Stauvorhersage verwendet wird, ist es ja fein.
+
+00:43:14.301 --> 00:43:16.800
+<v hendrikballhausen>Sobald ich dann, wenn ich das nächste Mal eine Autoversicherung abschließen möchte,
+
+00:43:16.801 --> 00:43:23.200
+<v hendrikballhausen>plötzlich gesagt bekomme, Ihr Tarif ist doppelt so hoch, weil Sie an der Kreuzung immer abbiegen,
+
+00:43:23.201 --> 00:43:27.100
+<v hendrikballhausen>ohne auf sozusagen die Ampel zu warten.
+
+00:43:27.101 --> 00:43:33.000
+<v hendrikballhausen>Obwohl das ist vielleicht sogar noch ein Beispiel, das gesellschaftlichen Nutzen bringen würde.
+
+00:43:33.001 --> 00:43:39.200
+<v timpritlove>Ist alles so bisschen Dual Use.
+
+00:43:39.201 --> 00:43:43.000
+<v timpritlove>Aber was sind denn jetzt, also wenn ich das jetzt richtig verstehe, ist ja euer Ansatz eher der,
+
+00:43:43.001 --> 00:43:50.700
+<v timpritlove>wir möchten gerne, dass man mit den richtigen Daten arbeitet, aber die darf keiner sehen.
+
+00:43:50.701 --> 00:43:52.600
+<v hendrikballhausen>Richtig, ja.
+
+00:43:52.601 --> 00:43:55.800
+<v hendrikballhausen>Also ein anderes Verfahren, was da oft als der Goldstandard auch bezeichnet wird,
+
+00:43:55.801 --> 00:43:57.900
+<v hendrikballhausen>das ist Secure Multiparty Computation.
+
+00:43:57.901 --> 00:44:02.500
+<v hendrikballhausen>Also sicheres Rechnen von verschiedenen Parteien.
+
+00:44:02.501 --> 00:44:08.600
+<v hendrikballhausen>Und wir haben in 2019 einen Pilotversuch gemacht,
+
+00:44:08.601 --> 00:44:13.000
+<v hendrikballhausen>wo wir Patientendaten der LMU und der Charité in Berlin, also auch über Landesgrenzen hinweg,
+
+00:44:13.001 --> 00:44:17.700
+<v hendrikballhausen>das waren Glioblastomdaten(?), also Daten von Krebspatientinnen und Krebspatienten,
+
+00:44:17.701 --> 00:44:21.000
+<v hendrikballhausen>miteinander verrechnet haben, ohne die auszutauschen.
+
+00:44:21.001 --> 00:44:23.800
+<v hendrikballhausen>Und das hat eigentlich super funktioniert.
+
+00:44:23.801 --> 00:44:30.600
+<v hendrikballhausen>Das Problem dabei war, es waren damit vier Monate lang die Leute beschäftigt.
+
+00:44:30.601 --> 00:44:33.100
+<v hendrikballhausen>Also wir hatten einen Expertenprogrammierer von der TU, der das für uns programmiert hat,
+
+00:44:33.101 --> 00:44:37.300
+<v hendrikballhausen>der ist inzwischen auch beim Bundesamt für Sicherheit in der Informationstechnik,
+
+00:44:37.301 --> 00:44:41.000
+<v hendrikballhausen>weil solche Leute sind immer sofort weg, die so was können.
+
+00:44:41.001 --> 00:44:44.700
+<v hendrikballhausen>Wir hatten jeweils einen Systemadministrator an der Charité und an der LMU,
+
+00:44:44.701 --> 00:44:51.000
+<v hendrikballhausen>wir hatten zwei große schwere Server und am Ende lief das und es lief mühsam
+
+00:44:51.001 --> 00:44:53.200
+<v hendrikballhausen>und wenn man jetzt eine andere Analyse hätte machen wollen,
+
+00:44:53.201 --> 00:44:57.100
+<v hendrikballhausen>dann hätte man eigentlich sozusagen wieder bei null anfangen müssen.
+
+00:44:57.101 --> 00:45:00.600
+<v hendrikballhausen>Und in dem Moment ist uns dann auch klargeworden, das ist nicht so einfach,
+
+00:45:00.601 --> 00:45:04.100
+<v hendrikballhausen>so problemlos, vor allen Dingen sind wir dann losgezogen und haben versucht,
+
+00:45:04.101 --> 00:45:08.000
+<v hendrikballhausen>Leuten das zu verkaufen, also jetzt nicht als Produkt zu verkaufen,
+
+00:45:08.001 --> 00:45:12.300
+<v hendrikballhausen>sondern Manager auch in anderen Unternehmen von dieser Idee zu überzeugen.
+
+00:45:12.301 --> 00:45:16.200
+<v hendrikballhausen>Weil in der Industrie hat man das viel häufiger, dass man sich Daten gar nicht zeigen kann,
+
+00:45:16.201 --> 00:45:20.000
+<v hendrikballhausen>weil es Geschäftsgeheimnisse sind, also selbst wenn man wollte.
+
+00:45:20.001 --> 00:45:23.400
+<v hendrikballhausen>Und wir haben eigentlich immer dieselbe Antwort bekommen.
+
+00:45:23.401 --> 00:45:26.400
+<v hendrikballhausen>Der Chef der fand das eigentlich immer super, der hat das gesehen,
+
+00:45:26.401 --> 00:45:31.100
+<v hendrikballhausen>der hat das grundsätzliche Problem gesehen, Datenschutz versus Kollaboration.
+
+00:45:31.101 --> 00:45:34.200
+<v hendrikballhausen>Der Chief Technology Officer, der fand das eigentlich auch immer super,
+
+00:45:34.201 --> 00:45:39.000
+<v hendrikballhausen>der hat gesagt, hier ist unser Alleinstellungsmerkmal und neue Technologie und klasse
+
+00:45:39.001 --> 00:45:43.500
+<v hendrikballhausen>und wollen wir mal ausprobieren und dann kam der CIO der Chief Information Officer
+
+00:45:43.501 --> 00:45:47.600
+<v hendrikballhausen>und das waren immer die Jungs, die gesagt haben, um Gottes Willen bitte nicht.
+
+00:45:47.601 --> 00:45:51.300
+<v hendrikballhausen>Wir haben die Skills nicht, wir haben die Leute nicht, wir verstehen das nicht,
+
+00:45:51.301 --> 00:45:55.500
+<v hendrikballhausen>wir wollen das nicht, wir haben so was noch nie gemacht.
+
+00:45:55.501 --> 00:45:57.700
+<v hendrikballhausen>Und die hatten dann natürlich auch die Datenschützer im Schlepptau,
+
+00:45:57.701 --> 00:46:02.100
+<v hendrikballhausen>die auch gesagt haben, ja ist toll, aber wir verstehen das eigentlich nicht,
+
+00:46:02.101 --> 00:46:05.000
+<v hendrikballhausen>wir haben Angst, das zu unterschreiben.
+
+00:46:05.001 --> 00:46:08.200
+<v hendrikballhausen>Und so Datensammeln das verstehen wir, das können wir unterschreiben,
+
+00:46:08.201 --> 00:46:12.400
+<v hendrikballhausen>da verstehen wir das Risiko, da verstehen wir die Haftung.
+
+00:46:12.401 --> 00:46:16.200
+<v hendrikballhausen>Aber ihr bringt da so ein virtuelles Netzwerk, wo eigentlich völlig unklar ist am Ende,
+
+00:46:16.201 --> 00:46:21.200
+<v hendrikballhausen>wer hat eigentlich die Daten, wo sind denn die, wer verarbeitet denn da eigentlich was?
+
+00:46:21.201 --> 00:46:23.100
+<v hendrikballhausen>Das wollen wir nicht, das können wir nicht.
+
+00:46:23.101 --> 00:46:27.600
+<v timpritlove>Nachvollziehbare Einwände, möchte ich sagen.
+
+00:46:27.601 --> 00:46:31.500
+<v timpritlove>Weil ich meine, das Ganze hat ja jetzt hier auch mit Kryptographie zu tun,
+
+00:46:31.501 --> 00:46:33.400
+<v timpritlove>und Kryptographie ist komplex.
+
+00:46:33.401 --> 00:46:37.400
+<v timpritlove>Können wir vielleicht mal versuchen, so ein bisschen ein Gefühl dafür zu bekommen,
+
+00:46:37.401 --> 00:46:41.500
+<v timpritlove>was mit so einer Multiparty Computation, also Leute rechnen auf,
+
+00:46:41.501 --> 00:46:48.100
+<v timpritlove>also mehrere Leute rechnen auf denselben Daten an verschiedenen Stellen, ohne die Daten zu sehen.
+
+00:46:48.101 --> 00:46:53.800
+<v timpritlove>Also ich weiß nicht, wie ich zwei plus zwei zusammenaddieren soll, wenn zwei verschlüsselt ist.
+
+00:46:53.801 --> 00:46:58.200
+<v hendrikballhausen>Ja, da musst du mir jetzt sagen, ob ich das sozusagen hier mal in fünf Minuten darstellen darf.
+
+00:46:58.201 --> 00:46:59.100
+<v timpritlove>Gerne.
+
+00:46:59.101 --> 00:47:01.400
+<v hendrikballhausen>Aber dann wären wir schon im algorithmischen Bereich.
+
+00:47:01.401 --> 00:47:04.700
+<v hendrikballhausen>Also wenn du zwei plus zwei rechnen willst, ist es schwierig,
+
+00:47:04.701 --> 00:47:09.500
+<v hendrikballhausen>weil sobald, also nehmen wir mal an, die zwei kommt von dir und die andere zwei kommt von mir,
+
+00:47:09.501 --> 00:47:14.300
+<v hendrikballhausen>und wir beide rechnen gemeinsam aus, dass das vier ist, dann weißt du hinterher, was meine Zahl war.
+
+00:47:14.301 --> 00:47:15.100
+<v hendrikballhausen>Das funktioniert nicht.
+
+00:47:15.101 --> 00:47:18.700
+<v hendrikballhausen>Aber wenn wir jetzt hier noch jemanden drittes am Tisch sitzen hätten
+
+00:47:18.701 --> 00:47:26.000
+<v hendrikballhausen>und wir alle drei hätten eine Zahl im Kopf und wir wollen die Summe von diesen drei Zahlen wissen, das ginge.
+
+00:47:26.001 --> 00:47:29.100
+<v hendrikballhausen>Und das würde so funktionieren, dass ich einen Würfel werfe.
+
+00:47:29.101 --> 00:47:33.000
+<v hendrikballhausen>Ich würfle eine Zahl und diese Zahl die ziehe ich von meiner geheimen Zahl im Kopf ab
+
+00:47:33.001 --> 00:47:37.800
+<v hendrikballhausen>und ich sage dir aber, was ich gewürfelt habe, das darf die dritte Person nicht wissen
+
+00:47:37.801 --> 00:47:41.000
+<v hendrikballhausen>und du addierst das bei deiner Zahl in deinem Kopf hinzu.
+
+00:47:41.001 --> 00:47:44.700
+<v hendrikballhausen>Dann kannst du dir vorstellen, ich habe es abgezogen, du hast es dazuaddiert dieses Würfelergebnis,
+
+00:47:44.701 --> 00:47:48.500
+<v hendrikballhausen>da hat sich die Gesamtsumme im System nicht verändert,
+
+00:47:48.501 --> 00:47:53.300
+<v hendrikballhausen>aber dass ich dir eine gewürfelte Zahl genannt habe, hat dir auch keine Information verraten,
+
+00:47:53.301 --> 00:47:55.700
+<v hendrikballhausen>weil das war ja eine zufällige Zahl.
+
+00:47:55.701 --> 00:48:00.600
+<v hendrikballhausen>Und dasselbe machst du mit der dritten Person, du würfelst ihr also auch was zu
+
+00:48:00.601 --> 00:48:04.900
+<v hendrikballhausen>und ihr addiert und ihr subtrahiert und dann machen wir das noch ein drittes Mal im Kreis
+
+00:48:04.901 --> 00:48:09.000
+<v hendrikballhausen>und dann kannst du dir überlegen, wenn du das jetzt auf Papier als Formeln hinschreiben würdest,
+
+00:48:09.001 --> 00:48:13.600
+<v hendrikballhausen>dass wir hinterher alle eine neue Zahl im Kopf haben, die wir uns verraten können,
+
+00:48:13.601 --> 00:48:21.100
+<v hendrikballhausen>weil da ist jetzt genügend Zufall, genügend Unsicherheit drin, dass wir am Ende immer noch auf dieselbe Summe kommen,
+
+00:48:21.101 --> 00:48:29.200
+<v hendrikballhausen>also das richtige Ergebnis, aber keiner von uns weiß, welche Zahlen die anderen beiden im Kopf hatten.
+
+00:48:29.201 --> 00:48:32.300
+<v hendrikballhausen>Da müssten sich jetzt zwei von uns zusammentun gegen den dritten,
+
+00:48:32.301 --> 00:48:34.600
+<v hendrikballhausen>dann könnten wir es wieder ausrechnen.
+
+00:48:34.601 --> 00:48:38.100
+<v hendrikballhausen>Das nur mal so ein ganz einfaches Beispiel für eine Summenberechnung,
+
+00:48:38.101 --> 00:48:43.000
+<v hendrikballhausen>weil du das Beispiel gebracht hast, auf sichere Art und Weise.
+
+00:48:43.001 --> 00:48:45.500
+<v timpritlove>Aber hätten wir dann das exakte Ergebnis oder eine Approximation?
+
+00:48:45.501 --> 00:48:52.000
+<v hendrikballhausen>Nein, wir hätten das exakte Ergebnis, weil ich ja dieselbe Zahl abziehe, die du hinzuaddierst
+
+00:48:52.001 --> 00:48:53.600
+<v hendrikballhausen>und so geht das in jedem Schritt.
+
+00:48:53.601 --> 00:48:58.300
+<v timpritlove>Aber das exakte Ergebnis wird nur dadurch erreicht, indem man diesen ganzen Prozess mehrfach durchläuft?
+
+00:48:58.301 --> 00:49:04.700
+<v hendrikballhausen>Eine Runde würde reichen. Wir würfeln einmal in der Runde und anschließend hätten wir alle eine neue Zahl im Kopf,
+
+00:49:04.701 --> 00:49:10.600
+<v hendrikballhausen>die können wir uns hier offen auf den Tisch legen, aus der kann dann keiner mehr was lernen.
+
+00:49:10.601 --> 00:49:14.700
+<v hendrikballhausen>Das System wird natürlich umso sicherer, je mehr Parteien dabei sind,
+
+00:49:14.701 --> 00:49:18.600
+<v hendrikballhausen>weil dass sich zwei gegen einen verbünden, das ist noch denkbar,
+
+00:49:18.601 --> 00:49:25.200
+<v hendrikballhausen>aber wenn wir jetzt hundert Personen wären, dann müssten sich 99 Personen gegen den hundertsten, die hundertste verbünden,
+
+00:49:25.201 --> 00:49:28.800
+<v hendrikballhausen>um deren Zahl rauszufinden.
+
+00:49:28.801 --> 00:49:33.400
+<v timpritlove>Und ist das Bild mit dem Würfeln jetzt quasi nur eine Chiffre für Kryptographie?
+
+00:49:33.401 --> 00:49:34.300
+<v hendrikballhausen>Nein.
+
+00:49:34.301 --> 00:49:37.500
+<v timpritlove>Oder ist es eine tatsächliche Veränderung der Werte?
+
+00:49:37.501 --> 00:49:39.000
+<v hendrikballhausen>Eine tatsächliche Veränderung der Werte.
+
+00:49:39.001 --> 00:49:41.700
+<v hendrikballhausen>Und das ist nicht nur ein Bild, sondern das ist genau der Algorithmus.
+
+00:49:41.701 --> 00:49:47.900
+<v hendrikballhausen>Ich lasse den Computer eine Zufallszahl erzeugen und die ziehe ich bei mir ab
+
+00:49:47.901 --> 00:49:52.500
+<v hendrikballhausen>und die Zufallszahl verrate ich dir und du addierst sie bei dir hinauf und so geht es einmal im Kreis.
+
+00:49:52.501 --> 00:49:54.100
+<v hendrikballhausen>Genau das ist der Algorithmus.
+
+00:49:54.101 --> 00:50:00.100
+<v timpritlove>Das heißt, man stellt die Daten bereit in einem Bewusstsein, wie sie letztlich auch berechnet werden sollen,
+
+00:50:00.101 --> 00:50:04.500
+<v timpritlove>modifiziert sie entsprechend, dass sie als solche nicht mehr erkennbar ist,
+
+00:50:04.501 --> 00:50:07.500
+<v timpritlove>so dass es dann in der Summe wieder funktioniert?
+
+00:50:07.501 --> 00:50:09.900
+<v hendrikballhausen>Ja genau. Das heißt, das Protokoll gehört immer dazu.
+
+00:50:09.901 --> 00:50:15.100
+<v hendrikballhausen>Es geht jetzt gar nicht mehr so sehr um die Daten, sondern es geht vielmehr um das Protokoll.
+
+00:50:15.101 --> 00:50:18.600
+<v hendrikballhausen>Also der Berechnungsmodus, auf den wir uns geeinigt haben.
+
+00:50:18.601 --> 00:50:20.400
+<v hendrikballhausen>Und da geht die Welt sehr weit auf.
+
+00:50:20.401 --> 00:50:26.300
+<v hendrikballhausen>Also da gibt es Verfahren, die zum Beispiel dann auch, das wird dann natürlich noch mal eine Stufe komplexer,
+
+00:50:26.301 --> 00:50:28.100
+<v hendrikballhausen>es gibt Verfahren, die zum Beispiel auch herausfinden können,
+
+00:50:28.101 --> 00:50:34.200
+<v hendrikballhausen>ob einer von uns in dem Protokoll geschummelt hat oder ob wir uns alle an das Protokoll gehalten haben.
+
+00:50:34.201 --> 00:50:40.000
+<v hendrikballhausen>Also es ist total interessant, es ist hardcore Mathematik, es ist hardcore Kryptographie.
+
+00:50:40.001 --> 00:50:44.300
+<v hendrikballhausen>Ich bin kein Kryptograph, Gott sei Dank gibt es diese Verfahren ja schon,
+
+00:50:44.301 --> 00:50:49.100
+<v hendrikballhausen>wir mussten also gar nichts erfinden, aber wir haben eben den Ansatz,
+
+00:50:49.101 --> 00:50:55.700
+<v hendrikballhausen>zu versuchen, die so zu verpacken als Bibliotheken, als OpenSource,
+
+00:50:55.701 --> 00:50:57.400
+<v hendrikballhausen>dass sie eben einfacher einsetzbar werden.
+
+00:50:57.401 --> 00:51:02.500
+<v hendrikballhausen>Und die andere große Schiene, auf der wir aktiv sind, deswegen bin ich ja heute zum Beispiel auch hier,
+
+00:51:02.501 --> 00:51:06.500
+<v hendrikballhausen>ist Awareness, wir versuchen einfach auch Bewusstsein dafür zu schaffen,
+
+00:51:06.501 --> 00:51:11.600
+<v hendrikballhausen>dass man eben gemeinsam auf Daten rechnen kann, ohne die auszutauschen.
+
+00:51:11.601 --> 00:51:17.000
+<v timpritlove>Wie komplex kann diese Berechnung denn dann sein?
+
+00:51:17.001 --> 00:51:20.800
+<v timpritlove>Also geht das jetzt nur mit den vier Grundrechenarten oder?
+
+00:51:20.801 --> 00:51:26.100
+<v hendrikballhausen>Das ist, ja, wie soll man sagen, der Pyrrhussieg des Secure Multiparty Computation.
+
+00:51:26.101 --> 00:51:34.100
+<v hendrikballhausen>Es hat irgendwann mal jemand mathematisch bewiesen, dass man tatsächlich jede Funktion auf sichere Weise berechnen kann.
+
+00:51:34.101 --> 00:51:39.900
+<v hendrikballhausen>Das heißt, zumindest theoretisch könnten wir alles, was wir berechnen können,
+
+00:51:39.901 --> 00:51:45.700
+<v hendrikballhausen>indem wir die Daten zusammenschmeißen, auch berechnen, indem wir die Daten lokal lassen.
+
+00:51:45.701 --> 00:51:48.700
+<v hendrikballhausen>Du hast aber nach der Komplexität gefragt.
+
+00:51:48.701 --> 00:51:52.700
+<v hendrikballhausen>Und das wissen die Leute, die sich mal so ein bisschen mit Computern und Algorithmen beschäftigt haben,
+
+00:51:52.701 --> 00:51:56.000
+<v hendrikballhausen>spannend ist ja immer auch, wie lange laufen die Algorithmen?
+
+00:51:56.001 --> 00:52:00.200
+<v hendrikballhausen>Ist das jetzt auch in realistischer Zeit, ist das mit realistischem Speicher zu lösen?
+
+00:52:00.201 --> 00:52:06.400
+<v hendrikballhausen>Und da muss man sagen, da ist jetzt ein großes Problem, dass beispielsweise,
+
+00:52:06.401 --> 00:52:09.800
+<v hendrikballhausen>wenn wir uns Bitcoin anschauen, wenn wir uns die Blockchain anschauen,
+
+00:52:09.801 --> 00:52:14.300
+<v hendrikballhausen>das ist eigentlich so das Gegenbeispiel, bei Blockchain geht es eigentlich um Nichtverfälschbarkeit
+
+00:52:14.301 --> 00:52:18.200
+<v hendrikballhausen>und Nachvollziehbarkeit, ist aber auch ein dezentraler Ansatz.
+
+00:52:18.201 --> 00:52:24.700
+<v hendrikballhausen>Bei uns geht es eben darum, auch dezentral, aber eben nicht nachvollziehbar, nicht transparent.
+
+00:52:24.701 --> 00:52:27.900
+<v hendrikballhausen>Trotzdem sind die Algorithmen, die dahinterstehen, oft sehr ähnlich
+
+00:52:27.901 --> 00:52:34.200
+<v hendrikballhausen>und wie wir wissen von der Blockchain und von Bitcoin, solange das so ein Proof of work Sceem(?) ist,
+
+00:52:34.201 --> 00:52:37.300
+<v hendrikballhausen>dann wird da sehr viel Energie verbraten.
+
+00:52:37.301 --> 00:52:39.300
+<v hendrikballhausen>Und das ist bei einigen dieser Verfahren hier auch.
+
+00:52:39.301 --> 00:52:43.100
+<v hendrikballhausen>Und insbesondere bei diesen Verfahren, die jetzt universell sein wollen,
+
+00:52:43.101 --> 00:52:47.700
+<v hendrikballhausen>also womit man jedes Problem lösen kann, die sind extremst rechenaufwendig.
+
+00:52:47.701 --> 00:52:50.500
+<v hendrikballhausen>Das ist in der Praxis kein Problem, also wir reden jetzt nicht darüber,
+
+00:52:50.501 --> 00:52:53.000
+<v hendrikballhausen>dass Hochleistungsrechner ein Jahr arbeiten oder so.
+
+00:52:53.001 --> 00:52:55.900
+<v hendrikballhausen>Sondern wir reden vielleicht darüber, dass die ein paar Minuten rechnen.
+
+00:52:55.901 --> 00:52:59.200
+<v hendrikballhausen>Aber die rechnen halt da ein paar Sekunden oder ein paar Minuten,
+
+00:52:59.201 --> 00:53:05.500
+<v hendrikballhausen>wo normalerweise der Rechner in einer Milliardstel Sekunde eine Summe gebildet hätte.
+
+00:53:05.501 --> 00:53:09.100
+<v hendrikballhausen>Das heißt, schon ein millionen-, milliardenfacher Mehraufwand.
+
+00:53:09.101 --> 00:53:11.900
+<v hendrikballhausen>Und deswegen wissen wir oft gar nicht, ob wir uns jetzt wünschen sollen,
+
+00:53:11.901 --> 00:53:20.600
+<v hendrikballhausen>dass unsere Verfahren so weit Anwendung finden, denn wenn jetzt irgendwann wirklich Millionen, Milliarden Menschen das verwenden würden,
+
+00:53:20.601 --> 00:53:25.000
+<v hendrikballhausen>und das wirklich global skaliert, dann hätten wir tatsächlich dasselbe Problem wie bei Bitcoin,
+
+00:53:25.001 --> 00:53:28.600
+<v hendrikballhausen>dass wir wirklich also Energiemengen von kleinen Staaten verwenden.
+
+00:53:28.601 --> 00:53:33.200
+<v timpritlove>Naja gut, aber ich meine, wenn man jetzt Studien auswertet, dann ist das ja auch ein einmaliger Vorgang.
+
+00:53:33.201 --> 00:53:34.200
+<v hendrikballhausen>Ja, da ist das kein Problem.
+
+00:53:34.201 --> 00:53:41.400
+<v timpritlove>Und nicht so ein Bedarf, permanent Energie zu verbrauchen, nur um des Verbrauchens der Energie als solcher.
+
+00:53:41.401 --> 00:53:44.800
+<v hendrikballhausen>Nein, aber irgendwann hat mal jemand gesagt, wir schicken jetzt eine Email
+
+00:53:44.801 --> 00:53:48.300
+<v hendrikballhausen>und es ist egal, wie groß die Bandbreite ist und plötzlich verschicken wir ein paar mehr Emails.
+
+00:53:48.301 --> 00:53:50.800
+<v hendrikballhausen>Also das weiß man ja nicht, wo es eines Tages hingeht.
+
+00:53:50.801 --> 00:53:55.400
+<v timpritlove>Okay, gut, aber ich meine, wenn man jetzt sagt, okay, die Alternative ist,
+
+00:53:55.401 --> 00:54:00.000
+<v timpritlove>entweder man macht so eine Studienauswertung oder man macht sie halt gar nicht,
+
+00:54:00.001 --> 00:54:06.900
+<v timpritlove>und sagt, ja okay, das würde aber jetzt irgendwie zwar hunderttausendmal länger dauern,
+
+00:54:06.901 --> 00:54:12.800
+<v timpritlove>als es dauern würde, wenn man jetzt das Ganze unverschlüsselt auf den nackten Daten,
+
+00:54:12.801 --> 00:54:18.300
+<v timpritlove>ohne irgendeinen Datenschutz, ohne irgendeinen Privatsphäreschutz machen würde,
+
+00:54:18.301 --> 00:54:22.000
+<v timpritlove>dann ist das ja auch etwas, was durchaus auch skalieren kann,
+
+00:54:22.001 --> 00:54:25.600
+<v timpritlove>weil dann nur noch die Frage ist, okay dauert es eine Minute oder dauert es einen Tag, so.
+
+00:54:25.601 --> 00:54:26.000
+<v hendrikballhausen>Ja.
+
+00:54:26.001 --> 00:54:29.600
+<v timpritlove>Und wenn es einem das wert ist, das irgendwie auch an einem Tag zu berechnen, könnte man es ja machen.
+
+00:54:29.601 --> 00:54:33.400
+<v hendrikballhausen>Für eine klinische Studie ist das sowieso kein Problem, denn die dauern ja in der Regel Jahre.
+
+00:54:33.401 --> 00:54:38.900
+<v hendrikballhausen>Und da am Ende, ob man das jetzt an einem Tag auswertet oder in einer Minute oder eine Millisekunde,
+
+00:54:38.901 --> 00:54:42.500
+<v hendrikballhausen>das ist völlig egal, da sehen wir das Problem auch überhaupt nicht.
+
+00:54:42.501 --> 00:54:46.100
+<v hendrikballhausen>Unser Ansatz jetzt bei dem, was wir ganz konkret programmieren,
+
+00:54:46.101 --> 00:54:49.300
+<v hendrikballhausen>unser OpenSource-Projekt, das geht noch mal in eine dritte Richtung,
+
+00:54:49.301 --> 00:54:52.400
+<v hendrikballhausen>das versucht eigentlich so das beste beider Welten zu haben.
+
+00:54:52.401 --> 00:54:57.200
+<v hendrikballhausen>Weil wir haben gesehen, die Leute brauchen gar keine universellen Lösungen,
+
+00:54:57.201 --> 00:55:03.200
+<v hendrikballhausen>sondern eigentlich 90 Prozent der Anforderungen sind eigentlich mit zehn Prozent der Algorithmen zu erschlagen.
+
+00:55:03.201 --> 00:55:06.000
+<v hendrikballhausen>Die Leute wollen Summen berechnen, die Leute wollen eine Statistik machen,
+
+00:55:06.001 --> 00:55:10.000
+<v hendrikballhausen>die Leute wollen Korrelationen sehen, die Leute wollen Listen vergleichen,
+
+00:55:10.001 --> 00:55:14.700
+<v hendrikballhausen>das sind ganz einfache Sachen, die immer immer wieder kommen 
+
+00:55:14.701 --> 00:55:19.400
+<v hendrikballhausen>und deswegen ist unser Ansatz dafür schlanke effiziente Microservices zu bauen,
+
+00:55:19.401 --> 00:55:24.300
+<v hendrikballhausen>die genau dieses eine Problem berechnen und nicht ein anderes.
+
+00:55:24.301 --> 00:55:27.700
+<v hendrikballhausen>Aber dadurch dass wir sagen, wir lösen jetzt wirklich nur das Problem, wie können wir eine Summe berechnen
+
+00:55:27.701 --> 00:55:33.300
+<v hendrikballhausen>oder wir lösen nur das Problem, wie können wir jetzt eine Korrelation berechnen,
+
+00:55:33.301 --> 00:55:37.400
+<v hendrikballhausen>dann kann man das hocheffizient machen in den allermeisten Fällen
+
+00:55:37.401 --> 00:55:39.900
+<v hendrikballhausen>und dann tritt das Problem auch gar nicht auf.
+
+00:55:39.901 --> 00:55:46.000
+<v timpritlove>Jetzt sind ja die wenigsten Wissenschaftler mit all diesen ganzen Themen vertraut,
+
+00:55:46.001 --> 00:55:50.300
+<v timpritlove>das ist nichts, wo man sich mal eben so einliest und ich höre jetzt schon so raus,
+
+00:55:50.301 --> 00:55:58.400
+<v timpritlove>das Projekt, was halt im Prinzip erst mal sagt, okay, hier gibt es irgendwie eine ganze Menge brauchbare, interessante Ansätze aus der Kryptographie,
+
+00:55:58.401 --> 00:56:02.400
+<v timpritlove>die liegen auch schon eine Weile rum, das ist irgendwie abgehangenes Zeug,
+
+00:56:02.401 --> 00:56:07.200
+<v timpritlove>wir sind bloß bisher noch nicht auf die Idee gekommen, die auch konkret in dieser Form zum Einsatz zu bringen,
+
+00:56:07.201 --> 00:56:13.200
+<v timpritlove>wir sorgen jetzt mal dafür, dass es ein paar Werkzeuge gibt oder zumindest auch eine Dienstleistung,
+
+00:56:13.201 --> 00:56:21.300
+<v timpritlove>auf die man zurückgreifen kann, um die dann zum Ansatz zu bringen.
+
+00:56:21.301 --> 00:56:27.000
+<v timpritlove>Was ist jetzt sozusagen der Inhalt eures Projektes, inwiefern sind solche Dienstleistungen,
+
+00:56:27.001 --> 00:56:33.100
+<v timpritlove>OpenSource-Lösung hast du schon angedeutet, Teil des Voranschreiten
+
+00:56:33.101 --> 00:56:38.900
+<v timpritlove>und an wen wendet ihr euch überhaupt und für wen ist es jetzt im ersten Schritt erst mal gedacht?
+
+00:56:38.901 --> 00:56:44.700
+<v hendrikballhausen>Ja, also wir wenden uns natürlich an die Medizininformatikinitiative,
+
+00:56:44.701 --> 00:56:48.000
+<v hendrikballhausen>also wir stehen natürlich unseren Kolleginnen und Kollegen jetzt primär auch zur Verfügung,
+
+00:56:48.001 --> 00:56:51.800
+<v hendrikballhausen>wo ja auch diese Verfahren getestet werden.
+
+00:56:51.801 --> 00:56:54.700
+<v hendrikballhausen>Wir stehen aber auch anderen Akteuren aus, ich sage mal jetzt,
+
+00:56:54.701 --> 00:56:58.500
+<v hendrikballhausen>ich möchte jetzt heute hier keine Namen nennen oder ich kann auch keine Namen nennen,
+
+00:56:58.501 --> 00:57:04.300
+<v hendrikballhausen>Akteuren aus dem öffentlich-rechtlichen Sektor zur Verfügung.
+
+00:57:04.301 --> 00:57:07.600
+<v hendrikballhausen>Gibt es ja auch viele andere spannende Fragen, die man beantworten kann,
+
+00:57:07.601 --> 00:57:13.200
+<v hendrikballhausen>als nur mit Medizindaten, ich kann auch über Finanzdaten reden oder über Versicherungsdaten etc. pp.
+
+00:57:13.201 --> 00:57:15.600
+<v timpritlove>Aber Medizin ist jetzt erst mal der Fokus?
+
+00:57:15.601 --> 00:57:20.000
+<v hendrikballhausen>Nicht unbedingt, also den Algorithmen ist es völlig egal, wofür sie verwendet werden
+
+00:57:20.001 --> 00:57:26.700
+<v hendrikballhausen>und auch in unserem Projekt, was ja vom Stifterverband sehr großzügig jetzt auch für die nächsten drei Jahre finanziert ist,
+
+00:57:26.701 --> 00:57:33.800
+<v hendrikballhausen>haben wir auch den Auftrag, Domänen fern der Medizin, Showcases zu bauen.
+
+00:57:33.801 --> 00:57:35.900
+<v hendrikballhausen>Und da gucken wir uns auch kleine und mittlere Unternehmen an,
+
+00:57:35.901 --> 00:57:40.700
+<v hendrikballhausen>das sind ja auch typischerweise Bereiche, wo jetzt Daten fragmentiert vorliegen,
+
+00:57:40.701 --> 00:57:44.700
+<v hendrikballhausen>und da sind wir überhaupt nicht auf die Medizin festgelegt.
+
+00:57:44.701 --> 00:57:49.900
+<v hendrikballhausen>Auch da wieder, 90 Prozent der Probleme werden von zehn Prozent der Algorithmen erschlagen,
+
+00:57:49.901 --> 00:57:55.300
+<v hendrikballhausen>und so was wie Statistiken, Korrelationen, Listenvergleiche braucht man überall.
+
+00:57:55.301 --> 00:58:02.300
+<v hendrikballhausen>Und die Dienstleistung, so haben wir das noch nie formuliert, aber die Dienstleistung würde dann eben darin bestehen,
+
+00:58:02.301 --> 00:58:06.400
+<v hendrikballhausen>dass wir interessierten Parteien, so wie wir das ja heute auch schon tun,
+
+00:58:06.401 --> 00:58:10.900
+<v hendrikballhausen>ja zur Seite stehen würden, unser OpenSource-Projekt zu nutzen und weiterzuentwickeln.
+
+00:58:10.901 --> 00:58:17.900
+<v hendrikballhausen>Also die bekommen dann nicht nur den Code hingeworfen, sondern die würden wir dann sicherlich auch eingangs beraten.
+
+00:58:17.901 --> 00:58:21.800
+<v hendrikballhausen>Auch unabhängig beraten, weil das muss ja nicht unsere Lösung sein,
+
+00:58:21.801 --> 00:58:25.100
+<v hendrikballhausen>vielleicht gibt es ja für das Problem schon ein viel besseres Framework.
+
+00:58:25.101 --> 00:58:29.800
+<v hendrikballhausen>Aber wenn es dann unsere Lösung sein soll, dann würden wir die natürlich auch begleiten in der Umsetzung
+
+00:58:29.801 --> 00:58:36.000
+<v hendrikballhausen>und denen helfen, einen schönen Showcase zu bauen, aus dem dann am Ende alle lernen können.
+
+00:58:36.001 --> 00:58:39.100
+<v timpritlove>Wer sollte denn jetzt hellhörig werden?
+
+00:58:39.101 --> 00:58:45.200
+<v hendrikballhausen>Alle, die eigentlich gemerkt haben, dass es toll wäre, wenn sie sich mit anderen Dateneigentümern verschalten können,
+
+00:58:45.201 --> 00:58:49.800
+<v hendrikballhausen>zu denen sie bisher heute entweder noch kein Vertrauen haben, beispielsweise jetzt Konkurrenten,
+
+00:58:49.801 --> 00:58:57.300
+<v hendrikballhausen>oder wo sie merken, dass sie aufgrund gesetzlicher Basis noch nicht so wirklich die Grundlage haben,
+
+00:58:57.301 --> 00:59:00.500
+<v hendrikballhausen>um Daten gemeinsam zu verarbeiten.
+
+00:59:00.501 --> 00:59:05.000
+<v hendrikballhausen>Also eigentlich jeder, der sich fragen kann, habe ich Daten, die im Prinzip wertvoller würden,
+
+00:59:05.001 --> 00:59:07.300
+<v hendrikballhausen>wenn ich sie mit anderen Daten verheiraten würde.
+
+00:59:07.301 --> 00:59:10.600
+<v hendrikballhausen>Und natürlich, wo wir uns auch unheimlich wünschen, dass sie hellhörig werden,
+
+00:59:10.601 --> 00:59:15.400
+<v hendrikballhausen>das wären natürlich junge Gründerteams, die sagen, wir machen das jetzt zu einem Teil unserer Geschäftsidee,
+
+00:59:15.401 --> 00:59:18.700
+<v hendrikballhausen>zu einem Teil unseres Produktes, es muss ja gar nicht das ganze Produkt sein,
+
+00:59:18.701 --> 00:59:24.100
+<v hendrikballhausen>es kann ja nur ein Baustein sein, denn denen könnten wir auch tatsächlich auch finanziell helfen,
+
+00:59:24.101 --> 00:59:26.600
+<v hendrikballhausen>also denen würden wir dann auch helfen, den Businesscase zu schreiben,
+
+00:59:26.601 --> 00:59:32.800
+<v hendrikballhausen>denen würden wir helfen auch, wenn jetzt beispielsweise um diesen Code herum eine technische Lösung gebaut werden würde,
+
+00:59:32.801 --> 00:59:38.100
+<v hendrikballhausen>denen könnten wir da auch helfen, die Patentierung zu finanzieren und ähnliches.
+
+00:59:38.101 --> 00:59:42.200
+<v timpritlove>Können wir vielleicht mal ein paar Beispiele uns noch mal ausdenken, wohin das so führen könnte,
+
+00:59:42.201 --> 00:59:46.500
+<v timpritlove>so jenseits der medizinischen Beispiele, die wir schon gehabt haben?
+
+00:59:46.501 --> 00:59:51.100
+<v hendrikballhausen>Ich bringe gerne mal so ein, zwei Beispiele, die wir auch mal gebrainstormt haben,
+
+00:59:51.101 --> 00:59:55.000
+<v hendrikballhausen>ohne jetzt irgendwie einen konkreten Interessenten zu benennen.
+
+00:59:55.001 --> 01:00:00.200
+<v hendrikballhausen>Man könnte sich überlegen, dass überall im Vertrieb, da gibt es häufig Vertriebe,
+
+01:00:00.201 --> 01:00:02.600
+<v hendrikballhausen>dass die Vertriebler Selbständige sind.
+
+01:00:02.601 --> 01:00:07.800
+<v hendrikballhausen>Das heißt, es gibt irgendwo einen großen Konzern und der hat ein Heer von Vertrieblern
+
+01:00:07.801 --> 01:00:11.000
+<v hendrikballhausen>und die sind aber eigentlich im Prinzip alles kleine Konkurrenten untereinander.
+
+01:00:11.001 --> 01:00:14.000
+<v hendrikballhausen>Jeder Vertriebler möchte gerne selber das neue Geschäft machen.
+
+01:00:14.001 --> 01:00:17.200
+<v hendrikballhausen>Andererseits würden diese Vertriebler unglaublich gerne voneinander lernen,
+
+01:00:17.201 --> 01:00:19.000
+<v hendrikballhausen>was ist eigentlich die best practice, wie machen das die anderen?
+
+01:00:19.001 --> 01:00:21.900
+<v hendrikballhausen>Wollen sich aber gegenseitig natürlich nicht die Daten zeigen lassen.
+
+01:00:21.901 --> 01:00:25.200
+<v hendrikballhausen>Also wieviele Minuten verbringe ich mit einem Kunden?
+
+01:00:25.201 --> 01:00:26.200
+<v hendrikballhausen>Wieviele Verträge schreibe ich pro Zeit?
+
+01:00:26.201 --> 01:00:32.200
+<v hendrikballhausen>Diese typischen Key Performance Indicators, wo normalerweise ein Unternehmensberater für viel Geld käme,
+
+01:00:32.201 --> 01:00:37.100
+<v hendrikballhausen>mit denen allen einzeln spricht und dann hinterher eine Präsentation für den Vorstand macht.
+
+01:00:37.101 --> 01:00:43.900
+<v hendrikballhausen>Das könnten diese Vertriebler jetzt auch untereinander machen, ohne eine dritte Partei zu brauchen.
+
+01:00:43.901 --> 01:00:47.600
+<v hendrikballhausen>Und man könnte Branchenbenchmarks machen, also ein Branchenverband könnte sagen,
+
+01:00:47.601 --> 01:00:51.700
+<v hendrikballhausen>wir wollen, auch ohne dass unsere Unternehmen, vielleicht sind es kleine Mittelständler,
+
+01:00:51.701 --> 01:00:56.400
+<v hendrikballhausen>ohne dass die jetzt einen teuren Berater einkaufen müssen, dass die sich einfach austauschen können.
+
+01:00:56.401 --> 01:00:59.700
+<v hendrikballhausen>Und da kann man natürlich jetzt so etwas schillerndere Beispiele bringen,
+
+01:00:59.701 --> 01:01:05.200
+<v hendrikballhausen>dass natürlich auch so Apps wie Tinder eigentlich letztlich nichts anderes sind,
+
+01:01:05.201 --> 01:01:10.200
+<v hendrikballhausen>als Leute dezentral irgendwie zusammenzubringen, ohne dass man sich jetzt der Peinlichkeit preisgibt,
+
+01:01:10.201 --> 01:01:12.400
+<v hendrikballhausen>sich gegenseitig zu verraten, wen man toll findet.
+
+01:01:12.401 --> 01:01:16.600
+<v hendrikballhausen>Also die Welt ist unglaublich weit.
+
+01:01:16.601 --> 01:01:21.300
+<v timpritlove>Ich sehe eine Revolution im Datingservice.
+
+01:01:21.301 --> 01:01:24.000
+<v timpritlove>Da braucht es natürlich dann auch Vertrauen.
+
+01:01:24.001 --> 01:01:28.400
+<v timpritlove>Weil ich meine, wenn man heute angelaufen kommt und sagt, ja alles total sicher hier,
+
+01:01:28.401 --> 01:01:34.700
+<v timpritlove>ist alles voll Kryptographie und so, gerade jetzt, wo die Welt in zunehmendem Maße merkt,
+
+01:01:34.701 --> 01:01:39.700
+<v timpritlove>wie sie mit dem ganzen Kryptogeldwahnsinn über den Tisch gezogen wird,
+
+01:01:39.701 --> 01:01:48.200
+<v timpritlove>da wird ja dann auch sehr viel Vertrauen auch gerade missbraucht und abgenutzt so, so was überhaupt noch zu glauben.
+
+01:01:48.201 --> 01:01:53.500
+<v hendrikballhausen>Wenn man so ein Projekt aufzieht, dann sollte man das Stichwort Krypto besser nicht auf der Webseite haben,
+
+01:01:53.501 --> 01:01:56.100
+<v hendrikballhausen>sonst ist man schon mal falsch einsortiert.
+
+01:01:56.101 --> 01:01:59.200
+<v hendrikballhausen>Wenn man Kryptographie sagt, ist es schon etwas besser.
+
+01:01:59.201 --> 01:02:04.500
+<v hendrikballhausen>Wir sprechen eigentlich von verteiltem Rechnen und erklären den Leuten dann was wir meinen.
+
+01:02:04.501 --> 01:02:11.500
+<v hendrikballhausen>Was natürlich auch Vertrauen schafft ist, dass wir alles OpenSource haben.
+
+01:02:11.501 --> 01:02:16.400
+<v hendrikballhausen>Also es gibt nichts, was jetzt nur wir haben, was jemand anderes nicht hätte,
+
+01:02:16.401 --> 01:02:20.800
+<v hendrikballhausen>der das verwenden möchte, der Code ist online, der Code ist public, der Code ist free.
+
+01:02:20.801 --> 01:02:24.800
+<v hendrikballhausen>Es ist auch nicht so, die erste Frage, die immer kommt, müssen wir unsere Daten dann auf eure Server?
+
+01:02:24.801 --> 01:02:26.900
+<v hendrikballhausen>Nein, wir haben noch nicht mal Server.
+
+01:02:26.901 --> 01:02:32.100
+<v hendrikballhausen>Wir haben jetzt schon Server, aber das sind Testserver und die stellen wir kostenlos zur Verfügung
+
+01:02:32.101 --> 01:02:36.700
+<v hendrikballhausen>und wir schreiben in die Nutzungsrichtlinien, dass natürlich niemand irgendwelche sensitiven Daten hochladen kann.
+
+01:02:36.701 --> 01:02:41.100
+<v hendrikballhausen>Und das schafft natürlich Vertrauen.
+
+01:02:41.101 --> 01:02:46.400
+<v hendrikballhausen>Weiter Vertrauen schafft, dass wir öffentlich-rechtlich sind und öffentlich-rechtlich finanziert sind.
+
+01:02:46.401 --> 01:02:48.700
+<v hendrikballhausen>Wir machen keinen Profit damit.
+
+01:02:48.701 --> 01:02:50.900
+<v hendrikballhausen>Wir haben keine Daten, wir verarbeiten keine Daten.
+
+01:02:50.901 --> 01:02:56.900
+<v hendrikballhausen>Und wenn man dann mit den Leuten ins Gespräch kommt und insbesondere auch den Datenschützern das erklärt,
+
+01:02:56.901 --> 01:02:59.800
+<v hendrikballhausen>dann verstehen die das in der Regel schon.
+
+01:02:59.801 --> 01:03:04.800
+<v hendrikballhausen>Es ist allerdings natürlich wie gesagt es ist für jeden, der da irgendwie mitmacht,
+
+01:03:04.801 --> 01:03:06.600
+<v hendrikballhausen>es ist immer eine Abkehr vom Bisherigen.
+
+01:03:06.601 --> 01:03:11.000
+<v hendrikballhausen>Und auch für den Datenschützer, der jetzt völlig neu bewerten muss,
+
+01:03:11.001 --> 01:03:17.500
+<v hendrikballhausen>nicht ob er etwas darf, das muss er nach wie vor bewerten, sondern auch ob er etwas kann,
+
+01:03:17.501 --> 01:03:20.500
+<v hendrikballhausen>ob das Verfahren etwas kann, was das Verfahren verspricht.
+
+01:03:20.501 --> 01:03:24.500
+<v hendrikballhausen>Und das sind ja oft mathematische Beweise der Sicherheit.
+
+01:03:24.501 --> 01:03:33.000
+<v hendrikballhausen>Und andererseits man muss auch sagen, wir trauen ja auch proprietärer Software.
+
+01:03:33.001 --> 01:03:39.000
+<v hendrikballhausen>Wir vertrauen ja proprietären Anbietern an anderer Stelle viel viel viel mehr
+
+01:03:39.001 --> 01:03:41.800
+<v hendrikballhausen>und nutzen deren Systeme, ohne diese Frage überhaupt zu stellen.
+
+01:03:41.801 --> 01:03:46.000
+<v hendrikballhausen>Aber sobald jemand kommt und sagt, wir machen das jetzt auf sichere Art und Weise,
+
+01:03:46.001 --> 01:03:49.300
+<v hendrikballhausen>dann werden die Leute eigentlich erst hellhörig und fragen nach.
+
+01:03:49.301 --> 01:03:51.800
+<v hendrikballhausen>Aber ich glaube, wir können das sehr gut erklären.
+
+01:03:51.801 --> 01:03:55.800
+<v timpritlove>Es braucht aber auf jeden Fall auch eine gewisse juristische Absicherung an der Stelle.
+
+01:03:55.801 --> 01:03:59.200
+<v timpritlove>Weil wenn man das natürlich für sich selber, da kann ich mir alles mögliche herleiten,
+
+01:03:59.201 --> 01:04:04.900
+<v timpritlove>ob das dann aber vor Gericht Bestand hat und ich nicht dann doch zu irgendetwas verdonnert werde,
+
+01:04:04.901 --> 01:04:09.100
+<v timpritlove>das ist ja noch mal die andere Frage und das Vertrauen zu eurem Projekt ist natürlich das eine,
+
+01:04:09.101 --> 01:04:11.700
+<v timpritlove>aber in dem Moment, wo dann halt wirklich ein Startup kommt und sagt,
+
+01:04:11.701 --> 01:04:14.700
+<v timpritlove>oh super Idee, das bieten wir jetzt mal hier als Dienstleistung an,
+
+01:04:14.701 --> 01:04:18.300
+<v timpritlove>greifen wir doch mal vielleicht das Beispiel mit diesen Branchenbenchmarks auf,
+
+01:04:18.301 --> 01:04:21.100
+<v timpritlove>weil das kann man ja im Prinzip eigentlich auf alles so erweitern.
+
+01:04:21.101 --> 01:04:31.400
+<v timpritlove>Wenn man jetzt also einen Branchenverband hat, der, was weiß ich, Textilindustrie oder keine Ahnung,
+
+01:04:31.401 --> 01:04:37.900
+<v timpritlove>jetzt entsprechende Zahlen, die ja auch im Interesse der eigenen Branche sind erheben möchte,
+
+01:04:37.901 --> 01:04:46.800
+<v timpritlove>und bedient sich jetzt vielleicht eines solchen Startups, was eben auf Basis eurer Ideen hier voranschreitet,
+
+01:04:46.801 --> 01:04:52.600
+<v timpritlove>wie könnte denn das Startup dann sozusagen sicherstellen, dass dieser Branchenverband da sicher ist
+
+01:04:52.601 --> 01:04:56.300
+<v timpritlove>und wie erklärt der Branchenverband das seiner Branche,
+
+01:04:56.301 --> 01:05:02.700
+<v timpritlove>dass das sicher genug ist und dort keine Geschäftsgeheimnisse verraten werden?
+
+01:05:02.701 --> 01:05:07.300
+<v hendrikballhausen>Also zunächst mal wird diese Initiative auch anwaltlich begleitet.
+
+01:05:07.301 --> 01:05:13.100
+<v hendrikballhausen>Also wir haben da einen Anwalt, der sich da in dieses Thema sehr tief eingearbeitet hat.
+
+01:05:13.101 --> 01:05:16.700
+<v hendrikballhausen>Du hast natürlich richtig gesagt, es ist noch nicht vor Gericht gewesen.
+
+01:05:16.701 --> 01:05:23.000
+<v hendrikballhausen>Also es gibt meines Wissens ein einziges EuGH-Urteil zu der Sache,
+
+01:05:23.001 --> 01:05:26.300
+<v hendrikballhausen>da ging es um, aber jetzt nicht aus Deutschland, sondern, ich glaube, es war Estland,
+
+01:05:26.301 --> 01:05:30.600
+<v hendrikballhausen>die da sehr viel weiter im, wie nennt man das, E-Government sind, das heißt,
+
+01:05:30.601 --> 01:05:37.600
+<v hendrikballhausen>dass die Bürger digital ihre Verwaltungsakte nutzen können.
+
+01:05:37.601 --> 01:05:43.000
+<v hendrikballhausen>Und es hat halt noch nie ein BGH geurteilt, es hat noch nie vor dem Deutschen Amtsgericht eine Zivilklage gegeben,
+
+01:05:43.001 --> 01:05:45.900
+<v hendrikballhausen>weil einer vom anderen was wollte daraus.
+
+01:05:45.901 --> 01:05:52.900
+<v hendrikballhausen>Insofern das einzige, was es gibt, sin anwaltliche Gutachten und die sagen eigentlich so grundsätzlich,
+
+01:05:52.901 --> 01:06:00.400
+<v hendrikballhausen>also der Grundtenor ist, es ist eine Verbesserung gegenüber dem Status quo datenschutzrechtlich,
+
+01:06:00.401 --> 01:06:07.600
+<v hendrikballhausen>aber die Akteure sind meistens noch in derselben Verantwortung, die sie ohne diese Verfahren hätten.
+
+01:06:07.601 --> 01:06:12.500
+<v hendrikballhausen>Das heißt, wo früher ein Kooperationsvertrag geschlossen werden musste,
+
+01:06:12.501 --> 01:06:15.900
+<v hendrikballhausen>muss auch heute noch ein Kooperationsvertrag geschlossen werden.
+
+01:06:15.901 --> 01:06:24.700
+<v hendrikballhausen>Wo man früher Terminus Technicus von einer gemeinsamen Datenverarbeitung in gemeinsamer Verantwortung gesprochen hätte,
+
+01:06:24.701 --> 01:06:30.200
+<v hendrikballhausen>würde man auch heute noch davon sprechen, auch ohne dass die Leute gegenseitig ihre Daten sehen.
+
+01:06:30.201 --> 01:06:33.000
+<v hendrikballhausen>Jetzt hast du nach dem Startup gefragt.
+
+01:06:33.001 --> 01:06:38.200
+<v hendrikballhausen>Startups scheinen das Problem irgendwie weniger zu haben, die sind meistens sehr risikoaffig.
+
+01:06:38.201 --> 01:06:43.500
+<v hendrikballhausen>Also ein Startup, das jetzt wegen einem Datenschutzskandal pleite geht,
+
+01:06:43.501 --> 01:06:47.700
+<v hendrikballhausen>das gibt es schon, das gibt es aber auch ohne unsere Verfahren,
+
+01:06:47.701 --> 01:06:50.000
+<v hendrikballhausen>das gibt es dann vielleicht mit unseren Verfahren ein bisschen seltener.
+
+01:06:50.001 --> 01:06:54.500
+<v hendrikballhausen>Und der Branchenverband, letztlich ist das auch wieder Vertrauen.
+
+01:06:54.501 --> 01:06:59.800
+<v hendrikballhausen>Das Startup muss halt vertrauenswürdig gegenüber dem Branchenverband auftreten,
+
+01:06:59.801 --> 01:07:04.500
+<v hendrikballhausen>muss es denen erklären, muss auch die eigenen Interessen offenlegen
+
+01:07:04.501 --> 01:07:08.600
+<v hendrikballhausen>und der Branchenverband ist dann hoffentlich gegenüber seinen Mitgliedern auch in einer Position,
+
+01:07:08.601 --> 01:07:12.800
+<v hendrikballhausen>dass die dem trauen, dass wenn der Vorstand da etwas für gut befunden hat,
+
+01:07:12.801 --> 01:07:15.600
+<v hendrikballhausen>dass man dem auch folgen kann.
+
+01:07:15.601 --> 01:07:20.300
+<v hendrikballhausen>Aber da gibt es jetzt keine Deus ex Machina Lösung, sondern das ist letztlich,
+
+01:07:20.301 --> 01:07:23.500
+<v hendrikballhausen>das sind wieder Menschen, das sind Prozesse, es sind Abstimmungen
+
+01:07:23.501 --> 01:07:26.700
+<v hendrikballhausen>und am Ende des Tages auch dort Vertrauen.
+
+01:07:26.701 --> 01:07:31.600
+<v timpritlove>Ja bzw. muss man wahrscheinlich auch in die eigene Forschung gehen.
+
+01:07:31.601 --> 01:07:33.600
+<v timpritlove>Ich meine, man kann ja immer so den aktuellen Hypes hinterherlaufen,
+
+01:07:33.601 --> 01:07:38.200
+<v timpritlove>aber man kann vielleicht auch einfach mal schauen, okay, was sind denn eigentlich unsere tatsächlichen Bedarfe
+
+01:07:38.201 --> 01:07:45.100
+<v timpritlove>und dass der Bedarf an Datenauswertung immer da ist, auf die ein oder andere Art und Weise,
+
+01:07:45.101 --> 01:07:49.200
+<v timpritlove>haben wir ja schon festgestellt und das würde ja dann letzten Endes bedeuten,
+
+01:07:49.201 --> 01:07:55.100
+<v timpritlove>dass solche, ich finde dieses Branchenbeispiel irgendwie sehr gut, weil das ganz illustriert,
+
+01:07:55.101 --> 01:08:00.300
+<v timpritlove>okay, wir wollen für uns Daten machen, aber ihr vertraut einander eigentlich nicht,
+
+01:08:00.301 --> 01:08:05.300
+<v timpritlove>ihr wollt uns die Daten nicht rausrücken, so, trotzdem wäre es schön,
+
+01:08:05.301 --> 01:08:12.200
+<v timpritlove>wenn wir für uns alle eine Statistik haben, wie es denn eigentlich ist, weil das ja für uns auch ein politisches Argument Dritten gegenüber ist.
+
+01:08:12.201 --> 01:08:13.500
+<v hendrikballhausen>Absolut.
+
+01:08:13.501 --> 01:08:18.900
+<v timpritlove>So und deswegen könnte man dann ja auch argumentieren, okay, ihr versteht das jetzt vielleicht alles noch nicht
+
+01:08:18.901 --> 01:08:26.200
+<v timpritlove>und ihr habt da irgendwie juristische Bedenken, naja dann schafft euch doch mal die Kompetenz auch ran
+
+01:08:26.201 --> 01:08:33.100
+<v timpritlove>und macht eine Abteilung dafür, die sich damit beschäftigt und vielleicht liegt das auch noch ein paar Jahre in der Zukunft,
+
+01:08:33.101 --> 01:08:39.100
+<v timpritlove>aber im Prinzip müsstet ihr diesen Weg gehen, weil auf der anderen Seite leuchtet halt das Licht am Ende des Tunnels,
+
+01:08:39.101 --> 01:08:44.600
+<v timpritlove>was dann eben heißt, ihr könnt Auswertungen machen, die ihr derzeit einfach gar nicht machen könnt.
+
+01:08:44.601 --> 01:08:50.100
+<v hendrikballhausen>Ja oder für viel Geld, also es hat ja auch sozusagen der einzelne Betrieb hätte ja auch einen Vorteil.
+
+01:08:50.101 --> 01:08:54.200
+<v hendrikballhausen>Also das klassische Modell ist ja eigentlich der Unternehmensberater,
+
+01:08:54.201 --> 01:08:59.900
+<v hendrikballhausen>der einmal im Kreis zwischen diesen Firmen durchläuft und am Ende bekommt dann jeder diesen typischen Barplot,
+
+01:08:59.901 --> 01:09:03.700
+<v hendrikballhausen>wo man dann 20 eingegraute Säulen sieht und eine Säule ist eingefärbt
+
+01:09:03.701 --> 01:09:07.300
+<v hendrikballhausen>und dann wird einem verraten, das bist du und du kannst jetzt sehen,
+
+01:09:07.301 --> 01:09:11.100
+<v hendrikballhausen>wie du sozusagen unter deinen Mitbewerbern stehst, aber du weißt nicht, wer sind die anderen.
+
+01:09:11.101 --> 01:09:17.200
+<v hendrikballhausen>Auch da übrigens differential privacy wird dann immer gerundet und verrauscht bei den anderen Säulen.
+
+01:09:17.201 --> 01:09:21.200
+<v hendrikballhausen>Die spannende Frage ist, du sagst jetzt, schafft euch die Kompetenzen.
+
+01:09:21.201 --> 01:09:24.800
+<v hendrikballhausen>Das ist eben die Frage, wie häufig wird das denn gebraucht?
+
+01:09:24.801 --> 01:09:29.300
+<v hendrikballhausen>Also ich würde mal sagen, von einem kleinen Mittelständler kann man das sicherlich nicht verlangen,
+
+01:09:29.301 --> 01:09:33.200
+<v hendrikballhausen>in dem Bereich Kompetenzen zu erwerben, auch selbst von dem Branchenverband.
+
+01:09:33.201 --> 01:09:34.300
+<v hendrikballhausen>Es ist ja schon sehr speziell.
+
+01:09:34.301 --> 01:09:41.200
+<v hendrikballhausen>Es ist halt die Frage, ob es in Zukunft vielleicht auch Berater gibt, die sagen,
+
+01:09:41.201 --> 01:09:45.300
+<v hendrikballhausen>es gibt auch erste Berater, also ich will jetzt hier keine Namen nennen,
+
+01:09:45.301 --> 01:09:49.100
+<v hendrikballhausen>aber es gibt unter den großen Technologieberatern gibt es halt eine Firma,
+
+01:09:49.101 --> 01:09:52.900
+<v hendrikballhausen>die sich damit seit ein paar Jahren schon beschäftigt und diese Verfahren auch kennt
+
+01:09:52.901 --> 01:10:00.800
+<v hendrikballhausen>und auch ihre Klienten darüber informiert, dass man diese Verfahren nutzen kann.
+
+01:10:00.801 --> 01:10:08.000
+<v timpritlove>Ja, ich meine ja nicht, dass jetzt jeder Branchenverband jetzt ein komplettes Kompetenzzentrum aufbauen muss,
+
+01:10:08.001 --> 01:10:15.000
+<v timpritlove>sondern es reicht ja oft schon, dass man überhaupt erst mal Leute festgebunden in einer Struktur hat,
+
+01:10:15.001 --> 01:10:18.400
+<v timpritlove>die sich damit hauptamtlich beschäftigen, das zu verstehen.
+
+01:10:18.401 --> 01:10:23.500
+<v timpritlove>Also dass man einfach überhaupt erst mal so eine Vertrauensperson im eigenen Apparat hat,
+
+01:10:23.501 --> 01:10:30.800
+<v timpritlove>wo man sagen kann, hast du dir das schon mal angeschaut, ist das was für uns oder ist das nichts.
+
+01:10:30.801 --> 01:10:33.000
+<v timpritlove>Was man sich zum Beispiel bei dieser Blockchain häufiger mal wünschen würde,
+
+01:10:33.001 --> 01:10:38.000
+<v timpritlove>dass solche Kompetenzzentren existieren, um halt einfach mal zu sehen, worum es sich dabei wirklich handelt.
+
+01:10:38.001 --> 01:10:44.800
+<v timpritlove>Anstatt eben einfach immer nur dem aktuellen Hype so hinterher zu hecheln und der einzige Maßstab ist,
+
+01:10:44.801 --> 01:10:48.200
+<v timpritlove>aber alle anderen reden ja auch darüber, also muss es toll sein.
+
+01:10:48.201 --> 01:10:52.600
+<v hendrikballhausen>Da wären vermutlich die Datenschutzbeauftragten schon genau die richtigen Personen
+
+01:10:52.601 --> 01:10:55.100
+<v hendrikballhausen>und die gibt es ja auch in vielen Strukturen schon.
+
+01:10:55.101 --> 01:10:56.700
+<v timpritlove>Das stimmt natürlich.
+
+01:10:56.701 --> 01:11:00.600
+<v hendrikballhausen>Und das sind eigentlich auch nicht die, die dafür bekannt wären, dass sie jedem Trend hinterherlaufen,
+
+01:11:00.601 --> 01:11:05.800
+<v hendrikballhausen>sondern die eigentlich eher darauf bedacht sind, ihre Formalismen auch zu wahren.
+
+01:11:05.801 --> 01:11:08.500
+<v hendrikballhausen>Das ist eigentlich ein guter Gedanke, ich würde mir den auch gerne mitnehmen,
+
+01:11:08.501 --> 01:11:17.600
+<v hendrikballhausen>dass man vielleicht darauf setzt, dass diese Zusammenarbeit von den domänenspezifischen Datenschutzbeauftragten,
+
+01:11:17.601 --> 01:11:20.200
+<v hendrikballhausen>die ja auch auf der anderen Seite ihre Daten sehr gut verstehen,
+
+01:11:20.201 --> 01:11:27.100
+<v hendrikballhausen>und dass es dann vielleicht so Startups gäbe, die halt so branchenspezifische Lösungen anbieten,
+
+01:11:27.101 --> 01:11:32.200
+<v hendrikballhausen>die dann wirklich einfach genug sind, am Ende des Tages muss es ja wirklich auch ein Programm sein, das läuft.
+
+01:11:32.201 --> 01:11:36.900
+<v hendrikballhausen>Also unser OpenSource-Projekt das sind Bibliotheken, das wendet sich aber nicht an Anwender,
+
+01:11:36.901 --> 01:11:40.300
+<v hendrikballhausen>das wendet sich wieder an Programmierer.
+
+01:11:40.301 --> 01:11:47.300
+<v hendrikballhausen>Und wir haben uns schon sehr viel Mühe gegeben, beispielsweise auch, ohne jetzt zu technisch zu werden,
+
+01:11:47.301 --> 01:11:51.500
+<v hendrikballhausen>wir haben unsere Bibliothek so erweitert, dass man damit auch Webseiten bauen kann.
+
+01:11:51.501 --> 01:11:55.000
+<v hendrikballhausen>Das heißt, man muss gar nicht mehr unbedingt jetzt ein Programm bauen,
+
+01:11:55.001 --> 01:12:00.700
+<v hendrikballhausen>da muss nicht irgendwo ein komplexer Server mit einer komplexen Anwendung laufen,
+
+01:12:00.701 --> 01:12:03.300
+<v hendrikballhausen>sondern man kann auch einfach zwei Webseiten miteinander rechnen lassen.
+
+01:12:03.301 --> 01:12:07.800
+<v hendrikballhausen>Das heißt, du hast deinen Browser offen, ich habe meinen Browser offen, dritte Person hat ihren Browser offen,
+
+01:12:07.801 --> 01:12:09.900
+<v hendrikballhausen>und dann können wir genau das machen.
+
+01:12:09.901 --> 01:12:13.100
+<v hendrikballhausen>Und dann müsste so ein Startup eigentlich nichts anderes machen als sagen,
+
+01:12:13.101 --> 01:12:18.900
+<v hendrikballhausen>wir bauen jetzt eine schöne Webseite, irgendwie branchenspezifisch, je nachdem
+
+01:12:18.901 --> 01:12:25.400
+<v hendrikballhausen>ob es jetzt Agrar ist oder Stahl ist, sondern irgendwie vielleicht in grün oder grau gehalten
+
+01:12:25.401 --> 01:12:32.100
+<v hendrikballhausen>und in dem Nutzerinterface, natürlich auch entsprechende sozusagen Zugangskontrollen,
+
+01:12:32.101 --> 01:12:34.600
+<v hendrikballhausen>und dann könnte man auch einfach Webseiten bauen, die das machen.
+
+01:12:34.601 --> 01:12:38.600
+<v hendrikballhausen>Und das wäre dann schon viel zugänglicher als den Leuten zu sagen,
+
+01:12:38.601 --> 01:12:44.700
+<v hendrikballhausen>ihr braucht jetzt einen total komplizierten TechStack(?), ihr braucht einen schwierigen Server
+
+01:12:44.701 --> 01:12:46.500
+<v hendrikballhausen>mit einem bestimmten Betriebssystem, das war auch übrigens einer,
+
+01:12:46.501 --> 01:12:52.100
+<v hendrikballhausen>wenn ich das noch sagen darf, einer unserer Ansätze, warum Federates Secure Computing,
+
+01:12:52.101 --> 01:12:54.400
+<v hendrikballhausen>was ist die Federation darin?
+
+01:12:54.401 --> 01:12:57.600
+<v hendrikballhausen>Wir wollen halt auch unterschiedliche Systeme zusammenbringen.
+
+01:12:57.601 --> 01:13:02.300
+<v hendrikballhausen>Wenn man einen Branchenverband hat mit vielleicht 40 Mitgliedsunternehmen,
+
+01:13:02.301 --> 01:13:05.900
+<v hendrikballhausen>dann werden die unterschiedliche IT-Systeme haben.
+
+01:13:05.901 --> 01:13:10.300
+<v hendrikballhausen>Und das sehen wir zum Beispiel auch in der Medizininformatikinitiative,
+
+01:13:10.301 --> 01:13:14.100
+<v hendrikballhausen>da gemeinsame Standars zu schaffen, hat Jahre gedauert.
+
+01:13:14.101 --> 01:13:16.400
+<v hendrikballhausen>Das heißt, jetzt 40 Leuten zu sagen, ihr braucht dasselbe Betriebssystem
+
+01:13:16.401 --> 01:13:19.900
+<v hendrikballhausen>und ihr braucht noch denselben Technologie Stack(?) und so weiter und so fort.
+
+01:13:19.901 --> 01:13:21.600
+<v timpritlove>Datenformate.
+
+01:13:21.601 --> 01:13:25.100
+<v hendrikballhausen>Datenformate, geht gar nicht.
+
+01:13:25.101 --> 01:13:28.100
+<v hendrikballhausen>Deswegen eben dieser Ansatz, ihr könnt das programmieren mit was ihr wollt,
+
+01:13:28.101 --> 01:13:32.200
+<v hendrikballhausen>wir haben Clients für alle Sprachen, es ist betriebssystemunabhängig,
+
+01:13:32.201 --> 01:13:35.300
+<v hendrikballhausen>es läuft selbst auf meinem Android-Smartphone, ich habe es auf meinem Android-Smartphone,
+
+01:13:35.301 --> 01:13:38.900
+<v hendrikballhausen>da läuft es ganz genauso drauf, es läuft inzwischen auch auf dem Rasperry Pie,
+
+01:13:38.901 --> 01:13:43.800
+<v hendrikballhausen>also es können auch Schüler, Schulen können das vielleicht auch mal gerne ausprobieren.
+
+01:13:43.801 --> 01:13:47.200
+<v hendrikballhausen>Und das ist noch eben so ein wichtiger Punkt, use what you have
+
+01:13:47.201 --> 01:13:49.900
+<v hendrikballhausen>und verwendet weiter das, was ihr kennt.
+
+01:13:49.901 --> 01:13:52.200
+<v hendrikballhausen>Auch damit alleine sind schon Hürden abgebaut.
+
+01:13:52.201 --> 01:13:54.300
+<v hendrikballhausen>Und das ist letztlich das, was wir mit unserem Projekt wollen,
+
+01:13:54.301 --> 01:13:58.400
+<v hendrikballhausen>Hürden abbauen, Hürden, abbauen, Hürden abbauen und Awareness schaffen.
+
+01:13:58.401 --> 01:14:01.700
+<v timpritlove>Und am Ende braucht es eigentlich nur noch so eine kollektive Taxonomie,
+
+01:14:01.701 --> 01:14:06.300
+<v timpritlove>in der man dann halt die tatsächlichen Daten dann so berechnet und zusammenführt,
+
+01:14:06.301 --> 01:14:10.900
+<v timpritlove>wie man sie dann eben gerne hätte, aber man muss nicht an den eigenen Datenbeständen groß was ändern.
+
+01:14:10.901 --> 01:14:11.400
+<v hendrikballhausen>Richtig.
+
+01:14:11.401 --> 01:14:15.000
+<v timpritlove>Man muss sie nur in dem Moment, wo diese Berechnungen durchgeführt werden,
+
+01:14:15.001 --> 01:14:20.600
+<v timpritlove>die Daten eingesammelt werden, entsprechend abbilden können und selber auch lokal prozessieren können.
+
+01:14:20.601 --> 01:14:25.400
+<v hendrikballhausen>Ja, richtig.
+
+01:14:25.401 --> 01:14:30.100
+<v timpritlove>Na, das klingt doch alles nach blühenden Landschaften.
+
+01:14:30.101 --> 01:14:35.100
+<v hendrikballhausen>Ja, wir hoffen, wir haben jetzt drei Jahre Zeit, dass das funktionieren kann
+
+01:14:35.101 --> 01:14:43.700
+<v hendrikballhausen>und wir freuen uns natürlich auf und über jeden Interessenten.
+
+01:14:43.701 --> 01:14:49.200
+<v timpritlove>Also die drei Jahre, die jetzt durch die Wirkung hoch 100 Preis finanziert wurde vom Stifterverband.
+
+01:14:49.201 --> 01:14:50.800
+<v hendrikballhausen>Ganz genau.
+
+01:14:50.801 --> 01:14:56.900
+<v hendrikballhausen>Wir würden natürlich auch versuchen, uns durch andere Drittmittelantragstellungen querzufinanzieren.
+
+01:14:56.901 --> 01:15:02.400
+<v hendrikballhausen>Also wir sehen das jetzt schon in der Medizin natürlich, wenn es jetzt andere Drittmittelprojekte gibt,
+
+01:15:02.401 --> 01:15:06.100
+<v hendrikballhausen>die das auch verwenden, dann sorgen wir dafür, dass da ein bisschen was zurückfließt.
+
+01:15:06.101 --> 01:15:14.100
+<v hendrikballhausen>Gar nicht jetzt aus Profitinteresse, sondern einfach um den Topf dieses Drittmittelprojektes weiter zu stärken.
+
+01:15:14.101 --> 01:15:20.600
+<v hendrikballhausen>Aber das allermeiste kommt im Moment vom Stifterverband und das ist auch genau das richtige Format,
+
+01:15:20.601 --> 01:15:25.500
+<v hendrikballhausen>um eben jetzt diese Showcases darzustellen.
+
+01:15:25.501 --> 01:15:29.900
+<v timpritlove>Und wird dann die LMU die erste sein, die das auch wirklich zur Anwendung bringt?
+
+01:15:29.901 --> 01:15:33.900
+<v hendrikballhausen>Na, die LMU hat es ja schon verwandt die die Charité hat es auch verwandt
+
+01:15:33.901 --> 01:15:35.800
+<v hendrikballhausen>und einige andere Universitäten.
+
+01:15:35.801 --> 01:15:41.300
+<v hendrikballhausen>Tatsächlich würden wir uns jetzt ganz besonders freuen, wenn ein, zwei dieser Ideen,
+
+01:15:41.301 --> 01:15:49.900
+<v hendrikballhausen>die wir jetzt in diesem, sage ich mal, Spannungsfeld von Public Sector, Private Sector stattfinden, funktionieren würden.
+
+01:15:49.901 --> 01:15:55.800
+<v hendrikballhausen>Da gibt es interessante Usecases aus der Automobilindustrie,
+
+01:15:55.801 --> 01:16:01.800
+<v hendrikballhausen>da gibt es ja zum Beispiel auch am Horizont dieses Gaia X, diese europäische Cloud-Plattform,
+
+01:16:01.801 --> 01:16:08.700
+<v hendrikballhausen>die ja eigentlich eher ein gemeinsames Arbeiten auch an Protokollen und Formaten ist,
+
+01:16:08.701 --> 01:16:11.500
+<v hendrikballhausen>da würde es sehr gut hineinpassen.
+
+01:16:11.501 --> 01:16:17.200
+<v hendrikballhausen>Aber letztendlich muss ich ganz ehrlich sagen, ich würde mich im Moment am allerallerallermeisten freuen,
+
+01:16:17.201 --> 01:16:21.200
+<v hendrikballhausen>wenn wirklich ein junges Gründerteam kommt oder ein kleiner Mittelständler,
+
+01:16:21.201 --> 01:16:27.500
+<v hendrikballhausen>der sagt, das ist genau das, was wir gesucht haben und wir bauen jetzt eine ganz knackige,
+
+01:16:27.501 --> 01:16:32.600
+<v hendrikballhausen>konkrete, spannende Anwendung da drum herum.
+
+01:16:32.601 --> 01:16:36.500
+<v hendrikballhausen>Das wäre eigentlich das, was mich persönlich am meisten freuen würde.
+
+01:16:36.501 --> 01:16:40.600
+<v timpritlove>Gibt es alles auf FederatedSecure.com
+
+01:16:40.601 --> 01:16:43.600
+<v hendrikballhausen>FederatedSecure.com, das ist unsere Landingpage, gerne hinschauen
+
+01:16:43.601 --> 01:16:49.000
+<v hendrikballhausen>oder für die Leute, die jetzt nah an den Keyboards sitzen und programmieren wollen,
+
+01:16:49.001 --> 01:16:55.900
+<v hendrikballhausen>auf Github FDRTD, federated ist die Sammlung unserer Repositorien(?)
+
+01:16:55.901 --> 01:17:02.900
+<v hendrikballhausen>und jederzeit gerne mitmachen, unser Projekt wächst und gedeiht natürlich auch nur mit Leuten,
+
+01:17:02.901 --> 01:17:06.200
+<v hendrikballhausen>nicht nur die das benutzen, sondern die dann auch zurückgeben,
+
+01:17:06.201 --> 01:17:09.300
+<v hendrikballhausen>genau das ist ja auch die Philosophie eines OpenSource-Projektes.
+
+01:17:09.301 --> 01:17:10.400
+<v timpritlove>Genau.
+
+01:17:10.401 --> 01:17:18.600
+<v timpritlove>Ja, würde ich sagen, haben wir alles zusammengefegt oder, was man hierzu sagen kann?
+
+01:17:18.601 --> 01:17:19.200
+<v hendrikballhausen>Ganz herzlichen Dank.
+
+01:17:19.201 --> 01:17:21.700
+<v timpritlove>Ja, ich habe zu danken.
+
+01:17:21.701 --> 01:17:25.700
+<v timpritlove>Ja, und ich danke auch fürs Zuhören hier bei Forschergeist.
+
+01:17:25.701 --> 01:17:30.300
+<v timpritlove>Das war die 95. Ausgabe und hier geht es bald wieder weiter.
+
+01:17:30.301 --> 01:17:32.300
+<v timpritlove>Bis dahin sage ich, tschüss und bis bald.

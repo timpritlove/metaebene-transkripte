@@ -1,0 +1,3056 @@
+﻿WEBVTT
+
+00:00:43.101 --> 00:00:48.100
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:48.101 --> 00:00:54.600
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zu Ausgabe 89 unserer Gesprächsreihe
+
+00:00:54.601 --> 00:01:00.600
+<v timpritlove>und heute hat mich der Weg nach München geführt und stellt mich in gewisser Hinsicht auch für eine doppelte Herausforderung.
+
+00:01:00.601 --> 00:01:06.800
+<v timpritlove>Denn einerseits möchte ich über Mathematik reden und das ist, glaube ich, generell schon mal eine gewisse Herausforderung.
+
+00:01:06.801 --> 00:01:09.900
+<v timpritlove>Auch wenn wir das hier schon mal getan haben.
+
+00:01:09.901 --> 00:01:12.900
+<v timpritlove>Und wir werden auch viel über Visualisierung sprechen.
+
+00:01:12.901 --> 00:01:15.500
+<v timpritlove>Und auch das ist ja ein bisschen knifflig in einem Podcast.
+
+00:01:15.501 --> 00:01:19.700
+<v timpritlove>Nichts desto trotz, ich bin zuversichtlich, dass mir das gelingen wird mit meinem Gesprächspartner,
+
+00:01:19.701 --> 00:01:21.900
+<v timpritlove>nämlich Jürgen Richter-Gebert, schönen guten Tag.
+
+00:01:21.901 --> 00:01:25.100
+<v jürgenrichtergebert>Hallo, ich freue mich hier zu sein.
+
+00:01:25.101 --> 00:01:32.200
+<v timpritlove>Ja, Herr Richter-Gebert, wir sind hier im Lehrstuhl für Geometrie und Visualisierung, richtig, an der TU München.
+
+00:01:32.201 --> 00:01:33.400
+<v jürgenrichtergebert>Ganz genau.
+
+00:01:33.401 --> 00:01:41.100
+<v timpritlove>In Garching, in diesem Forschungszentrumsbereich, wo auch noch sehr viele andere sehr interessante Organisationen ihr Heim haben.
+
+00:01:41.101 --> 00:01:43.500
+<v timpritlove>Und das Ganze ist natürlich der Mathematikteil.
+
+00:01:43.501 --> 00:01:47.700
+<v timpritlove>Ist das eigentlich mit der Informatik zusammen die Bereich in der TU München?
+
+00:01:47.701 --> 00:01:55.000
+<v jürgenrichtergebert>Wir sind zumindest im selben Gebäude drin, das heißt, die eine Hälfte vom Gebäude ist die Mathematik, die andere Hälfte ist die Informatik.
+
+00:01:55.001 --> 00:01:59.900
+<v jürgenrichtergebert>Und in nicht allzu ferner Zukunft sind wir sogar in einer Organisationseinheit zusammen,
+
+00:01:59.901 --> 00:02:06.100
+<v jürgenrichtergebert>weil die TU im Moment umstellt und Fakultäten zu Schools zusammengefasst werden
+
+00:02:06.101 --> 00:02:09.700
+<v jürgenrichtergebert>und dann sind wir dann nach außen hin eine Fakultät sogar.
+
+00:02:09.701 --> 00:02:10.900
+<v timpritlove>Okay.
+
+00:02:10.901 --> 00:02:16.500
+<v jürgenrichtergebert>Oder eine School, besser gesagt, für Computation, Information, Technology.
+
+00:02:16.501 --> 00:02:19.400
+<v timpritlove>Und ist das eine begrüßenswerte Tendenz?
+
+00:02:19.401 --> 00:02:26.200
+<v timpritlove>Ist das etwas, was, sagen wir mal, naturgemäß gut zusammenpasst, weil hier sowieso schon viel zusammen gearbeitet wird?
+
+00:02:26.201 --> 00:02:30.000
+<v jürgenrichtergebert>Also Mathematik und Informatik gehören natürlich irgendwo zusammen.
+
+00:02:30.001 --> 00:02:34.300
+<v jürgenrichtergebert>Letztlich ein großer Teil der Informatik ist aus der Mathematik raus entstanden
+
+00:02:34.301 --> 00:02:43.500
+<v jürgenrichtergebert>und die Mathematik bedient sich immer wieder der Informatik, um die verschiedensten Dinge zu machen, meistens die coolsten Dinge zu machen.
+
+00:02:43.501 --> 00:02:50.700
+<v jürgenrichtergebert>Und von daher es gehört irgendwo zusammen und man sollte es auch in dem Verständnis zusammen pflegen.
+
+00:02:50.701 --> 00:02:55.800
+<v jürgenrichtergebert>Wird natürlich nicht von jeder Person in gleichem Umfang gemacht, sowohl auf der einen als auch auf der anderen Seite.
+
+00:02:55.801 --> 00:02:59.400
+<v jürgenrichtergebert>Aber Potenzial hat das, jede Menge.
+
+00:02:59.401 --> 00:03:03.900
+<v timpritlove>Das Thema greifen wir noch mal auf, aber ich würde gern zu Beginn, wie es hier so meine Art ist,
+
+00:03:03.901 --> 00:03:10.000
+<v timpritlove>vielleicht erst mal so ein bisschen in Ihre Vita einsteigen und mal so rausfinden, wie es denn hier eigentlich dazu kam,
+
+00:03:10.001 --> 00:03:13.600
+<v timpritlove>dass wir jetzt hier zusammen sitzen.
+
+00:03:13.601 --> 00:03:19.400
+<v timpritlove>Ich ahne ein Liebe zur Mathematik, die früh angefangen hat, richtig geraten oder kam das erst später?
+
+00:03:19.401 --> 00:03:23.100
+<v jürgenrichtergebert>Richtig geraten, kommt drauf an, wie früh früh ist.
+
+00:03:23.101 --> 00:03:27.400
+<v jürgenrichtergebert>Also vielleicht das früheste war die Liebe zu wissenschaftlichen Phänomenen,
+
+00:03:27.401 --> 00:03:33.300
+<v jürgenrichtergebert>angefangen mit irgendwelchen Magneten, Stecknadeln, Lupen, die man als Brenngläser verwendet,
+
+00:03:33.301 --> 00:03:40.900
+<v jürgenrichtergebert>um irgendwelche Papiere anzubrennen, so Sachen habe ich, glaube ich, schon als Vierjähriger, Fünfjähriger gemacht.
+
+00:03:40.901 --> 00:03:46.100
+<v jürgenrichtergebert>Und das ging dann halt immer mehr in das, was ich formales Denken nenne, rein.
+
+00:03:46.101 --> 00:03:51.900
+<v jürgenrichtergebert>Und also das allgemeine Problemlösen mit angeschaltetem Kopf.
+
+00:03:51.901 --> 00:03:57.400
+<v jürgenrichtergebert>Und ein Teil davon ist die Mathematik, ein anderer Teil davon ist die Informatik,
+
+00:03:57.401 --> 00:04:01.900
+<v jürgenrichtergebert>ein anderer Teil davon ist die E-Technik, die Physik und so weiter.
+
+00:04:01.901 --> 00:04:10.300
+<v jürgenrichtergebert>Und in dem Spielplatz habe ich mich im Prinzip als Kind bewegt und bin davon eigentlich bis jetzt noch nicht weggekommen.
+
+00:04:10.301 --> 00:04:15.400
+<v timpritlove>Trotzdem gab es dann irgendwann, schlug das Pendel mehr in Richtung Mathematik aus?
+
+00:04:15.401 --> 00:04:23.500
+<v jürgenrichtergebert>Das Pendel schlug auf vielfältige Weise in Richtung Mathematik aus, aber nicht allein in Richtung Mathematik.
+
+00:04:23.501 --> 00:04:30.300
+<v jürgenrichtergebert>Als ich, nach dem Abi überlegt man dann irgendwann, was studierst du denn jetzt?
+
+00:04:30.301 --> 00:04:38.600
+<v jürgenrichtergebert>Und da stand bei mir die Wahl zwischen Physik, E-Technik, Informatik, Psychologie und Mathematik.
+
+00:04:38.601 --> 00:04:44.300
+<v jürgenrichtergebert>Und am Ende fiel die Wahl auf Mathematik, weil ich mir gesagt habe, Mathematik ist letztlich überall drin
+
+00:04:44.301 --> 00:04:50.000
+<v jürgenrichtergebert>und es ist die Grundlage von allem und wenn du irgendwann mal in den anderen Bereichen was machen willst,
+
+00:04:50.001 --> 00:04:54.400
+<v jürgenrichtergebert>dann ist die beste Grundausbildung die, dass du sagst, du machst Mathematik.
+
+00:04:54.401 --> 00:05:02.800
+<v jürgenrichtergebert>Und mittlerweile ist es so, ich stehe ständig mit einem Fuß in mindestens einem der anderen Gebiete nach wie vor noch drin
+
+00:05:02.801 --> 00:05:12.300
+<v jürgenrichtergebert>und habe aber auf dem Weg von damals bis jetzt aber auch schon das eine oder andere etwas fettere mathematische Problem geknackt.
+
+00:05:12.301 --> 00:05:15.200
+<v timpritlove>Also wurde es dann ein Mathestudium?
+
+00:05:15.201 --> 00:05:21.100
+<v jürgenrichtergebert>Es wurde ein Mathestudium, Techno-Mathe, mit Nebenfach Informatik und E-Technik.
+
+00:05:21.101 --> 00:05:22.900
+<v jürgenrichtergebert>Also wie gesagt, das gehört alles irgendwo zusammen.
+
+00:05:22.901 --> 00:05:23.700
+<v timpritlove>Wo?
+
+00:05:23.701 --> 00:05:27.400
+<v jürgenrichtergebert>Darmstadt, TU Darmstadt, TH damals noch.
+
+00:05:27.401 --> 00:05:29.100
+<v jürgenrichtergebert>80er Jahre.
+
+00:05:29.101 --> 00:05:34.000
+<v timpritlove>Ja, da mussten sie, da gab es so einige Hochschulen, die später zu Universitäten wurden,
+
+00:05:34.001 --> 00:05:35.900
+<v timpritlove>gerade über diese Linie, über die technische Informatik.
+
+00:05:35.901 --> 00:05:43.700
+<v jürgenrichtergebert>Naja, es ist letztlich eine Umbenennung stattgefunden, nachdem die Fachhochschulen sich sich dann irgendwann Hochschulen genannt haben,
+
+00:05:43.701 --> 00:05:48.400
+<v jürgenrichtergebert>dann wollten die technischen Hochschulen nicht mehr Hochschule heißen und ist alles okay.
+
+00:05:48.401 --> 00:05:53.100
+<v jürgenrichtergebert>TU Darmstadt, TH Darmstadt, klasse Adresse.
+
+00:05:53.101 --> 00:05:56.800
+<v timpritlove>Ja auf jeden Fall ein sehr bekannter Name, gerade was so auch die Informatik betrifft.
+
+00:05:56.801 --> 00:06:04.100
+<v timpritlove>Also viele Aktivitäten sicherlich so einer der, ich weiß nicht, ob ich jetzt führend sagen will, aber sagen wir mal zumindest,
+
+00:06:04.101 --> 00:06:12.500
+<v timpritlove>so einer der Orte, die immer wieder fallen, wenn besondere Studien vorangetrieben werden und gute Forschung gemacht wird.
+
+00:06:12.501 --> 00:06:15.800
+<v timpritlove>Gerade auch im Sicherheitsbereich ist, glaube ich, Darmstadt sehr bekannt.
+
+00:06:15.801 --> 00:06:24.000
+<v timpritlove>Okay. Aber trotzdem führte der Weg dann irgendwann woanders hin, wohin ging es denn dann erst mal?
+
+00:06:24.001 --> 00:06:27.200
+<v jürgenrichtergebert>Nach der Zeit in Darmstadt war ich tatsächlich erst mal ein bisschen in der Industrie tätig
+
+00:06:27.201 --> 00:06:37.100
+<v jürgenrichtergebert>und habe für Firmen gearbeitet, oder für eine Firma gearbeitet, die NC-Steuerungsmaschinen programmiert hat.
+
+00:06:37.101 --> 00:06:43.700
+<v jürgenrichtergebert>Danach war ich eine Weile im Forschungszentrum der Telekom und danach ging es an die Universität zurück nach Berlin.
+
+00:06:43.701 --> 00:06:48.700
+<v jürgenrichtergebert>Da hatte ich ein Angebot von einem Kollegen, der gesagt hat, du bist blöd, wenn du nicht habilitierst.
+
+00:06:48.701 --> 00:06:55.400
+<v jürgenrichtergebert>Komm zu mir, ich habe eine Stelle, das war der Günther Ziegler, und ich habe die Zeit dort unglaublich genossen,
+
+00:06:55.401 --> 00:07:04.000
+<v jürgenrichtergebert>das war auch eine der Zeiten, in denen viele sehr spannende mathematische Ergebnisse gepurzelt sind.
+
+00:07:04.001 --> 00:07:07.600
+<v jürgenrichtergebert>Und da war ich bis, ich glaube, 97.
+
+00:07:07.601 --> 00:07:16.800
+<v jürgenrichtergebert>Danach dreieinhalb Jahre an der ETH Zürich und danach dann seit 2001 hier in München.
+
+00:07:16.801 --> 00:07:21.300
+<v timpritlove>Die Vorlage muss ich nutzen, um noch mal hier auf Forschergeist 31 hinzuweisen,
+
+00:07:21.301 --> 00:07:27.900
+<v timpritlove>da habe ich nämlich mit Günther Ziegler schon mal über das Abenteuer Mathematik gesprochen.
+
+00:07:27.901 --> 00:07:33.200
+<v timpritlove>Und auch schon mal eine spezielle Perspektive eingenommen.
+
+00:07:33.201 --> 00:07:37.200
+<v timpritlove>Heute werden wir, glaube ich, noch eine etwas andere Perspektive einnehmen,
+
+00:07:37.201 --> 00:07:43.900
+<v timpritlove>aber auch da haben wir uns schon sehr viel über das Wesen von Mathematik als solchem unterhalten.
+
+00:07:43.901 --> 00:07:50.200
+<v timpritlove>Dieser Weg von der Uni in die Industrie und wieder zurück, der interessiert mich.
+
+00:07:50.201 --> 00:07:55.400
+<v timpritlove>Weil wir hatten das hier auch vor zwei Sendungen, als es um Computertomographie ging,
+
+00:07:55.401 --> 00:08:00.400
+<v timpritlove>sagen wir mal, was eine Forschung ist, die sehr im industriellen Bereich stattfindet, weil sie sehr spezifisch ist,
+
+00:08:00.401 --> 00:08:03.700
+<v timpritlove>weil sie sehr anwendungsorientiert ist.
+
+00:08:03.701 --> 00:08:11.700
+<v timpritlove>Manche drängt es ja in diese konkreten Anwendungen, andere drängt es vielleicht eher in die Lehre oder eben auch in die Forschung.
+
+00:08:11.701 --> 00:08:17.800
+<v timpritlove>Wenn man jetzt beides mal so mitgemacht hat, was ist der Reiz in dem einen Bereich, was ist der Reiz in dem anderen?
+
+00:08:17.801 --> 00:08:23.300
+<v jürgenrichtergebert>Also für mich ist der Reiz, auch da immer wieder Grenzgänger zu sein.
+
+00:08:23.301 --> 00:08:30.100
+<v jürgenrichtergebert>Also in dem Moment, wo man an Anwendungsproblemen arbeitet, sei es drum,
+
+00:08:30.101 --> 00:08:39.100
+<v jürgenrichtergebert>jetzt für die Firma zum Beispiel irgendwelche NC-Steuerungen, also numerisch controllte Fräsroboter damals zu machen,
+
+00:08:39.101 --> 00:08:44.200
+<v jürgenrichtergebert>wenn man das gut und richtig machen will, kommt man an der Mathematik nicht vorbei.
+
+00:08:44.201 --> 00:08:48.500
+<v jürgenrichtergebert>Und hinter dem, was ich vorhin so das formale Denken genannt habe.
+
+00:08:48.501 --> 00:08:55.500
+<v jürgenrichtergebert>Dann muss man ein Problem so weit durchdringen, dass danach auch eine bestmögliche Lösung irgendwo, wenn es geht, rauskommt.
+
+00:08:55.501 --> 00:08:59.100
+<v jürgenrichtergebert>Und das ist auch tatsächlich dann am Ende des Tages wirtschaftlich relevant.
+
+00:08:59.101 --> 00:09:05.300
+<v jürgenrichtergebert>Und ich habe in meinem Leben eigentlich so die Erfahrung gemacht, dass egal was man anfasst,
+
+00:09:05.301 --> 00:09:09.500
+<v jürgenrichtergebert>wenn es ein Problem zumindest im technischen, aber auch in vielen anderen Bereichen, ist,
+
+00:09:09.501 --> 00:09:17.400
+<v jürgenrichtergebert>dass man, wenn man es richtig machen will, um eine tiefe Durchdringung der dahinterliegenden Mathematik überhaupt nicht drum rum kommt.
+
+00:09:17.401 --> 00:09:24.600
+<v jürgenrichtergebert>Und umgekehrt, wenn man Mathematik kann und Mathematik macht, ich sage jetzt immer sehr pauschal Mathematik,
+
+00:09:24.601 --> 00:09:32.800
+<v jürgenrichtergebert>Mathematik ist eine extrem vielfältige Wissenschaft, also man kann eigentlich nicht von der einen Mathematik einfach so reden,
+
+00:09:32.801 --> 00:09:34.700
+<v jürgenrichtergebert>aber das lassen wir jetzt erst mal beiseite.
+
+00:09:34.701 --> 00:09:40.600
+<v jürgenrichtergebert>Aber wenn man diesen Werkzeugkasten hat, dann kann man auch unglaublich tolle Sachen damit machen
+
+00:09:40.601 --> 00:09:47.400
+<v jürgenrichtergebert>und ist dann natürlich aus der Theorie kommend dann wiederum auch sehr schnell bei interessanten Anwendungen,
+
+00:09:47.401 --> 00:09:52.400
+<v jürgenrichtergebert>wo die Mathematik einfach möglich macht, die ohne das gar nicht gingen.
+
+00:09:52.401 --> 00:09:57.900
+<v jürgenrichtergebert>Und dieses Wechselspiel finde ich mein Leben lang schon interessant.
+
+00:09:57.901 --> 00:10:06.200
+<v jürgenrichtergebert>Und natürlich noch den Bezug dann, diese Sachen auch tatsächlich in die Öffentlichkeit ein Stück reinzubringen,
+
+00:10:06.201 --> 00:10:10.300
+<v jürgenrichtergebert>damit, Sie fragen nach der Biografie, okay…
+
+00:10:10.301 --> 00:10:16.200
+<v jürgenrichtergebert>Jetzt hüpfe ich mal zurück in die Zeit irgendwo siebte, achte Klasse, da bin ich sehr gern in der Schule als Zauberer aufgetreten.
+
+00:10:16.201 --> 00:10:19.500
+<v jürgenrichtergebert>Und Mathematik gibt einem ein bisschen ähnliche Kräfte,
+
+00:10:19.501 --> 00:10:27.100
+<v jürgenrichtergebert>weil man kann damit manchmal Dinge machen, wo die Leute sagen, ach und wie funktioniert das jetzt?
+
+00:10:27.101 --> 00:10:30.500
+<v jürgenrichtergebert>Und wie passt das jetzt plötzlich zusammen?
+
+00:10:30.501 --> 00:10:37.300
+<v jürgenrichtergebert>Und dann kann man, wenn Mathematik und keine Zauberer hinten dran steckt, kann man dann sehr schön drüber reden und sagen,
+
+00:10:37.301 --> 00:10:42.200
+<v jürgenrichtergebert>ja jetzt fang doch mal an darüber nachzudenken, was siehst du denn hier, was hast du denn vor dir?
+
+00:10:42.201 --> 00:10:46.900
+<v jürgenrichtergebert>Warum führen denn dieses Effekte so schön zu dem, was du am Ende siehst?
+
+00:10:46.901 --> 00:10:51.600
+<v jürgenrichtergebert>Jetzt machen wir ein bisschen Visualisierung über Podcast, indem ich zumindest das Gefühl beschreibe,
+
+00:10:51.601 --> 00:10:56.200
+<v jürgenrichtergebert>das man hat, wenn man irgendwo was gut visualisiert bekommt.
+
+00:10:56.201 --> 00:11:00.300
+<v timpritlove>Ja. Da kommen wir auf jeden Fall noch zu.
+
+00:11:00.301 --> 00:11:07.000
+<v timpritlove>Das heißt, ich deute das jetzt mal als, das waren wertvolle Erfahrungen und schön zu sehen,
+
+00:11:07.001 --> 00:11:11.500
+<v timpritlove>dass man sein konkretes mathematisches Wissen auch in einer Anwendung anbringt,
+
+00:11:11.501 --> 00:11:21.400
+<v timpritlove>aber am Ende gab es dann doch mehr den Wunsch, das weiter zu vertiefen und da mehr Zugang zu einer Forschung zu haben,
+
+00:11:21.401 --> 00:11:25.500
+<v timpritlove>Bereiche auszuloten, die noch nicht ausgelotet sind?
+
+00:11:25.501 --> 00:11:33.800
+<v jürgenrichtergebert>Ich liebe schwierige Probleme und die hat man natürlich in der mathematischen Grundlagenforschung an allen Ecken und Enden
+
+00:11:33.801 --> 00:11:40.300
+<v jürgenrichtergebert>und ich komme tatsächlich in meiner Forschungsrichtung eher aus einer Grundlagenecke, 
+
+00:11:40.301 --> 00:11:46.200
+<v jürgenrichtergebert>wo es also jetzt nicht sofort darum geht, jetzt die und die konkrete Anwendung mit der Mathematik machen zu wollen.
+
+00:11:46.201 --> 00:11:52.400
+<v jürgenrichtergebert>Sondern, zum Beispiel als ich habilitiert habe, da ging es um theoretische Fragen von Vielflächen im vierdimensionalen Raum,
+
+00:11:52.401 --> 00:12:01.200
+<v jürgenrichtergebert>mit was man sich normalerweise gar nicht so sehr beschäftigen würde, hat aber durchaus auch wieder seine praktischen Aspekte.
+
+00:12:01.201 --> 00:12:07.600
+<v jürgenrichtergebert>Aber das war nicht der Reiz dabei, sondern der Reiz waren die schwierigen Probleme.
+
+00:12:07.601 --> 00:12:13.100
+<v jürgenrichtergebert>Und dann, ich unterrichte sehr gerne, ich erzähle gerne Dinge, die ich verstanden habe
+
+00:12:13.101 --> 00:12:20.600
+<v jürgenrichtergebert>und manchmal verstehe ich auch Dinge erst dadurch, dass ich darüber unterrichte.
+
+00:12:20.601 --> 00:12:27.100
+<v jürgenrichtergebert>Und dieses Zwischenspiel das hat mich eigentlich schon das ganze Leben über gereizt, macht mir großen Spaß.
+
+00:12:27.101 --> 00:12:36.100
+<v jürgenrichtergebert>Lehre ist mir eine ganz heilige und wichtige Aufgabe und von daher bin ich so in diesem Unibereich irgendwo fühle ich mich sehr gut aufgehoben.
+
+00:12:36.101 --> 00:12:41.200
+<v jürgenrichtergebert>Muss allerdings sagen, dass ich, und das ist vielleicht ein bisschen anders als bei manchen anderen Kollegen,
+
+00:12:41.201 --> 00:12:46.900
+<v jürgenrichtergebert>immer einen starken Drang auch nach außen raus habe, also aus den Dingen, die man jetzt macht,
+
+00:12:46.901 --> 00:12:50.700
+<v jürgenrichtergebert>dann wiederum etwas zu machen, was man eben auch anderen Leuten zeigen kann.
+
+00:12:50.701 --> 00:12:56.800
+<v jürgenrichtergebert>Und da bietet halt die Mathematik auch wieder einiges.
+
+00:12:56.801 --> 00:12:59.700
+<v timpritlove>Und so führte das Ganze dann zu dieser Professur hier in München?
+
+00:12:59.701 --> 00:13:01.900
+<v jürgenrichtergebert>Genau.
+
+00:13:01.901 --> 00:13:07.600
+<v timpritlove>Und worauf fokussiert sich jetzt dieser Lehrstuhl?
+
+00:13:07.601 --> 00:13:13.500
+<v jürgenrichtergebert>Der Lehrstuhl ist ein Lehrstuhl für Geometrie und Visualisierung.
+
+00:13:13.501 --> 00:13:22.300
+<v jürgenrichtergebert>Das heißt, in den beiden Wörtern stecken schon zwei Aspekte drin, die einfach wichtig sind.
+
+00:13:22.301 --> 00:13:26.200
+<v jürgenrichtergebert>Geometrie ist für uns wirklich auch ein ganzes Stück Grundlagenforschung,
+
+00:13:26.201 --> 00:13:35.400
+<v jürgenrichtergebert>mathematische Grundlagenforschung, aber eben die dann auch zu benutzen, um damit konkret Visualisierungen zu machen,
+
+00:13:35.401 --> 00:13:36.400
+<v jürgenrichtergebert>ist ein Teil der Forschung hier.
+
+00:13:36.401 --> 00:13:42.500
+<v jürgenrichtergebert>Das heißt, die Forschung hier am Lehrstuhl die geht von sogenannter geometrischer in Variantentheorie,
+
+00:13:42.501 --> 00:13:49.600
+<v jürgenrichtergebert>kombinatorische Geometrie, polytope Theorie, ist jetzt immer hinten dran das Wort Theorie
+
+00:13:49.601 --> 00:13:55.100
+<v jürgenrichtergebert>und das heißt auch schon, das ist eher so im Grundlagenaspekt verankert.
+
+00:13:55.101 --> 00:14:02.700
+<v jürgenrichtergebert>Bis aber eben dazu hin, dass es eine der wichtigen Aufgaben hier ist, mathematische Grundlagen zu schaffen,
+
+00:14:02.701 --> 00:14:12.700
+<v jürgenrichtergebert>die dann wiederum die softwaregestützte Umsetzung von Geometrie und Mathematik auf dem Computer überhaupt erst ermöglichen.
+
+00:14:12.701 --> 00:14:17.400
+<v jürgenrichtergebert>Und da stellt man dann, ich habe vorhin schon mal gesagt, wenn man eine Sache richtig machen will,
+
+00:14:17.401 --> 00:14:24.800
+<v jürgenrichtergebert>braucht man jede Menge Mathematik dazu und auch da stellt sich raus, wenn man Dinge gut und korrekt visualisieren möchte,
+
+00:14:24.801 --> 00:14:33.000
+<v jürgenrichtergebert>in die Anschauung reinbringen möchte, dann ist auf dem Weg dahin tatsächlich wiederum viel Mathematik zu betreiben.
+
+00:14:33.001 --> 00:14:39.500
+<v jürgenrichtergebert>Das heißt, was wir hier auch viel machen, sind einfach wirklich mathematische Grundlagen von interaktiven Visualisierungen,
+
+00:14:39.501 --> 00:14:46.300
+<v jürgenrichtergebert>wobei ein Schwerpunkt hier bei uns am Lehrstuhl wirklich auf dem Interaktionsaspekt liegt,
+
+00:14:46.301 --> 00:14:54.300
+<v jürgenrichtergebert>also es geht uns weniger darum, Filmsequenzen zu produzieren, als darum, Werkzeuge zu produzieren,
+
+00:14:54.301 --> 00:14:59.900
+<v jürgenrichtergebert>mit denen man interaktive Spielszenarien letztlich bauen kann.
+
+00:14:59.901 --> 00:15:13.500
+<v jürgenrichtergebert>Mit denen man mathematische Effekte erklären kann, indem die Leute mit diesen Produkten am Ende in Interaktion treten mit Maus und Finger und am Bildschirm.
+
+00:15:13.501 --> 00:15:18.100
+<v jürgenrichtergebert>Und letztlich selbst ein Stück zum Forscher werden als ein Konzept.
+
+00:15:18.101 --> 00:15:22.100
+<v jürgenrichtergebert>Also wir haben ja auch viele Zusammenarbeiten mit der TUM School of Education.
+
+00:15:22.101 --> 00:15:27.700
+<v jürgenrichtergebert>Ein Konzept, das wir an der Stelle immer wieder haben, sind sogenannte Mikrolaboratorien.
+
+00:15:27.701 --> 00:15:36.300
+<v jürgenrichtergebert>Das sind kleine abgezirkelte interaktive Spielfelder, in denen der Benutzer am Ende selbst zum Forscher werden kann.
+
+00:15:36.301 --> 00:15:42.100
+<v jürgenrichtergebert>Da gibt es zum Beispiel Dinge über Molekülbildung von geladenen Teilchen,
+
+00:15:42.101 --> 00:15:45.700
+<v jürgenrichtergebert>wo man mit einem Schieberegler einstellen kann, welche Ladung haben die denn jetzt,
+
+00:15:45.701 --> 00:15:52.200
+<v jürgenrichtergebert>welchen Nahwirkungsabstoßungsradius haben die und dann plötzlich Effekte sieht und erlebt,
+
+00:15:52.201 --> 00:15:59.700
+<v jürgenrichtergebert>die ansonsten auf molekularer Ebene stattfinden und darüber bekommt man ein viel besseres Verständnis dafür,
+
+00:15:59.701 --> 00:16:01.700
+<v jürgenrichtergebert>wie sind dann letztlich hinten dran die Wirkmechanismen.
+
+00:16:01.701 --> 00:16:05.500
+<v jürgenrichtergebert>Und wie gesagt, um das zu machen, braucht es dann wieder einen Haufen mathematische Theorie
+
+00:16:05.501 --> 00:16:07.600
+<v jürgenrichtergebert>und die machen wir hier am Lehrstuhl.
+
+00:16:07.601 --> 00:16:09.200
+<v jürgenrichtergebert>So lange Antwort auf kurze Frage.
+
+00:16:09.201 --> 00:16:13.300
+<v timpritlove>Naja gut, aber das wirkt ja dann auch nicht nur in die Informatik rein, wenn Software beteiligt ist,
+
+00:16:13.301 --> 00:16:18.000
+<v timpritlove>sondern jetzt auch in die Chemie und die Physik und im Prinzip ja eigentlich auch in alle Felder.
+
+00:16:18.001 --> 00:16:27.800
+<v timpritlove>Und das ist eigentlich so das Ding, Mathematik, finde ich, hat so eine Sonderrolle in den Wissenschaften,
+
+00:16:27.801 --> 00:16:37.400
+<v timpritlove>weil es einfach so eine Schlüsselwissenschaft ist, die ja irgendwo in allem drin steckt.
+
+00:16:37.401 --> 00:16:41.200
+<v timpritlove>Also mir würde jetzt zumindest kaum etwas einfallen, man könnte natürlich jetzt drüber diskutieren,
+
+00:16:41.201 --> 00:16:49.600
+<v timpritlove>inwiefern die Geisteswissenschaft von der Mathematik beseelt oder bevölkert ist,
+
+00:16:49.601 --> 00:16:56.800
+<v timpritlove>aber sie kann sich zumindest über Mathematik, glaube ich, auch viel Gedanken darüber machen,
+
+00:16:56.801 --> 00:17:02.900
+<v timpritlove>was die Mathematik quasi zu erklären in der Lage ist und was vielleicht auch nicht.
+
+00:17:02.901 --> 00:17:08.700
+<v timpritlove>Was ist denn so aus Ihrer Perspektive dieser Stellenwert?
+
+00:17:08.701 --> 00:17:12.100
+<v timpritlove>Ist das so, wie ich das beschrieben habe, was kann man da noch zu sagen
+
+00:17:12.101 --> 00:17:17.400
+<v timpritlove>und welchen Stellenwert hat Mathe auch in der Gesellschaft als solche aus Ihrer Sicht?
+
+00:17:17.401 --> 00:17:18.800
+<v jürgenrichtergebert>Oh vielfältige Frage.
+
+00:17:18.801 --> 00:17:20.900
+<v jürgenrichtergebert>Also das eine habe ich vorhin schon gesagt bei meiner Studienwahl.
+
+00:17:20.901 --> 00:17:26.100
+<v jürgenrichtergebert>Ich habe Mathe studiert, weil es eben überall drinsteckt.
+
+00:17:26.101 --> 00:17:32.800
+<v jürgenrichtergebert>Und in dem Moment, wo man Wissenschaft betreibt im Sinne von, ich schränke jetzt zunächst mal auf Naturwissenschaften ein,
+
+00:17:32.801 --> 00:17:37.700
+<v jürgenrichtergebert>kommt man um die Mathematik als Grundlage gar nicht drumrum.
+
+00:17:37.701 --> 00:17:44.600
+<v jürgenrichtergebert>Theoretische Informatik ist letztlich Mathematik und Mathematik ist letztlich die Grundlage von allen Naturwissenschaften.
+
+00:17:44.601 --> 00:17:48.900
+<v jürgenrichtergebert>Das Buch der Natur ist in den Sprachen der Mathematik geschrieben.
+
+00:17:48.901 --> 00:17:54.000
+<v jürgenrichtergebert>Aber auch in dem Moment, Sie haben eben die Geisteswissenschaften angesprochen,
+
+00:17:54.001 --> 00:17:59.400
+<v jürgenrichtergebert>da ist es tatsächlich so, dass viele Bereiche der Geisteswissenschaften auch von Mathematik durchdrungen sind.
+
+00:17:59.401 --> 00:18:05.500
+<v jürgenrichtergebert>Nehmen Sie die Linguistik zum Beispiel her, da geht es ganz viel um logischen Aufbau von Sprache.
+
+00:18:05.501 --> 00:18:13.000
+<v jürgenrichtergebert>Viele Linguisten sind auf der Schnittstelle auch zur Mathematik anzuordnen.
+
+00:18:13.001 --> 00:18:19.500
+<v jürgenrichtergebert>Und gerade in unserer heutigen Zeit, wo zum Beispiel Computer Sprache erkennen sollen, Sprache reproduzieren sollen,
+
+00:18:19.501 --> 00:18:24.600
+<v jürgenrichtergebert>wird so ein Teil zum Beispiel auch direkt von Mathematik durchdrungen.
+
+00:18:24.601 --> 00:18:29.800
+<v timpritlove>Ich würde sogar sagen, die Linguistik war die Geburtsstunde der Informatik, weil so in den 50er Jahren…
+
+00:18:29.801 --> 00:18:31.500
+<v jürgenrichtergebert>In gewissem Sinne ja klar.
+
+00:18:31.501 --> 00:18:32.700
+<v timpritlove>… waren das ja eigentlich so die Kernzellen.
+
+00:18:32.701 --> 00:18:42.900
+<v jürgenrichtergebert>Klar Chomsky und so weiter, ist zumindest ein wichtiger Bereich und nicht umsonst heißt es ja in der Informatik auch Programmiersprache.
+
+00:18:42.901 --> 00:18:48.400
+<v jürgenrichtergebert>Das ist ja schon das Konzept einer Syntaxgrammatik und so weiter dahinter.
+
+00:18:48.401 --> 00:18:51.800
+<v jürgenrichtergebert>Sie haben eben noch gefragt, der Stellenwert der Mathematik in der Gesellschaft.
+
+00:18:51.801 --> 00:18:58.400
+<v jürgenrichtergebert>Ich würde sagen, sie wird nach wie vor an vielen vielen Punkten massiv unterschätzt
+
+00:18:58.401 --> 00:19:07.200
+<v jürgenrichtergebert>und viele Teile der Bevölkerung unterschätzen aber auch sich selbst massiv,
+
+00:19:07.201 --> 00:19:12.000
+<v jürgenrichtergebert>weil sie einfach viel mehr Mathematik können als sie sich zutrauen.
+
+00:19:12.001 --> 00:19:16.600
+<v jürgenrichtergebert>Und eigentlich auch in ganz vielen Zusammenhängen ständig irgendwo formal Mathematik betreiben,
+
+00:19:16.601 --> 00:19:18.400
+<v jürgenrichtergebert>ohne zu sagen, das ist jetzt Mathematik.
+
+00:19:18.401 --> 00:19:23.700
+<v jürgenrichtergebert>Also nehmen Sie die ganzen Sudoku-Puzzler und ähnliches, die haben riesigen Spaß am Sudoku und sagen,
+
+00:19:23.701 --> 00:19:32.100
+<v jürgenrichtergebert>nein, aber lass mich bitte mit Mathematik in Ruhe und das ist so ein bisschen auch ein Bewusstseinsprozess,
+
+00:19:32.101 --> 00:19:38.400
+<v jürgenrichtergebert>den ich auf Seiten der Wissenschaft in der Schuld sehe, den Leuten überhaupt zu zeigen,
+
+00:19:38.401 --> 00:19:40.800
+<v jürgenrichtergebert>wo benutzt du denn überhaupt alles Mathematik.
+
+00:19:40.801 --> 00:19:41.300
+<v jürgenrichtergebert>Oder wenn wir jetzt hier über das Mischpult reden…
+
+00:19:41.301 --> 00:19:45.400
+<v timpritlove>Ist Sudoku nicht mehr Informatik?
+
+00:19:45.401 --> 00:19:47.000
+<v jürgenrichtergebert>Naja, Sudoku ist ein Problem, okay.
+
+00:19:47.001 --> 00:19:49.800
+<v jürgenrichtergebert>Jetzt kommen wir in dieses Unterteilen der einzelnen Bereiche.
+
+00:19:49.801 --> 00:19:56.700
+<v jürgenrichtergebert>Und ich habe ganz bewusst vorhin den Begriff formal Reasoning, formales Denken mit reingebracht,
+
+00:19:56.701 --> 00:20:06.300
+<v jürgenrichtergebert>weil ich glaube, das ist etwas, woran es uns in vielen Bereichen in unserer Gesellschaft immer noch viel zu sehr fehlt,
+
+00:20:06.301 --> 00:20:12.800
+<v jürgenrichtergebert>dass Leute sich nicht trauen, auch mal formal über Dinge nachzudenken.
+
+00:20:12.801 --> 00:20:18.300
+<v jürgenrichtergebert>Und das macht man in der Mathematik, in der Physik, in der Informatik, in der E-Technik.
+
+00:20:18.301 --> 00:20:24.800
+<v jürgenrichtergebert>Und diesen Zugang bewusst zu wählen in einem Gemisch aus Synthese und Analyse,
+
+00:20:24.801 --> 00:20:32.100
+<v jürgenrichtergebert>ein Problem erst mal auseinanderzunehmen, um danach wieder zusammenzusetzen, um zu einer Lösung zu kommen,
+
+00:20:32.101 --> 00:20:37.500
+<v jürgenrichtergebert>das ist etwas, was letztlich eine bewusste Entscheidung dafür voraussetzt.
+
+00:20:37.501 --> 00:20:49.100
+<v jürgenrichtergebert>Und Thema Kreativität und Kunst und Musik und ähnliches, nehmen Sie aktuelle Audioproduktionen von irgendwelchen Popsongs oder ähnliches,
+
+00:20:49.101 --> 00:20:57.500
+<v jürgenrichtergebert>dahinter steckt, so wie das heute passiert, ohne dass es den Leuten manchmal bewusst ist, jede Menge formal Reasoning
+
+00:20:57.501 --> 00:21:02.500
+<v jürgenrichtergebert>und damit auch wieder jede Menge mathematisches Denken.
+
+00:21:02.501 --> 00:21:07.800
+<v timpritlove>Ich meine, das lässt sich ja nicht wegdiskutieren, dass es diese Zurückhaltung gibt gegenüber.
+
+00:21:07.801 --> 00:21:10.600
+<v timpritlove>Das fängt bei manchen schon in der Schule an.
+
+00:21:10.601 --> 00:21:18.700
+<v timpritlove>Aber generell ist Mathematik schon, da scheiden sich sozusagen die Geister ab dem Moment,
+
+00:21:18.701 --> 00:21:20.900
+<v timpritlove>wo das erste Mal so eine komplexe Formel vor einem steht.
+
+00:21:20.901 --> 00:21:22.400
+<v timpritlove>Manche wollen sich daran nicht beteiligen.
+
+00:21:22.401 --> 00:21:27.800
+<v timpritlove>Aber auch so dieses einfache, ich sage mal diese Sudoku-Mathematik, die jedem ja irgendwie noch liegt
+
+00:21:27.801 --> 00:21:33.300
+<v timpritlove>und die vielleicht eben auch so ein bisschen was von, ich programmiere jetzt hier mal einen Algorithmus,
+
+00:21:33.301 --> 00:21:37.300
+<v timpritlove>um irgendwie die richtige Zahl herauszufinden, damit was zu tun hat,
+
+00:21:37.301 --> 00:21:42.500
+<v timpritlove>auch da gibt es ja eine Zurückhaltung und ich frage mich halt immer, was eigentlich der Grund dafür ist.
+
+00:21:42.501 --> 00:21:49.200
+<v timpritlove>Ist es die pure Komplexität, der sich Leute nicht gewachsen sehen
+
+00:21:49.201 --> 00:21:55.000
+<v timpritlove>oder ist es auch so ein bisschen die Angst vor so einer formalen klaren digitalen Wahrheit,
+
+00:21:55.001 --> 00:22:05.900
+<v timpritlove>die man dann irgendwie erreicht oder nicht erreicht, dass man irgendwie so die Dinge nicht offen lassen sein kann?
+
+00:22:05.901 --> 00:22:14.600
+<v jürgenrichtergebert>Auch hier Antwort ist vielfältig und vieles geht, glaube ich, auf die persönliche Entwicklungsgeschichte von verschiedenen Leuten einfach zurück.
+
+00:22:14.601 --> 00:22:24.000
+<v jürgenrichtergebert>Also soweit ich weiß gibt es Studien, die sagen, bei vielen Personen ging der Mathematikvorhang zu Zeiten der Grundschule zu.
+
+00:22:24.001 --> 00:22:29.800
+<v jürgenrichtergebert>Und das mag daran liegen, dass man sehr schnell in der Grundschule damit konfrontiert wird,
+
+00:22:29.801 --> 00:22:34.800
+<v jürgenrichtergebert>Mathematik ist das, wo es am Ende immer nur eine richtige Lösung gibt
+
+00:22:34.801 --> 00:22:41.800
+<v jürgenrichtergebert>und auch vielleicht nur einen richtigen Rechenweg und das ist aber Mathematik nicht.
+
+00:22:41.801 --> 00:22:49.000
+<v jürgenrichtergebert>Also wir haben hier am Campus unsere Mathematikausstellung, in der wir Kinder beginnend ab Vorschulalter,
+
+00:22:49.001 --> 00:22:52.800
+<v jürgenrichtergebert>Grundschule bis Mittelstufe und so weiter mit drin haben.
+
+00:22:52.801 --> 00:23:01.200
+<v jürgenrichtergebert>Und tatsächlich das forschende Herangehen, wie wir es teilweise bei Kindern bis zur ungefähr zweiten Klasse beobachten,
+
+00:23:01.201 --> 00:23:06.800
+<v jürgenrichtergebert>ist dem eines echten mathematischen Grundlagenforschers viel ähnlicher als das,
+
+00:23:06.801 --> 00:23:12.100
+<v jürgenrichtergebert>was wir häufig beobachten, was man dann so zehnte, elfte, zwölfte Klasse bekommt,
+
+00:23:12.101 --> 00:23:17.600
+<v jürgenrichtergebert>wo man drauf gestreamlined wurde, okay Mathematik ist jetzt das, wo ich rechnen muss
+
+00:23:17.601 --> 00:23:24.400
+<v jürgenrichtergebert>und das, wo ich jetzt erst mal aus einer Textaufgabe rausfiltern muss, was ist denn da jetzt der mathematische Gehalt
+
+00:23:24.401 --> 00:23:29.200
+<v jürgenrichtergebert>und das in eine Formel packen und dann muss ich auf diese Formel ein Verfahren anwenden,
+
+00:23:29.201 --> 00:23:35.100
+<v jürgenrichtergebert>das ich vorher irgendwo vielleicht auswendig gelernt habe und da macht natürlich Mathematik nicht mehr so schrecklich viel Spaß
+
+00:23:35.101 --> 00:23:42.700
+<v jürgenrichtergebert>und da ist man natürlich auch sehr schnell an der Stelle, wo Dinge schnell fehlerhaft werden können,
+
+00:23:42.701 --> 00:23:47.300
+<v jürgenrichtergebert>weil einfach die Pfade so eng gesteckt sind.
+
+00:23:47.301 --> 00:23:52.100
+<v jürgenrichtergebert>Und auf der Uni wird das tatsächlich dann wieder, je weiter man im Studium fortschreitet,
+
+00:23:52.101 --> 00:24:00.000
+<v jürgenrichtergebert>wieder weiter und weiter dieser Blickwinkel, so dass man am Ende, wenn man ein mathematisches Forscherleben führt,
+
+00:24:00.001 --> 00:24:05.100
+<v jürgenrichtergebert>tatsächlich eine komplette Methodenoffenheit hat.
+
+00:24:05.101 --> 00:24:12.700
+<v jürgenrichtergebert>Und genau diese Erfahrung, glaube ich, dass Mathematik häufig etwas, was von außen bewertet wird,
+
+00:24:12.701 --> 00:24:21.000
+<v jürgenrichtergebert>dass man erst mal nicht so kann und man sehr viel Frustration einstecken muss,
+
+00:24:21.001 --> 00:24:25.400
+<v jürgenrichtergebert>das ist was, was vielen Leuten auf dem Weg, ich formuliere es jetzt mal vorsichtig,
+
+00:24:25.401 --> 00:24:31.900
+<v jürgenrichtergebert>zumindest eine gewisse Berührungsangst zu Mathematik und formalem Denken macht.
+
+00:24:31.901 --> 00:24:46.600
+<v jürgenrichtergebert>Ich habe kein Patentrezept, wie man dagegen wirkt, aber ich glaube, dass man viel viel viel positiver mit Mathematik in der Gesellschaft umgehen könnte.
+
+00:24:46.601 --> 00:24:49.600
+<v jürgenrichtergebert>Ich hatte einmal, ich muss noch eine Geschichte ganz kurz loswerden.
+
+00:24:49.601 --> 00:24:54.100
+<v jürgenrichtergebert>Ich hatte einmal eine Schlüsselerfahrung, da war ich auf einem Lehrerkongress in Berlin,
+
+00:24:54.101 --> 00:24:58.100
+<v jürgenrichtergebert>stand am Gendarmenmarkt, habe mir ein Musiker, der da mit der Gitarre spielte, angehört
+
+00:24:58.101 --> 00:25:03.900
+<v jürgenrichtergebert>und da kam eine Frau dazu geradelt, hat sich später als die Freundin von dem Gitarrenspieler rausgestellt
+
+00:25:03.901 --> 00:25:07.800
+<v jürgenrichtergebert>und wir kamen ins Gespräch und sie fragte, ja und was machst denn du da?
+
+00:25:07.801 --> 00:25:11.700
+<v jürgenrichtergebert>Und ich meinte, ich bin jetzt hier auf einem Lehrerkongress und es geht um Mathematik.
+
+00:25:11.701 --> 00:25:17.500
+<v jürgenrichtergebert>Und sie kam irgendwo aus Polen oder Ungarn und sagte sofort, ach wie toll,
+
+00:25:17.501 --> 00:25:22.500
+<v jürgenrichtergebert>Mathematik das ist ja so ein unglaublich spannendes Feld, hätte ich gerne viel mehr von gemacht.
+
+00:25:22.501 --> 00:25:28.700
+<v jürgenrichtergebert>Also ich glaube, es gibt andere, gerade zum Beispiel in Ungarn, anderen kulturellen Umgang,
+
+00:25:28.701 --> 00:25:36.000
+<v jürgenrichtergebert>wie man Mathematik als ein spannendes und offenes Feld, indem man einfach seinen Werkzeugkasten beherrschen muss
+
+00:25:36.001 --> 00:25:39.700
+<v jürgenrichtergebert>und in dem es sich aber auch lohnt, den Werkzeugkasten zu beherrschen.
+
+00:25:39.701 --> 00:25:44.500
+<v timpritlove>Klingt jetzt so ein bisschen so, als ob dann in der dritten Schulklasse irgendwo ein Fehler gemacht wird, wie das weiter verfolgt wird.
+
+00:25:44.501 --> 00:25:47.100
+<v timpritlove>Lässt sich da irgendwo der Finger drauflegen?
+
+00:25:47.101 --> 00:25:49.500
+<v jürgenrichtergebert>Weiß ich nicht.
+
+00:25:49.501 --> 00:25:52.500
+<v jürgenrichtergebert>Ich definiere mich ganz bewusst nicht als Didaktiker.
+
+00:25:52.501 --> 00:26:01.800
+<v jürgenrichtergebert>Ich arbeite zwar viel mit Didaktikern zusammen, das ist deren Aufgabe, diese Frage letztlich zu klären.
+
+00:26:01.801 --> 00:26:08.400
+<v jürgenrichtergebert>Es ist ein Stück eine empirische Beobachtung und ich kann sagen, es gibt zumindest auch Studien, die in die Richtung zeigen.
+
+00:26:08.401 --> 00:26:14.500
+<v jürgenrichtergebert>Aber wo jetzt genau an der Stelle der Knackpunkt ist, ist schwierig zu sagen.
+
+00:26:14.501 --> 00:26:22.500
+<v jürgenrichtergebert>Was ich halt wichtig finde, ist, man sollte vielleicht ein bisschen vorsichtiger mit dem Thema richtig oder falsch umgehen.
+
+00:26:22.501 --> 00:26:28.900
+<v jürgenrichtergebert>Noch eine andere Geschichte, meine Tochter in der zweiten Klasse, sie sollten sich Aufgaben ausdenken
+
+00:26:28.901 --> 00:26:34.400
+<v jürgenrichtergebert>und sie hatten gerade Subtraktion gemacht und sie fing dann an, hatte so was wie
+
+[00:26:34-4 5-1, 5-2, 5-3, 5-4, bei 5-5 kam sie dann schon ein bisschen ins Grübeln und erst recht bei 5-6.
+00:26:45.501 --> 00:26:52.100
+<v jürgenrichtergebert>Ich habe mich natürlich berufen gefühlt, ihr einen wunderbaren Vortrag über die 0 und dann über negative Zahlen in der zweiten Klasse zu halten,
+
+00:26:52.101 --> 00:27:00.600
+<v jürgenrichtergebert>was sie auch vollständig verstanden hat und sie schrieb dann also voll Stolz hin, 5-6=-1
+
+00:27:00.601 --> 00:27:07.900
+<v jürgenrichtergebert>und die Lehrerin setzte ein fettes F dahinter, weil sie das zu dem Zeitpunkt einfach noch nicht wissen durften.
+
+00:27:07.901 --> 00:27:10.000
+<v timpritlove>Wurde nicht vermittelt ist …
+
+00:27:10.001 --> 00:27:13.600
+<v jürgenrichtergebert>Wurde nicht vermittelt, muss so falsch sein.
+
+00:27:13.601 --> 00:27:20.400
+<v jürgenrichtergebert>Und das ist jetzt natürlich anekdotische Evidenz, wie wir das immer so schön nennen,
+
+00:27:20.401 --> 00:27:25.100
+<v jürgenrichtergebert>aber ich glaube, da lässt sich vieles besser machen und auf der anderen Seite muss dann der Lehrer
+
+00:27:25.101 --> 00:27:32.800
+<v jürgenrichtergebert>oder die Lehrerin auch lernen, mehr und mehr in eine Rolle von einem Moderator reingehen zu können,
+
+00:27:32.801 --> 00:27:39.800
+<v jürgenrichtergebert>der mit den ganzen offenen Fragen, die einfach sehr schnell entstehen, wenn man über Mathematik diskutiert,
+
+00:27:39.801 --> 00:27:45.800
+<v jürgenrichtergebert>irgendwo auch umgehen kann und auch zugeben können muss, ja tut mir leid, weiß ich jetzt auch nicht.
+
+00:27:45.801 --> 00:27:50.500
+<v jürgenrichtergebert>Kann sein, dass ich über Nachdenken darauf komme, kann sein, dass wir einen Experten fragen müssen.
+
+00:27:50.501 --> 00:27:57.700
+<v jürgenrichtergebert>Weil in der Mathematik ist es so, dass jenseits der Pfade, die man so typischerweise in der Schule geht,
+
+00:27:57.701 --> 00:28:03.000
+<v jürgenrichtergebert>auch sehr schnell Bereiche kommen, in denen offene mathematische Probleme liegen.
+
+00:28:03.001 --> 00:28:08.100
+<v jürgenrichtergebert>Und das ist gleichzeitig der Reiz und gleichzeitig auch die große Schwierigkeit in der Mathematik.
+
+00:28:08.101 --> 00:28:14.300
+<v jürgenrichtergebert>Und unseren Studenten im ersten Semester predigen wir immer, das wichtigste, was sie brauchen, ist Frustrationstoleranz.
+
+00:28:14.301 --> 00:28:19.000
+<v jürgenrichtergebert>Weil es gibt nichts frustrierenderes als Mathematik, aber auch nichts schöneres,
+
+00:28:19.001 --> 00:28:26.300
+<v jürgenrichtergebert>wenn man durch irgendetwas in der Mathematik durchgekommen ist und am Ende so einen Erweckermoment hat
+
+00:28:26.301 --> 00:28:27.500
+<v jürgenrichtergebert>und sich der Knoten im Kopf aufgelöst hat.
+
+00:28:27.501 --> 00:28:31.700
+<v timpritlove>Was frustriert Sie denn, also was ist denn so ein frustrierendes Problem?
+
+00:28:31.701 --> 00:28:34.100
+<v jürgenrichtergebert>Dauernd.
+
+00:28:34.101 --> 00:28:37.900
+<v jürgenrichtergebert>Also ich hüpfe jetzt gerade mal zu Zeiten meiner Habil zurück.
+
+00:28:37.901 --> 00:28:48.700
+<v jürgenrichtergebert>Da hatte ich mir ein relativ sehr schwieriges Problem vorgenommen und ich habe ein halbes Jahr nur eine Sackgasse nach der anderen abgegrast.
+
+00:28:48.701 --> 00:28:56.200
+<v jürgenrichtergebert>Und da nicht irgendwann zu sagen, nein ich lasse das Problem jetzt Problem sein und habe damit nichts zu tun,
+
+00:28:56.201 --> 00:29:01.200
+<v jürgenrichtergebert>das erfordert schon so einen gewissen Biss und Frustrationstoleranz.
+
+00:29:01.201 --> 00:29:07.800
+<v jürgenrichtergebert>Gerade wenn man in der Forschungsmathematik ist, ist es so, dass einfach die Wege, die am Ende zum Ziel führen,
+
+00:29:07.801 --> 00:29:15.500
+<v jürgenrichtergebert>halt in aller Regel kein bisschen vorgezeichnet sind und von daher ist Mathematik halt auch eine extrem kreative Wissenschaft
+
+00:29:15.501 --> 00:29:21.800
+<v jürgenrichtergebert>und tatsächlich Thema Kreativität für dieses Problem, um das es da bei der Habil ging,
+
+00:29:21.801 --> 00:29:29.400
+<v jürgenrichtergebert>die Idee dazu war irgendwo an dem Tag, also die Idee für die letztliche Lösung war an dem Tag, an dem meine Tochter geboren wurde
+
+00:29:29.401 --> 00:29:33.700
+<v jürgenrichtergebert>und ich mit komplett anderen Sachen im Kopf eigentlich beschäftigt war,
+
+00:29:33.701 --> 00:29:38.500
+<v jürgenrichtergebert>da hat sich dann irgendwo in einer Ecke hinten im Kopf geregt, Mensch mach das mit dem Problem doch so,
+
+00:29:38.501 --> 00:29:43.700
+<v jürgenrichtergebert>kümmere dich jetzt nicht drum, aber mache das so und du kommst am Ende durch.
+
+00:29:43.701 --> 00:29:48.900
+<v jürgenrichtergebert>Und dazu waren dann aber auch die ganzen Sackgassen, die vorher abgegrast wurden, die waren essentiell wichtig,
+
+00:29:48.901 --> 00:29:51.300
+<v jürgenrichtergebert>weil ich wusste, was alles nicht geht.
+
+00:29:51.301 --> 00:29:59.300
+<v timpritlove>Ich kann mir vorstellen, dass viele Leute so ein Problem haben, sich Kreativität im Zusammenhang mit Mathematik vorzustellen.
+
+00:29:59.301 --> 00:30:02.600
+<v jürgenrichtergebert>Es gibt nichts kreativeres.
+
+00:30:02.601 --> 00:30:08.500
+<v timpritlove>Ja, das mag sein, aber sich das vorzustellen.
+
+00:30:08.501 --> 00:30:14.700
+<v timpritlove>Also ein Problem lösen, wo kommt das Problem her, was hat denn dieses Problem, über das Sie gerade gesprochen haben,
+
+00:30:14.701 --> 00:30:24.300
+<v timpritlove>denn so schwierig gemacht und was war denn der kreative Kniff, der letzten Endes zu einer Lösung geführt hat?
+
+00:30:24.301 --> 00:30:26.500
+<v jürgenrichtergebert>Okay, jetzt werden wir echt mathematisch.
+
+00:30:26.501 --> 00:30:28.700
+<v timpritlove>Ja, muss ja auch mal sein.
+
+00:30:28.701 --> 00:30:33.800
+<v jürgenrichtergebert>Wir reden über Vielflächen, Mathematiker nennen das ein Polytop.
+
+00:30:33.801 --> 00:30:43.300
+<v jürgenrichtergebert>Und Vielflächen sind Objekte, die aus geraden Flächen als Begrenzung existieren, zum Beispiel ein Würfel.
+
+00:30:43.301 --> 00:30:48.200
+<v jürgenrichtergebert>Und so ein Würfel, der hat zwei Ebenen, auf denen er lebt.
+
+00:30:48.201 --> 00:30:52.900
+<v jürgenrichtergebert>Also wir haben einerseits den Würfel, wie er jetzt zum Beispiel vor uns liegt, mit konkreten Koordinaten,
+
+00:30:52.901 --> 00:30:58.800
+<v jürgenrichtergebert>die Ecken haben bestimmte Koordinaten und andererseits hat der aber auch eine kombinatorische Struktur.
+
+00:30:58.801 --> 00:31:04.400
+<v jürgenrichtergebert>Welche Ecke liegt auf welcher Seitenfläche.
+
+00:31:04.401 --> 00:31:06.800
+<v jürgenrichtergebert>Ich könnte mir zum Beispiel für einen Würfel eine Liste machen, ein Würfel hat sechs Seiten,
+
+00:31:06.801 --> 00:31:09.700
+<v jürgenrichtergebert>weiß man von einem normalen Würfel und hat acht Ecken
+
+00:31:09.701 --> 00:31:12.900
+<v jürgenrichtergebert>und dann könnte ich mir eine Liste machen, wo ich mir die Ecken durchnummeriere,
+
+00:31:12.901 --> 00:31:16.900
+<v jürgenrichtergebert>diese Ecke liegt auf dieser Seite, diese liegt auf dieser Seite und so weiter.
+
+00:31:16.901 --> 00:31:23.500
+<v jürgenrichtergebert>Jetzt gebe ich Ihnen vielleicht diese Liste, die ich mir angefertigt habe und frage Sie,
+
+00:31:23.501 --> 00:31:25.500
+<v jürgenrichtergebert>können Sie mir so was bauen?
+
+00:31:25.501 --> 00:31:29.800
+<v jürgenrichtergebert>Und dann stellt sich raus, gucken Sie einmal drauf und denken, ach klasse, ist ein Würfel.
+
+00:31:29.801 --> 00:31:33.700
+<v jürgenrichtergebert>Jetzt gebe ich Ihnen eine kompliziertere Liste und frage Sie, können Sie das bauen?
+
+00:31:33.701 --> 00:31:37.400
+<v jürgenrichtergebert>Und dann kommen Sie schon ins Knobeln rein.
+
+00:31:37.401 --> 00:31:47.100
+<v jürgenrichtergebert>Und tatsächlich für drei Dimensionen war diese Übergangsfrage, wie kommt man von solchen Listen zu konkreten Realisationen,
+
+00:31:47.101 --> 00:31:53.300
+<v jürgenrichtergebert>die ist seit 1922 gelöst durch einen klassischen Satz, den Satz von Steinitz.
+
+00:31:53.301 --> 00:31:58.900
+<v jürgenrichtergebert>Aber für vierdimensionale Polytope war das seit praktisch damals, seit 70 Jahren offen.
+
+00:31:58.901 --> 00:32:03.300
+<v jürgenrichtergebert>Wie schwierig wird das, wie kann man überhaupt zu Lösungen kommen,
+
+00:32:03.301 --> 00:32:08.000
+<v jürgenrichtergebert>wie sehen die Räume der Lösungen aus und und und.
+
+00:32:08.001 --> 00:32:12.200
+<v jürgenrichtergebert>Und da haben sich einige dran versucht, das gescheit hinzukriegen.
+
+00:32:12.201 --> 00:32:19.300
+<v jürgenrichtergebert>Und das ist halt ein sehr hartnäckiges Problem, weil man erstens in vier Dimensionen jetzt nicht so unbedingt die beste Intuition hat.
+
+00:32:19.301 --> 00:32:28.300
+<v jürgenrichtergebert>Da muss man sich erst einen Werkzeugkasten zusammenbauen, mit dem man überhaupt erst mal in vier Dimensionen sich Dinge vorstellen kann
+
+00:32:28.301 --> 00:32:31.900
+<v jürgenrichtergebert>und für solche Probleme ist die Vorstellung was wichtiges.
+
+00:32:31.901 --> 00:32:38.500
+<v jürgenrichtergebert>Und tatsächlich dieses Problem hat sich dann dadurch gelöst, ich habe vorhin gesagt, ich habe mich als Kind auch mit E-Technik beschäftigt.
+
+00:32:38.501 --> 00:32:45.200
+<v jürgenrichtergebert>Und in E-Technik setzt man ja verschiedene Bauteile zusammen, um am Ende was daraus zu machen.
+
+00:32:45.201 --> 00:32:52.400
+<v jürgenrichtergebert>Zum Beispiel ein Radio der ein iPhone letztlich auch oder Handy, um es hier werbungsneutral zu sagen.
+
+00:32:52.401 --> 00:32:57.100
+<v jürgenrichtergebert>Und so was ähnliches passierte bei dem Problem.
+
+00:32:57.101 --> 00:33:02.100
+<v jürgenrichtergebert>Es ging darum, sich ein Werkzeugkasten an kleinen Bausteinen zusammenzulegen,
+
+00:33:02.101 --> 00:33:06.700
+<v jürgenrichtergebert>aus denen man eine unglaubliche Komplexität zusammenbauen konnte,
+
+00:33:06.701 --> 00:33:14.100
+<v jürgenrichtergebert>um zu zeigen, dass dieses Problem, dass man da im vierdimensionalen sich dann definiert, beweisbar schwierig ist.
+
+00:33:14.101 --> 00:33:20.800
+<v jürgenrichtergebert>Das fällt dann in die Klasse der mindestens NP-schweren Probleme.
+
+00:33:20.801 --> 00:33:25.800
+<v jürgenrichtergebert>Und da ging es dann darum, einerseits Bausteine zu definieren, sich zusammen auszudenken,
+
+00:33:25.801 --> 00:33:30.400
+<v jürgenrichtergebert>die bestimmte kleine Aufgaben machen und andererseits einen Mechanismus zu finden,
+
+00:33:30.401 --> 00:33:32.800
+<v jürgenrichtergebert>wie man diese Bausteine zusammensetzen kann.
+
+00:33:32.801 --> 00:33:38.300
+<v jürgenrichtergebert>Und dieser Mechanismus hat sich als schwierig herausgestellt und da war dann irgendwann die Schlüsselidee,
+
+00:33:38.301 --> 00:33:41.600
+<v jürgenrichtergebert>man muss die Verklebeflächen irgendwo geschickt wählen.
+
+00:33:41.601 --> 00:33:45.400
+<v jürgenrichtergebert>Will ich jetzt gar nicht genau erklären, wie man sie wählen muss, aber da kommt man dann,
+
+00:33:45.401 --> 00:33:49.800
+<v jürgenrichtergebert>wenn man die Idee hat und die Bausteine hat, dann kommt man auf einmal damit durch.
+
+00:33:49.801 --> 00:33:54.700
+<v jürgenrichtergebert>Klingt jetzt alles schrecklich abstrakt, befürchte ich, macht aber wahnsinnig Spaß.
+
+00:33:54.701 --> 00:34:00.100
+<v jürgenrichtergebert>Ist ein wunderschönes Knobelspiel, mit dem man sich problemlos ein halbes Jahr lang beschäftigen kann.
+
+00:34:00.101 --> 00:34:04.000
+<v timpritlove>Aber ich meine, es führt ja in gewisser Hinsicht direkt zu diesem Lehrstuhl.
+
+00:34:04.001 --> 00:34:13.000
+<v timpritlove>Weil ein Problem lösen heißt ja, es sich vorstellen zu können und das bedeutet eben,
+
+00:34:13.001 --> 00:34:23.200
+<v timpritlove>wir wollen es vor unserem geistigen Auge in irgendeiner Form „sehen“.
+
+00:34:23.201 --> 00:34:24.400
+<v jürgenrichtergebert>Ich muss ein bisschen widersprechen.
+
+00:34:24.401 --> 00:34:28.900
+<v jürgenrichtergebert>Für mich ist das so, ist aber nicht für jeden Mathematiker zwangsläufig so.
+
+00:34:28.901 --> 00:34:39.600
+<v jürgenrichtergebert>Also es gibt durchaus Mathematiker, die sehr stark rein auf der formalisierten Ebene über ein Problem nachdenken können.
+
+00:34:39.601 --> 00:34:50.300
+<v jürgenrichtergebert>Wo das Thema, was man sich am Ende vorstellen kann, eher von der Logik noch mit abgelöst wird.
+
+00:34:50.301 --> 00:34:55.600
+<v jürgenrichtergebert>Und für die Mathematik auch ein zu weiten Teilen formaler Prozess ist.
+
+00:34:55.601 --> 00:35:02.200
+<v jürgenrichtergebert>Und dann gibt es Leute, die sich, wenn sie irgendwas verstehen wollen, sich das immer vorstellen müssen,
+
+00:35:02.201 --> 00:35:11.900
+<v jürgenrichtergebert>zu denen gehöre ich und alle Schattierungen irgendwo zwischendrin und in beide Richtungen natürlich auch noch Extreme,
+
+00:35:11.901 --> 00:35:18.400
+<v jürgenrichtergebert>die noch über mich oder andere Kollegen dann jeweils hinausgehen, das ist ein Spektrum, von dem wir da reden.
+
+00:35:18.401 --> 00:35:22.100
+<v jürgenrichtergebert>Und das ist übrigens auch in der Lehre sehr wichtig, dass man versucht,
+
+00:35:22.101 --> 00:35:31.200
+<v jürgenrichtergebert>in seiner Lehre die verschiedenen Typen von Mathematikern, die man jetzt vor sich hat, auch anzusprechen.
+
+00:35:31.201 --> 00:35:37.300
+<v jürgenrichtergebert>Und ich will das jetzt nicht irgendwo plump reduzieren auf visuelle Typen, auditive Typen und solche, die nur mit Sprache können,
+
+00:35:37.301 --> 00:35:44.400
+<v jürgenrichtergebert>sondern es ist eher so die Frage, ob man ein Problem alleine von der formalen Seite
+
+00:35:44.401 --> 00:35:49.200
+<v jürgenrichtergebert>oder allein von einer diagrammatischen Seite, wo es mehr um vorstellen geht, angeht
+
+00:35:49.201 --> 00:35:53.700
+<v jürgenrichtergebert>oder welche Schattierung man dazwischen wählt.
+
+00:35:53.701 --> 00:36:00.700
+<v jürgenrichtergebert>Und die Kunst dann am Ende, wenn man guter Mathematiker ist, besteht darin, die beiden Seiten gut miteinander zu verknüpfen.
+
+00:36:00.701 --> 00:36:05.100
+<v timpritlove>Gibt es denn auch so Leute, die so, es gibt ja dieses Phänomen der Synästhesie,
+
+00:36:05.101 --> 00:36:14.000
+<v timpritlove>dass man Zahlen oder Buchstaben oder was auch immer über Wärme, Farben oder so etwas wahrnimmt,
+
+00:36:14.001 --> 00:36:20.300
+<v timpritlove>haben Sie bei sich so was ähnliches festgestellt, dass die Mathematik gleich so auf eine Art und Weise in einen hineinläuft,
+
+00:36:20.301 --> 00:36:22.900
+<v timpritlove>dass es automatisch irgendetwas auslöst?
+
+00:36:22.901 --> 00:36:30.500
+<v jürgenrichtergebert>Also sagen wir es mal so, für mich ist Mathematik auch sehr stark mit Gefühlen, Gespür eher verbunden.
+
+00:36:30.501 --> 00:36:36.800
+<v jürgenrichtergebert>Also jetzt nicht im Sinne von Sinneseindrücken, dass ich sage, das Theorem fühlt sich jetzt rot an und das andere blau,
+
+00:36:36.801 --> 00:36:45.900
+<v jürgenrichtergebert>so was habe ich nicht, das klingt nach Beethoven und das klingt nach Cold Train, wobei ein bisschen vielleicht schon.
+
+00:36:45.901 --> 00:36:52.500
+<v jürgenrichtergebert>Aber was ich tatsächlich für mich habe ist so ein Gespür, wann Sachen eher richtig oder eher falsch sind.
+
+00:36:52.501 --> 00:36:58.300
+<v jürgenrichtergebert>Und ich führe das darauf zurück, das ist jetzt auch wieder so eine ganz absurde autobiografische Geschichte,
+
+00:36:58.301 --> 00:37:03.100
+<v jürgenrichtergebert>ich war in der Schule schrecklich in Kopfrechnen, ich konnte das nicht.
+
+00:37:03.101 --> 00:37:08.800
+<v jürgenrichtergebert>Also ich war immer langsam und ich war auch selten unbedingt sofort richtig
+
+00:37:08.801 --> 00:37:14.600
+<v jürgenrichtergebert>und ich habe mir dann irgendwann angewöhnt, jede Aufgabe auf mindestens drei verschiedene Arten im Kopf zu rechnen
+
+00:37:14.601 --> 00:37:22.600
+<v jürgenrichtergebert>und per Mehrheitsentscheid dann zu sagen, okay, 3+7 muss dann wohl eher 10 sein als 11,
+
+00:37:22.601 --> 00:37:26.800
+<v jürgenrichtergebert>weil zweimal gerechnet kommt 10 raus und einmal kam 11 raus.
+
+00:37:26.801 --> 00:37:35.200
+<v jürgenrichtergebert>Was dabei aber entstanden ist, es hat sich im Kopf bei mir ein Netzwerk gebildet aus verschiedenen Wegen an dasselbe Problem ranzugehen
+
+00:37:35.201 --> 00:37:41.100
+<v jürgenrichtergebert>und dieses Netz, das glaube ich, das gibt es immer noch und das sagt einem dann,
+
+00:37:41.101 --> 00:37:47.200
+<v jürgenrichtergebert>okay, das hier, das riecht jetzt ein bisschen richtig und das hier, das riecht jetzt ein bisschen falsch.
+
+00:37:47.201 --> 00:37:53.100
+<v jürgenrichtergebert>So dass man Sackgassen, von denen ich vorhin gesprochen habe, vielleicht ein Stück früher abschneiden kann.
+
+00:37:53.101 --> 00:38:00.200
+<v timpritlove>Dass man so Bewertungspfade quasi entwickelt und sagt so, ja das fühlt sich näher und damit vielleicht richtiger an.
+
+00:38:00.201 --> 00:38:03.100
+<v jürgenrichtergebert>An der Wahrheit an.
+
+00:38:03.101 --> 00:38:05.800
+<v jürgenrichtergebert>Wahrheit ist auch meistens ein bisschen schön.
+
+00:38:05.801 --> 00:38:07.200
+<v jürgenrichtergebert>Zumindest ein bisschen.
+
+00:38:07.201 --> 00:38:15.500
+<v jürgenrichtergebert>Also wenn ich irgendein mathematisches Problem angehe und jetzt mich all zu sehr in ganz wilden Formeln vergaloppiere,
+
+00:38:15.501 --> 00:38:21.200
+<v jürgenrichtergebert>und der Überzeugung bin, nein ich brauche diese Formeln nicht, das Problem hat einen anderen Charakter,
+
+00:38:21.201 --> 00:38:25.100
+<v jürgenrichtergebert>dann höre ich auf zu rechnen und suche nach einem anderen Ansatz, weil ich einfach denke,
+
+00:38:25.101 --> 00:38:27.700
+<v jürgenrichtergebert>durch rechnen alleine kommst du an der Stelle nicht weiter.
+
+00:38:27.701 --> 00:38:32.800
+<v timpritlove>Wahrheit ist ein bisschen schön.
+
+00:38:32.801 --> 00:38:35.400
+<v jürgenrichtergebert>Schönheit ist manchmal auch ein bisschen wahr.
+
+00:38:35.401 --> 00:38:47.300
+<v timpritlove>Ja. Ohne mich zu sehr damit beschäftigt zu haben, aber es gibt, glaube ich, in der Astronomie
+
+00:38:47.301 --> 00:38:55.400
+<v timpritlove>und damit auch in der Astrophysik so ein bisschen auch die Frage immer dieser Vorstellung des Universums,
+
+00:38:55.401 --> 00:39:05.000
+<v timpritlove>was ja auch sehr schwierig ist zu visualisieren, weil es halt auf der einen Seite ja einerseits vor allem mathematisch beschrieben ist,
+
+00:39:05.001 --> 00:39:12.100
+<v timpritlove>über Einstein und auch durch die Quantenmechanik und die wollen dann irgendwie auch nicht so richtig zusammen
+
+00:39:12.101 --> 00:39:19.900
+<v timpritlove>und das ist schon mal so ein Bruch, aber generell ist ja auch so dieses Nachdenken über das größte, weiteste und wichtigste
+
+00:39:19.901 --> 00:39:25.600
+<v timpritlove>und alles vielleicht auch in irgendeiner Form vereinigende, da braucht man ja dann eben auch so ein Gespür
+
+00:39:25.601 --> 00:39:32.100
+<v timpritlove>und ich habe so wahrgenommen, dass es auch dort auf der einen Seite immer so dieses klassische,
+
+00:39:32.101 --> 00:39:36.500
+<v timpritlove>die Wahrheit kündigt sich durch Schönheit an, gibt auf der einen Seite,
+
+00:39:36.501 --> 00:39:41.100
+<v timpritlove>aber auch durchaus eine andere Fraktion sagt, nein das ist bestimmt eine Sackgasse,
+
+00:39:41.101 --> 00:39:44.600
+<v timpritlove>vielleicht ist das auch alles viel komplizierter, um hier irgendwie zum Ziel zu kommen.
+
+00:39:44.601 --> 00:39:50.000
+<v timpritlove>Das ist ja auch ein ziemlicher Kriegsschauplatz, wie nehmen Sie das wahr?
+
+00:39:50.001 --> 00:39:52.700
+<v jürgenrichtergebert>Also ich bin eher auf der Schönheitsseite an der Stelle.
+
+00:39:52.701 --> 00:39:56.300
+<v timpritlove>Ja okay, die Vermutung hatte ich schon.
+
+00:39:56.301 --> 00:40:04.200
+<v jürgenrichtergebert>Also ich sehe es so, dass unser Universum eine Kaskade von emergenten Prozessen ist,
+
+00:40:04.201 --> 00:40:09.700
+<v jürgenrichtergebert>also wo sich praktisch ein Prozess aus dem jeweils darunter liegenden ergibt.
+
+00:40:09.701 --> 00:40:19.800
+<v jürgenrichtergebert>Also nehmen wir unsere Wetterphänomene, da gibt es irgendwo unten drunten die Fluiddynamik und Thermodynamik,
+
+00:40:19.801 --> 00:40:27.000
+<v jürgenrichtergebert>die beschreibt wie der Wind geht und dann noch eine Ebene drunter landet man dann irgendwo bei der statistischen Kinematik,
+
+00:40:27.001 --> 00:40:32.800
+<v jürgenrichtergebert>und da muss man sich drüber Gedanken machen, wie sind eigentlich die Atome aufgebaut, die das machen
+
+00:40:32.801 --> 00:40:38.500
+<v jürgenrichtergebert>und dann kommt man noch weiter runter irgendwann auf die Quarks und je kleiner die Teilchen werden,
+
+00:40:38.501 --> 00:40:44.900
+<v jürgenrichtergebert>umso grundlegender und einfacher werden die Zusammenhänge dabei auch, ich hoffe,
+
+00:40:44.901 --> 00:40:52.300
+<v jürgenrichtergebert>dass ich jetzt keinen physikalischen totalen Blödsinn erzähle, aber zumindest nehme ich es so wahr,
+
+00:40:52.301 --> 00:40:58.300
+<v jürgenrichtergebert>dass also unser Elementarteilchenzoo am Ende doch deutlich geordneter zu sein scheint
+
+00:40:58.301 --> 00:41:06.500
+<v jürgenrichtergebert>als jetzt zum Beispiel das stürmische Wetter, von dem wir heute nicht wissen, ob morgen die Sonne scheint oder nicht.
+
+00:41:06.501 --> 00:41:12.400
+<v jürgenrichtergebert>Aber trotzdem diese Zusammenhänge von dem ganz unten, ich nenne jetzt mal die kleinen Sachen eher unten
+
+00:41:12.401 --> 00:41:19.300
+<v jürgenrichtergebert>und die großen Sachen eher oben, doch zwischendrin darauf beruhen, dass man praktisch Dinge zusammensetzt
+
+00:41:19.301 --> 00:41:23.700
+<v jürgenrichtergebert>und komplexere Dinge daraus entstehen.
+
+00:41:23.701 --> 00:41:28.600
+<v jürgenrichtergebert>Und von daher habe ich eigentlich immer noch die Hoffnung, dass wenn man ganz ganz ganz weit runter geht, 
+
+00:41:28.601 --> 00:41:34.100
+<v jürgenrichtergebert>dass da dann die Sachen vielleicht auch so richtig überraschend einfach sind.
+
+00:41:34.101 --> 00:41:39.600
+<v jürgenrichtergebert>Es am Ende vielleicht nur zwei, drei Regeln gibt, aus denen sich alles am Ende ergibt.
+
+00:41:39.601 --> 00:41:43.800
+<v jürgenrichtergebert>Die aber so kräftig sind und das sind auch wieder Teile der Mathematik,
+
+00:41:43.801 --> 00:41:48.200
+<v jürgenrichtergebert>die sich genau damit beschäftigen, was sind denn zum Beispiel einfache Regeln,
+
+00:41:48.201 --> 00:41:52.600
+<v jürgenrichtergebert>die komplexes Verhalten erzeugen können?
+
+00:41:52.601 --> 00:41:56.500
+<v jürgenrichtergebert>Das ist zum Beispiel auch ein Teil, den wir in der Visualisierung ganz häufig machen,
+
+00:41:56.501 --> 00:42:07.500
+<v jürgenrichtergebert>dass wir gezielt über Themen reden, wie man aus einfachen Regeln komplexes Verhalten, komplexe Formen oder ähnliches erzeugen kann,
+
+00:42:07.501 --> 00:42:14.000
+<v jürgenrichtergebert>Pflanzenwachstum ist ein interessantes Beispiel dafür, Fischschwärme sind ein interessantes Beispiel.
+
+00:42:14.001 --> 00:42:19.800
+<v jürgenrichtergebert>Also in unserer Software kann ich in acht Zeilen einen realistisch aussehenden Fischschwarm zusammenprogrammieren,
+
+00:42:19.801 --> 00:42:28.800
+<v jürgenrichtergebert>aus dem dann plötzlich aus den einfachen Regeln durch emergente Prozesse scheinbar komplexes Verhalten rauskommt.
+
+00:42:28.801 --> 00:42:36.400
+<v timpritlove>Jetzt waren wir quasi beim Thema dieses Lehrstuhls, der Bedeutung auch der Visualisierung.
+
+00:42:36.401 --> 00:42:44.800
+<v timpritlove>Ich habe jetzt so ein bisschen so Escher-Bilder gerade im Kopf, ja, von Maurits Escher,
+
+00:42:44.801 --> 00:42:51.000
+<v timpritlove>wo ja eine Form in das andere übergebt, aber er es auf der anderen Seite auch geschafft hat,
+
+00:42:51.001 --> 00:42:54.800
+<v timpritlove>das Paradoxe in irgendeiner Form zu visualisieren.
+
+00:42:54.801 --> 00:43:02.400
+<v timpritlove>Dass, wenn man es sich anschaut, so treppauf, treppab auf einmal die Dinge im Kopf dann auch gar nicht wieder zusammenbekommt.
+
+00:43:02.401 --> 00:43:12.500
+<v timpritlove>Welche Bedeutung hat diese Visualisierung für die Mathematik und was ist hier so der Ansatz, was ist auch der Bedarf?
+
+00:43:12.501 --> 00:43:19.600
+<v jürgenrichtergebert>Okay, Sie sprechen jetzt den Kern hier meines Lehrstuhls letztlich an und ich könnte Ihnen jetzt darüber ungefähr drei Wochen einen Vortrag halten.
+
+00:43:19.601 --> 00:43:20.900
+<v jürgenrichtergebert>Ich versuche, mich jetzt trotzdem ein bisschen kurz zu fassen.
+
+00:43:20.901 --> 00:43:24.800
+<v timpritlove>Na dann mal los.
+
+00:43:24.801 --> 00:43:29.300
+<v jürgenrichtergebert>Dazu müssen wir überhaupt erst mal sehen, was heißt überhaupt Visualisierung?
+
+00:43:29.301 --> 00:43:36.500
+<v jürgenrichtergebert>Visualisierung da steckt ja irgendwo visuell, das Optische irgendwo mit drin
+
+00:43:36.501 --> 00:43:38.700
+<v jürgenrichtergebert>und das heißt, sichtbar machen von irgendwas.
+
+00:43:38.701 --> 00:43:43.600
+<v jürgenrichtergebert>Jetzt die nächste Frage, was will man eigentlich sichtbar machen?
+
+00:43:43.601 --> 00:43:51.100
+<v jürgenrichtergebert>Und eine Variante, mit der man viel zu tun hat, wenn man das Wort Visualisierung hört,
+
+00:43:51.101 --> 00:43:57.100
+<v jürgenrichtergebert>ist zum Beispiel Datenvisualisierung und damit haben wir jetzt hier am Lehrstuhl so gut wie gar nichts am Hut,
+
+00:43:57.101 --> 00:44:01.600
+<v jürgenrichtergebert>weil wir wollen Strukturen visualisieren, Zusammenhänge visualisieren.
+
+00:44:01.601 --> 00:44:07.200
+<v jürgenrichtergebert>Und wir haben jetzt schon einiges darüber gehört, dass Mathematik zuweilen eine recht abstrakte Wissenschaft ist.
+
+00:44:07.201 --> 00:44:15.100
+<v jürgenrichtergebert>Und dass trotzdem bei den Leuten, die Mathematik betreiben, dazu Bilder im Kopf sind.
+
+00:44:15.101 --> 00:44:19.900
+<v jürgenrichtergebert>Und unsere Aufgabe ist dann zum Beispiel, diese Bilder, die meistens nur im Kopf sind,
+
+00:44:19.901 --> 00:44:28.000
+<v jürgenrichtergebert>und die teilweise auch sehr schwer zu visualisieren sind, aus dem Kopf raus auf den Computerbildschirm zu bringen.
+
+00:44:28.001 --> 00:44:34.700
+<v jürgenrichtergebert>Und an der Stelle ein Schwerpunkt, den wir hier am Lehrstuhl haben, ist die interaktive Visualisierung.
+
+00:44:34.701 --> 00:44:40.200
+<v jürgenrichtergebert>Das heißt, es soll eben nicht nur ein Bild oder ein Film geschaffen werden,
+
+00:44:40.201 --> 00:44:48.100
+<v jürgenrichtergebert>sondern ein komplexes Interaktionsszenario, mit dem praktisch der Benutzer davon selbst zum Forscher wird
+
+00:44:48.101 --> 00:44:54.100
+<v jürgenrichtergebert>in diesem kleinen Bereich, also wir nennen das dann häufig ein Mikrolaboratorium.
+
+00:44:54.101 --> 00:45:03.400
+<v jürgenrichtergebert>Und wie gesagt, um das zu machen, ist viel Mathematik notwendig und dann sehen wir jetzt eine Spielart der Visualisierung,
+
+00:45:03.401 --> 00:45:07.300
+<v jürgenrichtergebert>ist das Visualisieren von Mathematik selbst.
+
+00:45:07.301 --> 00:45:11.800
+<v jürgenrichtergebert>Also Mathematik ist etwas, ich habe vorher gesagt, ich bin abgeschreckt, wenn ich eine Formel sehe
+
+00:45:11.801 --> 00:45:17.300
+<v jürgenrichtergebert>und das schreckt viele Leute ab, machen wir doch mal klar, was eigentlich hinter der Formel steckt.
+
+00:45:17.301 --> 00:45:31.000
+<v jürgenrichtergebert>Und die meisten Formeln lassen sich auch tatsächlich sehr gut in Bilder/Filme/Animationen/interaktive Animationen entsprechend umsetzen.
+
+00:45:31.001 --> 00:45:32.400
+<v jürgenrichtergebert>Das ist eine Spielart.
+
+00:45:32.401 --> 00:45:40.400
+<v jürgenrichtergebert>Eine andere Spielart ist, Visualisierung von zum Beispiel emergenten Prozessen,
+
+00:45:40.401 --> 00:45:42.800
+<v jürgenrichtergebert>das was ich eben mit dem Fischschwarm angesprochen habe.
+
+00:45:42.801 --> 00:45:47.500
+<v jürgenrichtergebert>Da geht es jetzt nicht per se darum, eine abstrakte Struktur irgendwo darzustellen,
+
+00:45:47.501 --> 00:45:53.100
+<v jürgenrichtergebert>sondern etwas was man zum Beispiel in der Natur als Wirkmechanismus erkannt hat,
+
+00:45:53.101 --> 00:46:01.600
+<v jürgenrichtergebert>wie Moleküle zusammenfinden, wie eine Pflanze wächst, wie eben der Fischschwarm,
+
+00:46:01.601 --> 00:46:08.600
+<v jürgenrichtergebert>der schon fast metaphorisch hier geworden ist, wie der letztlich sich selbst kontrolliert
+
+00:46:08.601 --> 00:46:13.000
+<v jürgenrichtergebert>und an der Stelle finde ich immer eine Klarheit etwas sehr wichtiges.
+
+00:46:13.001 --> 00:46:18.000
+<v jürgenrichtergebert>Also es geht nicht darum, also das wäre dann Hollywood, die dann eben dann versuchen,
+
+00:46:18.001 --> 00:46:24.100
+<v jürgenrichtergebert>einen möglichst realistischen Filmschwarm für irgendeinen Ocean-Thriller oder sonst was zusammenzubauen.
+
+00:46:24.101 --> 00:46:28.100
+<v jürgenrichtergebert>Um was es bei uns geht ist nicht, einen möglichst realistischen Fischschwarm zu bauen,
+
+00:46:28.101 --> 00:46:32.300
+<v jürgenrichtergebert>sondern einen Fischschwarm zusammen mit seinen Wirkmechanismen so dazustellen,
+
+00:46:32.301 --> 00:46:38.500
+<v jürgenrichtergebert>dass man versteht, was da passiert und eben dann darüber ins Nachdenken kommen kann.
+
+00:46:38.501 --> 00:46:45.700
+<v timpritlove>Lässt sich denn ein Fischschwarm jetzt rein mathematisch beschreiben, ohne Erkenntnisse aus der Biologie,
+
+00:46:45.701 --> 00:46:49.700
+<v timpritlove>der Meeresbiologie oder so zu haben?
+
+00:46:49.701 --> 00:46:56.100
+<v jürgenrichtergebert>Sicherlich nicht im letzten Detail, aber in einigen strukturellen Zusammenhängen durchaus schon.
+
+00:46:56.101 --> 00:47:06.100
+<v jürgenrichtergebert>Also so ein Fisch ist ja am Ende ein relativ, ja, Wesen mit einem einigermaßen beschränkten Horizont.
+
+00:47:06.101 --> 00:47:11.800
+<v jürgenrichtergebert>Also der weiß ja, wenn er jetzt irgendwo schwimmt, nicht unbedingt, was der Fisch ein paar Meter weit weg
+
+00:47:11.801 --> 00:47:19.700
+<v jürgenrichtergebert>am anderen Ende des Fischschwarms macht, trotzdem gibt es Regeln, die zum Beispiel die Kohärenz von so einem Schwarm bedingen
+
+00:47:19.701 --> 00:47:21.600
+<v jürgenrichtergebert>und das sind eigentlich drei einfache Regeln.
+
+00:47:21.601 --> 00:47:26.800
+<v jürgenrichtergebert>Also erste Regel, krach nicht in deinen Nachbarn rein, also wenn du irgendwo direkt auf einen Nachbarn zuschwimmst,
+
+00:47:26.801 --> 00:47:30.600
+<v jürgenrichtergebert>weiche halt doch irgendwie aus.
+
+00:47:30.601 --> 00:47:36.400
+<v jürgenrichtergebert>Zweite Regel, guck dich um und schau, wo sind deine Nachbarfische und versuche auch da hinzuschwimmen.
+
+00:47:36.401 --> 00:47:42.700
+<v jürgenrichtergebert>Dritte Regel, guck dich um und schau, in welche Richtung schwimmen deine Nachbarn und versuche dich ähnlich zu verhalten.
+
+00:47:42.701 --> 00:47:46.400
+<v jürgenrichtergebert>Wenn man nur die drei Regeln nimmt und das in den Computer zum Beispiel reinprogrammiert,
+
+00:47:46.401 --> 00:47:51.700
+<v jürgenrichtergebert>dann entsteht auf einmal ein sehr realistisch aussehender Fischschwarm.
+
+00:47:51.701 --> 00:47:58.900
+<v jürgenrichtergebert>Und damit kann man auch andere, also Thema Soziologie, also in unserer Schwarmsimulation kann man mit Parametern spielen
+
+00:47:58.901 --> 00:48:03.500
+<v jürgenrichtergebert>und da gibt es zum Beispiel auch die Möglichkeit zu sagen, ich sehe nur zwei Nachbarn.
+
+00:48:03.501 --> 00:48:08.400
+<v jürgenrichtergebert>Und dann versuchen sich eigentlich immer zwei Fische zu finden und so ein kleines Pärchen zu bilden.
+
+00:48:08.401 --> 00:48:15.300
+<v jürgenrichtergebert>Und dann gibt es aber manchmal den einsamen Fisch, der dem Pärchen hinterher jagt, um selbst Anschluss zu finden.
+
+00:48:15.301 --> 00:48:18.000
+<v jürgenrichtergebert>Und das simuliert dann auch das, was manchmal auf einer Party passiert,
+
+00:48:18.001 --> 00:48:26.300
+<v jürgenrichtergebert>wenn sich die Pärchen gefunden haben und Leute, die noch nicht Anschluss gefunden haben, dann den Pärchen hinterher laufen.
+
+00:48:26.301 --> 00:48:34.200
+<v jürgenrichtergebert>Also von daher, Soziologie gibt da natürlich gezielter oder tiefer Auskunft,
+
+00:48:34.201 --> 00:48:42.000
+<v jürgenrichtergebert>Aber grundlegende Prinzipien kann man schon mal ein bisschen mit Mathematik an der Stelle versuchen zu verstehen.
+
+00:48:42.001 --> 00:48:46.000
+<v timpritlove>Bei dem Fischschwarm, ich meine, woher weiß man denn jetzt, was die Wahrheit ist?
+
+00:48:46.001 --> 00:48:46.500
+<v jürgenrichtergebert>Wahrheit.
+
+00:48:46.501 --> 00:48:47.000
+<v timpritlove>Ich meine, klar, man kann jetzt die…
+
+00:48:47.001 --> 00:48:48.900
+<v jürgenrichtergebert>Was ist schon wahr, meine Güte.
+
+00:48:48.901 --> 00:48:52.200
+<v timpritlove>Was ist schon wahr, das müssen wir jetzt final klären.
+
+00:48:52.201 --> 00:48:54.600
+<v jürgenrichtergebert>Nein, schaffen wir nicht.
+
+00:48:54.601 --> 00:49:01.700
+<v timpritlove>Natürlich schaffen wir das nicht, nur man kann jetzt Regeln aufstellen, man kann die sich ja,
+
+00:49:01.701 --> 00:49:08.000
+<v timpritlove>die stehen ja nirgendwo fest, sondern das sind ja jetzt auch nur welche, die man sich im Prinzip ausgedacht hat,
+
+00:49:08.001 --> 00:49:12.800
+<v timpritlove>mit denen man das mal ausprobiert und dann sieht man so, aha okay, damit komme ich jetzt irgendwie so und so weit
+
+00:49:12.801 --> 00:49:15.600
+<v timpritlove>und das sieht schon mal aus wie ein Fischschwarm.
+
+00:49:15.601 --> 00:49:23.400
+<v timpritlove>Nur stößt es ja dann auch irgendwann an so eine Grenze, wo es dann vielleicht nicht mehr aussieht wie ein Fischschwarm so.
+
+00:49:23.401 --> 00:49:25.000
+<v jürgenrichtergebert>Natürlich, klar.
+
+00:49:25.001 --> 00:49:31.000
+<v timpritlove>Das ist ja dann quasi auch so der Test für eine solche Visualisierung, inwiefern sie dann jetzt eben der gewünschten Wahrheit
+
+00:49:31.001 --> 00:49:36.400
+<v timpritlove>oder dem gewünschten Wahrheitsgehalt, wie sehr sie dem entgegenkommt.
+
+00:49:36.401 --> 00:49:42.800
+<v timpritlove>Es gibt im Bereich der Computeranimation diesen schönen Begriff des uncanny valley.
+
+00:49:42.801 --> 00:49:52.200
+<v timpritlove>Dass, wenn man, auch wenn es jetzt erst mal ein ganz anderer Bereich ist, man visualisiert Menschen mit dem Computer,
+
+00:49:52.201 --> 00:49:59.600
+<v timpritlove>schafft es eben auch bis zu einem bestimmten Bereich ranzukommen, aber irgendwo so kurz vorher endet es,
+
+00:49:59.601 --> 00:50:02.400
+<v timpritlove>irgendwo bricht das zusammen.
+
+00:50:02.401 --> 00:50:06.600
+<v timpritlove>So und auch die künstliche Intelligenz Forschung hat ja genau dieses selbe Problem,
+
+00:50:06.601 --> 00:50:11.300
+<v timpritlove>man ist mit all diesen Ansätzen sehr weit gekommen und dann gibt es so ganz kurz vor dem Ziel so einen Moment, …
+
+00:50:11.301 --> 00:50:12.100
+<v jürgenrichtergebert>Klar.
+
+00:50:12.101 --> 00:50:13.400
+<v timpritlove>… wo alles auseinanderreißt.
+
+00:50:13.401 --> 00:50:20.000
+<v timpritlove>Und dann ist ja die Frage, wann ist man quasi erfolgreich genug, gibt es da so ein finales Ziel
+
+00:50:20.001 --> 00:50:27.000
+<v timpritlove>oder ist jede Visualisierung im Prinzip immer nur so gut wie man sie gerade braucht?
+
+00:50:27.001 --> 00:50:30.400
+<v jürgenrichtergebert>Ist die Frage, was man damit bezwecken will.
+
+00:50:30.401 --> 00:50:31.200
+<v timpritlove>Ja.
+
+00:50:31.201 --> 00:50:36.400
+<v jürgenrichtergebert>Also wenn ich jetzt zum Beispiel über die Fischschwärme rede, dann geht es mir häufig darum,
+
+00:50:36.401 --> 00:50:46.500
+<v jürgenrichtergebert>überhaupt erst mal zu vermitteln, dass eben aus vergleichsweise einfachen Regeln sehr komplexes Verhalten entstehen kann.
+
+00:50:46.501 --> 00:50:53.400
+<v jürgenrichtergebert>Wir machen manchmal Fortbildungen für Lehrer zum Beispiel, in denen wir den Prozess,
+
+00:50:53.401 --> 00:51:00.000
+<v jürgenrichtergebert>wie komme ich denn jetzt von ein paar grundlegenden Ideen zu etwas hin,
+
+00:51:00.001 --> 00:51:05.500
+<v jürgenrichtergebert>das am Ende zu so einer Schwarmsimulation führt, indem wir den thematisieren,
+
+00:51:05.501 --> 00:51:09.100
+<v jürgenrichtergebert>damit die das zum Beispiel wieder im Unterricht weitergeben können.
+
+00:51:09.101 --> 00:51:16.200
+<v jürgenrichtergebert>Also das sind ganz viele verschiedenen Ebenen der ursprünglichen Absicht, dann der Metaabsicht,
+
+00:51:16.201 --> 00:51:21.000
+<v jürgenrichtergebert>die Absicht zu vermitteln und so weiter, dann der Metaabsicht zu erklären,
+
+00:51:21.001 --> 00:51:28.100
+<v jürgenrichtergebert>wie macht man denn so was denn im etwas allgemeineren, das verzahnt sich an der Stelle alles irgendwo.
+
+00:51:28.101 --> 00:51:37.900
+<v jürgenrichtergebert>Und ich muss gerade noch mal eine Sache reinbringen, die ein Stück von dem Fischschwarm weggeht,
+
+00:51:37.901 --> 00:51:43.900
+<v jürgenrichtergebert>und zwar wieder ein Stück zurück auch auf die abstrakten Zusammenhänge.
+
+00:51:43.901 --> 00:51:52.500
+<v jürgenrichtergebert>Es gab hier gerade an der TU München in den 60-90er Jahren des vorletzten Jahrhunderts,
+
+00:51:52.501 --> 00:52:00.600
+<v jürgenrichtergebert>also wir reden jetzt von 1860 bis 1890 eine sehr intensive Tradition des mathematischen Modellbaus.
+
+00:52:00.601 --> 00:52:04.200
+<v jürgenrichtergebert>Was ja letztlich auch eine Form der Visualisierung ist.
+
+00:52:04.201 --> 00:52:10.000
+<v jürgenrichtergebert>Und eine der Personen, die da maßgeblich dran beteiligt war, ein sehr bekannter Mathematiker,
+
+00:52:10.001 --> 00:52:16.400
+<v jürgenrichtergebert>der Felix Klein, und der schreibt dann irgendwann mal rückblickend über dieses Modelle bauen,
+
+00:52:16.401 --> 00:52:22.900
+<v jürgenrichtergebert>indem er über die Zeit schreibt, wie damals war auch heute der Zweck des Modells nicht,
+
+00:52:22.901 --> 00:52:29.600
+<v jürgenrichtergebert>die Schwäche der Anschauung auszugleichen, sondern eine lebendige Anschauung überhaupt erst zu schaffen.
+
+00:52:29.601 --> 00:52:35.700
+<v jürgenrichtergebert>Ein Ziel, das vor allem durch das selbst anfertigen von Modellen am besten erreicht wurde.
+
+00:52:35.701 --> 00:52:38.500
+<v jürgenrichtergebert>Und so ähnlich ist das mit den Visualisierungen.
+
+00:52:38.501 --> 00:52:44.700
+<v jürgenrichtergebert>Also wenn ich, also wir haben ja häufig mit unseren Studenten Visualisierungsseminare,
+
+00:52:44.701 --> 00:52:49.900
+<v jürgenrichtergebert>in denen sich die Studenten relativ frei ein Thema suchen, und es geht drum,
+
+00:52:49.901 --> 00:52:53.300
+<v jürgenrichtergebert>sie sollen dazu eine gute Visualisierung erstellen.
+
+00:52:53.301 --> 00:53:02.600
+<v jürgenrichtergebert>Und in dem Prozess des Erstellens des Modells verstehen sie auf einmal die Thematik auf einem viel viel tieferen Niveau.
+
+00:53:02.601 --> 00:53:06.800
+<v jürgenrichtergebert>Und das ist nämlich noch so ein anderer Nebeneffekt der Visualisierung,
+
+00:53:06.801 --> 00:53:11.100
+<v jürgenrichtergebert>Ich würde mal sagen, ich selbst habe an meinen Programmen am meisten gelernt.
+
+00:53:11.101 --> 00:53:17.900
+<v jürgenrichtergebert>Weil ich einfach Probleme so tief durchdringe musste, um überhaupt zu dieser Visualisierung hinzukommen,
+
+00:53:17.901 --> 00:53:22.600
+<v jürgenrichtergebert>dass das eben Forschung für sich genommen schon mal wieder ist.
+
+00:53:22.601 --> 00:53:26.700
+<v jürgenrichtergebert>Und das ist ein Effekt, den man auch in der Form weitergeben kann.
+
+00:53:26.701 --> 00:53:34.300
+<v timpritlove>Man schafft sich quasi einen neuen Sinn, um einen Bereich neu erfassen zu können darüber.
+
+00:53:34.301 --> 00:53:37.000
+<v timpritlove>Man legt noch mal so eine Lage …
+
+00:53:37.001 --> 00:53:45.800
+<v jürgenrichtergebert>Sinn im mehrfachen Sinne des Wortes, Sinn im Sinne von Sinngebung, aber Sinn auch im Sinne von Wahrnehmungsorgan.
+
+00:53:45.801 --> 00:53:46.700
+<v timpritlove>So meinte ich es vor allem.
+
+00:53:46.701 --> 00:53:52.100
+<v jürgenrichtergebert>Also Computer sind für Mathematiker häufig Mikroskop und Teleskop,
+
+00:53:52.101 --> 00:53:58.900
+<v jürgenrichtergebert>mit denen sie Dinge sehen können, die sie so nicht sehen könnten, wenn nicht zwischendrin irgendwo was gerechnet
+
+00:53:58.901 --> 00:54:02.000
+<v jürgenrichtergebert>und dann auf dem Bildschirm dargestellt würde.
+
+00:54:02.001 --> 00:54:10.500
+<v timpritlove>Und es ist ja eigentlich auch genau die Sinneswahrnehmung des Menschen, die diese Kernfähigkeit der Abstraktion,
+
+00:54:10.501 --> 00:54:18.200
+<v timpritlove>die ja letzten Endes bedeutet, ich kann Dinge auseinanderhalten und schaffe mir meine eigenen Trennungen,
+
+00:54:18.201 --> 00:54:28.900
+<v timpritlove>wo beginnt etwas, wo endet etwas, das ist ja diese Abstraktion, das ist ein Baum und da fängt er an und da hört er auf,
+
+00:54:28.901 --> 00:54:35.500
+<v timpritlove>das bedeutet, auch hier in der Visualisierung schafft man damit auch neue Begriffe der Abstraktion,
+
+00:54:35.501 --> 00:54:39.400
+<v timpritlove>um Dinge voneinander auch vielleicht besser trennen zu können.
+
+00:54:39.401 --> 00:54:45.000
+<v jürgenrichtergebert>Neue Begriffe der Abstraktion und auch neue Möglichkeiten der Intuition.
+
+00:54:45.001 --> 00:54:52.100
+<v jürgenrichtergebert>Also nicht selten wurden mathematische Ergebnisse, wichtige mathematische Ergebnisse gefunden,
+
+00:54:52.101 --> 00:54:57.400
+<v jürgenrichtergebert>nachdem die Leute sich mathematische Visualisierungen zu einem bestimmten Thema angeschaut haben
+
+00:54:57.401 --> 00:55:01.800
+<v jürgenrichtergebert>oder erst mal selbst programmiert haben, dann darüber Dinge sehen konnten,
+
+00:55:01.801 --> 00:55:11.100
+<v jürgenrichtergebert>die vorher ihrem Sinnesorgan nicht zugänglich waren und darüber eine Intuition für neue Effekte aufbauen können.
+
+00:55:11.101 --> 00:55:16.900
+<v jürgenrichtergebert>Es gibt tatsächlich in der Mathematik einen Forschungszweig, der nennt sich experimentelle Mathematik,
+
+00:55:16.901 --> 00:55:25.200
+<v jürgenrichtergebert>die genau versucht, solche Dinge zu kultivieren und Werkzeuge des Experimentierens mit Mathematik zu schaffen,
+
+00:55:25.201 --> 00:55:30.600
+<v jürgenrichtergebert>mit dem man einfach auch mal in größerem Maße Dinge ausprobieren kann.
+
+00:55:30.601 --> 00:55:39.800
+<v jürgenrichtergebert>Und ähnlich wie ein Physiker oder ein Chemiker, der verschiedene Substanzen versucht auf ganz unterschiedliche Arten und Weisen zusammenzumixen,
+
+00:55:39.801 --> 00:55:45.900
+<v jürgenrichtergebert>plötzlich Dinge zusammenzubringen, die auf den ersten Blick scheinbar gar nicht zusammen gehören
+
+00:55:45.901 --> 00:55:50.900
+<v jürgenrichtergebert>und darüber plötzlich Effekte zu sehen, mit denen man vorher nie gerechnet hätte
+
+00:55:50.901 --> 00:55:54.500
+<v jürgenrichtergebert>und die teilweise sehr sehr tief liegen.
+
+00:55:54.501 --> 00:56:04.800
+<v timpritlove>Jetzt ist ja hier schon viel über Software gesprochen worden und über Lösungswege, Algorithmen letztlich,
+
+00:56:04.801 --> 00:56:13.900
+<v timpritlove>und wir hatten es ja auch ganz zu Beginn schon, dass die Mathematik und die Informatik sehr aneinander stößt.
+
+00:56:13.901 --> 00:56:16.300
+<v timpritlove>Wie nahe sind sich denn diese Disziplinen eigentlich wirklich?
+
+00:56:16.301 --> 00:56:24.300
+<v timpritlove>Wo macht es Sinn, diese Felder zu trennen, wo sind sie sich denn vielleicht ähnlicher als sie es sein wollen?
+
+00:56:24.301 --> 00:56:31.000
+<v jürgenrichtergebert>Wie nahe ist die Mathematik der Informatik, wie nahe ist die Informatik der Mathematik.
+
+00:56:31.001 --> 00:56:37.000
+<v jürgenrichtergebert>Das kommt, glaube ich, sehr auf die jeweilige Person an, die gerade Mathematik oder Informatik betreibt.
+
+00:56:37.001 --> 00:56:45.600
+<v jürgenrichtergebert>Natürlich kann man Informatik betreiben und dabei relativ wenig Mathematik machen.
+
+00:56:45.601 --> 00:56:49.200
+<v jürgenrichtergebert>Man kann auch Mathematik betreiben und dabei relativ wenig Informatik machen.
+
+00:56:49.201 --> 00:56:52.300
+<v jürgenrichtergebert>Je nachdem in welchem Gebiet man sich gerade bewegt.
+
+00:56:52.301 --> 00:57:00.600
+<v jürgenrichtergebert>Aber es gibt eine Schnittstelle, in der der Overlap so groß ist, dass das eine oder das andere nicht richtig existieren kann.
+
+00:57:00.601 --> 00:57:07.300
+<v jürgenrichtergebert>Und viele Bereiche der Mathematik haben auch schon Informatik betrieben, bevor es überhaupt Computer gab.
+
+00:57:07.301 --> 00:57:17.000
+<v jürgenrichtergebert>Und in dem Sinne ist es eben auch Informatik in einer Richtung zumindest aus der Mathematik raus entstanden,
+
+00:57:17.001 --> 00:57:21.900
+<v jürgenrichtergebert>allerdings auch aus rein pragmatischen Aspekten, wie zum Beispiel Webstühle zu programmieren,
+
+00:57:21.901 --> 00:57:26.900
+<v jürgenrichtergebert>sind in den allerersten Anfängen der Informatik…
+
+00:57:26.901 --> 00:57:35.700
+<v jürgenrichtergebert>Ich würde sagen, das ist eine angenehme Symbiose idealerweise und ich bin immer sehr dagegen, Dinge einfach zu trennen
+
+00:57:35.701 --> 00:57:42.700
+<v jürgenrichtergebert>und schnell zu trennen und zu sagen, bis dahin ist Mathematik und ab da ist es jetzt Informatik.
+
+00:57:42.701 --> 00:57:51.100
+<v jürgenrichtergebert>Also mein ganzes Leben der letzten, ich würde mal sagen, 10 fast 20 Jahre ist ständig ein Mix aus beiden Gebieten
+
+00:57:51.101 --> 00:57:57.000
+<v jürgenrichtergebert>und wenige Ergebnisse, die ich hatte, wären ohne Computerhilfe entstanden
+
+00:57:57.001 --> 00:58:02.800
+<v jürgenrichtergebert>und wenige Programme, die ich geschrieben habe, wären ohne mathematische Hintergründe entstanden.
+
+00:58:02.801 --> 00:58:05.700
+<v jürgenrichtergebert>Ich glaube, so geht es sehr vielen Kollegen gerade hier im Haus.
+
+00:58:05.701 --> 00:58:14.000
+<v jürgenrichtergebert>Wir sind an der Technischen Universität München, in der sich die Mathematik auch wirklich sehr anwendungsbezogen definiert,
+
+00:58:14.001 --> 00:58:20.200
+<v jürgenrichtergebert>was jetzt nicht heißt, dass jeder von uns Anwendungen macht, aber die Schnittstelle Mathematik und Informatik
+
+00:58:20.201 --> 00:58:24.500
+<v jürgenrichtergebert>in gewissem Sinne als eine Einheit zu empfinden ist, glaube ich, eine Philosophie,
+
+00:58:24.501 --> 00:58:29.300
+<v jürgenrichtergebert>die viele hier irgendwo in ihrer TU DNA drin haben.
+
+00:58:29.301 --> 00:58:38.900
+<v jürgenrichtergebert>Und das mag anders sein an Instituten, die nicht dieses T im Namen schon drin haben wie die Technische Universität München.
+
+00:58:38.901 --> 00:58:48.400
+<v jürgenrichtergebert>Und es ist so, mein Werdegang hatte immer ein T im Namen, ich habe also an der TH Darmstadt studiert,
+
+00:58:48.401 --> 00:58:55.400
+<v jürgenrichtergebert>an der KTH dann auch noch einmal promoviert, an der ETA in Zürich war ich
+
+00:58:55.401 --> 00:58:58.700
+<v jürgenrichtergebert>und jetzt bin ich hier an der TU München, also dieses T zieht sich bei mir immer durch
+
+00:58:58.701 --> 00:59:03.600
+<v jürgenrichtergebert>und das heißt auch immer, das eine Gebiet mit dem anderen in Verbindung zu bringen.
+
+00:59:03.601 --> 00:59:16.400
+<v timpritlove>Trotzdem ist es ja hier, glaube ich, auch ein Teilfeld der Forschung, computergerechte Strukturierung von Geometrie herzustellen.
+
+00:59:16.401 --> 00:59:24.400
+<v timpritlove>Was muss man sich darunter vorstellen, was wird denn dem Computer gerecht und was muss sozusagen dann …
+
+00:59:24.401 --> 00:59:27.400
+<v jürgenrichtergebert>Es spielen viele Dinge zusammen.
+
+00:59:27.401 --> 00:59:32.300
+<v jürgenrichtergebert>Also eine lange Zeit, ist jetzt im Moment nicht mehr so das aktuellste Forschungsthema bei mir,
+
+00:59:32.301 --> 00:59:37.300
+<v jürgenrichtergebert>eine lange Zeit habe ich mich mit sogenannter dynamischer Geometrie beschäftigt.
+
+00:59:37.301 --> 00:59:45.900
+<v jürgenrichtergebert>Idee ist, Sie malen eine geometrische Konstellation auf dem Rechner, zum Beispiel den Satz von Pythagoras oder was ähnliches
+
+00:59:45.901 --> 00:59:50.300
+<v jürgenrichtergebert>und ich habe ja vorhin gesagt, ich möchte immer solche Experimentierfelder schaffen,
+
+00:59:50.301 --> 00:59:54.800
+<v jürgenrichtergebert>das heißt, ich möchte nicht nur ein Bild haben, sondern ich möchte nachher an die Punkte drangehen
+
+00:59:54.801 --> 00:59:55.900
+<v jürgenrichtergebert>und daran auch bewegen können.
+
+00:59:55.901 --> 00:59:57.600
+<v timpritlove>Es soll parametrisierbar sein.
+
+00:59:57.601 --> 00:59:58.900
+<v jürgenrichtergebert>Es soll parametrisierbar sein.
+
+00:59:58.901 --> 01:00:00.000
+<v timpritlove>Mehrdimensional.
+
+01:00:00.001 --> 01:00:03.100
+<v jürgenrichtergebert>Mehrdimensional ist gar nicht mal, also ist auch wichtig, aber …
+
+01:00:03.101 --> 01:00:07.300
+<v timpritlove>Ist eher zwangsläufig in dem Moment, wo man mehrere Parameter eingibt.
+
+01:00:07.301 --> 01:00:09.500
+<v jürgenrichtergebert>Der Parameterraum ist natürlich vieldimensional.
+
+01:00:09.501 --> 01:00:10.600
+<v timpritlove>Ja, das meinte ich.
+
+01:00:10.601 --> 01:00:14.300
+<v jürgenrichtergebert>Jetzt kommt aber was ganz gemeines rein.
+
+01:00:14.301 --> 01:00:21.600
+<v jürgenrichtergebert>Dieses Gebiet der dynamischen Geometrie ist als Forschungsrichtung so in den 80er Jahren letzten Jahrhunderts entstanden,
+
+01:00:21.601 --> 01:00:27.400
+<v jürgenrichtergebert>80er, 90er und da gab es zum Beispiel immer ein ganz fundamentales Problem
+
+01:00:27.401 --> 01:00:31.500
+<v jürgenrichtergebert>und die Leute haben das bezeichnet als das Problem der springenden Punkte.
+
+01:00:31.501 --> 01:00:35.700
+<v jürgenrichtergebert>Also da hat man wirklich einen springenden Punkt im wörtlichen Sinne.
+
+01:00:35.701 --> 01:00:38.600
+<v jürgenrichtergebert>Und zwar wenn ich jetzt was geometrisch konstruiere und das parametrisiere,
+
+01:00:38.601 --> 01:00:45.100
+<v jürgenrichtergebert>jetzt bitte ich alle Leute, die uns hier zuhören, sich mal einfach einen Kreis und eine Gerade vorzustellen.
+
+01:00:45.101 --> 01:00:48.200
+<v jürgenrichtergebert>Der Kreis und die Gerade sollen sich jetzt mal schneiden und Sie stellen sich jetzt mal vor,
+
+01:00:48.201 --> 01:00:51.000
+<v jürgenrichtergebert>Sie zeichnen einen der beiden Schnittpunkte ein.
+
+01:00:51.001 --> 01:00:58.900
+<v jürgenrichtergebert>Jetzt fangen Sie an, an dem Kreis und der Geraden rumzubewegen und dieser Schnittpunkt soll halt immer schön mitbewegt werden.
+
+01:00:58.901 --> 01:01:02.200
+<v jürgenrichtergebert>Moment mal, dieser Schnittpunkt, es gibt ja zwei dieser Schnittpunkte.
+
+01:01:02.201 --> 01:01:10.000
+<v jürgenrichtergebert>Ein Kreis und eine Gerade die haben zwei Schnittpunkte und in jedem Moment muss der Computer entscheiden,
+
+01:01:10.001 --> 01:01:14.100
+<v jürgenrichtergebert>welchen Schnittpunkt meine ich denn jetzt eigentlich von den beiden,
+
+01:01:14.101 --> 01:01:18.200
+<v jürgenrichtergebert>weil sonst hüpft auf einmal der Punkt von dem einen Schnittpunkt auf den anderen.
+
+01:01:18.201 --> 01:01:25.300
+<v jürgenrichtergebert>Verrückterweise ist das ein richtiges Problem, so banal es erscheint.
+
+01:01:25.301 --> 01:01:33.400
+<v jürgenrichtergebert>Und alle Programme der frühen dynamischen Geometrie haben unter dem Problem gelitten
+
+01:01:33.401 --> 01:01:37.700
+<v jürgenrichtergebert>und viele CAD Systeme machen das heute noch, dass, wenn eine Konstruktion zu komplex wird,
+
+01:01:37.701 --> 01:01:46.000
+<v jürgenrichtergebert>ich an Parametern spiele, dass dann plötzlich ein Element der Konstruktion komplett unmotiviert von einer Stelle zur anderen hüpft.
+
+01:01:46.001 --> 01:01:51.300
+<v jürgenrichtergebert>Wenn man das einer mathematischen Analyse unterzieht, stellt man auf einmal fest,
+
+01:01:51.301 --> 01:02:02.700
+<v jürgenrichtergebert>man hat es mit Räumen von analytischen Funktionen zu tun, denen man nur über sogenannte komplexe Zahlen richtig zu Leibe rücken kann
+
+01:02:02.701 --> 01:02:07.800
+<v jürgenrichtergebert>und indem man das Ganze in einen viel höher dimensionalen Umgebungsraum einbettet,
+
+01:02:07.801 --> 01:02:13.100
+<v jürgenrichtergebert>wo man dann um sogenannte Singularitäten, die hier auftreten, dann einen großen Umweg macht,
+
+01:02:13.101 --> 01:02:16.200
+<v jürgenrichtergebert>um die einzelnen Objekte immer auseinanderzuhalten.
+
+01:02:16.201 --> 01:02:21.200
+<v jürgenrichtergebert>Und tatsächlich ist man da ein ganzes Stück in tiefer Funktionentheorie gelandet,
+
+01:02:21.201 --> 01:02:25.100
+<v jürgenrichtergebert>um dieses Problem, was einem so banal erscheint, in den Griff zu kriegen.
+
+01:02:25.101 --> 01:02:30.500
+<v jürgenrichtergebert>Und kann sogar beweisen, das ist die einzige Möglichkeit, das in den Griff zu kriegen.
+
+01:02:30.501 --> 01:02:39.100
+<v jürgenrichtergebert>Und das ist jetzt zum Beispiel so eine Schlüsselstelle, wo man wirklich ganz gehörig in die mathematische Trickkiste greifen muss,
+
+01:02:39.101 --> 01:02:44.400
+<v jürgenrichtergebert>um etwas, einem erst mal als eine ganz einfache Aufgabe erscheint, endgültig in den Griff zu kriegen.
+
+01:02:44.401 --> 01:02:53.700
+<v jürgenrichtergebert>Und das ist zum Beispiel eine Leistung hier von der Forschungsarbeit, die wir hier im Rahmen von den verschiedenen Visualisierungsprojekten gemacht haben,
+
+01:02:53.701 --> 01:02:58.100
+<v jürgenrichtergebert>dass wir das einfach ein für allemal richtig in den Griff bekommen haben
+
+01:02:58.101 --> 01:03:01.300
+<v jürgenrichtergebert>und dann geht die Fragestellung natürlich weiter, wenn man es im Griff hat,
+
+01:03:01.301 --> 01:03:05.200
+<v jürgenrichtergebert>dann wie schwierig ist denn das dann algorithmisch umzusetzen?
+
+01:03:05.201 --> 01:03:09.100
+<v jürgenrichtergebert>Und dann stellt man fest, dass, wenn man es ganz ganz richtig machen will,
+
+01:03:09.101 --> 01:03:12.000
+<v jürgenrichtergebert>dass das Ganze dann allerdings beweisbar schwierig wird.
+
+01:03:12.001 --> 01:03:18.000
+<v jürgenrichtergebert>Und dann ist man wieder in der Klasse der harten Probleme mit drin, die ich vorhin schon mal kurz angesprochen habe,
+
+01:03:18.001 --> 01:03:24.500
+<v jürgenrichtergebert>und ja, es ist letztlich mathematische Grundlagenforschung, die man betreibt,
+
+01:03:24.501 --> 01:03:32.500
+<v jürgenrichtergebert>um ein scheinbar banales Visualisierungsproblem in den Griff zu kriegen und es führt kein Weg dran vorbei.
+
+01:03:32.501 --> 01:03:36.600
+<v jürgenrichtergebert>Also wenn man es richtig macht, geht es nur so.
+
+01:03:36.601 --> 01:03:39.300
+<v timpritlove>Das heißt, wenn die CAD Software keine springenden Punkte haben will…
+
+01:03:39.301 --> 01:03:40.400
+<v jürgenrichtergebert>…braucht sie komplexe Zahlen.
+
+01:03:40.401 --> 01:03:46.300
+<v timpritlove>Ich grübele schon die ganze Zeit über den Ursprung dieses Begriffs springender Punkt, aber …
+
+01:03:46.301 --> 01:03:48.300
+<v jürgenrichtergebert>Er kommt ursprünglich woanders her der Begriff.
+
+01:03:48.301 --> 01:03:55.200
+<v jürgenrichtergebert>Aber es ist tatsächlich so, okay, wir haben hier immer wieder Geschichten.
+
+01:03:55.201 --> 01:03:59.900
+<v jürgenrichtergebert>In den 90er Jahren haben wir mal auf einer Computermesse ausgestellt, der Orbit in Basel
+
+01:03:59.901 --> 01:04:05.900
+<v jürgenrichtergebert>und sind dann mal von einem CAD Stand zum anderen gegangen und erst mal war eine Frage,
+
+01:04:05.901 --> 01:04:10.700
+<v jürgenrichtergebert>gibt es überhaupt vernünftig parametrisierte CAD Systeme, ein paar haben wir gefunden
+
+01:04:10.701 --> 01:04:17.800
+<v jürgenrichtergebert>und die, die wir gefunden hatten, hatten wir innerhalb von Größenordnung fünf Minuten,
+
+01:04:17.801 --> 01:04:24.000
+<v jürgenrichtergebert>wenn wir das Benutzerinterface verstanden hatten, dann an der Stelle, wo bei denen dann die Objekte gesprungen sind.
+
+01:04:24.001 --> 01:04:30.600
+<v jürgenrichtergebert>Also kein einziges dieser Systeme war in der Lage, eine geringfügig mathematisch anspruchsvolle …
+
+01:04:30.601 --> 01:04:32.600
+<v timpritlove>In welchem Jahr war das noch so?
+
+01:04:32.601 --> 01:04:38.400
+<v jürgenrichtergebert>Das war, Moment ich muss nachrechnen, 96, 97, 98 um den Dreh rum.
+
+01:04:38.401 --> 01:04:41.600
+<v jürgenrichtergebert>Ich befürchte, die Bilanz ist heute nicht schrecklich viel besser.
+
+01:04:41.601 --> 01:04:50.000
+<v timpritlove>Das wäre meine nächste Frage gewesen, inwiefern solche Erkenntnisse halt auch wirklich in die Softwareentwicklung Einfluss hat.
+
+01:04:50.001 --> 01:04:50.300
+<v jürgenrichtergebert>Teilweise ja.
+
+01:04:50.301 --> 01:04:58.400
+<v jürgenrichtergebert>Also ich habe damals auch auf Konferenzen mit Leuten geredet, die CAD Systeme erstellt haben
+
+01:04:58.401 --> 01:05:05.200
+<v jürgenrichtergebert>aus industrieller professioneller Seite und ein paar haben zumindest ernsthaft in Erwägung gezogen,
+
+01:05:05.201 --> 01:05:11.100
+<v jürgenrichtergebert>an der Stelle auf einen anderen Rechenkern umzustellen und wir haben zumindest mal diskutiert,
+
+01:05:11.101 --> 01:05:14.800
+<v jürgenrichtergebert>was sind denn die Möglichkeiten und Konsequenzen.
+
+01:05:14.801 --> 01:05:16.800
+<v jürgenrichtergebert>Ob sie es am Ende tatsächlich gemacht haben, kann ich jetzt nicht sagen,
+
+01:05:16.801 --> 01:05:23.100
+<v jürgenrichtergebert>aber zumindest das Problembewusstsein, das häufig nicht da war,
+
+01:05:23.101 --> 01:05:28.200
+<v jürgenrichtergebert>das war dann zumindest zu dem Zeitpunkt in einigen Köpfen deutlich besser.
+
+01:05:28.201 --> 01:05:29.900
+<v timpritlove>Da ist immer die Frage, wie groß ist das Risiko.
+
+01:05:29.901 --> 01:05:35.200
+<v timpritlove>Also ich meine, wenn jetzt sozusagen die maximale Auswirkung ist, das zittert ein bisschen auf dem Bildschirm, aber am Ende…
+
+01:05:35.201 --> 01:05:38.000
+<v jürgenrichtergebert>Geht nicht um zittern.
+
+01:05:38.001 --> 01:05:45.100
+<v timpritlove>Also wenn das das einzige wäre, also wenn man sozusagen nur so eine fehlerhafte,
+
+01:05:45.101 --> 01:05:50.100
+<v timpritlove>also eine sekundäre optische Störung erzeugen würde, das ist ja das eine.
+
+01:05:50.101 --> 01:05:55.500
+<v timpritlove>Aber wenn ich sage, ich mache aber jetzt hier irgendwie einen Kraftwerksbau und wenn ich das nicht sicherstellen kann,
+
+01:05:55.501 --> 01:06:02.000
+<v timpritlove>dass das jetzt auch wirklich gelöst ist in allen Fällen, trete ich mir unter Umständen einen Fehler ein,
+
+01:06:02.001 --> 01:06:06.900
+<v timpritlove>einen konstruktionellen Fehler, der halt die Sicherheit des ganzen Projektes riskieren kann.
+
+01:06:06.901 --> 01:06:13.000
+<v jürgenrichtergebert>Diskontinuitäten sind ein Problem, mit dem man immer wieder in der Informatik zu kämpfen hat.
+
+01:06:13.001 --> 01:06:16.600
+<v jürgenrichtergebert>Es gibt, ich weiß nicht, ob die Geschichte wahr oder nur gut erfunden ist,
+
+01:06:16.601 --> 01:06:22.300
+<v jürgenrichtergebert>aber es gibt angeblich diesen Düsenjet, der sich über dem Äquator plötzlich auf den Rücken gedreht hat,
+
+01:06:22.301 --> 01:06:31.400
+<v jürgenrichtergebert>weil irgendwo ein Vorzeichenfehler in der Steuerlogik war, die einfach mit dem Übergang über den Äquator nicht umgehen konnte
+
+01:06:31.401 --> 01:06:38.000
+<v jürgenrichtergebert>und ein Vorzeichen umgeflippt hat und von nicht sehr sehr unterschiedlicher Art sind diese Probleme,
+
+01:06:38.001 --> 01:06:41.200
+<v jürgenrichtergebert>die es dann in der konstruktiven Geometrie gibt, dann auch.
+
+01:06:41.201 --> 01:06:46.800
+<v jürgenrichtergebert>Also letztlich geht es um richtige Wahl von Vorzeichen dabei.
+
+01:06:46.801 --> 01:06:49.200
+<v timpritlove>Ist das Testing ein Problem in der Softwareentwicklung.
+
+01:06:49.201 --> 01:06:54.200
+<v timpritlove>Man testet halt nicht alle Fälle, sondern nur eben die, die erst mal offensichtlich erscheinen
+
+01:06:54.201 --> 01:06:59.700
+<v timpritlove>oder die einzigen, an die man denkt, aber ein mathematisches Modell vielleicht herbeizuziehen,
+
+01:06:59.701 --> 01:07:07.200
+<v timpritlove>was in irgendeiner Form sicherstellen kann, dass ich auch alle Fälle teste, die ich testen müsste,
+
+01:07:07.201 --> 01:07:08.400
+<v timpritlove>das könnte ja an der Stelle auch schon helfen.
+
+01:07:08.401 --> 01:07:14.300
+<v jürgenrichtergebert>Wobei an der Stell noch dazukommt, dass es an der Stelle um kontinuierliche Übergänge geht.
+
+01:07:14.301 --> 01:07:19.700
+<v jürgenrichtergebert>Und es zumindest gar nicht mal diese endliche Anzahl von Fällen gibt.
+
+01:07:19.701 --> 01:07:26.000
+<v jürgenrichtergebert>Und da kommt dann wieder die Mathematik rein, wie reduziert man so ein Problem letztlich auf eine endliche Anzahl von Fällen?
+
+01:07:26.001 --> 01:07:32.200
+<v jürgenrichtergebert>Also auch da allein um ein Testszenario gescheit zu machen, braucht man wieder Mathematik,
+
+01:07:32.201 --> 01:07:37.800
+<v jürgenrichtergebert>um einfach darüber Auskunft zu geben, wenn ich nur das und das und das abgetestet habe,
+
+01:07:37.801 --> 01:07:44.500
+<v jürgenrichtergebert>dann habe ich das auch in seiner Gesamtheit, wenn der Rest wenigstens stimmt.
+
+01:07:44.501 --> 01:07:52.600
+<v jürgenrichtergebert>Also beweisbar korrekte Software ist wiederum ein Forschungsgebiet sowohl der praktischen als auch der theoretischen Informatik.
+
+01:07:52.601 --> 01:07:56.100
+<v timpritlove>Also dass da einiges im Argen liegt, das merke ich immer wieder, wenn mir Programme mir irgendwelche Karten
+
+01:07:56.101 --> 01:08:02.600
+<v timpritlove>und meine eigene Position anzeigen und ich stelle wieder fest, dass ich 500 Kilometer südlich von Nigeria irgendwo im Wasser treibe.
+
+01:08:02.601 --> 01:08:03.900
+<v jürgenrichtergebert>Schön dort, sehr schön dort.
+
+01:08:03.901 --> 01:08:09.700
+<v timpritlove>Schön dort und vor allem halt Koordinate 0;0, da weiß man halt schon wieder,
+
+01:08:09.701 --> 01:08:13.900
+<v timpritlove>da ist irgendwas ganz gründlich schief gelaufen, an welcher Stelle auch immer.
+
+01:08:13.901 --> 01:08:16.600
+<v jürgenrichtergebert>Aber jetzt gerade noch mal ganz kurz zum Thema Software entwerfen.
+
+01:08:16.601 --> 01:08:24.900
+<v jürgenrichtergebert>Ich schreibe ja selbst auch sehr viel Software und ein großes Problem, mit dem man als Softwareentwickler ständig zu kämpfen hat,
+
+01:08:24.901 --> 01:08:31.900
+<v jürgenrichtergebert>ist, dass man selbst sein Programm immer nur in den Grenzen testet, in denen man es sich selbst vorstellt.
+
+01:08:31.901 --> 01:08:37.600
+<v jürgenrichtergebert>Sogar manchmal intuitiv, um die Schwachstellen einen Bogen drumherum macht,
+
+01:08:37.601 --> 01:08:40.200
+<v jürgenrichtergebert>weil man einfach weiß, ah okay da wird es vielleicht gar nicht so funktionieren
+
+01:08:40.201 --> 01:08:45.100
+<v jürgenrichtergebert>und irgendwas ganz im Hinterkopf sagt einem, will ich gar nicht erst testen,
+
+01:08:45.101 --> 01:08:51.000
+<v jürgenrichtergebert>auch da ist es dann wieder ein ganz bewusster Akt des formalen Denkens, genau das nicht zu tun.
+
+01:08:51.001 --> 01:08:56.000
+<v jürgenrichtergebert>Und da stecken in der Softwareentwicklung einige Fallen, in die man sehr schnell reinlaufen kann.
+
+01:08:56.001 --> 01:09:00.200
+<v timpritlove>Gibt ja auch so eine eigene Disziplin in der Informatik hin zu beweisbarer Software.
+
+01:09:00.201 --> 01:09:01.100
+<v jürgenrichtergebert>Genau.
+
+01:09:01.101 --> 01:09:07.000
+<v timpritlove>Die halt mathematisch dann auch wirklich nachweisen kann, dass sie in allen Fällen richtig rechnet.
+
+01:09:07.001 --> 01:09:07.300
+<v timpritlove>Ich weiß nicht, ob das jetzt hier …
+
+01:09:07.301 --> 01:09:08.600
+<v jürgenrichtergebert>Unter bestimmten Prämissen gibt es…
+
+01:09:08.601 --> 01:09:10.200
+<v timpritlove>Unter bestimmten Prämissen.
+
+01:09:10.201 --> 01:09:13.900
+<v jürgenrichtergebert>Im Informatikdepartement gibt es einige Leute, die sich damit beschäftigen.
+
+01:09:13.901 --> 01:09:17.700
+<v timpritlove>Und überschneidet sich das so mit Ihrer Forschung in gewisser Hinsicht?
+
+01:09:17.701 --> 01:09:25.200
+<v jürgenrichtergebert>Also ich schreibe keine beweisbar korrekte Software in dem strengen Sinne.
+
+01:09:25.201 --> 01:09:31.700
+<v jürgenrichtergebert>Ich habe mich aber eine ganze Weile mit automatischen Beweisen aus Software heraus beschäftigt.
+
+01:09:31.701 --> 01:09:41.500
+<v jürgenrichtergebert>Das war tatsächlich übrigens der ganz ursprüngliche Motivationspunkt für diese ganzen dynamischen Geometriesachen.
+
+01:09:41.501 --> 01:09:50.200
+<v jürgenrichtergebert>Zu Zeiten von meiner Dissertation habe ich automatische Beweise geometrischer Sätze Algorithmen dafür entworfen
+
+01:09:50.201 --> 01:09:52.400
+<v jürgenrichtergebert>und dafür wollte ich ein Eingabeinterface.
+
+01:09:52.401 --> 01:09:57.600
+<v jürgenrichtergebert>Also man zeichnet zum Beispiel den Satz von Pythagoras hin, soll auf einen Knopf drücken
+
+01:09:57.601 --> 01:10:01.500
+<v jürgenrichtergebert>und dann möchte man einen Beweis für das Theorem geliefert bekommen.
+
+01:10:01.501 --> 01:10:08.000
+<v jürgenrichtergebert>Und das war der Ursprung für diese ganzen dynamischen Geometriesachen, mit denen ich mich beschäftigt habe
+
+01:10:08.001 --> 01:10:11.600
+<v jürgenrichtergebert>und die kamen ursprünglich aus dem Thema automatisches Beweisen.
+
+01:10:11.601 --> 01:10:15.300
+<v jürgenrichtergebert>Was übrigens dann, um den Bogen jetzt ganz groß rund zu schließen,
+
+01:10:15.301 --> 01:10:21.500
+<v jürgenrichtergebert>ursprünglich aus den Sachen mit den Nichtrealisierbarkeitsbeweisen für die Vielflächen in vier Dimensionen,
+
+01:10:21.501 --> 01:10:24.100
+<v jürgenrichtergebert>was da wiederum irgendwo seinen Ursprung mit hat.
+
+01:10:24.101 --> 01:10:32.400
+<v jürgenrichtergebert>Also hängt alles irgendwo zusammen, ist aber, wenn man es von außen anschaut, vielleicht etwas diskontinuierlicher
+
+01:10:32.401 --> 01:10:37.600
+<v jürgenrichtergebert>als es dann in der eigenen Biografie letztlich ist.
+
+01:10:37.601 --> 01:10:42.100
+<v timpritlove>Ein Anlass, nicht der einzige, aber ein Anlass, hier das Gespräch mal zu suchen, ist ja,
+
+01:10:42.101 --> 01:10:48.300
+<v timpritlove>dass Sie gerade vom DFG und Stifterverband den Kommunikatorpreis vermittelt bekommen haben.
+
+01:10:48.301 --> 01:10:54.200
+<v timpritlove>Da geht es natürlich vor allem um die Kommunikation dieses Wissens in viele Bereiche.
+
+01:10:54.201 --> 01:11:04.100
+<v timpritlove>Und ja, da wird ja so einiges erwähnt, abgesehen von der Kerntätigkeit hier am Lehrstuhl, die wir schon gemacht haben,
+
+01:11:04.101 --> 01:11:07.400
+<v timpritlove>finden ja hier auch noch ein paar andere Sachen statt.
+
+01:11:07.401 --> 01:11:13.500
+<v timpritlove>Gerade eben war ich in einer kleinen Ausstellung hier unten im Gebäude des IX Quadrat,
+
+01:11:13.501 --> 01:11:21.500
+<v timpritlove>wo man schon allerlei, also wo es handgreiflich wurde, also wo man quasi Visualisierung in konkreten Körpern,
+
+01:11:21.501 --> 01:11:28.700
+<v timpritlove>Objekten, aber halt auch Bildern gesehen hat und auch eben in solchen parametrisierbaren Sachen.
+
+01:11:28.701 --> 01:11:34.100
+<v timpritlove>Sie haben das ja schon erwähnt, so Kommunikation und das Weiterreichen dieses Wissens
+
+01:11:34.101 --> 01:11:39.700
+<v timpritlove>und auch das Zugänglichmachen von Mathematik das ist so ein bisschen auch Ihr Steckenpferd.
+
+01:11:39.701 --> 01:11:47.600
+<v timpritlove>Was findet da noch alles statt, um das gut kommunizieren zu können, was hilft?
+
+01:11:47.601 --> 01:11:53.400
+<v jürgenrichtergebert>Das ist jetzt eine Sache, mit der ich mich tatsächlich schon eine ganze Weile beschäftige.
+
+01:11:53.401 --> 01:12:03.500
+<v jürgenrichtergebert>Also die Ursprünge gehen bis auf 86 zurück, wo ich für eine Symmetrieausstellung in Darmstadt schon erste Software geschrieben habe,
+
+01:12:03.501 --> 01:12:11.100
+<v jürgenrichtergebert>hier am Campus habe ich jetzt unsere Mathematikausstellung vor rund 20 Jahren aufgemacht
+
+01:12:11.101 --> 01:12:19.700
+<v jürgenrichtergebert>und der Ansatz dabei ist eigentlich immer der, dass man Dinge zugänglich machen möchte,
+
+01:12:19.701 --> 01:12:24.100
+<v jürgenrichtergebert>dass man interessante Dinge zugänglich machen möchte.
+
+01:12:24.101 --> 01:12:29.600
+<v jürgenrichtergebert>Also eine wichtige Sache bei uns in der Ausstellung im IX Quadrat, übrigens man spricht es X-Quadrat aus.
+
+01:12:29.601 --> 01:12:31.000
+<v timpritlove>Oh, Entschuldigung.
+
+01:12:31.001 --> 01:12:32.500
+<v jürgenrichtergebert>Nicht I X-Quadrat.
+
+01:12:32.501 --> 01:12:42.200
+<v jürgenrichtergebert>Ein wichtiger Punkt dabei ist, Phänomene zu suchen, die verstehbar genug sind,
+
+01:12:42.201 --> 01:12:48.700
+<v jürgenrichtergebert>um damit einen interessanten Dialog über die Objekte hervorrufen zu können.
+
+01:12:48.701 --> 01:12:53.200
+<v jürgenrichtergebert>Und tatsächlich die Ausstellung, wie wir sie unten haben, die ist so aufgebaut,
+
+01:12:53.201 --> 01:12:58.800
+<v jürgenrichtergebert>dass es verschiedene Pfade durch die Exponate gibt, die unterschiedlichste Zusammenhänge rausholen können.
+
+01:12:58.801 --> 01:13:01.100
+<v jürgenrichtergebert>Also ein großer Teil geht um das Thema Symmetrie.
+
+01:13:01.101 --> 01:13:06.500
+<v jürgenrichtergebert>Symmetrie ist ein wunderbares Thema, über das man ganz toll mit Leuten reden kann,
+
+01:13:06.501 --> 01:13:12.600
+<v jürgenrichtergebert>die ansonsten sagen, ich habe mit Mathematik gar nicht so schrecklich viel am Hut
+
+01:13:12.601 --> 01:13:15.900
+<v jürgenrichtergebert>und die Ausstellung ist so gemacht, dass man da sowohl mit einem Kindergartenkind
+
+01:13:15.901 --> 01:13:23.800
+<v jürgenrichtergebert>als auch mit einem Oberstufenschüler als auch mit einem Gastwissenschaftler einen interessanten Dialog darüber führen kann.
+
+01:13:23.801 --> 01:13:29.300
+<v jürgenrichtergebert>Und dazu sind die Phänomene halt sehr gezielt rausgesucht.
+
+01:13:29.301 --> 01:13:36.500
+<v jürgenrichtergebert>Und die Ausstellung ist, ich sage jetzt mal so rum, ziemlich designed darauf hin.
+
+01:13:36.501 --> 01:13:40.700
+<v jürgenrichtergebert>Und ein typischer Effekt, den wir haben, dass die Leute rausgehen aus dem Raum und sagen,
+
+01:13:40.701 --> 01:13:44.600
+<v jürgenrichtergebert>Mensch der Raum ist ja von innen viel größer als von außen.
+
+01:13:44.601 --> 01:13:51.400
+<v jürgenrichtergebert>Weil eigentlich was wir gemacht haben ist, Räume im Kopf zu öffnen, in die die Leute dann eintauchen können.
+
+01:13:51.401 --> 01:13:55.500
+<v jürgenrichtergebert>Also rund 50 Exponate gibt es da unten, dann gibt es aber noch verschiedene andere Projekte.
+
+01:13:55.501 --> 01:14:04.500
+<v jürgenrichtergebert>Es gibt diverse Wissenschaftskommunikationsapps, in der verschiedene Effekte auch wieder dargestellt werden.
+
+01:14:04.501 --> 01:14:13.100
+<v jürgenrichtergebert>Wobei ich immer versuche, Computer nur dann einzusetzen, wenn man wirklich um das Digitale nicht drum herum kommt.
+
+01:14:13.101 --> 01:14:17.100
+<v jürgenrichtergebert>Also Effekte, die man anfassen kann, die soll man eben auch anfassen können,
+
+01:14:17.101 --> 01:14:22.700
+<v jürgenrichtergebert>aber der Anschauungsraum reicht halt nur bis zu einem gewissen Punkt und dann ist der Computereinsatz was ganz wichtiges.
+
+01:14:22.701 --> 01:14:26.500
+<v jürgenrichtergebert>Dann gibt es diverse Wanderausstellungen, Kooperationen mit dem Deutschen Museum,
+
+01:14:26.501 --> 01:14:31.800
+<v jürgenrichtergebert>Kooperation mit dem Mathemuseum MoMa in New York.
+
+01:14:31.801 --> 01:14:40.500
+<v jürgenrichtergebert>Und viele Dinge, wo man sich immer wieder Sachen ausdenkt, wie man denn Leute für Mathematik oder im Allgemeinen auch für Wissenschaft begeistern kann.
+
+01:14:40.501 --> 01:14:45.200
+<v jürgenrichtergebert>Und da kann ich gerne noch was zu den verschiedenen Ansätzen sagen, was man damit machen kann.
+
+01:14:45.201 --> 01:14:46.600
+<v timpritlove>Gelingt denn das?
+
+01:14:46.601 --> 01:14:48.000
+<v jürgenrichtergebert>Ja, oft.
+
+01:14:48.001 --> 01:14:49.900
+<v timpritlove>Oft.
+
+01:14:49.901 --> 01:14:51.500
+<v jürgenrichtergebert>Nicht immer.
+
+01:14:51.501 --> 01:14:54.200
+<v timpritlove>Also wer ist denn so die Zielgruppe der Überlegungen?
+
+01:14:54.201 --> 01:15:01.800
+<v jürgenrichtergebert>Ich. Ich bin ein Spielkind, also ich freue mich selbst an Phänomenen.
+
+01:15:01.801 --> 01:15:07.200
+<v jürgenrichtergebert>Und Dinge, an denen man selbst Spaß hat, die lassen sich auch selbst wieder gut weitergeben.
+
+01:15:07.201 --> 01:15:14.600
+<v jürgenrichtergebert>Und tatsächlich ist die Zielgruppe letztlich besteht aus Personen, die entweder sagen,
+
+01:15:14.601 --> 01:15:21.300
+<v jürgenrichtergebert>ich habe mit Mathematik gar nicht so schrecklich viel am Hut oder aus Leuten, die sagen,
+
+01:15:21.301 --> 01:15:23.800
+<v jürgenrichtergebert>eigentlich interessiert mich Mathematik, lass mich doch mal ein bisschen mehr erfahren,
+
+01:15:23.801 --> 01:15:28.100
+<v jürgenrichtergebert>aber auch Leute, die sagen, ich kenne mich total gut in Mathematik aus,
+
+01:15:28.101 --> 01:15:31.300
+<v jürgenrichtergebert>zeig mir doch mal was neues interessantes, was ich noch nicht kenne.
+
+01:15:31.301 --> 01:15:34.600
+<v jürgenrichtergebert>Also die Zielgruppe ist erschreckend breit.
+
+01:15:34.601 --> 01:15:39.000
+<v jürgenrichtergebert>Über die Apps hat sich zum Beispiel auch noch eine ganz neue Zielgruppe aufgetan,
+
+01:15:39.001 --> 01:15:44.300
+<v jürgenrichtergebert>ich habe eine App, die ist so an der Schnittstelle von Mathematik zu Kunst
+
+01:15:44.301 --> 01:15:49.700
+<v jürgenrichtergebert>und Kunstschaffende, insbesondere wenn es in den Bereich Grafikdesign reingeht,
+
+01:15:49.701 --> 01:15:55.300
+<v jürgenrichtergebert>sind ja auch häufig sehr formal denkende Menschen, trotz aller Kreativität, die in Kunst drinsteckt
+
+01:15:55.301 --> 01:15:59.300
+<v jürgenrichtergebert>und die kommen häufig zu mir und sagen, Mensch ich hätte gar nicht gewusst,
+
+01:15:59.301 --> 01:16:06.900
+<v jürgenrichtergebert>dass in mir auch eine mathematische Seite drin steckt und deine Apps haben mir das irgendwo aufgeschlossen.
+
+01:16:06.901 --> 01:16:13.400
+<v jürgenrichtergebert>Und Augenöffner sein, das ist vielleicht die wichtigste Message, die in den ganzen Dingen mit rüberkommt.
+
+01:16:13.401 --> 01:16:24.500
+<v timpritlove>Es gibt ja seit einiger Zeit diesen Kunsttrend, würde ich es mal nennen, der generativen Kunst.
+
+01:16:24.501 --> 01:16:34.100
+<v timpritlove>Also sowohl was Akustik betrifft als auch Visualisierung betrifft., das geht sehr weit,
+
+01:16:34.101 --> 01:16:37.800
+<v timpritlove>das ist ja dann tatsächlich auch eine Interessante Schnittstelle zu Ihrer Arbeit.
+
+01:16:37.801 --> 01:16:43.000
+<v jürgenrichtergebert>Das ist eine direkte Schnittstelle zur Mathematik, nicht unbedingt zu meiner Arbeit,
+
+01:16:43.001 --> 01:16:48.500
+<v jürgenrichtergebert>weil ich nur sehr indirekt generative Kunst betreibe.
+
+01:16:48.501 --> 01:16:53.900
+<v jürgenrichtergebert>Ich habe vorhin gesagt, in den Apps, die ich mache, geht es mir häufig darum,
+
+01:16:53.901 --> 01:16:58.100
+<v jürgenrichtergebert>dass die Spielregeln möglichst klar sind.
+
+01:16:58.101 --> 01:17:01.900
+<v jürgenrichtergebert>Und was ich machen möchte, ich verstehe mich häufig als ein Werkzeugmacher,
+
+01:17:01.901 --> 01:17:12.400
+<v jürgenrichtergebert>der den Benutzern Software oder Objekte an die Hand gibt, die praktisch Dinge ermöglicht,
+
+01:17:12.401 --> 01:17:15.700
+<v jürgenrichtergebert>die man ohne das Werkzeug nicht tun könnte.
+
+01:17:15.701 --> 01:17:22.900
+<v jürgenrichtergebert>Und es gibt viele andere Apps in Richtung generative Kunst, in denen man mit der App interagiert,
+
+01:17:22.901 --> 01:17:29.000
+<v jürgenrichtergebert>aber letztlich nicht weiß, was die App jetzt eigentlich aus dem gemacht hat, was ich jetzt da reingegeben habe.
+
+01:17:29.001 --> 01:17:32.500
+<v jürgenrichtergebert>Da spielt dann auch ganz häufig Zufall eine Rolle und ähnliches.
+
+01:17:32.501 --> 01:17:41.700
+<v jürgenrichtergebert>Ich versuche Dinge zu machen, in denen die Regeln extrem klar snid und sich darüber aber dann ein ganzer Horizont von Möglichkeiten ergibt.
+
+01:17:41.701 --> 01:17:50.000
+<v jürgenrichtergebert>Wie zum Beispiel Flächenornamente oder Rosettenornamente oder ähnliches zu zeichnen.
+
+01:17:50.001 --> 01:17:56.100
+<v jürgenrichtergebert>Und genau diese Spielart, dass die Regeln sehr klar sind und trotzdem Dinge entstehen,
+
+01:17:56.101 --> 01:18:03.100
+<v jürgenrichtergebert>mit denen ich gar nicht gerechnet hätte, das ist sehr spannend, dass dann an kreative Leute zu geben.
+
+01:18:03.101 --> 01:18:09.000
+<v jürgenrichtergebert>Das ist so ein bisschen ähnlich, wie wenn man Flöte in einem Raum mit einem guten Echo spielt.
+
+01:18:09.001 --> 01:18:14.800
+<v jürgenrichtergebert>Also man hat eine Flöte und macht etwas und plötzlich kommt von den Wänden das zurück, was man gerade selbst gemacht hat
+
+01:18:14.801 --> 01:18:20.400
+<v jürgenrichtergebert>und man kommt mit sich selbst in Interaktion dabei nach bestimmten Regeln,
+
+01:18:20.401 --> 01:18:23.400
+<v jürgenrichtergebert>und dabei kann sehr interessante und gute Musik entstehen.
+
+01:18:23.401 --> 01:18:29.700
+<v jürgenrichtergebert>Und ähnlich kann passieren, wenn man in einer App, die symmetrisch widerspiegelt,
+
+01:18:29.701 --> 01:18:35.000
+<v jürgenrichtergebert>was man gerade gemacht hat, kann plötzlich ein Dialog mit sich selbst entstehen,
+
+01:18:35.001 --> 01:18:39.800
+<v jürgenrichtergebert>der einen über das hinausführt, was man nur mit Stift und Papier sonst gemacht hätte.
+
+01:18:39.801 --> 01:18:43.800
+<v jürgenrichtergebert>Will nicht sagen, tun könnte, weil man könnte es mit sehr viel Mühe,
+
+01:18:43.801 --> 01:18:46.900
+<v jürgenrichtergebert>aber man wäre dann nicht so in diesem kreativen Fluss drin.
+
+01:18:46.901 --> 01:18:51.100
+<v jürgenrichtergebert>Und um das zu machen, auch wieder ein Haufen Mathematik hinten dran.
+
+01:18:51.101 --> 01:18:56.600
+<v timpritlove>Ich akzeptiere diese Trennung zwischen hier, ich mache ja nur das Werkzeug und in dem Moment, 
+
+01:18:56.601 --> 01:18:59.500
+<v timpritlove>wo das Werkzeug dann von jemandem benutzt wird, dann ist es auf einmal Kunst so,
+
+01:18:59.501 --> 01:19:04.500
+<v timpritlove>da gehe ich nur begrenzt mit, zumal ich ja ohnehin …
+
+01:19:04.501 --> 01:19:10.700
+<v timpritlove>Weil oft auch, ich meine, hat natürlich ein bisschen was mit dem Begriffsverständnis für Kunst zu tun,
+
+01:19:10.701 --> 01:19:20.900
+<v timpritlove>was ist das eigentlich, wo fängt es an, wo hört es auf, aber sicherlich ohne Zweifel ist der Kunstprozess immer einer,
+
+01:19:20.901 --> 01:19:24.800
+<v timpritlove>der auch so eine schöpferische Komponente hat, die zwangsläufig am status quo ansetzt,
+
+01:19:24.801 --> 01:19:29.900
+<v timpritlove>das heißt, in dem Moment, wo man auch Werkzeug schafft, was überhaupt erst eine Visualisierung,
+
+01:19:29.901 --> 01:19:38.100
+<v timpritlove>eine parametrisierte Betrachtung von etwas, was ja quasi auch wieder eine neuartige Verarbeitung von Daten ist
+
+01:19:38.101 --> 01:19:44.200
+<v timpritlove>und damit eben was neues schafft, dann kann ja das Werkzeug selbst ja auch schon die Kunst sein.
+
+01:19:44.201 --> 01:19:48.800
+<v timpritlove>Also gerade in dem Moment, wo der Computer auch Einzug gehalten hat in die Kunstwelt,
+
+01:19:48.801 --> 01:19:54.400
+<v timpritlove>sind ja oft Dinge schon bestaunt worden und das sicherlich auch zurecht.
+
+01:19:54.401 --> 01:19:58.100
+<v timpritlove>Wo man vielleicht auch heutiger Perspektive relativ einfache Dinge überhaupt erst mal zusammengemacht hat,
+
+01:19:58.101 --> 01:20:11.300
+<v timpritlove>weil diese Kombinatorik, diese generative Tätigkeit, dieses Visualisieren letzten Endes unterschiedlicher Eingabedinge,
+
+01:20:11.301 --> 01:20:13.800
+<v timpritlove>und wenn es erst mal nur so ganz grundlegende Sachen waren am Anfang wie,
+
+01:20:13.801 --> 01:20:20.300
+<v timpritlove>man hat da ein Mikrofon und dann wird halt die akustische Information in eine visuelle Information übersetzt,
+
+01:20:20.301 --> 01:20:29.200
+<v timpritlove>auch das ist ja schon ein künstlerischer Prozess, von daher erscheint mir hier der Übergang doch sehr fließend zu sein.
+
+01:20:29.201 --> 01:20:34.000
+<v jürgenrichtergebert>Ich muss auf einen Satz, den Sie eben eingeleitet haben, kurz zu sprechen kommen.
+
+01:20:34.001 --> 01:20:38.400
+<v jürgenrichtergebert>Sie haben eben gesagt, ich mache ja nur das Werkzeug, und dieses nur würde ich massiv rausstreichen.
+
+01:20:38.401 --> 01:20:39.300
+<v timpritlove>Ja.
+
+01:20:39.301 --> 01:20:39.900
+<v jürgenrichtergebert>Weil…
+
+01:20:39.901 --> 01:20:42.700
+<v timpritlove>Das war ja auch nur überspitzt formuliert. Nur.
+
+01:20:42.701 --> 01:20:51.900
+<v jürgenrichtergebert>Klar. Ein Instrumentenbauer ist ein Künstler und ein Artefakt so zu schaffen,
+
+01:20:51.901 --> 01:20:59.400
+<v jürgenrichtergebert>dass daraus etwas entsteht, mit dem Kreativität möglich ist, ist ein kreativer Prozess in sich selbst.
+
+01:20:59.401 --> 01:21:11.300
+<v jürgenrichtergebert>Und ich verbringe viel Zeit damit, mir darüber Gedanken zu machen, wie ich den möglichst perfekten Strich auf einem Zeichenprogramm machen kann,
+
+01:21:11.301 --> 01:21:16.300
+<v jürgenrichtergebert>der sich möglichst natürlich oder sogar übernatürlich anfühlt.
+
+01:21:16.301 --> 01:21:24.500
+<v jürgenrichtergebert>Und da ist dann im Hintergrund wieder jede Menge Algorithmik, und die gibt aber dann wiederum anderen Leuten die Möglichkeit,
+
+01:21:24.501 --> 01:21:31.300
+<v jürgenrichtergebert>Dinge zu machen, die mehr sind als ich jemals könnte und mehr sind als Sie jemals ohne die Programme könnten.
+
+01:21:31.301 --> 01:21:38.400
+<v jürgenrichtergebert>Und es gibt diesen einen Grafikdesigner, Kaligrafen, Seb Lester aus Großbritannien,
+
+01:21:38.401 --> 01:21:42.600
+<v jürgenrichtergebert>der hat mit meiner Symmetrie-App wahrscheinlich die komplexesten Buchstaben gemalt,
+
+01:21:42.601 --> 01:21:47.400
+<v jürgenrichtergebert>die jemals in der Menschheitsgeschichte überhaupt irgendwo gezeichnet wurden,
+
+01:21:47.401 --> 01:21:54.200
+<v jürgenrichtergebert>weil einfach an der Stelle seine Fähigkeiten plus den Möglichkeiten des Programms zusammengekommen sind,
+
+01:21:54.201 --> 01:21:58.900
+<v jürgenrichtergebert>zu etwas, was einfach viel mehr ist als was sowohl er als auch ich könnte.
+
+01:21:58.901 --> 01:22:01.300
+<v jürgenrichtergebert>Das finde ich toll, das macht wahnsinnig Spaß.
+
+01:22:01.301 --> 01:22:06.400
+<v jürgenrichtergebert>Und jetzt gerade über diese Apps auf der Schnittstelle von Mathematik zu Kunst,
+
+01:22:06.401 --> 01:22:13.300
+<v jürgenrichtergebert>Mathematik und Musik bin ich mit Leuten in Kontakt gekommen,
+
+01:22:13.301 --> 01:22:19.600
+<v jürgenrichtergebert>die wirklich zu den bereicherndsten Begegnungen hatte und ich meine jetzt, intellektuell bereichernd,
+
+01:22:19.601 --> 01:22:26.700
+<v jürgenrichtergebert>die ich bisher hatte und gerade diese Grenzbereiche von Wissenschaft zu Gebieten,
+
+01:22:26.701 --> 01:22:34.200
+<v jürgenrichtergebert>die erst mal gar nicht wissenschaftlich erscheinen, auszuloten, ist ein unglaublich spannender Prozess.
+
+01:22:34.201 --> 01:22:41.500
+<v timpritlove>Da die Lehre ja hier so eine besondere Bedeutung hat, würde mich natürlich jetzt auch noch mal interessieren,
+
+01:22:41.501 --> 01:22:47.800
+<v timpritlove>wie denn jetzt die Pandemie hier vielleicht die Arbeit beeinflusst hat.
+
+01:22:47.801 --> 01:22:52.300
+<v timpritlove>Ich bin mir sicher, das wird sie getan haben.
+
+01:22:52.301 --> 01:22:59.700
+<v timpritlove>Gerade wenn man so eine Liebe zu Werkzeugen hat und gerne die Dinge automatisiert haben möchte
+
+01:22:59.701 --> 01:23:06.300
+<v timpritlove>und vielleicht auch gut visualisiert haben möchte, wie hat sich denn das hier ausgewirkt auf die Lehre?
+
+01:23:06.301 --> 01:23:09.200
+<v jürgenrichtergebert>Ich rede jetzt einfach mal von mir ganz persönlich.
+
+01:23:09.201 --> 01:23:17.500
+<v jürgenrichtergebert>Die letzten zwei Jahre waren wahrscheinlich mithin bezüglich Lehre die arbeitsreichsten, die ich je hatte.
+
+01:23:17.501 --> 01:23:26.700
+<v jürgenrichtergebert>Und gleichzeitig war die Pandemiesituation eine gewissen Steilvorlage für unsere Zunft der Visualisierung.
+
+01:23:26.701 --> 01:23:34.000
+<v jürgenrichtergebert>Weil man steht jetzt plötzlich da und das, was man schon immer betrieben hat,
+
+01:23:34.001 --> 01:23:43.900
+<v jürgenrichtergebert>nämlich Inhalte digital zugänglich zu machen, wird auf einmal absolut notwendig, um einfach unterrichten zu können.
+
+01:23:43.901 --> 01:23:48.000
+<v jürgenrichtergebert>Ich habe für mich selbst dabei das Ziel gehabt, also ich unterrichte sehr gerne
+
+01:23:48.001 --> 01:23:55.200
+<v jürgenrichtergebert>und Lehre ist mir selbst eine heilige Aufgabe, und ich mache normalerweise auch sehr gute und schöne Livevorlesungen
+
+01:23:55.201 --> 01:24:02.700
+<v jürgenrichtergebert>und ich habe mir vorgenommen, in den Videocasts, die ich zu meinen Livevorlesungen jetzt gemacht habe,
+
+01:24:02.701 --> 01:24:07.700
+<v jürgenrichtergebert>oder die diese ersetzen sollten, sollte nichts fehlen, was sonst auch in der Vorlesung drin ist.
+
+01:24:07.701 --> 01:24:17.200
+<v jürgenrichtergebert>Was am Ende dazu geführt hat, dass ich Filme produziert habe, in denen eine Stunde Video im Film ungefähr 17 Stunden Arbeit bedeuten,
+
+01:24:17.201 --> 01:24:25.200
+<v jürgenrichtergebert>mit zuerst Konzeptbuch erstellen, letztlich eine Art Drehbuch erstellen, Visualisierungen dafür schreiben,
+
+01:24:25.201 --> 01:24:31.800
+<v jürgenrichtergebert>das ganze Zeug selbst aufnehmen, selbst zusammenschneiden, wo aber am Ende was rausgekommen ist,
+
+01:24:31.801 --> 01:24:36.200
+<v jürgenrichtergebert>an dem ich selbst auch wirklich Spaß habe und mir selbst auch gerne anschaue.
+
+01:24:36.201 --> 01:24:43.300
+<v jürgenrichtergebert>Wo eben genau diese Schnittstelle von formalem Zugang, visuellem Zugang,
+
+01:24:43.301 --> 01:24:48.900
+<v jürgenrichtergebert>erklären auf sehr vielen verschiedenen Ebenen, die ganze Zeit in den Videos durchgezogen wird.
+
+01:24:48.901 --> 01:24:52.100
+<v jürgenrichtergebert>Und die Studenten haben ihren Spaß dran.
+
+01:24:52.101 --> 01:24:59.400
+<v jürgenrichtergebert>Also wir haben jetzt zweimal in Folge dafür Lehrauszeichnungen hier von der Fakultät bekommen
+
+01:24:59.401 --> 01:25:05.200
+<v jürgenrichtergebert>und ich habe viele Studenten gehört, die gesagt haben, bitte die Videos auf keinen Fall nach der Pandemie abschaffen,
+
+01:25:05.201 --> 01:25:12.000
+<v jürgenrichtergebert>die müssen weiter existieren und die Lehre muss sich ein Stück auch mit an den Medien mit orientieren.
+
+01:25:12.001 --> 01:25:13.200
+<v jürgenrichtergebert>Ich finde das ein sehr spannendes Thema.
+
+01:25:13.201 --> 01:25:18.400
+<v jürgenrichtergebert>Macht endlos viel Arbeit, aber macht auch endlos viel Spaß.
+
+01:25:18.401 --> 01:25:20.700
+<v timpritlove>Wie digital ist denn die Lehre hier schon?
+
+01:25:20.701 --> 01:25:23.000
+<v jürgenrichtergebert>Was ist hier?
+
+01:25:23.001 --> 01:25:25.000
+<v timpritlove>Also hier in dem Lehrstuhl oder an der Fakultät.
+
+01:25:25.001 --> 01:25:33.900
+<v jürgenrichtergebert>Hier am Lehrstuhl, also die letzten zwei Semester oder drei Semester haben wir voll digital durchgezogen.
+
+01:25:33.901 --> 01:25:37.700
+<v jürgenrichtergebert>Im Moment geht es halt wieder ein Stück zurück in Richtung Hybridformate.
+
+01:25:37.701 --> 01:25:43.400
+<v jürgenrichtergebert>Ich selbst werde sehr wahrscheinlich die Videos, die ich jetzt in der Zeit erstellt habe,
+
+01:25:43.401 --> 01:25:51.600
+<v jürgenrichtergebert>auch für zukünftige Unterrichtsjahre verwenden und mehr und mehr auf inverted classroom, flipped classroom umstellen,
+
+01:25:51.601 --> 01:25:59.200
+<v jürgenrichtergebert>in dem es halt dann wirklich darum geht, dass die Studenten sich die Videos mit all ihren Vorteilen,
+
+01:25:59.201 --> 01:26:07.100
+<v jürgenrichtergebert>und ein riesiger Vorteil von einem Video ist die Pausetaste und die Rewindtaste und die Stopptaste.
+
+01:26:07.101 --> 01:26:10.300
+<v jürgenrichtergebert>Und überhaupt, dass ich Tasten habe, an denen ich das Ganze auch, wenn ich es mag,
+
+01:26:10.301 --> 01:26:18.400
+<v jürgenrichtergebert>morgens um 6 oder nachts um 12 anschalten kann, wenn ich am aufnahmefähigsten dazu bin.
+
+01:26:18.401 --> 01:26:25.500
+<v jürgenrichtergebert>Und die Rolle des Unterrichtenden ist dann letztlich „nur noch“, verbleibende Fragen zu klären.
+
+01:26:25.501 --> 01:26:31.200
+<v jürgenrichtergebert>Und das ist ja der eigentlich spannende Teil und das sollte man dann in Präsenz,
+
+01:26:31.201 --> 01:26:35.600
+<v jürgenrichtergebert>wenn das wieder möglich wird, in Präsenzeinheiten machen.
+
+01:26:35.601 --> 01:26:39.700
+<v jürgenrichtergebert>Also ich denke, wir werden an ganz vielen Stellen unsere Lehre überdenken müssen,
+
+01:26:39.701 --> 01:26:45.700
+<v jürgenrichtergebert>weil wir einfach wirklich viel dazu gelernt haben über die letzten drei Semester.
+
+01:26:45.701 --> 01:26:49.100
+<v jürgenrichtergebert>Und ich bin wirklich, auch wenn es sehr viel Arbeit war, froh über die Erfahrung,
+
+01:26:49.101 --> 01:26:57.400
+<v jürgenrichtergebert>froh auch darum zu wissen, wieviel Arbeit es ist, bestimmte Sachen in einem bestimmten Qualitätsniveau herzustellen,
+
+01:26:57.401 --> 01:27:06.900
+<v jürgenrichtergebert>und ja man hat jede Menge Techniken gelernt und auch viele Sachen noch mal anders pädagogisch überdacht.
+
+01:27:06.901 --> 01:27:10.800
+<v timpritlove>Was denn zum Beispiel?
+
+01:27:10.801 --> 01:27:17.600
+<v jürgenrichtergebert>Zum Beispiel den Stellenwert von Visualisierungen, jetzt in meinem ganz konkreten Fall.
+
+01:27:17.601 --> 01:27:27.300
+<v jürgenrichtergebert>Während ich Visualisierungen in der Präsenzlehre immer mehr oder weniger vollkommen nebenbei praktisch eingesetzt habe.
+
+01:27:27.301 --> 01:27:34.100
+<v jürgenrichtergebert>Ich hatte die Dinger so und so auf dem Computer und habe sie, wenn immer es sich im Unterricht angeboten hat,
+
+01:27:34.101 --> 01:27:36.900
+<v jürgenrichtergebert>einfach mit rausgenommen und spontan im Unterricht mit verwendet.
+
+01:27:36.901 --> 01:27:39.500
+<v jürgenrichtergebert>So wie man an den Modellschrank geht und rausgreift.
+
+01:27:39.501 --> 01:27:51.900
+<v jürgenrichtergebert>Plötzlich musste man diese Visualisierungen in ganz gezielter Art und Weise konkret in einen vorgeplanten Fluss einbinden.
+
+01:27:51.901 --> 01:27:56.700
+<v jürgenrichtergebert>Und dann auch irgendwo die Balance halten zwischen visualisierten und formalen
+
+01:27:56.701 --> 01:28:04.000
+<v jürgenrichtergebert>und über die Brücken mehr Gedanken sich machen und man musste dabei viele der Rollen,
+
+01:28:04.001 --> 01:28:07.900
+<v jürgenrichtergebert>die die Visualisierung während dem normalen Unterricht spielt,
+
+01:28:07.901 --> 01:28:13.700
+<v jürgenrichtergebert>nämlich gerade zum Beispiel auf Fragen von Studenten reagieren zu können und zu sagen,
+
+01:28:13.701 --> 01:28:18.400
+<v jürgenrichtergebert>jetzt schaue dir das doch mal da und da so und so an, dann siehst du wie sich das verhält,
+
+01:28:18.401 --> 01:28:27.400
+<v jürgenrichtergebert>das vorauszuahnen und praktisch die Fragen im eigenen Video irgendwo auch intern vorwegzunehmen
+
+01:28:27.401 --> 01:28:33.700
+<v jürgenrichtergebert>und dann ohne die Frage explizit zu stellen, die Frage zu beantworten und seine Erklärungen besser zu machen.
+
+01:28:33.701 --> 01:28:40.700
+<v jürgenrichtergebert>Also das Erstellen der Videos war ein sehr starker Vorgang des Bewusstmachens von dem,
+
+01:28:40.701 --> 01:28:44.900
+<v jürgenrichtergebert>was erzählt man da jetzt eigentlich?
+
+01:28:44.901 --> 01:28:49.900
+<v timpritlove>Und wieviel wird davon bleiben?
+
+01:28:49.901 --> 01:28:55.700
+<v timpritlove>Also ich meine, manches war natürlich jetzt in dieser Zeit zwangsläufig.
+
+01:28:55.701 --> 01:28:59.900
+<v jürgenrichtergebert>Voraussagen über die Zukunft sind immer eine ziemlich unsichere Angelegenheit.
+
+01:28:59.901 --> 01:29:05.200
+<v jürgenrichtergebert>Von daher muss man schauen, wieviel davon bleibt.
+
+01:29:05.201 --> 01:29:12.200
+<v jürgenrichtergebert>Ich würde sagen, bei mir wird eine Menge davon bleiben, weil ich einfach selbst meine Freude daran habe.
+
+01:29:12.201 --> 01:29:17.200
+<v jürgenrichtergebert>Es ist letztlich auch ein Stück eine Manifestierung von Dingen, die wir ohnehin schon gemacht haben.
+
+01:29:17.201 --> 01:29:25.200
+<v jürgenrichtergebert>Also die Lehre war ja auch in Zeiten vor der Pandemie schon zu großen Teilen digital unterstützt.
+
+01:29:25.201 --> 01:29:31.200
+<v jürgenrichtergebert>Also es gab immer schon einen blended learning, in dem eben genau diese Mikrolaboratorien
+
+01:29:31.201 --> 01:29:38.700
+<v jürgenrichtergebert>zum Beispiel auf dem Portal mathevital gesammelt wurden, in dem es dann begleitend zu den Vorlesungen,
+
+01:29:38.701 --> 01:29:46.300
+<v jürgenrichtergebert>die ich gemacht habe, und auch begleitend zu Vorlesungen einiger Kollegen Materialsammlungen gab,
+
+01:29:46.301 --> 01:29:54.600
+<v jürgenrichtergebert>in denen die Studenten zu Hause noch mal an eben genau diesen passend gebauten Mikrolaboratorien experimentieren konnten
+
+01:29:54.601 --> 01:29:56.700
+<v jürgenrichtergebert>zum aktuellen Vorlesungsstoff.
+
+01:29:56.701 --> 01:30:05.300
+<v jürgenrichtergebert>Also meine lineare Algebra die ist schon seit, ja Moment, mathevital gibt es seit 2008,
+
+01:30:05.301 --> 01:30:10.100
+<v jürgenrichtergebert>seit 2008 massivst digital unterstützt, dazu kommen die Visualisierungen,
+
+01:30:10.101 --> 01:30:14.900
+<v jürgenrichtergebert>die ich so und so in der Vorlesung selbst verwendet habe.
+
+01:30:14.901 --> 01:30:22.900
+<v jürgenrichtergebert>Das ist natürlich auch ein Bereich, der über die Jahre gewachsen ist und in dem immer mehr dazu kommt.
+
+01:30:22.901 --> 01:30:29.700
+<v jürgenrichtergebert>Und in gewissem Sinne waren jetzt die letzten drei Semester so eine Art Konsolidierung von dem,
+
+01:30:29.701 --> 01:30:32.900
+<v jürgenrichtergebert>was ohnehin da war.
+
+01:30:32.901 --> 01:30:40.100
+<v jürgenrichtergebert>Also von daher in gewissem Sinne, so neu ist es nicht, das Ganze aber dann trotzdem in Drehbuch und in Schnitt
+
+01:30:40.101 --> 01:30:45.600
+<v jürgenrichtergebert>und man steht ja dann selbst auch da und nimmt sich selbst mit auf mit dem Handy
+
+01:30:45.601 --> 01:30:52.200
+<v jürgenrichtergebert>und muss die ganze Zeit irgendwo präsent sein, wie jetzt hier in dem Podcast und möglichst vivant irgendwo reden
+
+01:30:52.201 --> 01:30:57.800
+<v jürgenrichtergebert>und die Leute gefühlt irgendwo dabei halten, das muss man erst mal lernen,
+
+01:30:57.801 --> 01:31:01.300
+<v jürgenrichtergebert>und das war bestimmt ein Prozess des Neulernens an der Stelle.
+
+01:31:01.301 --> 01:31:07.700
+<v jürgenrichtergebert>Ich war dann am Ende überrascht, also normalerweise, wenn ich meine letzte Vorlesungsstunde mache,
+
+01:31:07.701 --> 01:31:18.500
+<v jürgenrichtergebert>dann überkommt mich so ein kleiner Moment der Rührung, dass man jetzt diesen Studentenpool jetzt irgendwo ins nächste Semester entlässt.
+
+01:31:18.501 --> 01:31:22.700
+<v jürgenrichtergebert>Und in der Pandemiezeit ist das soweit gewachsen, dass ich zu meinem Handy,
+
+01:31:22.701 --> 01:31:29.700
+<v jürgenrichtergebert>das dann vor mir stand, ein so intimes dahinter sind jetzt die Studenten-Verhältnis aufgebaut hatte,
+
+01:31:29.701 --> 01:31:33.400
+<v jürgenrichtergebert>dass die letzte Stunde der Vorlesung dann ganz genauso war und ich gedacht habe,
+
+01:31:33.401 --> 01:31:38.000
+<v jürgenrichtergebert>Mensch das ist jetzt aber wirklich komisch, dass du jetzt leicht angerührt bist davon,
+
+01:31:38.001 --> 01:31:43.100
+<v jürgenrichtergebert>dass du jetzt in dem Format deine letzte Stunde gibst und ich glaube, das ist dann ein ganz gutes Gefühl, wenn einem das passiert.
+
+01:31:43.101 --> 01:31:45.000
+<v timpritlove>Ist schon mal ein ganz gutes Zeichen.
+
+01:31:45.001 --> 01:31:52.500
+<v timpritlove>Ich hatte mich hier im Forschergeist 22 schon vor sechs Jahren mit Jürgen Hanke unterhalten,
+
+01:31:52.501 --> 01:32:02.100
+<v timpritlove>der ja in seinem Lehrstuhl, wo es um Englisch geht, ja dasselbe Prinzip des flipped classroom schon lange lange Zeit durchzieht.
+
+01:32:02.101 --> 01:32:11.000
+<v timpritlove>Du die interessanteste Erkenntnis, die ich an dem Tag hatte, war, dass sein Büro eigentlich nur noch ein Kamerastudio zu sein schien.
+
+01:32:11.001 --> 01:32:17.200
+<v timpritlove>Jetzt wenn hier alle zurückkehren, könnte ich mir vorstellen, könnten diverse Umbaumaßnahmen eingeleitet werden,
+
+01:32:17.201 --> 01:32:18.300
+<v timpritlove>um auch ähnliches auch hier zu machen.
+
+01:32:18.301 --> 01:32:21.700
+<v jürgenrichtergebert>Wir haben gerade letzte Woche im Mitarbeiterseminar genau darüber geredet,
+
+01:32:21.701 --> 01:32:26.200
+<v jürgenrichtergebert>was wir eigentlich jetzt neuerdings für Räume bräuchten.
+
+01:32:26.201 --> 01:32:33.000
+<v jürgenrichtergebert>Wobei das ist jetzt, glaube ich, ein pandemiespezifischer Effekt, die Kollegen, die das sehr ernsthaft betreiben,
+
+01:32:33.001 --> 01:32:40.600
+<v jürgenrichtergebert>und es gibt ja einige an der Fakultät, die das sehr ernsthaft betreiben, die haben sich mittlerweile halt zu Hause ihr Videostudio aufgebaut
+
+01:32:40.601 --> 01:32:46.300
+<v jürgenrichtergebert>und mit den jeweiligen Gegebenheiten das möglichst beste daraus gemacht
+
+01:32:46.301 --> 01:32:50.100
+<v jürgenrichtergebert>und auch an ihre jeweilige Person angepasst.
+
+01:32:50.101 --> 01:32:56.400
+<v jürgenrichtergebert>Also wir haben hier einen Kollegen, der Tim Hoffmann, der hat zu Hause wirklich seine komplette Greenscreen,
+
+01:32:56.401 --> 01:33:08.500
+<v jürgenrichtergebert>mehrere Kameramischpulte, Einspielmöglichkeiten, in dem er wirklich sehr virtuos mit all diesen Möglichkeiten umgehen kann.
+
+01:33:08.501 --> 01:33:11.600
+<v jürgenrichtergebert>Bei mir ist es zum Beispiel ein ganz bewusst privat gewählter Rahmen,
+
+01:33:11.601 --> 01:33:16.000
+<v jürgenrichtergebert>ich sitze immer in meiner Wohnzimmerecke, mit meiner Lampe im Hintergrund
+
+01:33:16.001 --> 01:33:21.400
+<v jürgenrichtergebert>und da hat sich auch mittlerweile so ein gewisses Corporate Identity aufgebaut.
+
+01:33:21.401 --> 01:33:26.900
+<v jürgenrichtergebert>Farbige Beleuchtung ein bisschen im Hintergrund, damit man nicht ganz so blass im Gesicht ausschaut und alles mögliche.
+
+01:33:26.901 --> 01:33:35.200
+<v jürgenrichtergebert>Und tatsächlich glaube ich, jetzt das Aufbauen von Studiosituationen hier im Institut,
+
+01:33:35.201 --> 01:33:37.800
+<v jürgenrichtergebert>das wird insbesondere für die Kollegen auch interessant sein,
+
+01:33:37.801 --> 01:33:43.900
+<v jürgenrichtergebert>die das vielleicht bisher jetzt gerade auch über die letzten Jahre noch nicht so exzessiv gemacht haben.
+
+01:33:43.901 --> 01:33:50.100
+<v jürgenrichtergebert>Und dass man da einfach Möglichkeiten schafft und auch einiges an Knowhow weitergibt.
+
+01:33:50.101 --> 01:33:52.600
+<v jürgenrichtergebert>Spannendes Thema.
+
+01:33:52.601 --> 01:33:57.000
+<v jürgenrichtergebert>Also ich bin sehr gespannt, wie das über die nächsten Jahre weitergeht.
+
+01:33:57.001 --> 01:34:02.000
+<v jürgenrichtergebert>Ich glaube, dass die drei Semester die Lehre nachhaltig verändert haben.
+
+01:34:02.001 --> 01:34:11.600
+<v timpritlove>Ja, ich denke, jetzt haben wir alle Themen angesprochen, die sich jetzt erst mal so aufgedrängt haben.
+
+01:34:11.601 --> 01:34:19.900
+<v timpritlove>Ich denke, dass gerade die Lehre noch so auch einen hohen Wandlungsbedarf hat,
+
+01:34:19.901 --> 01:34:25.300
+<v timpritlove>dass also einfach diese neuen Wege auch absolut überfällig gewesen sind
+
+01:34:25.301 --> 01:34:33.200
+<v timpritlove>und auch, sagen wir mal, eine sehr viel höhere Beteiligung, sehr viel höhere Inklusion auch letzten Endes sicherstellen kann.
+
+01:34:33.201 --> 01:34:40.300
+<v timpritlove>Dieses, wann schaue ich mir etwas an, wo ich es am besten aufnehmen kann, das trägt ja dazu bei.
+
+01:34:40.301 --> 01:34:46.400
+<v jürgenrichtergebert>Also ich befürchte, dass folgendes passiert bzw. passiert ist,
+
+01:34:46.401 --> 01:34:50.900
+<v jürgenrichtergebert>die Lehre, die wir jetzt zum Beispiel über die letzten drei Semester gegeben haben,
+
+01:34:50.901 --> 01:34:58.500
+<v jürgenrichtergebert>die wird bei einigen Studenten sehr positive Effekte haben und bei anderen Studenten vielleicht sogar auch sehr negative Effekte.
+
+01:34:58.501 --> 01:35:04.000
+<v jürgenrichtergebert>Und das mag jetzt genau umgekehrt sein, wie man es sonst im normalen classroom hat.
+
+01:35:04.001 --> 01:35:11.000
+<v jürgenrichtergebert>Und ich glaube tatsächlich, dass ein vernünftiges Miteinander der verschiedenen Formate etwas ist,
+
+01:35:11.001 --> 01:35:16.000
+<v jürgenrichtergebert>wo man die nächsten Jahre drauf zuarbeiten sollte.
+
+01:35:16.001 --> 01:35:23.300
+<v jürgenrichtergebert>Weil ich glaube, wir haben es immer bei den Studenten mit Individuen zu tun und jeder ist anders.
+
+01:35:23.301 --> 01:35:27.500
+<v jürgenrichtergebert>Der eine nimmt besser auf, wenn er sich etwas selbst an einem Video erarbeitet,
+
+01:35:27.501 --> 01:35:36.400
+<v jürgenrichtergebert>der andere bekommt es wirklich gerne vorgetragen und arbeitet das Ganze dann nach.
+
+01:35:36.401 --> 01:35:43.500
+<v jürgenrichtergebert>Und ich glaube, die Vielfalt der Formate ist etwas, das für die nächste Zeit sehr wichtig werden wird.
+
+01:35:43.501 --> 01:35:46.600
+<v timpritlove>Ja, Herr Richter-Gebert, jetzt fällt mir nichts mehr ein, was ich noch fragen kann.
+
+01:35:46.601 --> 01:35:49.300
+<v jürgenrichtergebert>Mir hat es Spaß gemacht, fand es total entspannend.
+
+01:35:49.301 --> 01:35:49.600
+<v timpritlove>Das hat mir auch…
+
+01:35:49.601 --> 01:35:51.900
+<v jürgenrichtergebert>Ich kann ja jetzt fragen.
+
+01:35:51.901 --> 01:35:55.200
+<v timpritlove>Dann dauert es ja noch länger.
+
+01:35:55.201 --> 01:35:55.900
+<v timpritlove>Ich bedanke mich…
+
+01:35:55.901 --> 01:35:56.500
+<v jürgenrichtergebert>Ich mich auch.
+
+01:35:56.501 --> 01:36:02.600
+<v timpritlove>…für das Gespräch und bedanke mich fürs Zuhören hier bei Forschergeist.
+
+01:36:02.601 --> 01:36:05.700
+<v timpritlove>Das war es für heute und wir hören uns dann bald wieder.
+
+01:36:05.701 --> 01:36:07.600
+<v timpritlove>Tschüss und bis bald.

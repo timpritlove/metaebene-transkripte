@@ -1,0 +1,3293 @@
+﻿WEBVTT
+
+00:00:42.801 --> 00:00:47.600
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:47.601 --> 00:00:54.800
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zur 97. Ausgabe dieser Gesprächsreihe.
+
+00:00:54.801 --> 00:01:00.000
+<v timpritlove>Und heute, ja, heute reden wir mal wieder ein bisschen über Bildung.
+
+00:01:00.001 --> 00:01:04.800
+<v timpritlove>Da gibt es ja, wie alle wahrscheinlich meiner Meinung sein werden, eine Menge Bedarf
+
+00:01:04.801 --> 00:01:06.900
+<v timpritlove>und auch eine Menge Nachholbedarf.
+
+00:01:06.901 --> 00:01:13.800
+<v timpritlove>Und insbesondere dann, wenn es um Digitalisierungsfragen geht und das im Besonderen in Deutschland.
+
+00:01:13.801 --> 00:01:19.200
+<v timpritlove>Und deswegen sprechen wir heute mal genau darüber, wie man da was dran drehen kann
+
+00:01:19.201 --> 00:01:24.000
+<v timpritlove>und dazu begrüßt ich meine Gesprächspartnerin, nämlich Julia, Julia Freudenberg, hallo schönen guten Tag.
+
+00:01:24.001 --> 00:01:26.400
+<v juliafreudenberg>Ich grüße dich, freue mich hier zu sein.
+
+00:01:26.401 --> 00:01:29.500
+<v timpritlove>Ja, herzlich willkommen bei Forschergeist.
+
+00:01:29.501 --> 00:01:38.400
+<v timpritlove>Du bist, das nehme ich mal vorweg, die Leiterin der Hackerschule in Hamburg, kann man so sagen oder?
+
+00:01:38.401 --> 00:01:42.800
+<v juliafreudenberg>Ja, das bin ich und das mache ich sozusagen 40 Stunden am Tag und sehr begeistert.
+
+00:01:42.801 --> 00:01:46.300
+<v timpritlove>Mhm /bejahend/ und das machst du auch schon eine ganze Weile?
+
+00:01:46.301 --> 00:01:50.700
+<v juliafreudenberg>Ja, ich habe vor ungefähr fünf Jahren die Hacker School übernehmen dürfen
+
+00:01:50.701 --> 00:01:54.100
+<v juliafreudenberg>und seitdem konnte ich schon sehr sehr viel bewegen.
+
+00:01:54.101 --> 00:02:03.800
+<v timpritlove>Bevor wir darauf kommen, würde ich vielleicht mal kurz erst mal bei dir bleiben wollen.
+
+00:02:03.801 --> 00:02:14.600
+<v timpritlove>Was hat dich denn im Leben so getrieben und fasziniert, dass es dann am Ende hier in dieser Position geendet ist?
+
+00:02:14.601 --> 00:02:19.100
+<v juliafreudenberg>/lacht/ Also es war jetzt nicht so, dass ich schon im Kindergarten geplant hatte, mal eine Hacker School zu leiten
+
+00:02:19.101 --> 00:02:25.600
+<v juliafreudenberg>und Kinder für Programmieren zu begeistern, aber ich hatte einfach die Gelegenheit, sehr sehr viel im Leben auszuprobieren.
+
+00:02:25.601 --> 00:02:29.500
+<v juliafreudenberg>Und ich war zum Beispiel auf der Waldorfschule, ich kann also spinnen und stricken,
+
+00:02:29.501 --> 00:02:38.000
+<v juliafreudenberg>ich habe 30 Jahre Geige gespielt und ich habe immer die Erfahrung gemacht, dass etwas zu organisieren unglaublich viel Spaß macht.
+
+00:02:38.001 --> 00:02:39.800
+<v juliafreudenberg>Und mein Weg war halt einfach über wirklich viele Stationen.
+
+00:02:39.801 --> 00:02:48.000
+<v juliafreudenberg>Ich war 20 Jahre vorher in der Wirtschaft, ich habe eine amerikanische Eiscremekultmarke in Deutschland einführen können.
+
+00:02:48.001 --> 00:02:55.600
+<v juliafreudenberg>Und alleine über diese Ansätze, die wir damals gefahren sind, ist Guerillamarketing etwas, was ich ja auch gut lernen konnte
+
+00:02:55.601 --> 00:02:59.200
+<v juliafreudenberg>und dementsprechend kann ich da ganz ganz viel auch für die Hacker School mit hinnehmen.
+
+00:02:59.201 --> 00:03:02.100
+<v juliafreudenberg>Also geilen Scheiß ohne Budget machen, das habe ich schon geübt.
+
+00:03:02.101 --> 00:03:10.800
+<v timpritlove>Das heißt, deine Skills hast du im Wesentlichen in solchen Projektmanagementebenen entwickelt?
+
+00:03:10.801 --> 00:03:15.000
+<v timpritlove>Oder gibt es da nicht auch noch eine parallele Digitalbegeisterung?
+
+00:03:15.001 --> 00:03:22.100
+<v juliafreudenberg>Eine Gabe, die ich sicherlich mitbringe, ist eine hohe Begeisterungsfähigkeit, und zwar für die Sachen, die ich richtig und wichtig finde.
+
+00:03:22.101 --> 00:03:28.400
+<v juliafreudenberg>Und das insgesamt zu kombinieren mit einer gewissen Ausdauer und auch Standhaftigkeit,
+
+00:03:28.401 --> 00:03:32.500
+<v juliafreudenberg>also du spielst auch nicht ungestraft 30 Jahre Geige, an dieser Stelle nochmal danke an meine Eltern,
+
+00:03:32.501 --> 00:03:35.100
+<v juliafreudenberg>sie haben da wirklich heroisch ausgehalten.
+
+00:03:35.101 --> 00:03:39.100
+<v juliafreudenberg>Auch eine Promotion, die extern zu einer Geschäftsführung läuft, machst du halt eben auch,
+
+00:03:39.101 --> 00:03:45.700
+<v juliafreudenberg>naja man macht es in gewisser Hinsicht schon nebenbei, aber du brauchst halt da eine recht intensive Begeisterung für Themenfelder,
+
+00:03:45.701 --> 00:03:47.400
+<v juliafreudenberg>um Sachen auch wirklich abzuschließen.
+
+00:03:47.401 --> 00:03:52.800
+<v juliafreudenberg>Und das kombiniert mit einfach einer großen Neugierde und einer großen Liebe zu meinen Kindern,
+
+00:03:52.801 --> 00:03:59.200
+<v juliafreudenberg>denen ich auch wirklich einfach Zukunft zeigen möchte, ich glaube, das hat mich schon in weiten Teilen da hingebracht, wo ich jetzt bin.
+
+00:03:59.201 --> 00:04:03.100
+<v timpritlove>Du hast was genau studiert?
+
+00:04:03.101 --> 00:04:04.400
+<v juliafreudenberg>Ich bin BWLerin von Haus aus.
+
+00:04:04.401 --> 00:04:08.500
+<v juliafreudenberg>Also ich bin keine ITlerin, aber ich habe einen geheiratet.
+
+00:04:08.501 --> 00:04:09.600
+<v timpritlove>Ins Haus geholt sozusagen.
+
+00:04:09.601 --> 00:04:13.300
+<v juliafreudenberg>Insourcing ist das Stichwort.
+
+00:04:13.301 --> 00:04:21.800
+<v timpritlove>Jetzt haben wir es ja schon angesprochen, mittlerweile bist du in diese Rolle geschlüpft, diese Hackerschule zu leiten,
+
+00:04:21.801 --> 00:04:32.000
+<v timpritlove>vielleicht kannst du erst mal grob erzählen, worum handelt es sich dabei, seit wann gibt es das und warum gibt es das?
+
+00:04:32.001 --> 00:04:37.900
+<v juliafreudenberg>Hacker School wurde 2014 gegründet von drei großartigen Jungs, die das ehrenamtlich neben ihrer Geschäftsführungstätigkeit
+
+00:04:37.901 --> 00:04:41.900
+<v juliafreudenberg>in einer Agentur umgesetzt und ins Leben gerufen haben.
+
+00:04:41.901 --> 00:04:46.200
+<v juliafreudenberg>Das, was wir machen wollen, ist, eigentlich wirklich Begeisterung zu vermitteln
+
+00:04:46.201 --> 00:04:50.700
+<v juliafreudenberg>und Kids die Möglichkeit zu geben, neue Sachen, insbesondere Programmieren, auszuprobieren.
+
+00:04:50.701 --> 00:04:55.500
+<v juliafreudenberg>Weil damals, als die Hacker School gegründet wurde, hatten sie halt die Situation, sie haben Auszubildende gesucht,
+
+00:04:55.501 --> 00:05:03.100
+<v juliafreudenberg>für den Fachinformatiker der Anwendungsentwicklung und die jungen Menschen, die sich da beworben haben,
+
+00:05:03.101 --> 00:05:08.200
+<v juliafreudenberg>naja, das waren so die Kategorie, Mensch, meine Freunde haben gesagt, ich spiel doch so viel, also sollte ich vielleicht mal machen.
+
+00:05:08.201 --> 00:05:11.200
+<v juliafreudenberg>Und auf die Frage, hast du schon mal programmiert?
+
+00:05:11.201 --> 00:05:15.900
+<v juliafreudenberg>Ja, ja die ganz harten Excel vielleicht, aber ansonsten eher Google und Powerpoint.
+
+00:05:15.901 --> 00:05:17.900
+<v juliafreudenberg>Und das ist halt ein Satz mit X.
+
+00:05:17.901 --> 00:05:22.300
+<v juliafreudenberg>Und das war der Ansatz zu sagen, wer würde sich denn dafür entscheiden, sich damit auseinanderzusetzen,
+
+00:05:22.301 --> 00:05:25.500
+<v juliafreudenberg>wenn er oder sie wüsste, was das ist und auch wieviele Mädchen,
+
+00:05:25.501 --> 00:05:29.900
+<v juliafreudenberg>gut ein paar von denen mit, ich spiele doch so viel, vielleicht nicht, aber wieviele andere?
+
+00:05:29.901 --> 00:05:35.400
+<v juliafreudenberg>Und das ist so die Begeisterung, die sich da durchgesetzt hat.
+
+00:05:35.401 --> 00:05:37.600
+<v juliafreudenberg>Die ITlerinnen sind die most giving Community ever.
+
+00:05:37.601 --> 00:05:45.000
+<v juliafreudenberg>Also ich habe das noch nie so erlebt, diese Begeisterung, anderen etwas zu zeigen, es zu teilen, Leute mit reinzuholen.
+
+00:05:45.001 --> 00:05:49.200
+<v juliafreudenberg>Das ist wirklich außergewöhnlich, und das dafür zu nutzen, dass noch mehr Menschen Bock haben,
+
+00:05:49.201 --> 00:05:53.100
+<v juliafreudenberg>in diesem Bereich zu arbeiten, das fand ich mega überzeugend von der Idee
+
+00:05:53.101 --> 00:05:56.700
+<v juliafreudenberg>und da die Vision der Hacker School ist, dass jedes Kind einmal programmiert haben sollte,
+
+00:05:56.701 --> 00:06:02.200
+<v juliafreudenberg>bevor er oder sie sich für einen Beruf entscheidet, habe ich einfach mal gedacht, ja das nehmen wir wörtlich und das setzen wir jetzt um.
+
+00:06:02.201 --> 00:06:03.700
+<v timpritlove>Was heißt denn Kids?
+
+00:06:03.701 --> 00:06:06.900
+<v timpritlove>Von welchem Altersbereich sprechen wir denn jetzt?
+
+00:06:06.901 --> 00:06:13.100
+<v juliafreudenberg>Offizielle Zielgruppe der Hacker School ist Jungs und Mädchen zwischen 11 und 18.
+
+00:06:13.101 --> 00:06:15.000
+<v juliafreudenberg>Also im Sinne auch weiterführende Schule.
+
+00:06:15.001 --> 00:06:16.500
+<v juliafreudenberg>Also da werden jetzt keine 19-Jährigen aussortiert,
+
+00:06:16.501 --> 00:06:19.200
+<v juliafreudenberg>aber wirklich, dass man sagt, die Kinder oder Jugendlichen,
+
+00:06:19.201 --> 00:06:21.500
+<v juliafreudenberg>die in einer Phase sind, wo sie sich für einen Beruf entscheiden.
+
+00:06:21.501 --> 00:06:25.400
+<v juliafreudenberg>Ausnahme ist die Girls Hacker School, das sind Frauen und Mädchen 11-99,
+
+00:06:25.401 --> 00:06:32.400
+<v juliafreudenberg>weil wir auch einfach sehen, wenn es gut läuft, welche tolle Rolle auch Mütter bei der Berufswahl ihrer Töchter spielen können.
+
+00:06:32.401 --> 00:06:35.900
+<v juliafreudenberg>Und ist ja nun nicht so, dass wir zu viele Frauen in der IT hätten.
+
+00:06:35.901 --> 00:06:40.900
+<v juliafreudenberg>Also das da zu öffnen und auch wirklich das vielleicht als ersten Sprengsatz in der gläsernen Decke
+
+00:06:40.901 --> 00:06:45.500
+<v juliafreudenberg>mit Digitalfähigkeiten anzugehen, das ist halt noch eine Sonderlocke sozusagen.
+
+00:06:45.501 --> 00:06:50.700
+<v timpritlove>Also mit 11 Jahren ist man ja jetzt nicht gerade auf Berufssuche.
+
+00:06:50.701 --> 00:06:53.700
+<v juliafreudenberg>Das stimmt, aber 11 Jahre ist ein geiles Alter, um Sachen auszuprobieren.
+
+00:06:53.701 --> 00:06:56.900
+<v juliafreudenberg>Meine Lieblinge sind 12 Jahre, die können schon gut genug lesen und schreiben
+
+00:06:56.901 --> 00:06:59.300
+<v juliafreudenberg>und auch ein bisschen still sitzen und ein bisschen Englisch,
+
+00:06:59.301 --> 00:07:03.600
+<v juliafreudenberg>um sich vielleicht auch mit so was auseinanderzusetzen und sie haben noch nicht dieses entsetzliche Fehlermindset,
+
+00:07:03.601 --> 00:07:06.700
+<v juliafreudenberg>was wir ja sehr sehr früh schon Kindern vermitteln.
+
+00:07:06.701 --> 00:07:11.300
+<v juliafreudenberg>Die rennen los, die probieren aus, die gucken sich Sachen an und wenn wir Kinder in dem Alter begeistert kriegen,
+
+00:07:11.301 --> 00:07:14.900
+<v juliafreudenberg>dann haben wir das mit dem hier noch eine Schulung, da noch eine Schulung überhaupt nicht mehr,
+
+00:07:14.901 --> 00:07:17.800
+<v juliafreudenberg>dann laufen die autodidaktisch.
+
+00:07:17.801 --> 00:07:22.400
+<v timpritlove>Wie ist das denn jetzt sozusagen aufgestellt diese Hacker School?
+
+00:07:22.401 --> 00:07:29.100
+<v timpritlove>Also was hat das für eine Trägerschaft, was ist das für eine Unternehmung,
+
+00:07:29.101 --> 00:07:33.900
+<v timpritlove>was ist das für eine Rechtsform, wie zieht man so was auf?
+
+00:07:33.901 --> 00:07:37.700
+<v juliafreudenberg>/lacht/ Oh man hat eine sehr steile Lernkurve, egal wie man das dreht.
+
+00:07:37.701 --> 00:07:40.600
+<v juliafreudenberg>Ursprünglich gestartet ist die Hacker School als UG.
+
+00:07:40.601 --> 00:07:44.400
+<v juliafreudenberg>Zwar not for profit, aber auch nicht gemeinnützig.
+
+00:07:44.401 --> 00:07:48.500
+<v juliafreudenberg>Dann ging es um eine Förderung der Stadt Hamburg aus dem Integrationsfond damals.
+
+00:07:48.501 --> 00:07:52.900
+<v juliafreudenberg>Dann brauchten wir eine Gemeinnützigkeit, dann wurde der i3 e. V. gegründet,
+
+00:07:52.901 --> 00:07:56.700
+<v juliafreudenberg>weil dem Vereinsregister Hamburg war der Hacker School e. V. zu kriminell.
+
+00:07:56.701 --> 00:07:58.700
+<v juliafreudenberg>Das fanden die irgendwie, klang so ein bisschen putzig.
+
+00:07:58.701 --> 00:08:00.100
+<v timpritlove>Ausgerechnet in Hamburg.
+
+00:08:00.101 --> 00:08:02.100
+<v juliafreudenberg>Ausgerechnet in Hamburg.
+
+00:08:02.101 --> 00:08:05.300
+<v juliafreudenberg>Ja, weißt du, es gibt da immer sone und solche.
+
+00:08:05.301 --> 00:08:11.900
+<v juliafreudenberg>Aber dann gab es halt diesen i3 e. V. die Initiative Informatikinspiration.
+
+00:08:11.901 --> 00:08:13.800
+<v juliafreudenberg>Aber mit zunehmendem Wachstum wurde das etwas komplizierter.
+
+00:08:13.801 --> 00:08:16.800
+<v juliafreudenberg>Weil wenn du halt sechsstellig Gelder von Stiftungen einsammelst
+
+00:08:16.801 --> 00:08:19.300
+<v juliafreudenberg>und die sagen, Moment die Hacker School ist ein Projekt des i3 e. V.
+
+00:08:19.301 --> 00:08:22.500
+<v juliafreudenberg>und hä wir wollen aber nicht den, wir wollen nur die Hacker School.
+
+00:08:22.501 --> 00:08:25.100
+<v juliafreudenberg>Da habe ich gesagt, wenn ich das jetzt wirklich wirklich groß machen soll
+
+00:08:25.101 --> 00:08:30.900
+<v juliafreudenberg>und jedes Kind in Deutschland heißt, wir haben 6,5 Millionen Kids zwischen 11 und 18 ungefähr, 
+
+00:08:30.901 --> 00:08:31.500
+<v juliafreudenberg>da müssen wir mal ordentlich reinhauen.
+
+00:08:31.501 --> 00:08:37.000
+<v juliafreudenberg>Und da kann nicht so was wie, ich muss die Rechtsform erklären, einfach nicht mehr brauchen.
+
+00:08:37.001 --> 00:08:39.000
+<v juliafreudenberg>Und dann fiel die Entscheidung, die Rechte von der uG zu übernehmen
+
+00:08:39.001 --> 00:08:45.500
+<v juliafreudenberg>und durch Rechtsnachfolge den i3 e. V. in eine gGmbH in die Hacker School gGmbH umzuwandeln
+
+00:08:45.501 --> 00:08:48.900
+<v juliafreudenberg>und ja das sind wir jetzt, wir sind eine gemeinnützige gGmbH.
+
+00:08:48.901 --> 00:08:54.400
+<v juliafreudenberg>Wir sind vier Gesellschafter, ich halte 51%, die anderen Gesellschafter jeweils 16.
+
+00:08:54.401 --> 00:08:57.900
+<v juliafreudenberg>Und wir haben es auch so gemacht, dass die Anteile nicht veräußert werden können,
+
+00:08:57.901 --> 00:09:00.200
+<v juliafreudenberg>wenn einer rausgeht, bleiben die Anteile drin und es wechselt.
+
+00:09:00.201 --> 00:09:06.200
+<v juliafreudenberg>Also es ist alles so aufgebaut, dass wir ein möglichst schnelles stringentes Wachstum hinlegen können
+
+00:09:06.201 --> 00:09:10.600
+<v juliafreudenberg>und die Zukunft der Hacker School dadurch auch einfach rechtsformtechnisch gesichert ist.
+
+00:09:10.601 --> 00:09:15.000
+<v timpritlove>Und in dieser Rechtsform ist es jetzt seit wann?
+
+00:09:15.001 --> 00:09:17.000
+<v juliafreudenberg>Seit Dezember 2020.
+
+00:09:17.001 --> 00:09:23.000
+<v timpritlove>Okay, also noch eine relativ neue Konstruktion, aber hat sich schon bewährt?
+
+00:09:23.001 --> 00:09:27.500
+<v juliafreudenberg>Ja, also es ist richtig, es hat halt den Vorteil, ich bin auch alleine zeichnungsberechtigt.
+
+00:09:27.501 --> 00:09:29.600
+<v juliafreudenberg>Und wir hatten vorher Strukturen, wo wir immer zu zweit unterschreiben mussten,
+
+00:09:29.601 --> 00:09:32.400
+<v juliafreudenberg>und wenn das wirklich nur einer hauptberuflich macht und die anderen das ehrenamtlich unterstützen,
+
+00:09:32.401 --> 00:09:38.200
+<v juliafreudenberg>ist das einfach was, was schon auch tempotechnisch eine Herausforderung darstellt.
+
+00:09:38.201 --> 00:09:41.800
+<v juliafreudenberg>Und von daher, ja das hat sich soweit alles bewährt und wir laufen gut.
+
+00:09:41.801 --> 00:09:46.500
+<v timpritlove>Wieviele Leute sind denn jetzt, wie muss man sich das jetzt vorstellen?
+
+00:09:46.501 --> 00:09:52.200
+<v timpritlove>Also ihr habt jetzt kein großes Schulgebäude irgendwo.
+
+00:09:52.201 --> 00:09:53.400
+<v juliafreudenberg>Nein.
+
+00:09:53.401 --> 00:09:59.500
+<v timpritlove>Sondern? Also was wir nicht erwähnt haben, wir sitzen jetzt auch gerade in Hamburg,
+
+00:09:59.501 --> 00:10:02.000
+<v timpritlove>während wir das jetzt hier aufnehmen. 
+
+00:10:02.001 --> 00:10:05.000
+<v timpritlove>Das Ganze hat sozusagen Hamburg als Zentrum und das ist jetzt, sagen wir mal,
+
+00:10:05.001 --> 00:10:08.800
+<v timpritlove>auch erstmal der schulische Bereich, in den ihr reinstrahlt.
+
+00:10:08.801 --> 00:10:16.600
+<v timpritlove>Also wo ihr wahrscheinlich primär auch erst mal die Jugendlichen gewonnen habt.
+
+00:10:16.601 --> 00:10:17.700
+<v timpritlove>Unterstelle ich jetzt mal so, du darfst mich gerne korrigieren.
+
+00:10:17.701 --> 00:10:21.000
+<v juliafreudenberg>Unterstellst du jetzt mal so.
+
+00:10:21.001 --> 00:10:27.100
+<v timpritlove>Aber das klang ja schon an, Förderungen etc., ist ja alles nicht ganz unwichtig.
+
+00:10:27.101 --> 00:10:29.200
+<v juliafreudenberg>Als Arbeitshypothese, ja.
+
+00:10:29.201 --> 00:10:31.800
+<v juliafreudenberg>Also sagen wir, Hamburg ist unser Hometurf, das stimmt.
+
+00:10:31.801 --> 00:10:33.000
+<v juliafreudenberg>Und auch hier sind wir jetzt gerade bei mir im Homeoffice.
+
+00:10:33.001 --> 00:10:36.900
+<v juliafreudenberg>Wir haben aber auch tatsächlich die Zentrale in der Hamburger Innenstadt.
+
+00:10:36.901 --> 00:10:38.600
+<v juliafreudenberg>Wir sitzen jetzt im Impact Hub.
+
+00:10:38.601 --> 00:10:42.100
+<v juliafreudenberg>Das ist in Altona.
+
+00:10:42.101 --> 00:10:47.100
+<v juliafreudenberg>Wir haben vorher ein kleines Umzugstrauma hinter uns, weil wir drei Jahre in Folge jedes Jahr umgezogen sind.
+
+00:10:47.101 --> 00:10:50.400
+<v juliafreudenberg>Auch das letzte Büro, da wäre ich wahnsinnig gerne länger geblieben.
+
+00:10:50.401 --> 00:10:52.900
+<v juliafreudenberg>Wir waren bei einer wunderbaren Firma, bei Fast Forward,
+
+00:10:52.901 --> 00:10:56.300
+<v juliafreudenberg>die uns auch seit Jahren unterstützen, aber die sind halt so krass gewachsen,
+
+00:10:56.301 --> 00:10:57.500
+<v juliafreudenberg>die brauchten die Räumlichkeiten.
+
+00:10:57.501 --> 00:10:59.800
+<v juliafreudenberg>Dann haben wir gesagt, so ich habe keinen Bock mehr umzuziehen.
+
+00:10:59.801 --> 00:11:04.000
+<v juliafreudenberg>Jetzt sind wir im Impact Hub und das ist halt für uns dahingehend toll,
+
+00:11:04.001 --> 00:11:07.400
+<v juliafreudenberg>dass unser Team deutschlandweit verteilt ist.
+
+00:11:07.401 --> 00:11:13.200
+<v juliafreudenberg>Also wir haben Kollegen in Dresden, in Hannover, wir hatten eine Kollegin, die in Passau gesessen hat,
+
+00:11:13.201 --> 00:11:17.000
+<v juliafreudenberg>wir stellen jetzt hoffentlich in Frankfurt und NRW ein.
+
+00:11:17.001 --> 00:11:20.100
+<v juliafreudenberg>Also das ist halt was, wo ich Räumlichkeiten brauche, die atmen können.
+
+00:11:20.101 --> 00:11:23.900
+<v juliafreudenberg>Also das heißt, ein kleines Team, was in Hamburg auch gerne ins Büro geht.
+
+00:11:23.901 --> 00:11:27.800
+<v juliafreudenberg>Wir haben andere Kollegen in Hamburg, die eigentlich nie ins Büro gehen, dazu gehöre ich auch.
+
+00:11:27.801 --> 00:11:31.100
+<v juliafreudenberg>Aber dass wir da die Möglichkeit wirklich haben, wenn wir uns alle treffen wollen,
+
+00:11:31.101 --> 00:11:34.500
+<v juliafreudenberg>können wir da hingehen und wenn wir eben auch wirklich mit Präsenz wachsen,
+
+00:11:34.501 --> 00:11:39.100
+<v juliafreudenberg>kann ich auch Flächen einfach zumieten und das ist eine sehr praktische Sache.
+
+00:11:39.101 --> 00:11:44.700
+<v timpritlove>Also Impact Hub ist so ein Coworking Space, ich weiß gar nicht, ob das schon ausreicht heutzutage,
+
+00:11:44.701 --> 00:11:47.900
+<v timpritlove>es hat sich ja auch sehr entwickelt dieser Bereich.
+
+00:11:47.901 --> 00:11:50.200
+<v timpritlove>Also üblicherweise hat man da viele Räume, wenn man mal einen Konferenzraum braucht,
+
+00:11:50.201 --> 00:11:54.100
+<v timpritlove>dann nimmt man den sich, aber wenn man den nicht braucht, dann benutzen den eben andere.
+
+00:11:54.101 --> 00:11:57.400
+<v juliafreudenberg>Schon vier Etagen, also das ist recht groß und das sind halt wirklich Impact Startups,
+
+00:11:57.401 --> 00:12:01.200
+<v juliafreudenberg>die sich auch gegenseitig befruchten, wo wir coole Menschen kennenlernen können,
+
+00:12:01.201 --> 00:12:05.900
+<v juliafreudenberg>wo es tolle Veranstaltungen gibt, also ist schon ein cooler Laden.
+
+00:12:05.901 --> 00:12:09.900
+<v juliafreudenberg>Deine andere Arbeitshypothese, wir würden nur Hamburg machen, die würde ich so nochmal aufarbeiten.
+
+00:12:09.901 --> 00:12:11.500
+<v timpritlove>Ich habe nicht nur gesagt.
+
+00:12:11.501 --> 00:12:12.200
+<v juliafreudenberg>/lacht/ Nein.
+
+00:12:12.201 --> 00:12:16.400
+<v timpritlove>Ich habe nur gesagt, das ist so ein bisschen das, wo es entsteht und sein Zentrum hat.
+
+00:12:16.401 --> 00:12:19.300
+<v juliafreudenberg>Wir testen hier alles aus.
+
+00:12:19.301 --> 00:12:21.800
+<v juliafreudenberg>Weil es ist mega, wenn du wirklich vor der Haustür pilotieren kannst.
+
+00:12:21.801 --> 00:12:25.200
+<v juliafreudenberg>Wir waren vor Corona schon in 40 Städten deutschlandweit aktiv,
+
+00:12:25.201 --> 00:12:30.500
+<v juliafreudenberg>wo wir bei den Unternehmen vor Ort Kurse veranstaltet haben.
+
+00:12:30.501 --> 00:12:32.900
+<v juliafreudenberg>Und es ist jetzt so, dass wir eben weiterhin mit diesem…
+
+00:12:32.901 --> 00:12:36.100
+<v juliafreudenberg>also wir sind jetzt seit Anfang letzten Jahres mit diesen beiden großen Säulen unterwegs,
+
+00:12:36.101 --> 00:12:39.600
+<v juliafreudenberg>also die außerschulischen Kurse, oft in den Unternehmen teilweise online,
+
+00:12:39.601 --> 00:12:43.400
+<v juliafreudenberg>aber die innerschulischen Kurse als zweites wirklich großes Standbein,
+
+00:12:43.401 --> 00:12:47.900
+<v juliafreudenberg>wo wir mit ganzen Klassen einen Vormittag programmieren.
+
+00:12:47.901 --> 00:12:51.600
+<v juliafreudenberg>Wo die Kids in den Klassen vor Ort sind und wir als ITlerinnen schalten uns zu.
+
+00:12:51.601 --> 00:12:55.100
+<v juliafreudenberg>Das zieht sich ebenfalls schon über die ganze Republik.
+
+00:12:55.101 --> 00:13:04.200
+<v juliafreudenberg>Es ist natürlich so, dass man, ich sage mal, den steilen Lerneffekt wirklich auch regional lokal teilweise macht.
+
+00:13:04.201 --> 00:13:07.100
+<v juliafreudenberg>Also einfach zu sagen, hey wir brauchen zehn Schulen in Berlin, wer will noch mal, wer hat noch nicht?
+
+00:13:07.101 --> 00:13:08.500
+<v juliafreudenberg>Das haut überhaupt nicht hin.
+
+00:13:08.501 --> 00:13:12.900
+<v juliafreudenberg>Aber die Möglichkeit zu haben, hier in Hamburg über eine Kombination mit der Arbeitsagentur,
+
+00:13:12.901 --> 00:13:16.000
+<v juliafreudenberg>der Wirtschaftsbehörde und der Schulbehörde.
+
+00:13:16.001 --> 00:13:21.200
+<v juliafreudenberg>Auch in Schulleiterkonferenzen präsentieren zu können und dadurch eben halt einfach auch Zugänge zu lernen
+
+00:13:21.201 --> 00:13:25.700
+<v juliafreudenberg>und insbesondere mit wenig Geld die Welt retten zu wollen, da musst du optimieren,
+
+00:13:25.701 --> 00:13:29.600
+<v juliafreudenberg>da musst du gucken, wie kommst du von A nach B, wer kann dir Türen öffnen?
+
+00:13:29.601 --> 00:13:32.800
+<v juliafreudenberg>Und wie können wir vielleicht noch mehr Kinder erreichen?
+
+00:13:32.801 --> 00:13:36.900
+<v juliafreudenberg>Das ist halt etwas, da musst du viele Sachen ausprobieren und da haben wir in Hamburg die meisten Erfahrungen gesammelt,
+
+00:13:36.901 --> 00:13:41.800
+<v juliafreudenberg>aber können noch ganz viel davon auf andere Bundesländer übertragen.
+
+00:13:41.801 --> 00:13:45.000
+<v timpritlove>Okay, jetzt hast du gesagt, es gibt innerschulische, außerschulische Kurse,
+
+00:13:45.001 --> 00:13:51.000
+<v timpritlove>vielleicht kannst du das noch mal so ein bisschen aufdröseln, wie eigentlich das Angebot dieser Hacker School ist.
+
+00:13:51.001 --> 00:13:57.400
+<v timpritlove>Also wenn ich das jetzt so richtig verstanden habe, es gibt sowohl die Möglichkeit,
+
+00:13:57.401 --> 00:13:59.700
+<v timpritlove>einfach sich frei auf irgendwelche Kurse zu bewerben und dann macht man da mit
+
+00:13:59.701 --> 00:14:04.200
+<v timpritlove>und dann ist vollkommen egal, in welchem schulischen Kontext man unterwegs ist
+
+00:14:04.201 --> 00:14:11.400
+<v timpritlove>und es gibt aber auch explizit eine Zusammenarbeit mit kompletten Klassen im Rahmen des normalen Schulunterrichts oder angebunden daran?
+
+00:14:11.401 --> 00:14:12.400
+<v juliafreudenberg>Genau.
+
+00:14:12.401 --> 00:14:13.200
+<v timpritlove>Ja?
+
+00:14:13.201 --> 00:14:15.800
+<v juliafreudenberg>Also die Hacker School kommt halt eben ursprünglich aus der Ecke, dass es darum ging,
+
+00:14:15.801 --> 00:14:21.300
+<v juliafreudenberg>wirklich ehrenamtliche ITler in Unternehmen so zu unterstützen,
+
+00:14:21.301 --> 00:14:24.300
+<v juliafreudenberg>dass die eben halt ein Wochenende mit Kindern geilen Scheiß machen können.
+
+00:14:24.301 --> 00:14:30.100
+<v juliafreudenberg>Wirklich begeistern, spielen, Zukunft entdecken und halt nichts beibringen.
+
+00:14:30.101 --> 00:14:32.600
+<v juliafreudenberg>Aber die lernen dabei wahnsinnig viel.
+
+00:14:32.601 --> 00:14:35.000
+<v juliafreudenberg>Und dieser Unternehmenskontext der ist toll, der ist super.
+
+00:14:35.001 --> 00:14:40.200
+<v juliafreudenberg>wir haben halt die ehrenamtlichen ITler, die das machen, teilweise in ihrer Arbeitszeit, teilweise am Wochenende.
+
+00:14:40.201 --> 00:14:44.300
+<v juliafreudenberg>Wir sehen aber, dass wir damit die Verantwortung bei den Kindern belassen.
+
+00:14:44.301 --> 00:14:46.700
+<v juliafreudenberg>Sie müssen sich dafür interessieren, sie müssen sich dafür entscheiden
+
+00:14:46.701 --> 00:14:51.900
+<v juliafreudenberg>oder sie brauchen Eltern, die für sie entscheiden, dass sie sich da jetzt mal hinbewegen.
+
+00:14:51.901 --> 00:14:56.700
+<v juliafreudenberg>Und wenn wir die Hacker School wirklich auch dafür nutzen wollen,
+
+00:14:56.701 --> 00:15:01.300
+<v juliafreudenberg>dass wir IT, dass wir digitale Bildung integrativ sehen, dass wir jedes Kind erreichen wollen,
+
+00:15:01.301 --> 00:15:05.600
+<v juliafreudenberg>müssen wir für Mädchen und auch sozioökonomisch benachteiligte Kinder teilweise die Extrameile gehen.
+
+00:15:05.601 --> 00:15:08.800
+<v juliafreudenberg>Und in den Schulklassen kriegen wir sie nahezu alle.
+
+00:15:08.801 --> 00:15:13.600
+<v juliafreudenberg>Und da haben wir halt einfach das Setting, wenn wir mit den ganzen Schulklassen programmieren,
+
+00:15:13.601 --> 00:15:18.500
+<v juliafreudenberg>haben wir die, die schon denken, sie sind die Helden, was nicht unbedingt immer zutrifft
+
+00:15:18.501 --> 00:15:23.100
+<v juliafreudenberg>und wir haben die, die denken, sie brechen sich, sobald sie in die Nähe einer Tastatur kommen, mindestens zwei Fingernägel ab.
+
+00:15:23.101 --> 00:15:27.600
+<v juliafreudenberg>Und wir brauchen drei Stunden, um genau diesen Prozess von, brich mir keinen Fingernagel ab,
+
+00:15:27.601 --> 00:15:30.100
+<v juliafreudenberg>zu, boah macht das Spaß, das wirklich zu durchleben.
+
+00:15:30.101 --> 00:15:33.100
+<v juliafreudenberg>Und das ist das Tolle, dass wir in den Schulklassen zwar auch die Kids haben,
+
+00:15:33.101 --> 00:15:36.200
+<v juliafreudenberg>die erst mal keinen Bock haben, aber wenn wir die geknackt kriegen,
+
+00:15:36.201 --> 00:15:37.700
+<v juliafreudenberg>ist das etwas, was unglaublich begeistert.
+
+00:15:37.701 --> 00:15:42.000
+<v juliafreudenberg>Und das sind eben halt jetzt die ganz großen beiden Säulen, mit denen wir arbeiten.
+
+00:15:42.001 --> 00:15:44.900
+<v timpritlove>Wie läuft denn das konkret ab, vielleicht kannst du das ja mal schildern?
+
+00:15:44.901 --> 00:15:48.800
+<v timpritlove>Jetzt so von, also wer fängt da an?
+
+00:15:48.801 --> 00:15:52.900
+<v timpritlove>Ihr sprecht Schulen an, Schulen sprechen euch an?
+
+00:15:52.901 --> 00:15:55.600
+<v timpritlove>Wie rum geht das, sowohl als auch oder primär in die eine Richtung?
+
+00:15:55.601 --> 00:15:56.900
+<v juliafreudenberg>Kommt darauf an.
+
+00:15:56.901 --> 00:16:00.000
+<v juliafreudenberg>Also es gibt nichts, was es nicht gibt grundsätzlich.
+
+00:16:00.001 --> 00:16:05.100
+<v juliafreudenberg>Aber wir merken, dass wir insbesondere durch so was wie, ich präsentiere auf einer Schulleiterkonferenz
+
+00:16:05.101 --> 00:16:09.200
+<v juliafreudenberg>oder eine Schule empfiehlt uns der anderen, einfach viel viel schneller sind
+
+00:16:09.201 --> 00:16:11.900
+<v juliafreudenberg>als wenn wir eine Schule anrufen und sagen, hallo wir sind die Hacker School.
+
+00:16:11.901 --> 00:16:15.000
+<v juliafreudenberg>Das ist erst mal was, …
+
+00:16:15.001 --> 00:16:19.500
+<v timpritlove>Also Schulleiterkonferenz sozusagen so schulübergreifend, wo sich Schulleiter treffen
+
+00:16:19.501 --> 00:16:22.400
+<v timpritlove>und über ihre Probleme sprechen.
+
+00:16:22.401 --> 00:16:23.600
+<v juliafreudenberg>Ja oder wo es Informationen gibt.
+
+00:16:23.601 --> 00:16:28.200
+<v juliafreudenberg>Also hier in Fluch und Segen eines Stadtstaats, das ist eindeutig einer von den segensreicheren Seiten,
+
+00:16:28.201 --> 00:16:33.200
+<v juliafreudenberg>es gibt für die Gymnasien und es gibt für die Stadtteilschulen, das sind hier unsere beiden großen Schulformen,
+
+00:16:33.201 --> 00:16:38.400
+<v juliafreudenberg>die wir hier haben, jeweils, ich weiß gar nicht in welchem Abstand, aber immer wieder Konferenzen,
+
+00:16:38.401 --> 00:16:40.700
+<v juliafreudenberg>wo alle Schulleitungen zusammenkommen.
+
+00:16:40.701 --> 00:16:43.900
+<v juliafreudenberg>Und da gibt die Schulbehörde Infos raus.
+
+00:16:43.901 --> 00:16:47.500
+<v juliafreudenberg>Da werden, was weiß ich, zum Beispiel wenn der Schwerpunkt berufliche Bildung ist,
+
+00:16:47.501 --> 00:16:49.600
+<v juliafreudenberg>kommen halt auch Leute von der Arbeitsagentur, um da auch Sachen mit vorzustellen
+
+00:16:49.601 --> 00:16:54.800
+<v juliafreudenberg>und da durfte ich halt eben auch in dem Kontext berufliche Bildung bzw. Berufsorientierung eben halt vorstellen,
+
+00:16:54.801 --> 00:16:59.900
+<v juliafreudenberg>was wir mit der Hacker School machen, was wir brauchen, was wir anbieten können, wie das hier funktioniert.
+
+00:16:59.901 --> 00:17:01.900
+<v juliafreudenberg>Und danach sind sehr viele Schule auf uns zugekommen.
+
+00:17:01.901 --> 00:17:10.000
+<v juliafreudenberg>Und genau diese Wege zu finden, das funktioniert in einem Stadtstaat ganz anders als in einem Flächenland.
+
+00:17:10.001 --> 00:17:12.500
+<v juliafreudenberg>Aber da zu gucken, mit wem muss man sprechen, mit wem sollte man nicht sprechen,
+
+00:17:12.501 --> 00:17:16.100
+<v juliafreudenberg>was sind die informellen Wege, wie man eben genauso an Schulen kommt,
+
+00:17:16.101 --> 00:17:19.800
+<v juliafreudenberg>da haben wir einen echt guten Job gemacht und also wir haben mehr Schulen,
+
+00:17:19.801 --> 00:17:23.000
+<v juliafreudenberg>die uns anfragen, als wir im Moment befriedigen können, in dem Sinne,
+
+00:17:23.001 --> 00:17:27.300
+<v juliafreudenberg>weil die andere Seite, wir müssen ja die ITlerinnen, die mit uns diese Kurse machen.
+
+00:17:27.301 --> 00:17:31.100
+<v juliafreudenberg>Da haben wir zwar jetzt auch richtig gut gearbeitet und setzen auch neue Konzepte auf,
+
+00:17:31.101 --> 00:17:37.800
+<v juliafreudenberg>wo wir insbesondere über Corporate Volunteering auch auf die Auszubildenden zugreifen können und wollen,
+
+00:17:37.801 --> 00:17:39.700
+<v juliafreudenberg>aber das ist eben einfach was, wo wir wirklich zusehen müssen,
+
+00:17:39.701 --> 00:17:43.900
+<v juliafreudenberg>wenn ich nächstes Jahr 25.000 Kinder erreichen möchte, weil wir verdoppeln jedes Jahr,
+
+00:17:43.901 --> 00:17:47.800
+<v juliafreudenberg>dann brauche ich dafür 4000-5000 ITlerinnen und die kannst du dir nicht backen.
+
+00:17:47.801 --> 00:17:50.700
+<v juliafreudenberg>Und da die Wege zu kriegen, das ist im Moment der limitierende Faktor.
+
+00:17:50.701 --> 00:17:56.000
+<v timpritlove>Okay, dann bleiben wir noch mal ganz kurz bei dieser Schule, weil ich wollte einfach so diese Anbahnung mal verstehen.
+
+00:17:56.001 --> 00:18:01.300
+<v timpritlove>Also jetzt Schulleiterkonferenz mal als Beispiel, ja ist relativ effizient.
+
+00:18:01.301 --> 00:18:07.400
+<v timpritlove>Mit anderen Worten, man erreicht erst mal Schulleiter oder vielleicht deren unmittelbares Personal,
+
+00:18:07.401 --> 00:18:09.900
+<v timpritlove>die ja dann vielleicht ja auch noch da daran teilnehmen und dann sagen die so,
+
+00:18:09.901 --> 00:18:14.600
+<v timpritlove>ahja okay alles klar, klingt ja ganz interessant, könnte was für uns sein.
+
+00:18:14.601 --> 00:18:17.500
+<v timpritlove>Und dann geben die das an Lehrer, Fachlehrer weiter, Klassenlehrer weiter?
+
+00:18:17.501 --> 00:18:22.400
+<v timpritlove>Also wie läuft da dann konkret so eine Zusammenarbeit ab?
+
+00:18:22.401 --> 00:18:23.400
+<v juliafreudenberg>Ganz häufig sind es wirklich die Fachlehrer.
+
+00:18:23.401 --> 00:18:27.700
+<v juliafreudenberg>Es läuft sehr sehr viel über Berufsorientierung, weil einige der Fachlehrerinnen
+
+00:18:27.701 --> 00:18:31.400
+<v juliafreudenberg>oder die meisten Schulen haben auch einen Beauftragten für Berufsorientierung.
+
+00:18:31.401 --> 00:18:36.400
+<v juliafreudenberg>In Hamburg ist es zumindest verpflichtend, aber ich meine, dass es in anderen Bundesländern auch so ist.
+
+00:18:36.401 --> 00:18:39.600
+<v juliafreudenberg>Und da wird einfach gesagt, hey im Rahmen dessen, wir brauchen einen Vormittag,
+
+00:18:39.601 --> 00:18:43.000
+<v juliafreudenberg>wir wollen drei Stunden programmieren, wir stellen Berufe vor, wann passt das?
+
+00:18:43.001 --> 00:18:46.100
+<v juliafreudenberg>Und wir setzen dann den Schwerpunkt achte Klasse aufwärts,
+
+00:18:46.101 --> 00:18:52.100
+<v juliafreudenberg>einfach weil da die Berufsorientierung tatsächlich schon konkreter ist als bei Elfjährigen, da hast du recht.
+
+00:18:52.101 --> 00:18:56.100
+<v juliafreudenberg>Und da sind die Kids offener, da hören sie zu und da wird dann nach Terminen gesucht.
+
+00:18:56.101 --> 00:19:00.700
+<v juliafreudenberg>Wir versuchen meistens, mindestens vier Klassen auf einmal an einer Schule zu kriegen.
+
+00:19:00.701 --> 00:19:03.600
+<v juliafreudenberg>Nicht an einem Tag, weil da sind die Computerräume wieder eng,
+
+00:19:03.601 --> 00:19:10.800
+<v juliafreudenberg>aber dass eben der Anbahnungsprozess mit einer einzelnen Schule sich auf mehr Kinder verteilt,
+
+00:19:10.801 --> 00:19:13.300
+<v juliafreudenberg>haben wir eben halt die Entscheidung da getroffen, da wo möglich ist,
+
+00:19:13.301 --> 00:19:17.800
+<v juliafreudenberg>ist schon schön, wenn wir mit 100 Kindern an einer Schule programmieren können.
+
+00:19:17.801 --> 00:19:23.200
+<v timpritlove>Und greifen da jetzt alle Schularten, also sowohl Gymnasien als auch Gesamtschulen?
+
+00:19:23.201 --> 00:19:27.500
+<v timpritlove>Ich weiß gar nicht, wie das in Hamburg alles heißt.
+
+00:19:27.501 --> 00:19:29.000
+<v juliafreudenberg>Hamburg haben wir Stadtteilschulen und Gymnasien.
+
+00:19:29.001 --> 00:19:38.100
+<v juliafreudenberg>Also alle allgemeinbindenden Schulen, bei denen die Kinder nicht über extragroße Herausforderungen limitiert sind, funktionieren gut.
+
+00:19:38.101 --> 00:19:43.700
+<v juliafreudenberg>Also was nicht so super hinhaut, dadurch dass wir in Hamburg einen sehr intensiven Ansatz fahren,
+
+00:19:43.701 --> 00:19:47.300
+<v juliafreudenberg>haben wir auf den Förderschulen, die es gibt, Kinder mit einem so großen Förderbedarf,
+
+00:19:47.301 --> 00:19:51.500
+<v juliafreudenberg>dass das mit, sitz am Rechner und ich erkläre dir was und du verstehst es
+
+00:19:51.501 --> 00:19:58.300
+<v juliafreudenberg>und du kannst dich artikulieren, dass das da nun nicht mehr im Durchschnitt möglich ist.
+
+00:19:58.301 --> 00:20:03.500
+<v juliafreudenberg>Und das ist was, das trauen wir uns nicht zu, zumindest Stand heute nicht.
+
+00:20:03.501 --> 00:20:09.500
+<v juliafreudenberg>Es ist auch so, dass wir bei einigen Brennpunktschulen sehen, dass wir da mit dem Hacker School at your school plus,
+
+00:20:09.501 --> 00:20:14.500
+<v juliafreudenberg>ein Sonderprojekt, das wir da auch noch mal über andere Ansätze nachdenken müssen,
+
+00:20:14.501 --> 00:20:20.200
+<v juliafreudenberg>weil insbesondere bei Schulen mit einem sehr niedrigen Sozialindex, in Hamburg sind die Schulen indiziert.
+
+00:20:20.201 --> 00:20:26.100
+<v juliafreudenberg>Also 6 ist mega Sozialindex, was ich am Einkommen der Eltern,
+
+00:20:26.101 --> 00:20:30.600
+<v juliafreudenberg>aber auch an Muttersprachlichkeit und noch einigen anderen Faktoren festmacht,
+
+00:20:30.601 --> 00:20:38.700
+<v juliafreudenberg>1 ist schwieriges Niveau und dass wir da eben halt sehen, dass wir mit dem Sozialindex 1 und 2 tatsächlich auch über ein Vorortformat nachdenken
+
+00:20:38.701 --> 00:20:45.500
+<v juliafreudenberg>bzw. gerade eine Erprobung in Erwägung ziehen, wie wir auch da über virtuelles Zuschalten arbeiten können,
+
+00:20:45.501 --> 00:20:47.600
+<v juliafreudenberg>aber da müssen wir noch mal die Extrameile gehen.
+
+00:20:47.601 --> 00:20:51.100
+<v timpritlove>Okay, kommen wir noch mal zurück auf die Anbahnung so.
+
+00:20:51.101 --> 00:20:55.300
+<v timpritlove>Also jetzt gibt es diesen Kontakt mit den Fachlehrerinnen
+
+00:20:55.301 --> 00:20:58.600
+<v timpritlove>und die sagen, okay prima, das würden wir jetzt ganz gerne mal hier in dieser Klasse
+
+00:20:58.601 --> 00:21:01.000
+<v timpritlove>oder in jener Klasse oder in mehreren Klassen vielleicht auch machen
+
+00:21:01.001 --> 00:21:07.500
+<v timpritlove>und dann einigt man sich quasi auf einen Termin und dann werden mal drei Stunden aus dem normalen Schulprogramm frei gemacht.
+
+00:21:07.501 --> 00:21:08.700
+<v timpritlove>Sehe ich das richtig?
+
+00:21:08.701 --> 00:21:13.700
+<v juliafreudenberg>Ja, es wird teilweise auf die Schulstundentaktung angepasst.
+
+00:21:13.701 --> 00:21:16.200
+<v juliafreudenberg>Das heißt, da, wo es möglich ist, wird es so eingestielt, dass es mit den Pausen,
+
+00:21:16.201 --> 00:21:18.600
+<v juliafreudenberg>den normalen Pausen d’accord geht.
+
+00:21:18.601 --> 00:21:20.300
+<v juliafreudenberg>Bei anderen ist es wirklich dann 9-13 Uhr.
+
+00:21:20.301 --> 00:21:22.600
+<v juliafreudenberg>Da kommen die Kinder halt ein bisschen später.
+
+00:21:22.601 --> 00:21:24.100
+<v juliafreudenberg>Also d gibt es unterschiedliche Variante.
+
+00:21:24.101 --> 00:21:27.200
+<v juliafreudenberg>Aber wir fragen immer vier Stunden an, weil drei Stunden wird programmiert,
+
+00:21:27.201 --> 00:21:30.800
+<v juliafreudenberg>bisschen Pause, Gruppeneinteilung und so weiter, 
+
+00:21:30.801 --> 00:21:34.200
+<v juliafreudenberg>aber wir wollen auch immer noch einen anteiligen halbe Stunde,
+
+00:21:34.201 --> 00:21:38.000
+<v juliafreudenberg>manchmal auch 25 Minuten dafür haben, dass die ITlerInnnen, die mit uns die Kurse geben,
+
+00:21:38.001 --> 00:21:41.100
+<v juliafreudenberg>ihre Berufe vorstellen können, ganz wichtiger Teil.
+
+00:21:41.101 --> 00:21:44.500
+<v juliafreudenberg>Und so gesehen, ja wir fragen immer vier Stunden an und die werden unterschiedlich gelegt.
+
+00:21:44.501 --> 00:21:49.000
+<v timpritlove>Und was wird den Kindern dann quasi gesagt, was dann stattfinden soll?
+
+00:21:49.001 --> 00:21:55.100
+<v timpritlove>Wie kündigt ihr das an, was ist sozusagen ein bisschen das, also ist alles Überraschung
+
+00:21:55.101 --> 00:21:56.500
+<v timpritlove>oder gibt es da irgendwie konkrete…
+
+00:21:56.501 --> 00:21:57.000
+<v juliafreudenberg>/lacht/
+
+00:21:57.001 --> 00:22:00.600
+<v timpritlove>Naja, ist ja dann wahrscheinlich auch die Frage, wie man das so von vornherein erst mal framt,
+
+00:22:00.601 --> 00:22:05.500
+<v timpritlove>um nicht gleich Desinteresse auszulösen oder Abwehrverhalten,
+
+00:22:05.501 --> 00:22:08.900
+<v timpritlove>keine Ahnung, wie da die Befindlichkeiten sind.
+
+00:22:08.901 --> 00:22:13.800
+<v timpritlove>Und meistens ist es ja so mit, hier noch mehr Dinge, die ihr lernen sollt,
+
+00:22:13.801 --> 00:22:17.200
+<v timpritlove>wo ihr schon ohnehin euch ein bisschen überfordert fühlt.
+
+00:22:17.201 --> 00:22:19.900
+<v timpritlove>Kann ich mir durchaus vorstellen, dass es auch eine gewisse Abwehrreaktion geben kann.
+
+00:22:19.901 --> 00:22:22.800
+<v timpritlove>Muss man ja sicherlich auch alles richtig ankündigen.
+
+00:22:22.801 --> 00:22:26.300
+<v juliafreudenberg>Es ist tatsächlich so, dass wir auch im Moment noch da dran sind zu arbeiten,
+
+00:22:26.301 --> 00:22:28.800
+<v juliafreudenberg>wie wir die Lehrenden mit ins Boot kriegen.
+
+00:22:28.801 --> 00:22:31.500
+<v juliafreudenberg>Weil die Kinder sind tatsächlich gar nicht so die Herausforderung.
+
+00:22:31.501 --> 00:22:38.100
+<v juliafreudenberg>Bitcom hat wieder eine Studie herausgebracht, wo, ich glaube, 75 Prozent der Kids mittlerweile sagen,
+
+00:22:38.101 --> 00:22:42.300
+<v juliafreudenberg>ja wir wollen digitale Skills lernen, das ist wichtig, wir wollen da mal reingucken.
+
+00:22:42.301 --> 00:22:45.700
+<v juliafreudenberg>Bei den Lehrenden liegt das ein kleines bisschen drunter.
+
+00:22:45.701 --> 00:22:46.800
+<v juliafreudenberg>Und da wirklich…
+
+00:22:46.801 --> 00:22:48.300
+<v timpritlove>Also denen auf der Schule?
+
+00:22:48.301 --> 00:22:50.300
+<v juliafreudenberg>Ja.
+
+00:22:50.301 --> 00:22:53.700
+<v juliafreudenberg>Da auch den Lehrenden die Sorgen zu nehmen, dass es überhaupt nicht darum geht,
+
+00:22:53.701 --> 00:22:58.300
+<v juliafreudenberg>dass sie was können müssen oder dass da irgendjemand vorgeführt werden soll,
+
+00:22:58.301 --> 00:22:59.800
+<v juliafreudenberg>sondern dass wir einfach die Kinder beim Entdecken unterstützen wollen
+
+00:22:59.801 --> 00:23:05.200
+<v juliafreudenberg>und das mit eben halt Jungs und Mädels, die das richtig können und die das richtig gerne mögen, das klappt gut.
+
+00:23:05.201 --> 00:23:08.400
+<v juliafreudenberg>Also meistens wird das wirklich als ein Projekttag angekündigt
+
+00:23:08.401 --> 00:23:13.600
+<v juliafreudenberg>oder wirklich als eine Möglichkeit, Berufsorientierung zu erproben.
+
+00:23:13.601 --> 00:23:15.000
+<v juliafreudenberg>Weil es ist genau so ein bisschen wie beim Geige spielen,
+
+00:23:15.001 --> 00:23:19.300
+<v juliafreudenberg>nur weil du Geigenmusik gerne hörst, heißt das nicht, dass du ein Talent zum Spielen hast.
+
+00:23:19.301 --> 00:23:25.200
+<v juliafreudenberg>Aber es auszuprobieren und wirklich mal zu sehen, boah das geht ja viel besser als ich das dachte.
+
+00:23:25.201 --> 00:23:29.900
+<v juliafreudenberg>Insbesondere bei Mädels sehen wir, die kriegen wir hinterher gar nicht wieder ab vom Rechner.
+
+00:23:29.901 --> 00:23:36.000
+<v juliafreudenberg>Aber auf jeden Fall das, aktuell hängt es noch tatsächlich an der Lehrkraft, wie sie das auch mit weitergibt.
+
+00:23:36.001 --> 00:23:40.100
+<v juliafreudenberg>Da sind wir noch dabei, auch Wege zu erproben, wie wir die Lehrenden noch enger mit einbinden können.
+
+00:23:40.101 --> 00:23:42.600
+<v timpritlove>Ja gut, aber wie wird es angekündigt, also was sagt ihr den Kindern?
+
+00:23:42.601 --> 00:23:45.500
+<v timpritlove>Es finden vier Stunden statt und ihr sollt programmieren lernen.
+
+00:23:45.501 --> 00:23:48.100
+<v juliafreudenberg>Ja, hier kommen echte Hacker zu euch und machen einen Vormittag mit euch.
+
+00:23:48.101 --> 00:23:51.000
+<v juliafreudenberg>Wenn wir gut sind und die Lehrenden dazu kriegen, das zu sagen, dann sagen die,
+
+00:23:51.001 --> 00:23:53.000
+<v juliafreudenberg>die machen den Vormittag mit euch geilen Scheiß.
+
+00:23:53.001 --> 00:23:59.000
+<v juliafreudenberg>Ein kleiner Teil von mir bezweifelt, dass die wirklich geilen Scheiß sagen, so was tun Lehrer nicht.
+
+00:23:59.001 --> 00:24:03.600
+<v juliafreudenberg>Aber es wird eben angekündigt, ihr habt die Möglichkeit, selber mal zu programmieren.
+
+00:24:03.601 --> 00:24:08.300
+<v juliafreudenberg>Es gibt unterschiedliche Themen, mit denen wir arbeiten, bzw. unterschiedliche Programmiersprachen.
+
+00:24:08.301 --> 00:24:13.300
+<v juliafreudenberg>Und dass dann eben gesagt wird, mit Python oder mit html könnt ihr eine kleine Webseite bauen.
+
+00:24:13.301 --> 00:24:16.600
+<v juliafreudenberg>Es geht einfach drum, es wird nicht bewertet, das wird auch häufig mit dazu gesagt,
+
+00:24:16.601 --> 00:24:20.000
+<v juliafreudenberg>weil das bei den Kindern unglaublich Druck rausnimmt.
+
+00:24:20.001 --> 00:24:25.000
+<v juliafreudenberg>Und es ist einfach eure Zeit, guckt euch das an, Berufe anschauen war noch nie so einfach.
+
+00:24:25.001 --> 00:24:30.200
+<v timpritlove>Genau, aber der Beruf, der angeschaut wird, ist sozusagen der Beruf des Programmierens.
+
+00:24:30.201 --> 00:24:33.400
+<v timpritlove>Und darum geht es im Wesentlichen und im Kern und vor allem.
+
+00:24:33.401 --> 00:24:36.100
+<v timpritlove>Weil ich meine, wenn man sagt, digitales Lernen, kann es ja alles mögliche sein.
+
+00:24:36.101 --> 00:24:41.000
+<v timpritlove>Hier geht es schon konkret auch ums Coding, das steht bei euch im Mittelpunkt?
+
+00:24:41.001 --> 00:24:44.400
+<v juliafreudenberg>Ja, es geht immer drum, dass die Kids das ausprobieren.
+
+00:24:44.401 --> 00:24:48.600
+<v juliafreudenberg>Den Beruf nur Programmierer den gibt es ja auch selbst in zig Ausführungen.
+
+00:24:48.601 --> 00:24:52.800
+<v juliafreudenberg>Lustig, weil ich habe neulich den Namen eines schönen Ausbildungsberufes gehört,
+
+00:24:52.801 --> 00:24:58.100
+<v juliafreudenberg>Matse, mathematisch technischer Softwareentwickler, ist ja auch was schönes.
+
+00:24:58.101 --> 00:25:01.800
+<v juliafreudenberg>Es gibt die Fachinformatiker für Systemintegration, Hardware bzw. Anwendungsentwicklung,
+
+00:25:01.801 --> 00:25:03.900
+<v juliafreudenberg>ist ja viel mit Programmieren.
+
+00:25:03.901 --> 00:25:10.600
+<v juliafreudenberg>Worum es uns geht ist tatsächlich, dass die Kids selber mal hinter den Bildschirm gucken und selbst sehen,
+
+00:25:10.601 --> 00:25:15.400
+<v juliafreudenberg>was ist algorithmisches Denken, wie „rede“ ich mit Maschinen
+
+00:25:15.401 --> 00:25:18.700
+<v juliafreudenberg>und dass sie auch selber diese Erfahrung mache der Selbstwirksamkeit.
+
+00:25:18.701 --> 00:25:24.300
+<v juliafreudenberg>Dass sie selber da etwas hinkriegen, was sie sich vorher nicht zugetraut haben
+
+00:25:24.301 --> 00:25:27.000
+<v juliafreudenberg>und dass das Connect zu einer grundsätzlichen Fähigkeit gibt,
+
+00:25:27.001 --> 00:25:28.500
+<v juliafreudenberg>wenn auch nicht zu einem einzelnen Berufsbild.
+
+00:25:28.501 --> 00:25:32.700
+<v juliafreudenberg>Und wir vermitteln dadurch die 21th Century Skills bzw. eine Erfahrung davon,
+
+00:25:32.701 --> 00:25:37.800
+<v juliafreudenberg>dass sie Probleme, die sie nicht kennen, kreativ und kommunikativ lösen müssen
+
+00:25:37.801 --> 00:25:41.500
+<v juliafreudenberg>in Zusammenarbeit mit anderen mit kritischem Denken und dass sie halt eben auch sehen,
+
+00:25:41.501 --> 00:25:46.800
+<v juliafreudenberg>dass es total geil ist, Fehler zu machen, weil man dadurch sehr viele Sachen direkt rausfinden kann und ausschließen.
+
+00:25:46.801 --> 00:25:55.100
+<v timpritlove>Aber jetzt, um mal den Bogen kurz abzuschließen, dann findet dieser vier Stunden Block statt
+
+00:25:55.101 --> 00:25:57.800
+<v timpritlove>und dann ist das sozusagen auch damit erst mal abgeschlossen.
+
+00:25:57.801 --> 00:26:02.300
+<v timpritlove>Also das ist sozusagen ein Event, der stattfindet und dann wird einfach geguckt,
+
+00:26:02.301 --> 00:26:06.400
+<v timpritlove>okay was löst das jetzt aus, und was löst es dann aus?
+
+00:26:06.401 --> 00:26:10.200
+<v timpritlove>Also was ist so euer Erfahrungsspektrum, was das dann so auslöst?
+
+00:26:10.201 --> 00:26:15.800
+<v timpritlove>Und inwiefern habt ihr dann mit den Kindern später noch zu tun?
+
+00:26:15.801 --> 00:26:20.400
+<v juliafreudenberg>Da wir ein großes Interesse daran haben, unsere Wirkung belegen zu können,
+
+00:26:20.401 --> 00:26:23.300
+<v juliafreudenberg>weil Wirkung ist auch das Marketing der Sozialorganisation.
+
+00:26:23.301 --> 00:26:28.200
+<v juliafreudenberg>Wir müssen zeigen, wieviel Gramm leuchtende Kinderaugen wir pro eingesetzten Euro rauskriegen.
+
+00:26:28.201 --> 00:26:30.700
+<v juliafreudenberg>Fragen wir immer direkt nach den Veranstaltungen.
+
+00:26:30.701 --> 00:26:35.200
+<v juliafreudenberg>Also wir haben Evaluationsbogen, wo wir wirklich sehen, dass die Kinder auch sagen können,
+
+00:26:35.201 --> 00:26:37.700
+<v juliafreudenberg>habe ich dadurch ein besseres Verständnis für IT-Berufe?
+
+00:26:37.701 --> 00:26:39.000
+<v juliafreudenberg>Ja, die meisten haben das.
+
+00:26:39.001 --> 00:26:43.100
+<v juliafreudenberg>Ob es Spaß gemacht hat, auch, weil man sieht ja, dass insbesondere wenn mir etwas Freude macht,
+
+00:26:43.101 --> 00:26:47.300
+<v juliafreudenberg>bin ich auch bereit, mich da für Veränderungen zu öffnen, wenn ich etwas ablehne, bin ich direkt verschlossen.
+
+00:26:47.301 --> 00:26:53.200
+<v juliafreudenberg>Und da wirklich zu sagen, habe ich eine bessere Idee, was Digitalisierung,
+
+00:26:53.201 --> 00:26:57.500
+<v juliafreudenberg>was Programmieren eigentlich ist, kann ich mir dadurch ein besseres Bild über die Berufswelt machen?
+
+00:26:57.501 --> 00:27:01.600
+<v juliafreudenberg>Kann ich dadurch vielleicht auch eher wahrnehmen, dass es auch für mich als Mädchen etwas spannendes sein kann?
+
+00:27:01.601 --> 00:27:04.700
+<v juliafreudenberg>Das sind Sachen, die wir abfragen.
+
+00:27:04.701 --> 00:27:09.400
+<v juliafreudenberg>Und wir sehen in dem Kontext eben auch, dass dadurch, dass wir die Kids bei uns haben,
+
+00:27:09.401 --> 00:27:14.400
+<v juliafreudenberg>die vorher noch nichts damit zu tun hatten, dass es da sehr große Überraschungsmomente gibt.
+
+00:27:14.401 --> 00:27:17.900
+<v juliafreudenberg>Und teilweise bedauern wir das auch, dass wir das nicht eins zu eins zuordnen können.
+
+00:27:17.901 --> 00:27:22.400
+<v juliafreudenberg>Weil die Kinder in den Schulen sind für uns in der achten Klasse alle 14
+
+00:27:22.401 --> 00:27:25.300
+<v juliafreudenberg>und haben die Postleitzahl der Schule. 
+
+00:27:25.301 --> 00:27:27.500
+<v juliafreudenberg>Wir haben die Verteilung von Jungs und Mädels, weil danach häufig gefragt wird,
+
+00:27:27.501 --> 00:27:31.600
+<v juliafreudenberg>aber darüber hinaus haben wir keine Daten der Kinder.
+
+00:27:31.601 --> 00:27:34.500
+<v juliafreudenberg>Das ist ein Opfer, was ich bereit bin zu bringen, vor dem Hintergrund,
+
+00:27:34.501 --> 00:27:39.300
+<v juliafreudenberg>dass wir dadurch nicht in größere Kollision mit dem Datenschutz kommen.
+
+00:27:39.301 --> 00:27:43.400
+<v juliafreudenberg>Und bevor wir von jedem Elternteil unterschreiben lassen, dass das Kind sich bei uns anmelden darf,
+
+00:27:43.401 --> 00:27:46.000
+<v juliafreudenberg>da sind wir ja mit jeder Schule drei Monate beschäftigt,
+
+00:27:46.001 --> 00:27:49.500
+<v juliafreudenberg>ist das der Preis, den ich bereit bin zu bezahlen und wir sehen einfach,
+
+00:27:49.501 --> 00:27:54.200
+<v juliafreudenberg>dass dieser disruptive Impuls, wie Stiftungen das nennen, den wir da setzen,
+
+00:27:54.201 --> 00:27:57.700
+<v juliafreudenberg>dass der seine Wirkung zeigt, weil wir auch in den außerschulischen Kursen immer mehr Kids haben,
+
+00:27:57.701 --> 00:28:02.200
+<v juliafreudenberg>die angeben mit, wo habt ihr uns kennengelernt, ah ja ihr wart bei uns in der Schule.
+
+00:28:02.201 --> 00:28:05.200
+<v juliafreudenberg>Und da sehen wir eben auch schon die ersten Zusammenhänge, wie sich das weiterentwickelt.
+
+00:28:05.201 --> 00:28:12.600
+<v timpritlove>Vielleicht noch mal zu dem Format, also die Leute, die diese Kurse dann gestalten,
+
+00:28:12.601 --> 00:28:17.900
+<v timpritlove>du sprichst von Freiwilligen, wo kommen die her, wieviele, was habt ihr da sozusagen für einen…
+
+00:28:17.901 --> 00:28:21.400
+<v timpritlove>Also wieviele Kinder nehmen denn daran teil, also an so einer Session,
+
+00:28:21.401 --> 00:28:26.400
+<v timpritlove>wieviele Personen stehen quasi auf der anderen Seite?
+
+00:28:26.401 --> 00:28:27.900
+<v timpritlove>Was habt ihr da für einen Schlüssel, mit dem ihr arbeitet?
+
+00:28:27.901 --> 00:28:30.800
+<v juliafreudenberg>Wir arbeiten mit dem Verhältnis 1:6.
+
+00:28:30.801 --> 00:28:35.200
+<v juliafreudenberg>Also außerschulisch auch meistens, aber innerschulisch ist es immer das Verhältnis 1:6 ungefähr.
+
+00:28:35.201 --> 00:28:38.400
+<v juliafreudenberg>Kommt drauf an, wieviele Kinder in einer Klasse sind.
+
+00:28:38.401 --> 00:28:44.100
+<v juliafreudenberg>Das heißt, bei 24 Kids haben wir vier Inspirer, die die Kurse geben, plus ein Team-Inspirer bei mir aus dem Team,
+
+00:28:44.101 --> 00:28:49.900
+<v juliafreudenberg>der den Kurs leitet, alles vorstellt, unterstützt, durch die Räume geht, bei Fragen zur Verfügung steht.
+
+00:28:49.901 --> 00:28:55.700
+<v juliafreudenberg>Einfach dass diejenigen, die die Kurse geben, sich da auch rundum wohl und gut betreut fühlen.
+
+00:28:55.701 --> 00:29:00.700
+<v juliafreudenberg>Und diejenigen, die die Kurse geben, kriegen wir eben halt insbesondere über Corporate Volunteering aus Unternehmen.
+
+00:29:00.701 --> 00:29:05.500
+<v juliafreudenberg>Weil IT-Lehrer backen hat sich noch nicht als besonders gutes Mittel herausgestellt.
+
+00:29:05.501 --> 00:29:12.300
+<v juliafreudenberg>Deswegen fragen wir ganz häufig Azubis an oder wir bitten Unternehmen um Unterstützung durch Corporate Volunteers,
+
+00:29:12.301 --> 00:29:17.500
+<v juliafreudenberg>immer mit dem Hinweis, dass es uns begeistert, wirklich dass wir sehr begeistert sind,
+
+00:29:17.501 --> 00:29:21.100
+<v juliafreudenberg>wenn wir Azubis kriegen, weil die gerade die Entscheidung getroffen haben, wo sie hin wollen,
+
+00:29:21.101 --> 00:29:27.100
+<v juliafreudenberg>weil die viel näher dran sind an den Kids als keine Ahnung, auch Leute, die 30-40 Jahre in dem Beruf arbeiten.
+
+00:29:27.101 --> 00:29:31.700
+<v juliafreudenberg>Das ist auch großartig, jede helfende Hand ist willkommnen.
+
+00:29:31.701 --> 00:29:35.600
+<v juliafreudenberg>Aber tatsächlich zu sagen, dass Azubis, die auch hinsichtlich Opportunitätskosten für einen Betrieb
+
+00:29:35.601 --> 00:29:39.300
+<v juliafreudenberg>auch möglicherweise etwas günstiger sind als ein hochbezahlter ITler.
+
+00:29:39.301 --> 00:29:42.500
+<v juliafreudenberg>Das ist auch noch mal ein Argument zusätzlich zu dem Punkt, dass man sieht,
+
+00:29:42.501 --> 00:29:47.000
+<v juliafreudenberg>wieviel diese jungen Menschen bei uns lernen können, dadurch dass sie die Kurse geben,
+
+00:29:47.001 --> 00:29:52.700
+<v juliafreudenberg>dass sie zielgruppenadäquate Kommunikation praktizieren, dass sie lernen durch lehren,
+
+00:29:52.701 --> 00:29:57.100
+<v juliafreudenberg>dass sie IT für nicht ITler erklären, dass sie einfach lernen, in Situationen,
+
+00:29:57.101 --> 00:30:02.800
+<v juliafreudenberg>wo sie sich erstmal vielleicht so ein bisschen putzig fühlen, gut zu agieren und ihre Punkte zu machen.
+
+00:30:02.801 --> 00:30:06.400
+<v juliafreudenberg>Das ist etwas, da nehmen die so viel draus mit und das den Azubis zu ermöglichen,
+
+00:30:06.401 --> 00:30:11.600
+<v juliafreudenberg>die haben mindestens so viel davon wie die Kids, das ist also tatsächlich für alle Beteiligten eine win-win-win-Situation.
+
+00:30:11.601 --> 00:30:17.400
+<v timpritlove>Setzt ihr da jetzt allein auf Learning by Doing oder gibt es dann auch in gewisser Hinsicht so eine Art begleitendes Coaching?
+
+00:30:17.401 --> 00:30:23.100
+<v timpritlove>Weil ich kann mir durchaus vorstellen, dass es gerade so in Nerdkreisen, machen wir uns nichts vor,
+
+00:30:23.101 --> 00:30:32.200
+<v timpritlove>sind vielleicht die pädagogischen Fähigkeiten dann nicht unbedingt immer so von Natur aus ausgeprägt.
+
+00:30:32.201 --> 00:30:36.800
+<v timpritlove>Für manche mag das ja auch schwierig sein, dann sich überhaupt in so eine Situation zu begeben.
+
+00:30:36.801 --> 00:30:39.300
+<v timpritlove>Wie begleitet ihr das?
+
+00:30:39.301 --> 00:30:44.800
+<v timpritlove>Habt ihr da nochmal einen Kurs für die Freiwilligen?
+
+00:30:44.801 --> 00:30:45.900
+<v juliafreudenberg>Train the Trainer.
+
+00:30:45.901 --> 00:30:49.000
+<v timpritlove>Ja, train the Trainer, findet das statt oder?
+
+00:30:49.001 --> 00:30:48.500
+<v juliafreudenberg>Unbedingt.
+
+00:30:48.501 --> 00:30:51.700
+<v timpritlove>Ergibt sich das von alleine?
+
+00:30:51.701 --> 00:30:55.400
+<v juliafreudenberg>Also wir machen die Erfahrung, wenn die Leute sich wohlfühlen, dann sind sie am allerbesten.
+
+00:30:55.401 --> 00:30:59.000
+<v juliafreudenberg>Und insbesondere auch junge Menschen, wenn wir denen die Unsicherheit nehmen können,
+
+00:30:59.001 --> 00:31:01.000
+<v juliafreudenberg>dann laufen die zu Hochform auf.
+
+00:31:01.001 --> 00:31:06.600
+<v juliafreudenberg>Wir haben Kurse vorbereitet, die Konzepte stehen also, insbesondere für den Schulbereich.
+
+00:31:06.601 --> 00:31:09.700
+<v juliafreudenberg>Wir verteilen die Kurskonzepte, dass die sich vorher angeguckt werden können,
+
+00:31:09.701 --> 00:31:16.700
+<v juliafreudenberg>wir machen Onboardings, wo sowohl zu den Konzepten als auch zu how to handle kids viele Fragen gestellt werden können.
+
+00:31:16.701 --> 00:31:21.600
+<v juliafreudenberg>Und wir haben die ganze Zeit ein Team-Inspirer mit dabei, der selber halt keine Kinder hat,
+
+00:31:21.601 --> 00:31:24.100
+<v juliafreudenberg>sondern sich wirklich um alle anderen mit kümmern kann.
+
+00:31:24.101 --> 00:31:28.500
+<v juliafreudenberg>Dass ich davon überzeugt bin, dass die Menschen, die mit uns zusammen die Kurse geben,
+
+00:31:28.501 --> 00:31:33.900
+<v juliafreudenberg>richtig gut vorbereitet da reingehen und auch wenn sie dann eben halt dann beim Tun selber noch Fragen haben,
+
+00:31:33.901 --> 00:31:36.100
+<v juliafreudenberg>ist auch immer jemand an ihrer Seite.
+
+00:31:36.101 --> 00:31:42.800
+<v timpritlove>Und das sind dann Personen, die Angestellte oder Mitarbeiter der Hacker School sind,
+
+00:31:42.801 --> 00:31:47.000
+<v timpritlove>die da sozusagen noch mal so diese Metateilnahme durchführen
+
+00:31:47.001 --> 00:31:50.700
+<v timpritlove>oder sind das auch nur irgendwelche anderen Freiwilligen, die schon länger dabei sind?
+
+00:31:50.701 --> 00:31:54.900
+<v juliafreudenberg>Nein, ich habe mittlerweile ein Team von 35 Leuten ungefähr auf der Payroll,
+
+00:31:54.901 --> 00:31:59.800
+<v juliafreudenberg>davon ist gut ein Dutzend die sind Team-Inspirer, das sind Minijobber, Werkstudenten,
+
+00:31:59.801 --> 00:32:06.400
+<v juliafreudenberg>unterschiedliche Vertragskonstruktionen, die teilweise schon seit mehreren Jahren bei der Hacker School mit unterstützen
+
+00:32:06.401 --> 00:32:11.300
+<v juliafreudenberg>und die tatsächlich die Kurse leiten und dadurch eben halt auch ein sehr sehr großes Erfahrungswissen haben,
+
+00:32:11.301 --> 00:32:16.600
+<v juliafreudenberg>worauf sie eben halt auch noch mal Ruhe mit ausstrahlen können.
+
+00:32:16.601 --> 00:32:20.100
+<v timpritlove>Jetzt sollten wir vielleicht auch nochmal kurz auf dieses außerschulische Angebot eingehen,
+
+00:32:20.101 --> 00:32:21.900
+<v timpritlove>weil das war ja jetzt sozusagen alles die …
+
+00:32:21.901 --> 00:32:25.100
+<v timpritlove>Gut, da wird sich ja wahrscheinlich viel wiederholen, aber im Prinzip ist es ja erst mal was anderes,
+
+00:32:25.101 --> 00:32:29.700
+<v timpritlove>allein schon deshalb, weil die Kids sich ja da quasi selber initiativ bewerben
+
+00:32:29.701 --> 00:32:34.000
+<v timpritlove>oder von irgendjemandem da hingeschoben werden, was auch immer da der Trigger jetzt ist so.
+
+00:32:34.001 --> 00:32:38.200
+<v timpritlove>Aber du hast ja schon gesagt, nicht selten sind es dann eben auch Kids,
+
+00:32:38.201 --> 00:32:41.600
+<v timpritlove>die es einfach in der Schule so durch diesen Erstkontakt mitbekommen haben und festgestellt haben so,
+
+00:32:41.601 --> 00:32:47.500
+<v timpritlove>oh funktioniert ja eigentlich ganz gut für mich, interessiert mich, würde ich gerne noch mal machen.
+
+00:32:47.501 --> 00:32:52.000
+<v timpritlove>Was habt ihr dann da im Angebot und dann habt ihr ja in dem Sinne keine Schule,
+
+00:32:52.001 --> 00:32:57.800
+<v timpritlove>wo ihr das machen könnt, wo findet das dann und wie findet das dann statt?
+
+00:32:57.801 --> 00:33:00.500
+<v juliafreudenberg>Ja, das ist auch tatsächlich ein kleines bisschen freier gestaltet.
+
+00:33:00.501 --> 00:33:05.800
+<v juliafreudenberg>Also das ist das, wo die Hacker School herkommt, wo auch wirklich Begeisterung der ITlerInnen transportiert wird,
+
+00:33:05.801 --> 00:33:10.200
+<v juliafreudenberg>auch teilweise die Gedanken, die sie selber haben, mit umzusetzen.
+
+00:33:10.201 --> 00:33:15.500
+<v juliafreudenberg>Also in dem Sinne, wir gehen davon aus, wenn jemand für ein Thema brennt,
+
+00:33:15.501 --> 00:33:17.100
+<v juliafreudenberg>kann er das am besten vermitteln.
+
+00:33:17.101 --> 00:33:22.100
+<v juliafreudenberg>Und außerschulische Kurse sind halt thementechnisch nochmal deutlich freier.
+
+00:33:22.101 --> 00:33:24.500
+<v juliafreudenberg>Das heißt, wenn jemand einen Line Follower Robot machen möchte
+
+00:33:24.501 --> 00:33:31.800
+<v juliafreudenberg>oder doch mal mit JavaScript zum Beispiel in Minecraft was bauen möchte oder sonst was,
+
+00:33:31.801 --> 00:33:35.300
+<v juliafreudenberg>ist das schon möglich, wir haben auch da so Rahmendaten für, wie baue ich eigentlich einen Kurs auf,
+
+00:33:35.301 --> 00:33:38.600
+<v juliafreudenberg>wie sollte das optimalerweise auch von der Schrittigkeit vorangehen,
+
+00:33:38.601 --> 00:33:44.100
+<v juliafreudenberg>aber es ist letztendlich viel freier, weil jeder auch seine Gedanken mit einbringen kann.
+
+00:33:44.101 --> 00:33:47.000
+<v juliafreudenberg>Und das Spannende daran ist, die Kurse sind halt doppelt so lang.
+
+00:33:47.001 --> 00:33:50.200
+<v juliafreudenberg>Wenn wir vor Ort in Unternehmen sind, sind es sogar zweimal fünf Stunden,
+
+00:33:50.201 --> 00:33:54.100
+<v juliafreudenberg>weil man sich zuerst die Kurse noch mit aussuchen kann und am Ende eine Präsentation hat,
+
+00:33:54.101 --> 00:33:56.900
+<v juliafreudenberg>wo man selber seine Projekte darstellen kann.
+
+00:33:56.901 --> 00:34:00.800
+<v juliafreudenberg>Wenn wir es online machen, sind es zweimal vier Stunden, weil online immer ein bisschen verdichtet ist,
+
+00:34:00.801 --> 00:34:05.000
+<v juliafreudenberg>weil das hat eine andere Intensität, weil vor Ort machen die Kinder auch mal Quatsch zusammen
+
+00:34:05.001 --> 00:34:09.000
+<v juliafreudenberg>und so weiter, das ist online ein bisschen strukturierter.
+
+00:34:09.001 --> 00:34:14.400
+<v juliafreudenberg>Aber da haben wir eben den großen Vorteil, dass Kinder auch Unternehmen nochmal viel besser kennenlernen können.
+
+00:34:14.401 --> 00:34:19.800
+<v juliafreudenberg>Also vor der Pandemie waren wir zum Beispiel viermal im Jahr bei Otto hier in Hamburg auf dem Campus.
+
+00:34:19.801 --> 00:34:23.700
+<v juliafreudenberg>Die haben einen so tollen Coworking Space, das Collaborate, da waren wir mit bis zu 100 Kindern
+
+00:34:23.701 --> 00:34:28.600
+<v juliafreudenberg>und das war tierisch laut und super anstrengend und wir haben auch so viel zusammen gelernt.
+
+00:34:28.601 --> 00:34:33.200
+<v juliafreudenberg>Das erste Mal hatten sie noch Fritz Cola hingestellt und sechs wirklich hohe Berge Schokolade
+
+00:34:33.201 --> 00:34:35.700
+<v juliafreudenberg>und wo wir hinterher eigentlich, ich war schon kurz davor, nach Panzertape zu fragen,
+
+00:34:35.701 --> 00:34:40.000
+<v juliafreudenberg>um die Kinder auf den Stühlen festzuhalten, aber das war mega,
+
+00:34:40.001 --> 00:34:44.000
+<v juliafreudenberg>eine unglaublich also tolle Erfahrung auch für die Kids, wo die eben halt sehen,
+
+00:34:44.001 --> 00:34:46.600
+<v juliafreudenberg>wow, also viele waren vorher noch nie in einem Unternehmen.
+
+00:34:46.601 --> 00:34:48.900
+<v juliafreudenberg>Und das macht eben halt auch noch mal einen ganz großen Reiz aus,
+
+00:34:48.901 --> 00:34:55.400
+<v juliafreudenberg>dass dadurch auch noch mal wirklich eine klarere Idee entsteht, was kann ich hier eigentlich auch beruflich machen?
+
+00:34:55.401 --> 00:34:58.800
+<v juliafreudenberg>Und man sagt ja immer, der Raum ist der vierte Pädagoge sozusagen.
+
+00:34:58.801 --> 00:35:01.000
+<v juliafreudenberg>Das ist natürlich was, das geht halt nur vor Ort.
+
+00:35:01.001 --> 00:35:05.700
+<v juliafreudenberg>Ich bin trotzdem super stolz, dass wir auch online richtig gute Kurse machen können.
+
+00:35:05.701 --> 00:35:11.400
+<v juliafreudenberg>Da müssen wir einen anderen Weg finden, dass eben halt auch die Unternehmen gut zeigen können,
+
+00:35:11.401 --> 00:35:14.700
+<v juliafreudenberg>was eigentlich junge Menschen bei ihnen lernen können.
+
+00:35:14.701 --> 00:35:17.700
+<v juliafreudenberg>Aber es ist letztendlich einfach was, der Fokus liegt da drauf,
+
+00:35:17.701 --> 00:35:21.400
+<v juliafreudenberg>wirklich diese Begeisterung zu wecken und den geilen Scheiß zu machen sozusagen
+
+00:35:21.401 --> 00:35:27.500
+<v juliafreudenberg>und da ist halt einfach außerschulisch noch ein bisschen mehr Zeit als an einem Projektvormittag sozusagen,
+
+00:35:27.501 --> 00:35:30.100
+<v juliafreudenberg>aber ich glaube, das ist auch dahingehend ein guter Aufbau.
+
+00:35:30.101 --> 00:35:35.200
+<v juliafreudenberg>Weil wenn wir in den Schulen vier Stunden mit Kids arbeiten, die wirklich wirklich echt nicht wollen,
+
+00:35:35.201 --> 00:35:38.800
+<v juliafreudenberg>was auch mal passieren kann, die lernen trotzdem eine Menge.
+
+00:35:38.801 --> 00:35:43.100
+<v juliafreudenberg>Aber das ist halt so von der Größenordnung was, das kann man noch gut aushalten.
+
+00:35:43.101 --> 00:35:45.100
+<v juliafreudenberg>Das kann man wirklich gut machen.
+
+00:35:45.101 --> 00:35:47.800
+<v juliafreudenberg>Daraus zwei Tage in den Schulen zu machen, das wäre mir nicht sinnvoll vorgekommen.
+
+00:35:47.801 --> 00:35:50.700
+<v juliafreudenberg>Aber denjenigen Kindern, die dann auch wirklich Lust haben weiterzumachen,
+
+00:35:50.701 --> 00:35:54.800
+<v juliafreudenberg>das als einen Zwischenschritt anzubieten, dass sie da auch nochmal tiefer in Projekte eintauchen können,
+
+00:35:54.801 --> 00:35:57.600
+<v juliafreudenberg>da haben wir einfach super Erfahrungen mit gemacht.
+
+00:35:57.601 --> 00:36:00.800
+<v timpritlove>Das heißt, wenn ich das richtig verstehe, diese offline außerschulischen Sachen
+
+00:36:00.801 --> 00:36:06.900
+<v timpritlove>finden dann aber auch immer bei irgendwelchen Unternehmen in gestellten Räumen statt oder?
+
+00:36:06.901 --> 00:36:10.200
+<v juliafreudenberg>Ja, also entweder sie sind online oder sie sind halt eben bei Unternehmen, 
+
+00:36:10.201 --> 00:36:11.900
+<v juliafreudenberg>weil wir haben selber gar keine eigenen Räumlichkeiten.
+
+00:36:11.901 --> 00:36:14.700
+<v timpritlove>Die das dann kostenlos zur Verfügung stellen?
+
+00:36:14.701 --> 00:36:17.800
+<v juliafreudenberg>Ja. Wir bringen meist die Hardware mit, weil die wenigsten haben, wenn die was weiß ich,
+
+00:36:17.801 --> 00:36:24.400
+<v juliafreudenberg>drei, vier Kurse anbieten, die wenigsten haben 30 Schulungsrechner tagesaktuell aufgesetzt,
+
+00:36:24.401 --> 00:36:26.400
+<v juliafreudenberg>da helfen wir im Zweifelsfall aus.
+
+00:36:26.401 --> 00:36:30.300
+<v juliafreudenberg>Die Kids arbeiten dann im Pairprogramming, also sie teilen sich einen Rechner,
+
+00:36:30.301 --> 00:36:32.700
+<v juliafreudenberg>aber die Räumlichkeiten werden von den Unternehmen gestellt.
+
+00:36:32.701 --> 00:36:38.900
+<v juliafreudenberg>Auch gerne mal, also bitte keine Fritz Cola, aber eben halt ein bisschen Snacks, Getränke, das machen die auch gerne.
+
+00:36:38.901 --> 00:36:42.800
+<v juliafreudenberg>Und eben halt insbesondere die Inspirer, die die Kurse geben und wir unterstützen halt überall wo sie es brauchen.
+
+00:36:42.801 --> 00:36:45.700
+<v timpritlove>Und die Aufgaben suchen sich die Kids selber aus, denken die sich selber aus
+
+00:36:45.701 --> 00:36:49.200
+<v timpritlove>oder habt ihr sozusagen so ein Set von Sachen mit, hier das könntet ihr machen,
+
+00:36:49.201 --> 00:36:55.000
+<v timpritlove>was interessiert euch, also wie findet sich sozusagen der Inhalt letzten Endes?
+
+00:36:55.001 --> 00:37:01.100
+<v juliafreudenberg>Wir haben es, wenn wir vor Ort Kurse in Unternehmen machen, in der Regel zwei oder drei unterschiedliche Kurse, die parallel laufen.
+
+00:37:01.101 --> 00:37:06.000
+<v juliafreudenberg>Und da ist es so, dass diese Kurse am Anfang der Session vorgestellt werden
+
+00:37:06.001 --> 00:37:09.300
+<v juliafreudenberg>und die Kids sich dann vor Ort aussuchen können, was sie im Detail machen möchten.
+
+00:37:09.301 --> 00:37:13.100
+<v juliafreudenberg>Also wir sorgen schon für eine Gleichverteilung.
+
+00:37:13.101 --> 00:37:16.200
+<v timpritlove>Kannst du mal ein Beispiel nennen, was das so wäre so bei drei, vier Angeboten?
+
+00:37:16.201 --> 00:37:19.900
+<v juliafreudenberg>Zum Beispiel, bau eine Webseite, bau ein Spiel mit Python.
+
+00:37:19.901 --> 00:37:23.300
+<v juliafreudenberg>Wir hatten neulich das mit, druck dir eine Drohne aus sozusagen.
+
+00:37:23.301 --> 00:37:25.100
+<v juliafreudenberg>Das war natürlich auch ein Highlight.
+
+00:37:25.101 --> 00:37:28.800
+<v juliafreudenberg>Oder bau einen Daddeltisch mit einer Mateteebox.
+
+00:37:28.801 --> 00:37:29.900
+<v juliafreudenberg>Also ganz unterschiedliche Sachen.
+
+00:37:29.901 --> 00:37:32.800
+<v juliafreudenberg>Die großen Jungs und Mädels werden ja auch nicht erwachsen.
+
+00:37:32.801 --> 00:37:38.500
+<v juliafreudenberg>Also teilweise je bekloppter die Idee, desto größer die Learnings.
+
+00:37:38.501 --> 00:37:39.800
+<v juliafreudenberg>Aber da haben wir ganz ganz vielfältige Sachen.
+
+00:37:39.801 --> 00:37:46.400
+<v timpritlove>Okay, aber es gibt sozusagen, man bietet was an und die Kids entscheiden sich dann für eins davon
+
+00:37:46.401 --> 00:37:50.500
+<v timpritlove>und das wird dann eben fokussiert gemacht, sodass man es eben auch entsprechend vorbereiten kann.
+
+00:37:50.501 --> 00:37:51.400
+<v juliafreudenberg>Genau.
+
+00:37:51.401 --> 00:37:55.300
+<v timpritlove>Weil es gibt ja, wirst du ja sicherlich auch kennen, so Projekte wie Jugend hackt,
+
+00:37:55.301 --> 00:38:02.500
+<v timpritlove>die ein ähnliches Ziel haben, also Kreativität und Hackertum Jugendlichen näher zu bringen,
+
+00:38:02.501 --> 00:38:06.800
+<v timpritlove>die aber dann eben auch sehr drauf stehen, dass die Kids dann auch noch ihre eigenen Ideen mitbringen
+
+00:38:06.801 --> 00:38:09.500
+<v timpritlove>und die dann irgendwie dynamisch begleitet werden.
+
+00:38:09.501 --> 00:38:13.600
+<v timpritlove>Wollte ich nur mal ein bisschen aussortieren, wie euer Ansatz da an der Stelle ist.
+
+00:38:13.601 --> 00:38:16.600
+<v juliafreudenberg>Ja, Code und Design macht das ja ähnlich, die sind sogar noch länger als Jugend hackt,
+
+00:38:16.601 --> 00:38:18.400
+<v juliafreudenberg>die sind ja sogar vier Tage mit dabei.
+
+00:38:18.401 --> 00:38:22.400
+<v juliafreudenberg>Also wir sagen immer gerne, wir sind so die kleine Schwesterorganisation von Jugend hackt.
+
+00:38:22.401 --> 00:38:27.300
+<v juliafreudenberg>In der Hinsicht, wir wollen alle anfixen, bei Jugend hackt hilft es tatsächlich auch schon,
+
+00:38:27.301 --> 00:38:31.600
+<v juliafreudenberg>ein bisschen Vorkenntnisse mitzubringen, aber die sind eben auch eine der Organisationen,
+
+00:38:31.601 --> 00:38:35.400
+<v juliafreudenberg>die wir immer empfehlen, sobald Kids Lust haben, auch nur ein bisschen weiterzumachen,
+
+00:38:35.401 --> 00:38:39.100
+<v juliafreudenberg>wir zeigen immer am Ende auch der Schulkurse mit, deine Wege in die IT.
+
+00:38:39.101 --> 00:38:42.500
+<v juliafreudenberg>Wenn du Bock hast, was weiter zu machen, geh hierhin, geh dahin, guck dir das an,
+
+00:38:42.501 --> 00:38:46.900
+<v juliafreudenberg>es ist völlig egal, was du machst, Hauptsache du tust etwas.
+
+00:38:46.901 --> 00:38:52.300
+<v juliafreudenberg>Und da haben wir eine ganz tolle Verweisberatung, Weiterempfehlungskultur
+
+00:38:52.301 --> 00:38:56.100
+<v juliafreudenberg>und die ganzen Organisationen wie Jugend hackt oder Chaos macht Schule oder ähnliches,
+
+00:38:56.101 --> 00:39:03.500
+<v juliafreudenberg>überall da, wo wir wirklich sagen können, schaut euch das an, guckt weiter rein, jederzeit.
+
+00:39:03.501 --> 00:39:06.200
+<v timpritlove>Jetzt muss ich dann doch mal auf diesen Begriff noch mal kommen.
+
+00:39:06.201 --> 00:39:16.200
+<v timpritlove>Der Hackerbegriff ist ja älter als vielleicht viele Leute denken, das ist so Ende der 60er Jahre entstanden
+
+00:39:16.201 --> 00:39:20.700
+<v timpritlove>und hat, glaube ich, so über die Jahre sehr unterschiedlichen Zuspruch gefunden
+
+00:39:20.701 --> 00:39:23.100
+<v timpritlove>und mediale Verarbeitung vor allem.
+
+00:39:23.101 --> 00:39:32.200
+<v timpritlove>Da gibt es natürlich so diese naja 80er Jahre Wargames induzierte Konnotation mit so,
+
+00:39:32.201 --> 00:39:37.200
+<v timpritlove>ja der Jugendliche auf seinem Sofa mit seinem Homecomputer und fährt dann irgendwie die Atomstäbe hoch und runter
+
+00:39:37.201 --> 00:39:42.600
+<v timpritlove>und was weiß ich, Atomraketen werden scharf geschaltet, so die große Bedrohung aus dem Kinderzimmer.
+
+00:39:42.601 --> 00:39:48.500
+<v timpritlove>Das war ja dann sehr populär so Hacker, das findet man ja auch medial immer wieder.
+
+00:39:48.501 --> 00:39:56.100
+<v timpritlove>Dann natürlich auf der anderen Seite so diese konkrete Bedrohung, jetzt Cyberwar, solche Geschichten.
+
+00:39:56.101 --> 00:40:03.300
+<v timpritlove>Während ja so die Hackerszene selber diesen Begriff immer als eine sehr kreative Bezeichnung angesehen hat.
+
+00:40:03.301 --> 00:40:07.900
+<v timpritlove>Was habt ihr da für eine Vorstellung und warum denkst du wurde dieser Name,
+
+00:40:07.901 --> 00:40:10.400
+<v timpritlove>da warst du ja nicht dran beteiligt, hieß doch von Anfang an Hacker School oder?
+
+00:40:10.401 --> 00:40:11.200
+<v juliafreudenberg>Ja.
+
+00:40:11.201 --> 00:40:12.600
+<v timpritlove>Genau.
+
+00:40:12.601 --> 00:40:17.000
+<v timpritlove>Warum wurde dieser Name gewählt, was verbindet ihr mit diesem Begriff?
+
+00:40:17.001 --> 00:40:19.600
+<v juliafreudenberg>Ich denke, das war das coolste, was man überhaupt machen konnte,
+
+00:40:19.601 --> 00:40:22.600
+<v juliafreudenberg>weil er so wunderbar vieldeutig ist.
+
+00:40:22.601 --> 00:40:28.000
+<v juliafreudenberg>Also ja, ich sollte irgendwann einmal eine Dankesrede, da hatten wir einen Preis gewonnen,
+
+00:40:28.001 --> 00:40:30.800
+<v juliafreudenberg>anfangen mit, Hacker, sind das nicht die Bösen?
+
+00:40:30.801 --> 00:40:34.000
+<v juliafreudenberg>Ja okay, haben alle gelacht.
+
+00:40:34.001 --> 00:40:37.100
+<v juliafreudenberg>Die Idee, warum es Hacker School genannt worden ist, ist,
+
+00:40:37.101 --> 00:40:43.900
+<v juliafreudenberg>dass ja in der ganzen IT-Welt ein Hack, eine unkomplizierte schnelle IT-basierte Problemlösung ist.
+
+00:40:43.901 --> 00:40:49.000
+<v juliafreudenberg>Und das ist das, was wir den Kids zeigen wollen, nutzt den Scheiß,
+
+00:40:49.001 --> 00:40:51.900
+<v juliafreudenberg>komm in den Driverseat, einfach wenn du verstehst, was du damit machen kannst
+
+00:40:51.901 --> 00:40:55.900
+<v juliafreudenberg>und es vielleicht ein bisschen anders anwendest, als es ursprünglich mal gedacht war,
+
+00:40:55.901 --> 00:40:58.600
+<v juliafreudenberg>kannst du dir das Leben viel einfacher machen.
+
+00:40:58.601 --> 00:41:02.000
+<v juliafreudenberg>Also mein Lieblingshack, den wir hier zu Haus haben, ist der smarte Hühnerstall.
+
+00:41:02.001 --> 00:41:09.800
+<v juliafreudenberg>Also wir haben drei Hühner, die trinken ganz schön viel und insbesondere im Winter nervt das wie Bolle,
+
+00:41:09.801 --> 00:41:14.100
+<v juliafreudenberg>wenn du permanent raus musst und das Wasser aufhacken, damit die was trinken können.
+
+00:41:14.101 --> 00:41:19.200
+<v juliafreudenberg>Und mit einem Microbit, der einen Temperatursensor hat, einer kleinen Heizspiralen
+
+00:41:19.201 --> 00:41:21.900
+<v juliafreudenberg>und drei Zeilen Code kannst du das relativ einfach machen.
+
+00:41:21.901 --> 00:41:27.000
+<v juliafreudenberg>Wenn Temperatur unter 0, dann starte Heizspirale, Wasser warm.
+
+00:41:27.001 --> 00:41:27.200
+<v juliafreudenberg>Und das ist so angenehm.
+
+00:41:27.201 --> 00:41:31.600
+<v juliafreudenberg>Ein Microbit ist sicherlich nie geplant worden für die Nutzung im Hühnerstall,
+
+00:41:31.601 --> 00:41:35.400
+<v juliafreudenberg>aber wir feiern das so, dass wir im Winter nicht raus müssen.
+
+00:41:35.401 --> 00:41:37.700
+<v juliafreudenberg>Und das ist das, was wir den Kids zeigen wollen, guck dir das Ding an,
+
+00:41:37.701 --> 00:41:43.400
+<v juliafreudenberg>verstehe wie es funktioniert und dann mach was draus, egal was, aber mach was draus.
+
+00:41:43.401 --> 00:41:47.400
+<v juliafreudenberg>Und das ist, natürlich haben wir ganz häufig die Nachfrage, uh kannst du mir,
+
+00:41:47.401 --> 00:41:53.400
+<v juliafreudenberg>setze den Namen eines Spiels ein, das Ding hacken, ich will mehr Coins oder was weiß ich was haben.
+
+00:41:53.401 --> 00:41:56.600
+<v juliafreudenberg>Wo wir auch immer den ethischen Jingle mit dazu machen, zu sagen,
+
+00:41:56.601 --> 00:41:59.700
+<v juliafreudenberg>virtuell zu stehlen ist genauso scheiße wie im wirklich wahren Leben.
+
+00:41:59.701 --> 00:42:04.000
+<v juliafreudenberg>Es ist völlig wurscht, verhalte dich immer so, wie du selber behandelt werden möchtest.
+
+00:42:04.001 --> 00:42:08.400
+<v juliafreudenberg>Und je mehr du kannst, desto größer ist deine Verantwortung, das kommt jederzeit von uns.
+
+00:42:08.401 --> 00:42:14.600
+<v juliafreudenberg>Einfach weil ich davon überzeugt bin, dass Wissen zu haben auch Verantwortung bedeutet.
+
+00:42:14.601 --> 00:42:19.100
+<v juliafreudenberg>Und das den Kids mitzugeben ist das, nicht nur weil man was kann, hat man alle Freiheiten der Welt,
+
+00:42:19.101 --> 00:42:25.400
+<v juliafreudenberg>sondern sollte sich immer darauf besinnen, wie man selber behandelt werden möchte.
+
+00:42:25.401 --> 00:42:30.100
+<v juliafreudenberg>Das ist so ein bisschen, ja, also der Name Hacker School ist eine Gesprächsaufforderung sozusagen
+
+00:42:30.101 --> 00:42:33.100
+<v juliafreudenberg>oder ein Angebot, genau auch über solche Sachen ins Gespräch zu kommen.
+
+00:42:33.101 --> 00:42:38.000
+<v juliafreudenberg>Und das ist halt eben wirklich so die Auslegung des Begriffes, den wir lieben und den wir mit der Hacker School praktizieren.
+
+00:42:38.001 --> 00:42:38.900
+<v timpritlove>Und das findet auch statt?
+
+00:42:38.901 --> 00:42:41.400
+<v juliafreudenberg>Ja, genau das findet statt.
+
+00:42:41.401 --> 00:42:43.800
+<v timpritlove>Also die Kids reflektieren sozusagen auf diesen Begriff und hinterfragen den auch?
+
+00:42:43.801 --> 00:42:45.500
+<v juliafreudenberg>Es gibt immer sone und solche.
+
+00:42:45.501 --> 00:42:50.500
+<v juliafreudenberg>Das erste ist halt immer, insbesondere pubertierende Jungs, hast du häufig diese,
+
+00:42:50.501 --> 00:42:54.200
+<v juliafreudenberg>kannst du mir XY hacken und ich will und so weiter.
+
+00:42:54.201 --> 00:43:00.400
+<v juliafreudenberg>Aber wirklich darüber zu sprechen, wie wäre es denn für dich, wenn dir deine, egal,
+
+00:43:00.401 --> 00:43:04.300
+<v juliafreudenberg>Daten irgendwo gemobst werden und damit Sachen gemacht werden, die dir nicht gefallen?
+
+00:43:04.301 --> 00:43:08.700
+<v juliafreudenberg>Es wird natürlich nie so offen zugegeben, insbesondere nicht wenn die Peergroup zuhört.
+
+00:43:08.701 --> 00:43:16.100
+<v juliafreudenberg>Aber man sieht, dass sich dadurch Denkprozesse in Gang setzen und dass eben auch einfach neue Sachen entstehen.
+
+00:43:16.101 --> 00:43:23.800
+<v timpritlove>Jetzt habt ihr ja den Fokus auf Programmieren und ich glaube, was viele Leute so mit IT
+
+00:43:23.801 --> 00:43:30.600
+<v timpritlove>oder Digitales oder so primär assoziieren im Bildungsbereich ist halt die Informatik,
+
+00:43:30.601 --> 00:43:36.500
+<v timpritlove>das Informatikstudium, so Informatik quasi als Wissenschaft.
+
+00:43:36.501 --> 00:43:39.100
+<v timpritlove>In gewisser Hinsicht auch sehr mathematisch.
+
+00:43:39.101 --> 00:43:44.200
+<v timpritlove>Es gibt natürlich mittlerweile viele Ausprägungen, Studiengänge, die sehr viel gezielter,
+
+00:43:44.201 --> 00:43:47.700
+<v timpritlove>gerade an Fachhochschulen eben auch wirklich jetzt, was du schon gesagt hast,
+
+00:43:47.701 --> 00:43:50.400
+<v timpritlove>so Systemintegration und solche Sachen auch als Ausbildungsberufe.
+
+00:43:50.401 --> 00:43:56.700
+<v timpritlove>Also es tut sich da eine ganze Menge, es gibt immer mehr Diversifikation.
+
+00:43:56.701 --> 00:43:58.900
+<v timpritlove>Trotzdem habe ich gerade bei der Informatik immer so den Eindruck,
+
+00:43:58.901 --> 00:44:04.900
+<v timpritlove>dass das Programmieren als solches gar nicht so sehr im Mittelpunkt steht.
+
+00:44:04.901 --> 00:44:15.400
+<v timpritlove>Oder um es mal anders aufzuziehen, informatische Problemlösungen werden nicht zwangsläufig immer durch gute Programmentwicklung,
+
+00:44:15.401 --> 00:44:21.100
+<v timpritlove>gutes Programmieren begleitet und das scheint noch so ein Konflikt zu sein,
+
+00:44:21.101 --> 00:44:25.400
+<v timpritlove>dass es nicht so eine richtige Programmierkultur gibt oder ich frage mich manchmal,
+
+00:44:25.401 --> 00:44:29.300
+<v timpritlove>warum es nicht einfach Studium Programmieren gibt.
+
+00:44:29.301 --> 00:44:34.900
+<v juliafreudenberg>Na es ist halt, glaube ich, etwas, was insbesondere for whatever reason in Deutschland sehr angstbehaftet ist.
+
+00:44:34.901 --> 00:44:38.200
+<v juliafreudenberg>Und es wird ja auch oft gedacht, Programmieren ist reine Mathematik.
+
+00:44:38.201 --> 00:44:42.600
+<v juliafreudenberg>Ja, Mathematik ist wie Sport, hilft überall.
+
+00:44:42.601 --> 00:44:45.300
+<v juliafreudenberg>Und es schadet auch ehrlich gesagt nichts, wenn du einkaufen gehst und dann berechnen kannst,
+
+00:44:45.301 --> 00:44:49.100
+<v juliafreudenberg>30 Prozent Discount was denn das jetzt eigentlich heißt?
+
+00:44:49.101 --> 00:44:56.100
+<v juliafreudenberg>Also von daher, ich glaube, dass wir einfach in Deutschland diese Situation haben,
+
+00:44:56.101 --> 00:45:02.600
+<v juliafreudenberg>dass viele Bereiche aufgrund der großen Auswahlmöglichkeiten einfach gar nicht beachtet werden.
+
+00:45:02.601 --> 00:45:04.300
+<v juliafreudenberg>Und das ist etwas, was ich änder möchte.
+
+00:45:04.301 --> 00:45:07.700
+<v juliafreudenberg>Es heißt ja nicht, nur weil ein Mädchen überhaupt nicht in Scope hat,
+
+00:45:07.701 --> 00:45:12.800
+<v juliafreudenberg>dass es vielleicht auch einen Beruf in der IT-Branche im weiteren Sinne spannend finden würde,
+
+00:45:12.801 --> 00:45:15.700
+<v juliafreudenberg>dass es das nicht kann.
+
+00:45:15.701 --> 00:45:20.000
+<v juliafreudenberg>Und ich möchte halt einfach wirklich diesen Scope, den junge Menschen auf potenzielle Berufe haben,
+
+00:45:20.001 --> 00:45:23.300
+<v juliafreudenberg>einfach deutlich erweitern.
+
+00:45:23.301 --> 00:45:26.500
+<v juliafreudenberg>Was sie dann im Detail machen, ist noch mal eine ganz andere Fragestellung.
+
+00:45:26.501 --> 00:45:31.700
+<v juliafreudenberg>Aber ich glaube, dass insbesondere, wenn sie einmal erproben zu programmieren,
+
+00:45:31.701 --> 00:45:36.000
+<v juliafreudenberg>dass sich dadurch ganz viele Ängste abbauen und sie einfach die Möglichkeiten anders beurteilen.
+
+00:45:36.001 --> 00:45:40.700
+<v juliafreudenberg>Und ich glaube auch tatsächlich, wir werden in zehn Jahren nicht mal ansatzweise mehr so programmieren wie heute.
+
+00:45:40.701 --> 00:45:45.900
+<v juliafreudenberg>Wenn du dir anguckst, welche Lowcodevariante alle im Kommen sind, ist das noch mal eine ganz andere Fragestellung.
+
+00:45:45.901 --> 00:45:49.900
+<v juliafreudenberg>Aber ich glaube, dass wir viel viel mehr Leute brauchen, die in Erwägung ziehen,
+
+00:45:49.901 --> 00:45:53.100
+<v juliafreudenberg>sich in diesem Bereich mündig beruflich zu engagieren.
+
+00:45:53.101 --> 00:45:55.700
+<v juliafreudenberg>Wenn wir das nicht hinkriegen wird das ziemlich eng.
+
+00:45:55.701 --> 00:46:04.300
+<v juliafreudenberg>Und das möchte ich halt eben erreichen dadurch, dass wir die Begeisterung für Programmieren einfach mal durch das praktische Erfahren wecken.
+
+00:46:04.301 --> 00:46:09.800
+<v timpritlove>So Projekte wie die Hacker School stehen natürlich auch jetzt deshalb so ein bisschen im Interesse,
+
+00:46:09.801 --> 00:46:16.700
+<v timpritlove>auch des Stifterverbands und es wurde ja dann auch in entsprechenden Projekten auch schon gewürdigt,
+
+00:46:16.701 --> 00:46:22.600
+<v timpritlove>weil wir einfach ja generell so ein Ausbildungsproblem haben in dem, was man so schön als MINT bezeichnet.
+
+00:46:22.601 --> 00:46:33.000
+<v timpritlove>Also Schwerpunkt Mathematik, Informatik, generell naturwissenschaftliche Fächer bzw. technische Fächer.
+
+00:46:33.001 --> 00:46:37.500
+<v timpritlove>Die Nachfrage nach diesen Berufen steigt, gerade in den letzten Jahren,
+
+00:46:37.501 --> 00:46:44.900
+<v timpritlove>wo jetzt die Cyberbedrohung, wie es so schön heißt, auch in zunehmendem Maße wahrgenommen wird von Unternehmen,
+
+00:46:44.901 --> 00:46:48.300
+<v timpritlove>nur die finden halt überhaupt keine gut ausgebildeten Leute,
+
+00:46:48.301 --> 00:46:55.200
+<v timpritlove>weil es offensichtlich eher ein zurückgehendes Interesse gibt, da auch wirklich reinzugehen.
+
+00:46:55.201 --> 00:47:05.200
+<v timpritlove>Da fragt man sich ja, seit wann sind denn Berufsbilder uninteressant, die sehr gefragt und gut bezahlt sind,
+
+00:47:05.201 --> 00:47:08.100
+<v timpritlove>warum gehen da die Leute nicht rein.
+
+00:47:08.101 --> 00:47:14.700
+<v timpritlove>Hast du da eine Vorstellung, was da gerade schiefläuft oder vielleicht schon seit längerem schiefläuft?
+
+00:47:14.701 --> 00:47:17.500
+<v juliafreudenberg>Es sind sicherlich viele Faktoren, die da zusammenkommen.
+
+00:47:17.501 --> 00:47:22.700
+<v juliafreudenberg>Also was wir hier insbesondere bei der jetzigen Generation sehen, ist,
+
+00:47:22.701 --> 00:47:24.800
+<v juliafreudenberg>oder was heißt jetzige Generation…
+
+00:47:24.801 --> 00:47:28.900
+<v juliafreudenberg>Also ob man jetzt Richtung Gen Z geht oder auch die Alphas,
+
+00:47:28.901 --> 00:47:32.700
+<v juliafreudenberg>die jetzt ja langsam auch im Bereich Schule und bald fertig unterwegs sind,
+
+00:47:32.701 --> 00:47:40.600
+<v juliafreudenberg>ist es insbesondere auch durch eine sehr sehr hohe Vernetzung im Sinne auch der SocialMedia-Nutzung,
+
+00:47:40.601 --> 00:47:47.400
+<v juliafreudenberg>dass wir eine Generation jetzt gerade ranziehen, die große Herausforderung hat, Schein und Sein zu unterscheiden.
+
+00:47:47.401 --> 00:47:52.100
+<v juliafreudenberg>Und wenn man eben einfach sieht, auch diese instagramability oder sonst was,
+
+00:47:52.101 --> 00:47:55.800
+<v juliafreudenberg>wie früh das einsetzt und was für fatale Folgen das hat.
+
+00:47:55.801 --> 00:48:04.500
+<v juliafreudenberg>Und auch was für mitunter unrichtige Stereotypen einfach dadurch weiter mit unterstützt werden.
+
+00:48:04.501 --> 00:48:10.100
+<v juliafreudenberg>Das ist etwas, was, glaube ich, die jungen Menschen massiv verunsichert 
+
+00:48:10.101 --> 00:48:15.100
+<v juliafreudenberg>und was wir dadurch einfach auch neu angehen müssen.
+
+00:48:15.101 --> 00:48:18.800
+<v juliafreudenberg>Eine riesige Wahlfreiheit, ich kann eigentlich alles machen, ist nichts, was dabei hilft,
+
+00:48:18.801 --> 00:48:23.400
+<v juliafreudenberg>eine fundierte und klare Entscheidung zu treffen.
+
+00:48:23.401 --> 00:48:27.700
+<v juliafreudenberg>Und das eben dadurch zu umgehen, dass man einfach zeigt, wieviel Spaß das machen kann
+
+00:48:27.701 --> 00:48:34.400
+<v juliafreudenberg>und dass man nicht der Hardcoreprogrammierer sein muss, um da irgendwo einen Fuß auf den Boden zu kriegen
+
+00:48:34.401 --> 00:48:38.500
+<v juliafreudenberg>und dass insbesondere im Bereich der Informatik im weiteren Sinne ganz viele praktische,
+
+00:48:38.501 --> 00:48:44.000
+<v juliafreudenberg>soziale verbindende organisatorische Fähigkeiten gefragt sind,
+
+00:48:44.001 --> 00:48:52.300
+<v juliafreudenberg>dadurch können wir, glaube ich, dieser nach meiner Einschätzung falschen Überstilisierung von diesen Berufen entgegenwirken.
+
+00:48:52.301 --> 00:48:55.000
+<v timpritlove>Ja gut, das ist so der Ausblick auf die Zukunft, aber die Frage ist,
+
+00:48:55.001 --> 00:48:56.500
+<v timpritlove>was hat denn Deutschland bisher so falsch gemacht?
+
+00:48:56.501 --> 00:49:02.800
+<v timpritlove>Also ich meine, was läuft denn da schief, dass das Interesse gar nicht da ist und sogar noch zurückgeht,
+
+00:49:02.801 --> 00:49:09.400
+<v timpritlove>obwohl im Prinzip der Markt danach schreit und das tut er jetzt auch nicht erst seit zwei Jahren,
+
+00:49:09.401 --> 00:49:14.500
+<v timpritlove>sondern das ist ja, keine Ahnung, schon seit 20-30 Jahren schon fast so eine Binsenweisheit,
+
+00:49:14.501 --> 00:49:18.300
+<v timpritlove>dass, wenn man was mit Computern macht, dass das Zukunft hat so.
+
+00:49:18.301 --> 00:49:21.500
+<v juliafreudenberg>War sogar bei mir in der Schule schon so.
+
+00:49:21.501 --> 00:49:26.700
+<v timpritlove>Naja eben, trotz alledem scheint es auch irgendetwas zu geben und ich habe auch immer so ein bisschen diese Vermutung,
+
+00:49:26.701 --> 00:49:35.400
+<v timpritlove>das ist auch so ein generelles Ding, wenn man jetzt mal einfach schaut, wie Deutschland an sich Digitalisierung fortwährend verschläft
+
+00:49:35.401 --> 00:49:47.400
+<v timpritlove>und sich dabei verhaspelt, keine Projekte richtig auf die Kette kriegt, immer noch eine digitale Mangelinfrastruktur haben,
+
+00:49:47.401 --> 00:49:49.900
+<v timpritlove>obwohl das Thema auch schon seit 20 Jahren da ist.
+
+00:49:49.901 --> 00:49:57.400
+<v timpritlove>Also es ist ja sozusagen eine generelle Unfähigkeit, die hier um sich zu greifen scheint.
+
+00:49:57.401 --> 00:50:04.500
+<v timpritlove>Hast du irgendwie eine Idee, woran es liegen kann, dass wir da so aufgestellt sind oder vielmehr nicht aufgestellt sind?
+
+00:50:04.501 --> 00:50:10.800
+<v juliafreudenberg>Wenn du dir den Gründungsbereich zum Beispiel anguckst, ist etwas, was uns unglaublich Herausforderungen macht,
+
+00:50:10.801 --> 00:50:15.700
+<v juliafreudenberg>ist diese krasse Überbürokratisierung eines jeden Schrittes in Deutschland.
+
+00:50:15.701 --> 00:50:17.600
+<v juliafreudenberg>Und das ist im Bereich der Schulen ganz genau so.
+
+00:50:17.601 --> 00:50:21.800
+<v juliafreudenberg>Also ich weiß nicht, wer den Bildungsföderalismus erfunden hat,
+
+00:50:21.801 --> 00:50:25.200
+<v juliafreudenberg>aber es ist etwas, wo man sagt, wenn wir schnell gute Sachen umsetzen,
+
+00:50:25.201 --> 00:50:29.600
+<v juliafreudenberg>glaube ich, dass es fatal ist erst mal zu sagen, ja wir müssen 16 mal jetzt das gleich entwickeln,
+
+00:50:29.601 --> 00:50:32.200
+<v juliafreudenberg>damit man hinterher sieht, wer es am besten gemacht hat.
+
+00:50:32.201 --> 00:50:35.300
+<v juliafreudenberg>Das Schulsystem, was wir immer noch haben, kommt aus einer Zeit, wo es darum ging,
+
+00:50:35.301 --> 00:50:37.100
+<v juliafreudenberg>in Preußen die Kinder von den Feldern zu holen.
+
+00:50:37.101 --> 00:50:43.300
+<v juliafreudenberg>Ich weiß nicht wie es dir geht, in meinem Freundeskreis arbeiten nicht mehr sehr viele Kinder auf Feldern hier in Deutschland.
+
+00:50:43.301 --> 00:50:48.900
+<v juliafreudenberg>Und das ist etwas, wir bilden aktuell für eine Zukunft aus, die es nach meiner Einschätzung so nicht mehr gibt.
+
+00:50:48.901 --> 00:50:55.400
+<v juliafreudenberg>Alleine wenn du dir die Abschlussprüfung anguckst, ist da irgendwas mit Kollaboration, mit Zusammenarbeit,
+
+00:50:55.401 --> 00:50:57.100
+<v juliafreudenberg>mit gemeinschaftlich Sachen entwickeln?
+
+00:50:57.101 --> 00:50:59.700
+<v juliafreudenberg>Wird sofort als Betrug geahndet.
+
+00:50:59.701 --> 00:51:03.800
+<v juliafreudenberg>Man muss reproduzieren, es ist ganz cool, wenn man es auf neue Fragestellungen anwenden kann,
+
+00:51:03.801 --> 00:51:08.400
+<v juliafreudenberg>aber das, worauf es ankommt, was wir auch später in der Berufswelt brauchen,
+
+00:51:08.401 --> 00:51:11.200
+<v juliafreudenberg>das ist eben halt da noch ziemliches Neuland.
+
+00:51:11.201 --> 00:51:14.600
+<v juliafreudenberg>Natürlich kann man noch argumentieren, dass eine Schule nicht optimiert auf die Berufswelt ausbilden sollte.
+
+00:51:14.601 --> 00:51:16.900
+<v juliafreudenberg>Ja, okay.
+
+00:51:16.901 --> 00:51:23.400
+<v juliafreudenberg>Es geht auch darum, grundlegende Werte zu vermitteln und auch ein Grundlagenwissen drauf zu schaffen.
+
+00:51:23.401 --> 00:51:28.100
+<v juliafreudenberg>Aber in der heutigen Zeit sehen wir verstärkt, dass du auch bei den Kindern viel mehr diesen Reason Why brauchst.
+
+00:51:28.101 --> 00:51:29.500
+<v juliafreudenberg>Warum soll ich das eigentlich lernen?
+
+00:51:29.501 --> 00:51:33.200
+<v juliafreudenberg>Wenn ich mit meinem Sohn und ich liebe es, mit ihm Mathe zu machen, wirklich sagen kann,
+
+00:51:33.201 --> 00:51:35.000
+<v juliafreudenberg>wofür brauchst du denn das von der Berechnung her?
+
+00:51:35.001 --> 00:51:38.600
+<v juliafreudenberg>Wie kannst denn du rausfinden, was wie zusammenhängt, wenn du eben halt,
+
+00:51:38.601 --> 00:51:43.000
+<v juliafreudenberg>Evergreen ist ein Dreisatz, damit kannst du ja fast alles berechnen, einen großen Teil.
+
+00:51:43.001 --> 00:51:46.300
+<v juliafreudenberg>Wenn der weiß warum er das macht, der läuft von selbst.
+
+00:51:46.301 --> 00:51:50.400
+<v juliafreudenberg>Einfach dieses, ist so weil ist so und steht im Lehrplan und du musst das auswendig lernen,
+
+00:51:50.401 --> 00:51:54.700
+<v juliafreudenberg>damit werden wir die Kinder heute nicht mehr erreichen.
+
+00:51:54.701 --> 00:51:59.300
+<v juliafreudenberg>Und da wirklich praktischer reinzugehen und Sachen praktisch und pragmatisch zu lösen,
+
+00:51:59.301 --> 00:52:04.100
+<v juliafreudenberg>das ist halt aufgrund der unglaublich hohen Bürokratie hier in Deutschland wahnsinnig schwierig.
+
+00:52:04.101 --> 00:52:09.800
+<v juliafreudenberg>Und ja, da ist die Schule eigentlich gar nicht so viel schlechter als die Bundesrepublik im Durchschnitt,
+
+00:52:09.801 --> 00:52:15.400
+<v juliafreudenberg>da haben wir wahnsinnig viel Raum for Improvement.
+
+00:52:15.401 --> 00:52:16.800
+<v timpritlove>Und realisiert das irgendjemand außer dir?
+
+00:52:16.801 --> 00:52:23.300
+<v timpritlove>Also hast du das Gefühl, im Kontakt mit den Schulen, dass sich da was tut von unten nach oben
+
+00:52:23.301 --> 00:52:26.700
+<v timpritlove>oder vielleicht sogar von oben nach unten, weil langsam wird es ja Zeit.
+
+00:52:26.701 --> 00:52:31.800
+<v juliafreudenberg>Wir haben in Deutschland kein Verständnisproblem, sondern das Umsetzungsproblem, das kennst du ja auch.
+
+00:52:31.801 --> 00:52:34.800
+<v juliafreudenberg>Also sagen wir mal so, Schulbashing liegt mir fern, weil ich sehe,
+
+00:52:34.801 --> 00:52:39.900
+<v juliafreudenberg>was für unglaublich große Herausforderungen die Schulen meistern.
+
+00:52:39.901 --> 00:52:45.200
+<v juliafreudenberg>Sie übernehmen ja auch in einigen Bereichen grundlegende Erziehungsaufgaben.
+
+00:52:45.201 --> 00:52:49.500
+<v juliafreudenberg>Wenn wir sehen, mein Vater sagte damals, die Konzentrationsfähigkeit eines Kindes wird auf dem Wickeltisch angelegt
+
+00:52:49.501 --> 00:52:54.000
+<v juliafreudenberg>und im Kinderwagen, durch das Halten des Augenkontaktes zu Mutter oder Vater,
+
+00:52:54.001 --> 00:52:55.200
+<v juliafreudenberg>wer auch immer da gerade beschäftigt ist.
+
+00:52:55.201 --> 00:53:00.600
+<v juliafreudenberg>Wo haben junge Eltern ihre Augen, wenn Sie mit dem Kind unterwegs sind?
+
+00:53:00.601 --> 00:53:01.900
+<v juliafreudenberg>Auf dem Handy.
+
+00:53:01.901 --> 00:53:06.000
+<v juliafreudenberg>Und das wirklich einfach mitzudenken, was Schulen da leisten.
+
+00:53:06.001 --> 00:53:10.400
+<v juliafreudenberg>Ich kenne unglaublich wirklich begeisterte Lehrkräfte, Schulleitungen,
+
+00:53:10.401 --> 00:53:15.000
+<v juliafreudenberg>die versuchen, alles zu ändern und die halt eben auch so ein bisschen in ihrem Rahmen gefangen sind.
+
+00:53:15.001 --> 00:53:19.000
+<v juliafreudenberg>Ich sehe aber auch, dass solche Sachen wie die Hacker School und wir gehen online in Schulen
+
+00:53:19.001 --> 00:53:22.300
+<v juliafreudenberg>und mit Zoom, das ist, man kann alles diskutieren, aber ich sehe,
+
+00:53:22.301 --> 00:53:26.000
+<v juliafreudenberg>dass die Bereitschaft steigt, auch wirklich Sachen zu machen.
+
+00:53:26.001 --> 00:53:29.400
+<v timpritlove>Aber nur wegen Corona oder?
+
+00:53:29.401 --> 00:53:35.200
+<v juliafreudenberg>Du kennst ja die Grafik mit, wer hat die Digitalisierung Ihrer Firma vorangetrieben, CEO, CIO oder Covid?
+
+00:53:35.201 --> 00:53:41.500
+<v juliafreudenberg>Natürlich, Menschen sind unglaublich bequem und was sagte, ich glaube,
+
+00:53:41.501 --> 00:53:44.900
+<v juliafreudenberg>der Gerald Hütter sagte das, warum ändert sich das Schulsystem nicht?
+
+00:53:44.901 --> 00:53:48.900
+<v juliafreudenberg>Ist der zweite Satz der Thermodynamik, jedes System verharrt auf dem Zustand,
+
+00:53:48.901 --> 00:53:53.100
+<v juliafreudenberg>wo es am wenigstmöglich Energie verbraucht und das ist sicherlich keine Veränderung.
+
+00:53:53.101 --> 00:53:59.900
+<v juliafreudenberg>Und da wirklich konstant diesen Veränderungswunsch und -druck reinzubringen und hochzuhalten.
+
+00:53:59.901 --> 00:54:03.100
+<v juliafreudenberg>Ein System Schule kannst du nicht von außen verändern oder nur begrenzt.
+
+00:54:03.101 --> 00:54:04.700
+<v juliafreudenberg>Du musst es von innen verändern.
+
+00:54:04.701 --> 00:54:11.200
+<v juliafreudenberg>Und da sehe ich erste Impulse, aber ja, ich glaube, dass wir auf die Hacker School kurzfristig
+
+00:54:11.201 --> 00:54:15.100
+<v juliafreudenberg>oder Initiativen wie die Hacker School kurzfristig nicht verzichten können,
+
+00:54:15.101 --> 00:54:17.500
+<v juliafreudenberg>weil wir eben genau solche Brandbeschleuniger sind und sagen,
+
+00:54:17.501 --> 00:54:19.900
+<v juliafreudenberg>komm wir gehen da rein, wir machen das, wir versuchen, wir bieten euch was an,
+
+00:54:19.901 --> 00:54:24.800
+<v juliafreudenberg>was euch nicht wehtut und ich glaube, davon braucht es einfach viel mehr,
+
+00:54:24.801 --> 00:54:29.200
+<v juliafreudenberg>damit einfach noch mehr Menschen mitmachen.
+
+00:54:29.201 --> 00:54:34.100
+<v timpritlove>Vielleicht noch mal so ein bisschen auf der Metaebene zu bleiben,
+
+00:54:34.101 --> 00:54:36.000
+<v timpritlove>auch wenn wir da schon im Prinzip drüber gesprochen haben.
+
+00:54:36.001 --> 00:54:42.100
+<v timpritlove>Aber du hast vorhin auch so von algorithmischem Denken, kritischem Denken gesprochen.
+
+00:54:42.101 --> 00:54:51.600
+<v timpritlove>Inwiefern, denkst du, ist das ein Ergebnis dieser, vielleicht jetzt nicht unbedingt eurer Kurse,
+
+00:54:51.601 --> 00:54:56.700
+<v timpritlove>sondern inwiefern …
+
+00:54:56.701 --> 00:54:58.000
+<v timpritlove>Also wie verstehst du das?
+
+00:54:58.001 --> 00:55:03.700
+<v timpritlove>Vielleicht kannst du das mal kurz erklären, was du meinst mit algorithmischem Denken und kritischem Denken.
+
+00:55:03.701 --> 00:55:08.000
+<v timpritlove>Und wie kann das entstehen?
+
+00:55:08.001 --> 00:55:15.700
+<v juliafreudenberg>Ich sehe, dass junge Menschen heutzutage den Eindruck haben,
+
+00:55:15.701 --> 00:55:24.900
+<v juliafreudenberg>dass so was wie Alexa oder jedwede Art der Spracherkennung einen intelligenten Computer auf der anderen Seite hat.
+
+00:55:24.901 --> 00:55:28.100
+<v juliafreudenberg>Und das spannende ist, wenn wir in Schulklassen reingehen und sagen,
+
+00:55:28.101 --> 00:55:31.200
+<v juliafreudenberg>wer von euch denkt, dass ein Computer intelligent ist?
+
+00:55:31.201 --> 00:55:32.300
+<v juliafreudenberg>Dann gehen erst mal die ganzen Hände hoch.
+
+00:55:32.301 --> 00:55:37.900
+<v juliafreudenberg>Und klar zu machen, dass ein Computer, strunzdumm ist jetzt auch wieder nicht das richtige,
+
+00:55:37.901 --> 00:55:43.100
+<v juliafreudenberg>aber dass ein Computer nicht macht was man meint, sondern was man ihm sagt.
+
+00:55:43.101 --> 00:55:49.800
+<v juliafreudenberg>Und dass es eigene Sprachen gibt, wie Anweisungen in auch Maschinen verständlich formuliert werden müssen.
+
+00:55:49.801 --> 00:55:52.800
+<v juliafreudenberg>Das ist ein total spannendes Erlebnis für Kids.
+
+00:55:52.801 --> 00:55:54.500
+<v juliafreudenberg>Und was wir häufig machen ist programmieren ohne Computer.
+
+00:55:54.501 --> 00:55:57.400
+<v juliafreudenberg>Wir lassen sie in Paaren zusammenarbeiten, einer ist der Programmierer,
+
+00:55:57.401 --> 00:56:00.700
+<v juliafreudenberg>der andere ist der Roboter und der Programmierer muss den Roboter dazu bringen,
+
+00:56:00.701 --> 00:56:04.200
+<v juliafreudenberg>ein Schokobon auszupacken und ihn zu essen.
+
+00:56:04.201 --> 00:56:10.800
+<v juliafreudenberg>Und da zu sehen, wie verdammt schwierig das ist, ganz konkrete detaillierte Anweisungen zu geben.
+
+00:56:10.801 --> 00:56:14.000
+<v juliafreudenberg>Und auch dadurch zu erfahren, was man, auch wenn man weiterdenkt Richtung künstliche Intelligenz
+
+00:56:14.001 --> 00:56:17.400
+<v juliafreudenberg>im Bereich der Gesichtserkennung, was muss man alles beachten
+
+00:56:17.401 --> 00:56:20.900
+<v juliafreudenberg>und was sind die Biases, die sich da verstecken?
+
+00:56:20.901 --> 00:56:25.400
+<v juliafreudenberg>Also man sieht ja auch, dass zum Beispiel Gesichter von farbigen Menschen viel schlechter erkannt werden als die von weißen.
+
+00:56:25.401 --> 00:56:31.200
+<v juliafreudenberg>Der Bias der KI mit, es sind weiße Männer zwischen 20 und 40,
+
+00:56:31.201 --> 00:56:34.100
+<v juliafreudenberg>vollkommen klar, dass da nicht alles bedacht wird.
+
+00:56:34.101 --> 00:56:37.900
+<v juliafreudenberg>Und das eben genau an diesen Stellen mit den Kindern zu problematisieren,
+
+00:56:37.901 --> 00:56:40.400
+<v juliafreudenberg>ist etwas, wo sie hinterher ganz anders auf die Welt blicken
+
+00:56:40.401 --> 00:56:46.100
+<v juliafreudenberg>und in ersten Schritten beginnen zu verstehen, warum ganz genaue Anweisungen
+
+00:56:46.101 --> 00:56:51.300
+<v juliafreudenberg>oder so was wie Maschinensprache extrem spannend ist, wenn sie Sachen auch automatisieren wollen.
+
+00:56:51.301 --> 00:56:57.600
+<v timpritlove>Bzw. warum auch diese künstliche Intelligenz meistens gar nicht so intelligent ist, wie man das vielleicht glauben mag.
+
+00:56:57.601 --> 00:57:03.700
+<v juliafreudenberg>Nein, und dass Terminator 3 auch noch mal eine andere Kategorie ist, genau.
+
+00:57:03.701 --> 00:57:09.400
+<v timpritlove>Wir hatte es schon so am Rande ein wenig angesprochen, aber ich wollte noch mal drauf eingehen
+
+00:57:09.401 --> 00:57:14.300
+<v timpritlove>und das ist natürlich jetzt konkret auch die Situation von MINT-Berufswünschen
+
+00:57:14.301 --> 00:57:21.300
+<v timpritlove>und diesen ganzen Programmierkursen und den Mädchen und jungen Frauen,
+
+00:57:21.301 --> 00:57:24.700
+<v timpritlove>für die ihr ja auch spezielle Angebote habt.
+
+00:57:24.701 --> 00:57:30.300
+<v timpritlove>Hast du schon gesagt, Girls School wendet sich auch an alle Altersgruppen,
+
+00:57:30.301 --> 00:57:33.700
+<v timpritlove>sozusagen als außerschulische Kurse dann natürlich.
+
+00:57:33.701 --> 00:57:41.000
+<v timpritlove>Inwiefern ist das anders aufgestellt, inwiefern seht ihr da den Bedarf dafür?
+
+00:57:41.001 --> 00:57:45.500
+<v timpritlove>Welche Rolle spielt das bei euch?
+
+00:57:45.501 --> 00:57:47.600
+<v juliafreudenberg>Man begeistert Mädels halt einfach anders.
+
+00:57:47.601 --> 00:57:53.000
+<v juliafreudenberg>Also ich hatte ja erwähnt, ich habe ja seit 20 Jahren einen ITler zu Hause.
+
+00:57:53.001 --> 00:57:55.100
+<v juliafreudenberg>Und das wundervolle ist, abgesehen davon, dass er nicht erwachsen wird, ist,
+
+00:57:55.101 --> 00:57:59.900
+<v juliafreudenberg>ich kann aus erster Hand belegen, es reicht, wenn etwas neu ist und blinkt
+
+00:57:59.901 --> 00:58:02.300
+<v juliafreudenberg>um sich das begeistert anzugucken.
+
+00:58:02.301 --> 00:58:05.500
+<v juliafreudenberg>Hat eine neue Funktion, muss ich ausprobieren, hier guck mal.
+
+00:58:05.501 --> 00:58:08.000
+<v juliafreudenberg>Jetzt ist halt der Temperaturfühler bei den Hühnern, der blinkt jetzt sogar.
+
+00:58:08.001 --> 00:58:13.200
+<v juliafreudenberg>Herzlichen Glückwunsch, das ist super und das macht auch ganz viel Spaß.
+
+00:58:13.201 --> 00:58:17.300
+<v juliafreudenberg>Aber ganz ehrlich, so als Frau gesprochen interessiert mich das nicht, ob das Ding blinkt,
+
+00:58:17.301 --> 00:58:21.700
+<v juliafreudenberg>ich möchte wissen, ob ich damit mehr erreichen kann oder ob das, ich weiß nicht,
+
+00:58:21.701 --> 00:58:25.000
+<v juliafreudenberg>die Hühner vielleicht auch noch glücklicher macht oder so was und dann legen sie mehr Eier.
+
+00:58:25.001 --> 00:58:32.500
+<v juliafreudenberg>Also es ist halt etwas, wir sehen insbesondere bei Mädels, die, im Fachwort gesagt,
+
+00:58:32.501 --> 00:58:37.700
+<v juliafreudenberg>Kontextualisierung, warum mache ich etwas, ist so viel wichtiger.
+
+00:58:37.701 --> 00:58:40.900
+<v juliafreudenberg>Und wenn wir Kurse zum Beispiel mit der Sensebox geben, das ist so eine vorbereitete Box,
+
+00:58:40.901 --> 00:58:46.100
+<v juliafreudenberg>die mit ganz vielen Sensoren, wo du Sachen messen kannst wie Feinstaub oder was weiß ich was,
+
+00:58:46.101 --> 00:58:49.500
+<v juliafreudenberg>wenn du wirklich sagst, okay damit machen wir was und noch irgendwas zu einem Umweltthema
+
+00:58:49.501 --> 00:58:54.900
+<v juliafreudenberg>und dann macht das auch noch eine weibliche Inspirese, dann sind alle Mädchen da.
+
+00:58:54.901 --> 00:59:00.000
+<v juliafreudenberg>Und genau das zu sehen, wir brauchen Rolemodels, wir brauchen tatsächlich mehr als nur,
+
+00:59:00.001 --> 00:59:04.400
+<v juliafreudenberg>es ist neu und blinkt, wir brauchen einen Grund, das zu tun und häufig auch was,
+
+00:59:04.401 --> 00:59:09.400
+<v juliafreudenberg>wo man sagen kann, kann ich damit irgendwas verbessern im ökologischen, im sozialen Sinne,
+
+00:59:09.401 --> 00:59:11.700
+<v juliafreudenberg>in was weiß ich welchem Sinne auch immer.
+
+00:59:11.701 --> 00:59:15.000
+<v juliafreudenberg>Damit kommen wir ganz anders an Mädels ran.
+
+00:59:15.001 --> 00:59:21.100
+<v juliafreudenberg>Und auch der Punkt, zu sagen, ich möchte mich auch für einen Beruf entscheiden,
+
+00:59:21.101 --> 00:59:25.800
+<v juliafreudenberg>wo ich Beruf und Familie gut miteinander vereinbaren kann, das ist etwas,
+
+00:59:25.801 --> 00:59:28.700
+<v juliafreudenberg>wenn man das ebenfalls mit fallen lässt, je nachdem wie alt die Mädels sind,
+
+00:59:28.701 --> 00:59:30.400
+<v juliafreudenberg>ist das was, was durchaus gehört wird.
+
+00:59:30.401 --> 00:59:36.000
+<v juliafreudenberg>Weil im IT-Bereich, ich kann arbeiten von wo aus ich will, wann ich will in weiten Teilen,
+
+00:59:36.001 --> 00:59:38.000
+<v juliafreudenberg>okay losgelöst von Teamstrukturen.
+
+00:59:38.001 --> 00:59:41.800
+<v timpritlove>Also nicht in allen IT-Bereichen, aber mehr als in anderen.
+
+00:59:41.801 --> 00:59:45.300
+<v juliafreudenberg>Einfacher, als wenn ich irgendwo in einem Supermarkt an der Kasse sitze,
+
+00:59:45.301 --> 00:59:50.400
+<v juliafreudenberg>da habe ich selten die Möglichkeit mit, ach mir passt es gerade morgens zwischen 2 und 4, da wird der Laden nicht aufmachen.
+
+00:59:50.401 --> 00:59:59.500
+<v juliafreudenberg>Und das ist halt eine Flexibilität, die man auch noch mal so als Funfact oder Nutzenaspekt mit einfließen lassen kann.
+
+00:59:59.501 --> 01:00:06.300
+<v timpritlove>Informatikstudium Anteil Frauen knapp 20 Prozent, glaube ich.
+
+01:00:06.301 --> 01:00:08.200
+<v juliafreudenberg>Ja. Aber so ein Studium macht ja auch noch nicht zwangsläufig jemanden,
+
+01:00:08.201 --> 01:00:10.000
+<v juliafreudenberg>der dann langfristig drin arbeitet.
+
+01:00:10.001 --> 01:00:14.900
+<v timpritlove>Ja nein, ist richtig, aber ich meine, bei 20 Prozent würde ich mal sagen, das ist schon unterrepräsentiert.
+
+01:00:14.901 --> 01:00:16.000
+<v juliafreudenberg>Klar.
+
+01:00:16.001 --> 01:00:22.600
+<v timpritlove>Also selbst wenn man noch andere Faktoren mit ausrechnet und andere Wege noch mit einschließt,
+
+01:00:22.601 --> 01:00:27.900
+<v timpritlove>zeigt es ja schon, dass es irgendwie keinen Reiz hat und ich frage mich, was die Gründe dafür sind.
+
+01:00:27.901 --> 01:00:33.300
+<v juliafreudenberg>Ein Freund von mir sagte mal, er erzählt immer eine lustige Geschichte vom MIT,
+
+01:00:33.301 --> 01:00:36.900
+<v juliafreudenberg>wo sie einen Kurs mit Einführung in die Programmierung umbenannt haben,
+
+01:00:36.901 --> 01:00:40.500
+<v juliafreudenberg>the beauty und joy of Computing.
+
+01:00:40.501 --> 01:00:43.800
+<v juliafreudenberg>Mit dem Ergebnis, dass plötzlich die Frauenquote locker über 50 Prozent lag,
+
+01:00:43.801 --> 01:00:45.700
+<v juliafreudenberg>ich glaube, bei 70 oder 80.
+
+01:00:45.701 --> 01:00:49.300
+<v juliafreudenberg>Das spricht jetzt natürlich nicht für mein eigenes Geschlecht, an der Stelle zu sagen,
+
+01:00:49.301 --> 01:00:53.400
+<v juliafreudenberg>oh das klingt anders, das mach ich jetzt mal.
+
+01:00:53.401 --> 01:00:56.600
+<v juliafreudenberg>Aber es ist etwas, wo man sagt…
+
+01:00:56.601 --> 01:01:00.300
+<v timpritlove>Es triggert einfach was anderes so, was man vielleicht erst mal so gar nicht gesehen hat,
+
+01:01:00.301 --> 01:01:02.600
+<v timpritlove>dass das getriggert gehört.
+
+01:01:02.601 --> 01:01:06.600
+<v juliafreudenberg>Es ist auch so, wenn du dir anguckst, wieviele Jobbeschreibungen wirklich männlich formuliert sind,
+
+01:01:06.601 --> 01:01:12.100
+<v juliafreudenberg>mit diesen ganzen Attributen, die wir mit durchsetzungsstark, erfolgreich, wie auch immer,
+
+01:01:12.101 --> 01:01:16.700
+<v juliafreudenberg>es gibt ganz viele Sachen, die ganz klar männlich attribuiert sind.
+
+01:01:16.701 --> 01:01:20.400
+<v juliafreudenberg>Und dass wir da, wenn du das als Frau liest und denkst so, boah möchte ich das wirklich?
+
+01:01:20.401 --> 01:01:24.100
+<v juliafreudenberg>Dann kommt noch der Faktor dazu, ich hatte gehört, bei einem Mann reicht das,
+
+01:01:24.101 --> 01:01:29.300
+<v juliafreudenberg>wenn ungefähr, keine Ahnung, knapp die Hälfte passt, bei einer Frau muss gefühlt über 90 Prozent passen,
+
+01:01:29.301 --> 01:01:30.700
+<v juliafreudenberg>bevor sie sich auf eine Stelle bewirbt.
+
+01:01:30.701 --> 01:01:37.200
+<v juliafreudenberg>Und das ist halt was, wo wir uns langfristig einfach mal auch angucken müssen,
+
+01:01:37.201 --> 01:01:40.300
+<v juliafreudenberg>kriegen wir das hin, an der Stelle Gleichberechtigung nicht nur zu meinen,
+
+01:01:40.301 --> 01:01:42.500
+<v juliafreudenberg>sondern es eben auch wirklich umzusetzen.
+
+01:01:42.501 --> 01:01:45.400
+<v juliafreudenberg>Wenn wir bei unseren Mädels, bei den kleinen Mädchen nicht sagen, sie sind bossy,
+
+01:01:45.401 --> 01:01:48.000
+<v juliafreudenberg>sondern they are showing natural leadership tendencies.
+
+01:01:48.001 --> 01:01:50.000
+<v juliafreudenberg>Ich glaube, das ist von Sheryl Sandberg ein Zitat,
+
+01:01:50.001 --> 01:01:55.500
+<v juliafreudenberg>dass man wirklich einfach mal gucken muss, wie attribuieren wir wirklich auch Worte,
+
+01:01:55.501 --> 01:02:03.100
+<v juliafreudenberg>die wir verwenden und ja, wenn es hilft, ich bin für eine Quote auch in Vorständen,
+
+01:02:03.101 --> 01:02:07.000
+<v juliafreudenberg>ich bin auch für eine Paraphrasierung von Kursen, wenn es dazu beiträgt,
+
+01:02:07.001 --> 01:02:11.200
+<v juliafreudenberg>dass es eben halt wirklich die Begeisterung dafür triggert, sich damit auseinanderzusetzen,
+
+01:02:11.201 --> 01:02:16.300
+<v juliafreudenberg>dann müssen wir diesen Weg solange gehen wie es wichtig ist.
+
+01:02:16.301 --> 01:02:21.700
+<v timpritlove>Was ist denn jetzt sozusagen die Zukunft, die du dir für die Hacker School vorstellst,
+
+01:02:21.701 --> 01:02:26.000
+<v timpritlove>außer schneller, höher, weiter?
+
+01:02:26.001 --> 01:02:27.700
+<v timpritlove>Inwiefern wollt ihr das weiter entwickeln?
+
+01:02:27.701 --> 01:02:32.400
+<v timpritlove>Also vielleicht kannst du noch mal eine Zahl fallen lassen, so wieviele Kinder ihr im Jahr erreicht,
+
+01:02:32.401 --> 01:02:37.900
+<v timpritlove>um mal dafür ein Gefühl zu bekommen und wie denkt ihr, was hat das noch für ein Potential für euch?
+
+01:02:37.901 --> 01:02:42.800
+<v juliafreudenberg>Also die Wunschzukunft für die Hacker School ist oder wäre, dass es uns nicht mehr braucht.
+
+01:02:42.801 --> 01:02:46.700
+<v juliafreudenberg>Die sehe ich aber nicht relativ bald.
+
+01:02:46.701 --> 01:02:50.200
+<v juliafreudenberg>Das Ziel, was ich vorhin sagte, ist, jedes Kind soll einmal programmiert haben,
+
+01:02:50.201 --> 01:02:51.500
+<v juliafreudenberg>bevor es sich für einen Beruf entscheidet.
+
+01:02:51.501 --> 01:02:56.000
+<v juliafreudenberg>Das kurzfristige Ziel oder mittelfristig, je nachdem wie du das einordnest, ist,
+
+01:02:56.001 --> 01:02:59.700
+<v juliafreudenberg>2025 wollen wir 100.000 Kinder pro Jahr erreichen.
+
+01:02:59.701 --> 01:03:04.500
+<v juliafreudenberg>Das heißt, wir brauchen ungefähr 17.000 ITlerInnen, die mit uns in Schulklassen,
+
+01:03:04.501 --> 01:03:09.600
+<v juliafreudenberg>das wird der größte Zahlenlieferant sozusagen werden, Dreiviertel der Kurse vermute ich,
+
+01:03:09.601 --> 01:03:13.600
+<v juliafreudenberg>oder Dreiviertel der Kinder, dass wir die über die Schulkurse erreichen.
+
+01:03:13.601 --> 01:03:15.100
+<v juliafreudenberg>Wir wollen jedes Jahr verdoppeln.
+
+01:03:15.101 --> 01:03:19.300
+<v juliafreudenberg>Dieses Jahr ist das Ziel bei 12.500 Kindern rauszulaufen. 
+
+01:03:19.301 --> 01:03:22.100
+<v juliafreudenberg>Wir sind jetzt Ende August bei 8.000 Kindern, liegt super.
+
+01:03:22.101 --> 01:03:27.600
+<v juliafreudenberg>Also dicker Daumen, das werden wir von den Zahlen her, wenn da nicht irgendwas signifikant schiefläuft, erreichen können.
+
+01:03:27.601 --> 01:03:29.800
+<v timpritlove>Wieviele nehmen an so einem Kurs im Schnitt dann teil?
+
+01:03:29.801 --> 01:03:32.400
+<v timpritlove>Also Schulklassen wahrscheinlich eher so 30?
+
+01:03:32.401 --> 01:03:38.100
+<v juliafreudenberg>25-30, das ist unterschiedlich und entsprechend mit durch sechs haben wir die Inspirer.
+
+01:03:38.101 --> 01:03:41.800
+<v juliafreudenberg>Die Idee ist halt eben, die Strategie so zu bauen, dass wir zum einen näher mit Universitäten kooperieren
+
+01:03:41.801 --> 01:03:47.700
+<v juliafreudenberg>und das auch als Seminare anbieten, dass eben halt die StudentInnen bei uns als Inspirer auch Creditpoints sammeln können,
+
+01:03:47.701 --> 01:03:51.900
+<v juliafreudenberg>weil sie ja auch wirklich, sie sammeln ja Fähigkeiten, indem sie das vermitteln.
+
+01:03:51.901 --> 01:03:57.000
+<v juliafreudenberg>Wir arbeiten an Kooperationen mit Berufsschulen aus dem IT-Umfeld.
+
+01:03:57.001 --> 01:04:04.000
+<v juliafreudenberg>Wo man eben einfach sieht zum Beispiel, die e-Tech auf den Elbinseln hier in Hamburg, die haben 66 Klassen.
+
+01:04:04.001 --> 01:04:06.000
+<v juliafreudenberg>Über drei Jahre verteilt.
+
+01:04:06.001 --> 01:04:09.900
+<v juliafreudenberg>Das ist also jetzt alles auch gerade erst in Gesprächen, aber zu sehen,
+
+01:04:09.901 --> 01:04:14.600
+<v juliafreudenberg>wir haben erste Tests gemacht, dass es für die Azubine, die dort auch in der Schule sind,
+
+01:04:14.601 --> 01:04:17.600
+<v juliafreudenberg>ein totaler Mehrwert ist, dass sie sich da mit engagieren können,
+
+01:04:17.601 --> 01:04:19.400
+<v juliafreudenberg>dass wir gemeinschaftlich richtig viel lernen.
+
+01:04:19.401 --> 01:04:23.200
+<v juliafreudenberg>Und wenn die weitergeben können, was sie selber in der Schule gelernt haben,
+
+01:04:23.201 --> 01:04:25.700
+<v juliafreudenberg>in der Berufsschule, ist das top.
+
+01:04:25.701 --> 01:04:30.400
+<v juliafreudenberg>Und der dritte Ansatz, wo wir eben wirklich auch uns Richtung der großen Zahlen auf der Inspirer-Seite bewegen,
+
+01:04:30.401 --> 01:04:33.900
+<v juliafreudenberg>ist, dass wir einfach auch die Zusammenarbeit mit den Unternehmen verändern.
+
+01:04:33.901 --> 01:04:37.000
+<v juliafreudenberg>Also von, hast du zwei ITler, ich brauche dringend noch welche, zu, 
+
+01:04:37.001 --> 01:04:41.900
+<v juliafreudenberg>wieviele Azubis hast du, 150, super, ich nehme alle und das zweimal.
+
+01:04:41.901 --> 01:04:45.800
+<v juliafreudenberg>Das wir da die Nutzenargumentation den Firmen gegenüber ganz klar aufzeigen können,
+
+01:04:45.801 --> 01:04:51.700
+<v juliafreudenberg>dass wir das nicht nur machen, weil wir als non profit einfach mal sonst nichts anderes zu tun haben,
+
+01:04:51.701 --> 01:04:55.500
+<v juliafreudenberg>sondern dass es wirklich darum geht, grundsätzlich junge Menschen dafür zu begeistern
+
+01:04:55.501 --> 01:05:00.000
+<v juliafreudenberg>und sich für Zukunftsberufe zu entscheiden und den Azubis und den Azubinen,
+
+01:05:00.001 --> 01:05:02.800
+<v juliafreudenberg>die eben halt da schon unterwegs sind, die Möglichkeit zu geben,
+
+01:05:02.801 --> 01:05:06.100
+<v juliafreudenberg>durch die Vermittlung des eigenen Wissens selber das zu lernen.
+
+01:05:06.101 --> 01:05:09.000
+<v juliafreudenberg>Man sagt ja immer, wenn du es deiner Großmutter erklären kannst, hast du es selber verstanden.
+
+01:05:09.001 --> 01:05:13.300
+<v juliafreudenberg>Wir haben keine Großmütter, aber wir haben Kinder und das im großen Umfang.
+
+01:05:13.301 --> 01:05:16.700
+<v juliafreudenberg>Und ich glaube, dass so, wenn die Firmen ihre Verantwortung wahrnehmen,
+
+01:05:16.701 --> 01:05:20.900
+<v juliafreudenberg>sich mit auch für digitale Bildung zu engagieren und die Schulen das zulassen und sich öffnen,
+
+01:05:20.901 --> 01:05:29.300
+<v juliafreudenberg>mit uns als non profit als gemeinnützigem Träger dazwischen, dass wir die Zahlen mit den 100.000 Kindern pro Jahr auf jeden Fall erreichen werden.
+
+01:05:29.301 --> 01:05:37.700
+<v timpritlove>Bei 12.500 als Ziel, dann ich habe es mal so grob überschlagen, habt ihr so 2-3 Kurse pro Wochentag vor der Nase,
+
+01:05:37.701 --> 01:05:41.000
+<v timpritlove>wenn ich das richtig sehe, so über das Jahr verteilt?
+
+01:05:41.001 --> 01:05:45.300
+<v juliafreudenberg>Ja, du kannst es nicht ganz über den Mittelwert nehmen vor dem Hintergrund,
+
+01:05:45.301 --> 01:05:50.700
+<v juliafreudenberg>es gibt ja auch tatsächlich im Sommer immer mal diese Ferien oder es gibt immer wieder Ferien,
+
+01:05:50.701 --> 01:05:54.000
+<v juliafreudenberg>wo man sieht, über den Sommer ist es eher so ein bisschen ruhiger.
+
+01:05:54.001 --> 01:05:58.400
+<v juliafreudenberg>Es gibt auch Sonderevents, wo wir eben zum Beispiel auf der Ideen-Expo in Hannover,
+
+01:05:58.401 --> 01:06:02.800
+<v juliafreudenberg>da haben wir ganz viele Kurse mit angeboten. 
+
+01:06:02.801 --> 01:06:04.500
+<v juliafreudenberg>Da waren ja, ich weiß gar nicht wieviele Kids dieses Jahr da waren,
+
+01:06:04.501 --> 01:06:08.200
+<v juliafreudenberg>aber das letzte Mal waren es über 400.000 und da hatten wir auch bei uns viele Kinder,
+
+01:06:08.201 --> 01:06:12.300
+<v juliafreudenberg>mit denen wir da arbeiten konnten, also auch wirklich da Kurse vor Ort zu geben
+
+01:06:12.301 --> 01:06:15.100
+<v juliafreudenberg>in separaten Räumlichkeiten oder ähnliches.
+
+01:06:15.101 --> 01:06:20.600
+<v juliafreudenberg>Es gibt immer Peaks, wo du auch wirklich siehst, da haben Unternehmen Zeit und Lust, was zu machen.
+
+01:06:20.601 --> 01:06:23.900
+<v juliafreudenberg>Es gibt auch Phasen, wo man sieht, wie eben halt den Sommer, da ist das egal,
+
+01:06:23.901 --> 01:06:27.800
+<v juliafreudenberg>entweder bist du im Urlaub oder du machst Urlaubsvertretung für andere mit.
+
+01:06:27.801 --> 01:06:32.000
+<v juliafreudenberg>Aber letztendlich jetzt zu sagen, dass man so ganz grob versucht, linear dranzubleiben,
+
+01:06:32.001 --> 01:06:39.700
+<v juliafreudenberg>das zweite Halbjahr ist immer stärker als das erste, weil wir da auf den bereits gemachten Kontakten aufsetzen können.
+
+01:06:39.701 --> 01:06:44.800
+<v juliafreudenberg>Auf der anderen Seite ist das erst Halbjahr länger als das zweite, weil die Sommerferien halt Anfang des zweiten liegen.
+
+01:06:44.801 --> 01:06:48.400
+<v juliafreudenberg>Aber ja, das ist die Größenordnung, also jetzt nach den Sommerferien wird es so sein,
+
+01:06:48.401 --> 01:06:54.700
+<v juliafreudenberg>dass wir täglich höchstwahrscheinlich immer zwei Kurse haben.
+
+01:06:54.701 --> 01:07:00.000
+<v timpritlove>Und diese Unternehmen spielen ja bei euch eine relativ große Rolle,
+
+01:07:00.001 --> 01:07:08.500
+<v timpritlove>die bieten die Orte an, das heißt, das ist ja im Prinzip so eine Art,
+
+01:07:08.501 --> 01:07:13.300
+<v timpritlove>das ist auch so ein sozialer Payback, könnte man jetzt sozusagen sagen,
+
+01:07:13.301 --> 01:07:17.800
+<v timpritlove>so eine Dividende, die quasi die Unternehmen dann wieder in die Bildung stecken.
+
+01:07:17.801 --> 01:07:27.500
+<v timpritlove>Was ja oft auch gefordert wird, tun sie sicherlich auf andere Ebene auch.
+
+01:07:27.501 --> 01:07:31.400
+<v timpritlove>Nur hier das eben konkret zu machen, hat ja so eine Art Doppelnutzen.
+
+01:07:31.401 --> 01:07:37.100
+<v timpritlove>Also sowohl man verbessert was im Idealfall, aber man verbessert ja auch,
+
+01:07:37.101 --> 01:07:45.000
+<v timpritlove>also man gibt ja auch seinen eigenen Mitarbeitern und insbesondere den Auszubildenden auch eine spezielle Herausforderung,
+
+01:07:45.001 --> 01:07:50.800
+<v timpritlove>die sich ja dann letzten Endes auch im Unternehmen wiederum positiv auszahlen kann.
+
+01:07:50.801 --> 01:07:54.100
+<v timpritlove>Also ich glaube, wenn man einmal so einen Lernprozess, also einen Lehrprozess,
+
+01:07:54.101 --> 01:07:59.600
+<v timpritlove>einen Lehrprozess durchgemacht hat und in so einer Situation bestehen kann,
+
+01:07:59.601 --> 01:08:03.400
+<v timpritlove>kann das ja auch so die eigenen Communicationskills ein wenig verbessern
+
+01:08:03.401 --> 01:08:07.600
+<v timpritlove>oder vielleicht sogar signifikant verbessern, würde ich fast sagen.
+
+01:08:07.601 --> 01:08:11.600
+<v timpritlove>Kriegt ihr da entsprechendes Feedback von den Unternehmen?
+
+01:08:11.601 --> 01:08:14.100
+<v timpritlove>Ist das irgendwie etwas, worüber gesprochen wird?
+
+01:08:14.101 --> 01:08:20.000
+<v timpritlove>Müsst ihr da Überzeugungsarbeit leisten oder ist das irgendwie etwas, was schon verstanden wird?
+
+01:08:20.001 --> 01:08:25.900
+<v juliafreudenberg>Also wir kriegen von den Unternehmen, mit denen wir schon arbeiten, großartiges Feedback.
+
+01:08:25.901 --> 01:08:30.500
+<v juliafreudenberg>Also wir sehen halt jetzt auch, wir sind mit einem sehr großen IT-Systemhaus gerade dabei zu gucken,
+
+01:08:30.501 --> 01:08:34.500
+<v juliafreudenberg>wie kriegen wir das hin, dass wir halt wirklich das allen Azubis ermöglichen,
+
+01:08:34.501 --> 01:08:37.700
+<v juliafreudenberg>natürlich ohne Druck zu machen, weil einige sind sehr jung, wenn sie da reinkommen.
+
+01:08:37.701 --> 01:08:41.000
+<v juliafreudenberg>Und es soll niemand, wer wirklich nicht möchte, das hilft nichts,
+
+01:08:41.001 --> 01:08:45.000
+<v juliafreudenberg>Menschen dazu zu zwingen, bringt nichts, aber sie zu ermuntern und ganz klar zu sagen,
+
+01:08:45.001 --> 01:08:48.500
+<v juliafreudenberg>hey wir würden das super begrüßen, wenn ihr mitmacht, ihr könnt so viel für euch lernen,
+
+01:08:48.501 --> 01:08:54.700
+<v juliafreudenberg>alleine dabei, als das den neuen Azubis vorgestellt worden ist, das haben zwei oder drei Azubis gemacht,
+
+01:08:54.701 --> 01:08:59.000
+<v juliafreudenberg>die schon mehrfach Kurse gegeben haben, was für ein besseres Kompliment kannst du kriegen?
+
+01:08:59.001 --> 01:09:03.100
+<v juliafreudenberg>Und wirklich jetzt mit dieser Überzeugung rauszugehen, wir wissen, es ist richtig,
+
+01:09:03.101 --> 01:09:08.700
+<v juliafreudenberg>wir wissen, es funktioniert und wir können euch, liebe Unternehmen, so viel Gehassel abnehmen,
+
+01:09:08.701 --> 01:09:11.100
+<v juliafreudenberg>einfach das selber zu organisieren, das ist ein riesiger Aufwand.
+
+01:09:11.101 --> 01:09:16.300
+<v juliafreudenberg>Aber wir haben die Prozesse stehen, ey come on, wir machen das seit 2014.
+
+01:09:16.301 --> 01:09:19.800
+<v juliafreudenberg>Und da wirklich zu haben, wir haben so viel gelernt und all das, was nicht das Programmieren ist,
+
+01:09:19.801 --> 01:09:23.200
+<v juliafreudenberg>also all das, wo wir euch nicht wirklich notwendigerweise brauchen, das nehmen wir euch ab,
+
+01:09:23.201 --> 01:09:25.800
+<v juliafreudenberg>da kümmern wir uns drum, wir haben das hier vorbereitet.
+
+01:09:25.801 --> 01:09:31.500
+<v juliafreudenberg>Wir haben ja, wir haben bis jetzt schon, wir müssten jetzt knapp über 20.000 Kinder bei uns in der Hacker School gehabt haben,
+
+01:09:31.501 --> 01:09:33.500
+<v juliafreudenberg>da lernt man schon was.
+
+01:09:33.501 --> 01:09:37.000
+<v juliafreudenberg>Und diese Erfahrung einfließen zu lassen, auch das Feedback einfließen zu lassen.
+
+01:09:37.001 --> 01:09:41.600
+<v juliafreudenberg>Wir haben jetzt zum Beispiel gerade einen neuen Python-Code gebaut, weil wir gesehen haben,
+
+01:09:41.601 --> 01:09:46.200
+<v juliafreudenberg>es hilft, wenn wir beim Programmieren mehr Visualisierung haben, weil die Kinder da besser das greifen können.
+
+01:09:46.201 --> 01:09:51.500
+<v juliafreudenberg>Und solche Sachen, das können wir über das Stück der großen Zahl sehr gut bei uns einbauen
+
+01:09:51.501 --> 01:09:55.700
+<v juliafreudenberg>und auch weil wir dadurch, dass wir gemeinnützig sind, dafür Fördergelder beschaffen können.
+
+01:09:55.701 --> 01:10:01.100
+<v juliafreudenberg>Und die Unternehmen da einzusetzen, wo wir sie wirklich brauchen, das kommt bei den Unternehmen gut an,
+
+01:10:01.101 --> 01:10:02.800
+<v juliafreudenberg>das wird zunehmend mehr verstanden.
+
+01:10:02.801 --> 01:10:09.500
+<v juliafreudenberg>Ja, manchmal dauert das seine Prozesse, insbesondere wenn man eben im öffentlichen Bereich mit Unternehmen arbeitet,
+
+01:10:09.501 --> 01:10:13.400
+<v juliafreudenberg>die haben Vorlauffristen von locker einem Jahr und bis man das dann wirklich einplanen kann.
+
+01:10:13.401 --> 01:10:22.100
+<v juliafreudenberg>Aber die Bereitschaft, Sachen zu pilotieren, auszuprobieren und wirklich dann auch oft mit der Unterstützung auch der Geschäftsführungsebene zu sagen,
+
+01:10:22.101 --> 01:10:24.300
+<v juliafreudenberg>komm wir machen das jetzt, wir haben doch gar keine andere Wahl,
+
+01:10:24.301 --> 01:10:28.900
+<v juliafreudenberg>lasst uns die Power, die wir haben, dafür nutzen, dass wir junge Menschen für Zukunftsberufe begeistern,
+
+01:10:28.901 --> 01:10:32.300
+<v juliafreudenberg>wir haben eh wenig genug davon hier.
+
+01:10:32.301 --> 01:10:36.700
+<v juliafreudenberg>Und dieses leave no one behind, das ist ja heute wichtiger denn je zuvor,
+
+01:10:36.701 --> 01:10:40.900
+<v juliafreudenberg>weil es immer wieder auch Fälle gibt, ich weiß nicht, ob du die Firma Lemontaps kennst,
+
+01:10:40.901 --> 01:10:44.800
+<v juliafreudenberg>Raji, der erzählte mir mal, der war so schlecht in Deutsch, dass die Deutschlehrerin seinem Vater gesagt hat,
+
+01:10:44.801 --> 01:10:48.800
+<v juliafreudenberg>hier schalt das Internet ab, der muss mehr Deutsch lesen.
+
+01:10:48.801 --> 01:10:52.000
+<v juliafreudenberg>Und da hatte nur eine Stunde Internetzeit am Tag und die Stunde, das hat ihn so geärgert,
+
+01:10:52.001 --> 01:10:58.200
+<v juliafreudenberg>hat er genutzt, um rauszufinden, wie er diese Sperre umgehen kann und das hat er geschafft.
+
+01:10:58.201 --> 01:11:00.300
+<v juliafreudenberg>Aber als er das dann konnte, hat er gemerkt, wie geil das ist, Sachen zu verändern
+
+01:11:00.301 --> 01:11:04.100
+<v juliafreudenberg>und wirklich steuern zu können und hat dann so viele sinnvolle Sachen online gemacht
+
+01:11:04.101 --> 01:11:08.600
+<v juliafreudenberg>und hat jetzt, glaube ich, die dritte Firma gegründet, das ist ein genialer Mann.
+
+01:11:08.601 --> 01:11:13.200
+<v juliafreudenberg>Und so, der ist auch bei dieser Organisation two hearts, wo du diese beiden Staatsbürgerschaften hast,
+
+01:11:13.201 --> 01:11:16.100
+<v juliafreudenberg>auch da als Rolemodel mit aktiv.
+
+01:11:16.101 --> 01:11:20.400
+<v juliafreudenberg>Und wenn wir das hinkriegen, junge Menschen so anzusprechen, dass sie Bock darauf haben, was zu verändern
+
+01:11:20.401 --> 01:11:26.200
+<v juliafreudenberg>und an sich selber zu glauben, dann ist leave noone behind auf einmal gar nicht mehr so das ganz große Problem.
+
+01:11:26.201 --> 01:11:30.800
+<v juliafreudenberg>Und dafür brauchen wir die Unternehmen und dafür brauchen wir alternative Ansprachewege.
+
+01:11:30.801 --> 01:11:34.000
+<v timpritlove>Hacken macht glücklich.
+
+01:11:34.001 --> 01:11:37.800
+<v juliafreudenberg>/lacht/ Auf jeden Fall macht es Spaß.
+
+01:11:37.801 --> 01:11:41.600
+<v timpritlove>Du hast gerade erwähnt, ihr arbeitet an einem Kursmaterial.
+
+01:11:41.601 --> 01:11:46.200
+<v timpritlove>Das ist vielleicht auch so ein Punkt, den wir gar nicht angesprochen haben bisher.
+
+01:11:46.201 --> 01:11:49.700
+<v timpritlove>Wenn diese Kurse gegeben werden, dann stehen sozusagen diese Leute auch nicht mit nichts da
+
+01:11:49.701 --> 01:11:56.800
+<v timpritlove>und müssen sich selber sozusagen Kurse ausdenken, sondern das ist sozusagen schon ein halbwegs gemachtes Nest,
+
+01:11:56.801 --> 01:11:58.000
+<v timpritlove>in das man sich dann begibt.
+
+01:11:58.001 --> 01:12:02.900
+<v timpritlove>Das heißt, die Leute melden sich freiwillig, sie führen diese Kurse durch, helfen den Kids
+
+01:12:02.901 --> 01:12:10.200
+<v timpritlove>und sind sozusagen AnsprechpartnerInnen in dem Moment, aber es gibt schon vorbereitetes Material,
+
+01:12:10.201 --> 01:12:12.400
+<v timpritlove>mit dem gearbeitet werden kann, was ihr entwickelt?
+
+01:12:12.401 --> 01:12:15.800
+<v juliafreudenberg>Ja. Also insbesondere im Schulbereich, da hast du ja drei Stunden Programmierzeit.
+
+01:12:15.801 --> 01:12:19.300
+<v juliafreudenberg>Innerhalb von drei Stunden solltest du schon so eine Idee haben, wo du hinkommen willst.
+
+01:12:19.301 --> 01:12:24.700
+<v juliafreudenberg>An den Wochenenden ist das etwas einfacher, weil innerhalb von acht Stunden kannst du ja ganz andere Schwerpunktsetzungen
+
+01:12:24.701 --> 01:12:28.100
+<v juliafreudenberg>und noch Workarounds und alles weitere machen.
+
+01:12:28.101 --> 01:12:31.900
+<v juliafreudenberg>Wir ermuntern trotzdem die Inspirer, mit denen wir arbeiten, jederzeit off script zu gehen,
+
+01:12:31.901 --> 01:12:34.300
+<v juliafreudenberg>wenn die Kinder sie rufen.
+
+01:12:34.301 --> 01:12:37.500
+<v juliafreudenberg>Weil man muss, und das ist halt das, was die auch lernen, wirklich zu gucken,
+
+01:12:37.501 --> 01:12:42.000
+<v juliafreudenberg>was sagt mein Gegenüber eigentlich, wo will der hin, wohin führt der mich?
+
+01:12:42.001 --> 01:12:45.300
+<v juliafreudenberg>Und da zu sehen, wenn die Kinder in eine andere Richtung driften,
+
+01:12:45.301 --> 01:12:49.700
+<v juliafreudenberg>wo man sagt, ja dann geht doch off script, das ist jetzt nichts, wo ihr müsst das Skript unbedingt durchziehen
+
+01:12:49.701 --> 01:12:53.900
+<v juliafreudenberg>und der Kurs war nur erfolgreich, wenn ihr auch den letzten Punkt gesetzt habt.
+
+01:12:53.901 --> 01:12:56.800
+<v juliafreudenberg>Sondern seht zu, dass die Kinderaugen leuchten, dass sie selber merken,
+
+01:12:56.801 --> 01:13:01.400
+<v juliafreudenberg>sie können etwas verändern, sie können etwas schaffen, sie kriegen das hin.
+
+01:13:01.401 --> 01:13:05.000
+<v juliafreudenberg>Und das ist unsere Empfehlung, damit funktioniert das Bombe, aber wenn ihr zwischenzeitlich merkt,
+
+01:13:05.001 --> 01:13:07.200
+<v juliafreudenberg>ihr müsst da was anpassen, macht das, völlig in Ordnung.
+
+01:13:07.201 --> 01:13:13.900
+<v juliafreudenberg>Außerschulisch haben wir halt auch diverse Konzepte, wo Inspirer auch draufgucken können und sagen,
+
+01:13:13.901 --> 01:13:20.300
+<v juliafreudenberg>ah super, ich möchte lieber was mit C machen oder mit, völlig egal, setze die Programmiersprache deiner Wahl ein,
+
+01:13:20.301 --> 01:13:24.900
+<v juliafreudenberg>aber ich gucke mir mal das Pythonkonzept an, dann weiß ich ungefähr, auf welchem Niveau das ist,
+
+01:13:24.901 --> 01:13:27.100
+<v juliafreudenberg>super, ich mache das oder ich baue mir was eigenes, aber dann habe ich da Referenzen.
+
+01:13:27.101 --> 01:13:30.300
+<v juliafreudenberg>Und da bauen wir auch geraden noch mal so einen, ich sage mal, Rahmen mit,
+
+01:13:30.301 --> 01:13:32.500
+<v juliafreudenberg>wie erstelle ich eigene Kurse.
+
+01:13:32.501 --> 01:13:36.100
+<v juliafreudenberg>Im Moment betreuen wir das auch noch mit etwas größerem Aufwand immer durch einen Kollegen,
+
+01:13:36.101 --> 01:13:38.800
+<v juliafreudenberg>der auch da Unternehmen zur Verfügung steht oder Inspirern.
+
+01:13:38.801 --> 01:13:42.000
+<v juliafreudenberg>Aber dass auch da noch mal ein bisschen mehr skalierungsfähig zu kriegen,
+
+01:13:42.001 --> 01:13:44.900
+<v juliafreudenberg>dass es einfacher ist einzuschätzen, wie kann ich eigentlich meine Kurse bauen,
+
+01:13:44.901 --> 01:13:51.500
+<v juliafreudenberg>wenn ich das möchte oder welchen nehme ich, da arbeiten wir auch noch dran, das auszuweiten.
+
+01:13:51.501 --> 01:13:52.200
+<v timpritlove>Ist ja auch ein Trend.
+
+01:13:52.201 --> 01:13:58.300
+<v timpritlove>Also es gibt ja eine ganze Menge online Lernplattformen fürs Programmieren mittlerweile,
+
+01:13:58.301 --> 01:14:03.900
+<v timpritlove>vor allem natürlich aus den USA heraus, wo das auch eine ganz andere Kultur hat, glaube ich.
+
+01:14:03.901 --> 01:14:09.000
+<v timpritlove>Also wo Computer und dieses ganze Programmieren, wo das nicht mit so vielen Ängsten,
+
+01:14:09.001 --> 01:14:12.500
+<v timpritlove>sondern eher mit Chancen so primär immer bedacht ist.
+
+01:14:12.501 --> 01:14:19.200
+<v timpritlove>Ist auch glaube ich ein bisschen diese amerikanische Art, so fail ist da nicht so schlimm.
+
+01:14:19.201 --> 01:14:25.600
+<v timpritlove>Und hier sind so Niederlagen, die haben immer so einen negative Bedeutung und davor haben dann alle Angst, zu scheitern.
+
+01:14:25.601 --> 01:14:31.100
+<v timpritlove>Davon unabhängig, schaut ihr euch das an, was sich da jetzt gerade so entwickelt?
+
+01:14:31.101 --> 01:14:36.200
+<v timpritlove>Weil das scheint eine relativ rasante Entwicklung zu nehmen, mit so online Lernplattformen,
+
+01:14:36.201 --> 01:14:43.100
+<v timpritlove>auch speziell für so MINT-Bereiche, /unverständlich/ ähnlich Sachen, die ja genau eigentlich auf diesen Bereich abzielen.
+
+01:14:43.101 --> 01:14:46.100
+<v timpritlove>Die also sagen, ihr wollt Programmieren lernen, ihr wollt Technik lernen,
+
+01:14:46.101 --> 01:14:51.600
+<v timpritlove>ihr wollt mathematische Zusammenhänge verstehen, hier haben wir irgendwie eine online Lernplattform.
+
+01:14:51.601 --> 01:14:53.000
+<v juliafreudenberg>Ist mega.
+
+01:14:53.001 --> 01:14:56.100
+<v juliafreudenberg>Also das wirklich zu sehen, was sich da alles entwickelt, das ist toll.
+
+01:14:56.101 --> 01:15:03.800
+<v juliafreudenberg>Also es gibt auch, auch wenn du dir Udacity oder sonst was anguckst, unglaublich gute Ansätze.
+
+01:15:03.801 --> 01:15:08.300
+<v juliafreudenberg>Und sagen wir so, die Herausforderung ist, bevor du dich das traust oder das machst,
+
+01:15:08.301 --> 01:15:12.400
+<v juliafreudenberg>musst du erstens wissen, dass du dich das trauen kannst und du musst wissen, wonach du guckst.
+
+01:15:12.401 --> 01:15:16.400
+<v juliafreudenberg>Und das ist eben etwas, wo wir auch in unserer Verweisberatung,
+
+01:15:16.401 --> 01:15:21.500
+<v juliafreudenberg>bei diesem Wege in die IT, geh hierhin, geh dahin, egal was du tust, aber geh irgendwo hin,
+
+01:15:21.501 --> 01:15:25.200
+<v juliafreudenberg>wo wir auch auf die, die wir kennen, immer verweisen.
+
+01:15:25.201 --> 01:15:28.600
+<v juliafreudenberg>Aber genau dadurch hoffen, durch das was wir tun, diesen Einstieg hinzukriegen
+
+01:15:28.601 --> 01:15:34.600
+<v juliafreudenberg>und die Berufe, die in diesem weiteren Skillset sind, überhaupt in das Relevantset,
+
+01:15:34.601 --> 01:15:39.900
+<v juliafreudenberg>in diese Auswahlmöglichkeiten bei jungen Menschen zu kriegen.
+
+01:15:39.901 --> 01:15:41.700
+<v juliafreudenberg>Das ist etwas, was keine dieser Plattformen leisten kann.
+
+01:15:41.701 --> 01:15:45.000
+<v juliafreudenberg>Weil die Entscheidung, da drauf zu gehen, die muss ja erstmal fallen.
+
+01:15:45.001 --> 01:15:50.700
+<v juliafreudenberg>Und dafür brauche ich diese Berufsoptionen überhaupt in dem Set,
+
+01:15:50.701 --> 01:15:54.400
+<v juliafreudenberg>so weit top of mind, dass ich da wirklich was drauf aussuchen kann.
+
+01:15:54.401 --> 01:15:57.600
+<v juliafreudenberg>Und wenn ich überhaupt nicht denke, ich könnte ja was mit vielleicht IT oder Informatik
+
+01:15:57.601 --> 01:16:01.500
+<v juliafreudenberg>oder überhaupt Digitalisierung machen, dann werde ich dagegen immun sein.
+
+01:16:01.501 --> 01:16:05.200
+<v juliafreudenberg>Und das so als Vorstufe mit reinzuschalten, unsere Arbeit macht es leichter,
+
+01:16:05.201 --> 01:16:09.900
+<v juliafreudenberg>weil wir dann schneller abgeben können, im Sinne von Verweisberatung und Empfehlen.
+
+01:16:09.901 --> 01:16:12.200
+<v juliafreudenberg>Ich finde es prima.
+
+01:16:12.201 --> 01:16:20.600
+<v timpritlove>Ja, haben wir noch irgendwas wichtiges ungesagt gelassen, was dir noch auf dem Herzen liegt über euer Projekt?
+
+01:16:20.601 --> 01:16:24.800
+<v timpritlove>Ansonsten, glaube ich, haben wir alles abgeklappert.
+
+01:16:24.801 --> 01:16:25.400
+<v juliafreudenberg>Wir haben über viele Sachen gesprochen.
+
+01:16:25.401 --> 01:16:31.700
+<v juliafreudenberg>Was ich halt sehe, was auch zunimmt, ist eben etwas, auch das worüber wir uns im weiteren Sinne hier kennengelernt haben,
+
+01:16:31.701 --> 01:16:36.300
+<v juliafreudenberg>dass es einfach zunehmend Initiativen auch von Stiftungen oder vom Stifterverband gibt,
+
+01:16:36.301 --> 01:16:42.600
+<v juliafreudenberg>wo eben halt auch teilweise mit Unternehmen, aber auch solche Förderprogramme und Wettbewerbe aufgelegt werden,
+
+01:16:42.601 --> 01:16:47.600
+<v juliafreudenberg>die insbesondere jetzt in unserem Fall, weil wir auch das unglaubliche Privileg hatten,
+
+01:16:47.601 --> 01:16:50.700
+<v juliafreudenberg>im letzten Jahr dieses digital engagiert gewinnen zu können,
+
+01:16:50.701 --> 01:16:56.900
+<v juliafreudenberg>die einen unglaublichen Speed reinbringen, weil dadurch kriegen Initiativen wie wir Kontakt zu richtigen Fachleuten,
+
+01:16:56.901 --> 01:17:02.500
+<v juliafreudenberg>die wir uns niemals leisten könnten, wenn man das mit Sozialgehältern bezahlen möchte,
+
+01:17:02.501 --> 01:17:05.400
+<v juliafreudenberg>ist das eher symbolisch.
+
+01:17:05.401 --> 01:17:09.700
+<v juliafreudenberg>Aber dadurch wirklich die Wichtigkeit dieser ganzen Thematik hochzuheben
+
+01:17:09.701 --> 01:17:13.900
+<v juliafreudenberg>und ihr auch eine Sichtbarkeit zu geben, das ist etwas, was ich im Trend auch sehe
+
+01:17:13.901 --> 01:17:17.300
+<v juliafreudenberg>und was mich halt wirklich begeistert.
+
+01:17:17.301 --> 01:17:21.600
+<v timpritlove>Schön Julia, ich sage vielen Dank für die Ausführungen zur Hacker School.
+
+01:17:21.601 --> 01:17:25.400
+<v juliafreudenberg>Es war mir ein Vergnügen, hat viel Spaß gemacht.
+
+01:17:25.401 --> 01:17:28.400
+<v timpritlove>Und vielen Dank fürs Zuhören hier bei Forschergeist.
+
+01:17:28.401 --> 01:17:32.700
+<v timpritlove>Bald geht es wieder weiter, bis dahin sage ich, tschüss und bis bald.
+

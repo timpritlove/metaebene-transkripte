@@ -1,0 +1,3577 @@
+﻿WEBVTT
+
+00:00:42.901 --> 00:00:48.400
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stiftverbands für die deutsche Wissenschaft.
+
+00:00:48.401 --> 00:00:54.700
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zur 94. Ausgabe von Forschergeist.
+
+00:00:54.701 --> 00:01:01.200
+<v timpritlove>Und ja, wie es hier so unsere Art ist, wollen wir uns wieder mit einem Thema ausführlich beschäftigen.
+
+00:01:01.201 --> 00:01:07.000
+<v timpritlove>Und heute geht es in so einen Wissenschaftsbereich, der auch so ein bisschen was mythisches hat
+
+00:01:07.001 --> 00:01:13.900
+<v timpritlove>und so seine ganz eigene Kultur mitbringt, heute geht es um Vulkane.
+
+00:01:13.901 --> 00:01:21.200
+<v timpritlove>Und um Vulkanologie und um die Forschung an Vulkanen und was es damit alles so auf sich hat, das erzählt uns heute Hans Ulrich Schmincke.
+
+00:01:21.201 --> 00:01:23.800
+<v timpritlove>Herzlich willkommen bei Forschergeist.
+
+00:01:23.801 --> 00:01:25.700
+<v hans-ulrichschmincke>Guten Tag.
+
+00:01:25.701 --> 00:01:31.500
+<v timpritlove>Herr Schmincke, ja Sie sind was man einen alten Hasen nennt, glaube ich, was dieses Feld betrifft.
+
+00:01:31.501 --> 00:01:32.800
+<v hans-ulrichschmincke>Kann man so sagen, ja.
+
+00:01:32.801 --> 00:01:42.100
+<v timpritlove>Im wahrten Sinne des Wortes, blicken auf eine sehr sehr lange eigene Geschichte mit diesem Thema zurück
+
+00:01:42.101 --> 00:01:50.700
+<v timpritlove>und haben, glaube ich, so alles beforscht, was man beforschen kann und auch in dem Wissenschaftsfeld sehr viel bewirkt.
+
+00:01:50.701 --> 00:01:57.400
+<v timpritlove>Referenzwerke geschrieben, alles mögliche, Preise eingesammelt, die Liste kann ich jetzt hier gar nicht komplett runterzählen, so lang ist sie.
+
+00:01:57.401 --> 00:02:00.200
+<v timpritlove>Vulkane faszinieren die Leute irgendwie total.
+
+00:02:00.201 --> 00:02:09.300
+<v timpritlove>Es ist irgendwie so ein Wissenschaftsfeld, was so über die Wissenschaft darüber einfach Leute irgendwie beschäftigt.
+
+00:02:09.301 --> 00:02:17.300
+<v timpritlove>Das hat irgendwie so was besonderes, was mythisches, was unheimliches, auch was bedrohliches in gewisser Hinsicht.
+
+00:02:17.301 --> 00:02:21.200
+<v timpritlove>Jeder kann irgendwie was damit anfangen, nicht alle wissen, damit umzugehen.
+
+00:02:21.201 --> 00:02:28.900
+<v timpritlove>Warum sind Sie zu diesem Thema gekommen und was war so Ihr Weg in die Wissenschaft an sich?
+
+00:02:28.901 --> 00:02:33.500
+<v hans-ulrichschmincke>Der Weg in die Wissenschaft war kompliziert.
+
+00:02:33.501 --> 00:02:41.800
+<v hans-ulrichschmincke>Als ich dann fertig war mit der Schule, habe ich mir überlegt, was soll ich studieren?
+
+00:02:41.801 --> 00:02:50.400
+<v hans-ulrichschmincke>Und habe mir drei Fächer vorgestellt, Literatur, Kunstgeschichte und Psychologie.
+
+00:02:50.401 --> 00:02:56.200
+<v hans-ulrichschmincke>Und dann habe ich mir noch mal hin und her überlegt und gedacht, das kann ich eigentlich auch als Hobby machen.
+
+00:02:56.201 --> 00:03:05.600
+<v hans-ulrichschmincke>Psychologie sowieso und auch weil ich gerne lese und weil ich gerne viel mit Bildern zu tun hatte und moderne Kunst.
+
+00:03:05.601 --> 00:03:16.200
+<v hans-ulrichschmincke>Dann habe ich gedacht, dann mache ich was handfestes als Beruf und da ich auch mit der Natur schon in Berührung war als Schüler,
+
+00:03:16.201 --> 00:03:21.100
+<v hans-ulrichschmincke>habe ich dann Geologie gewählt.
+
+00:03:21.101 --> 00:03:29.500
+<v hans-ulrichschmincke>Und bin dabei geblieben, habe aber die Richtung in meinem Fach drastisch geändert.
+
+00:03:29.501 --> 00:03:38.000
+<v hans-ulrichschmincke>Ich wollte schon als Schüler nach USA, weil ich war auf einem altsprachlichen Gymnasium mit Latein und Griechisch
+
+00:03:38.001 --> 00:03:43.700
+<v hans-ulrichschmincke>und konnte wenig Englisch, da habe ich es nicht geschafft und dann als Student habe ich es geschafft
+
+00:03:43.701 --> 00:03:49.700
+<v hans-ulrichschmincke>und bin in die USA gegangen mit dem Ziel, Paläoökologie zu studieren.
+
+00:03:49.701 --> 00:03:59.200
+<v hans-ulrichschmincke>Also die Ökologie der früheren Tiere zum Beispiel im Muschelkalk den flachen Meeren und so weiter und so weiter.
+
+00:03:59.201 --> 00:04:03.200
+<v hans-ulrichschmincke>Begriff Ökologie ist ja heute allgemein bekannt.
+
+00:04:03.201 --> 00:04:11.200
+<v hans-ulrichschmincke>Und dann war der Professor an der Johns Hopkins University der hatte kein Glück mit Studenten,
+
+00:04:11.201 --> 00:04:17.700
+<v hans-ulrichschmincke>der konnte Studenten nicht so gut behandeln und dann dachte ich, dann mache ich Sedimente.
+
+00:04:17.701 --> 00:04:23.400
+<v hans-ulrichschmincke>Aber das waren nur Doktoranden an der Universität der Johns Hopkins.
+
+00:04:23.401 --> 00:04:30.700
+<v hans-ulrichschmincke>Der Sedimentologie Professor der setzte seine Leute alle an die Appalachen und dann war das im Sommer immer sehr schwül
+
+00:04:30.701 --> 00:04:37.700
+<v hans-ulrichschmincke>und ich mag kein schwüles Klima, habe aber noch Biochemie gehört und die Revolution mitgekriegt in der Biologie,
+
+00:04:37.701 --> 00:04:45.400
+<v hans-ulrichschmincke>die Doppelhelix und habe auch Limnologie gehört, habe da gelernt, dass der Vater der Limnologie hier,
+
+00:04:45.401 --> 00:04:51.000
+<v hans-ulrichschmincke>wo ich jetzt wohne, am Plöner See gearbeitet hat, der Tiedemann.
+
+00:04:51.001 --> 00:04:57.200
+<v hans-ulrichschmincke>Aber dann hörte ich von einem Gebiet, einem trockenen Gebiet im Nordwesten der USA,
+
+00:04:57.201 --> 00:05:02.200
+<v hans-ulrichschmincke>riesige Basaltfelder im Staate Washington, Origon und Idaho.
+
+00:05:02.201 --> 00:05:11.700
+<v hans-ulrichschmincke>Und bin dann zu dem Professor gegangen und das war dann mein Thema.
+
+00:05:11.701 --> 00:05:18.200
+<v hans-ulrichschmincke>Und habe dann, das war ein sehr unbekanntes und unerforschtes Gebiet
+
+00:05:18.201 --> 00:05:29.400
+<v hans-ulrichschmincke>und da habe ich mich dann als einsamer Student aus Europa in den riesigen Weiten vom westlichen Washington und Origon rumgetrieben zwei Sommer.
+
+00:05:29.401 --> 00:05:36.800
+<v hans-ulrichschmincke>Wenn ich in eine Tankstelle kam, musste ich ab und zu mal hin und dann merkten die Leute,
+
+00:05:36.801 --> 00:05:41.000
+<v hans-ulrichschmincke>der Mensch hat einen komischen Akzent und dann haben sie mich gefragt,
+
+00:05:41.001 --> 00:05:46.200
+<v hans-ulrichschmincke>you must be from Kanada und da war ich sehr stolz.
+
+00:05:46.201 --> 00:05:54.200
+<v hans-ulrichschmincke>Und ich habe insgesamt leider 13 Klapperschlangen töten müssen, weil ich ganz alleine war den ganzen Sommer.
+
+00:05:54.201 --> 00:06:00.700
+<v hans-ulrichschmincke>Und habe da nur im Auto oder neben dem Auto geschlafen.
+
+00:06:00.701 --> 00:06:08.700
+<v hans-ulrichschmincke>Anyway, mein Doktorvater hat mich nie besucht im Gelände, das habe ich also alles alleine geschafft,
+
+00:06:08.701 --> 00:06:14.500
+<v hans-ulrichschmincke>weil er nach Kalifornien ging, um da eine Graduate School aufzubauen.
+
+00:06:14.501 --> 00:06:22.000
+<v hans-ulrichschmincke>Das war derzeit so, dass Los Angeles und Berkley waren überfüllt und da hat man die kleinen Campus der University of California alle aufgebaut
+
+00:06:22.001 --> 00:06:30.400
+<v hans-ulrichschmincke>und das war Santa Barbara, da habe ich dann abgeschlossen, aber dann auch promoviert in Johns Hopkins in Baltimore.
+
+00:06:30.401 --> 00:06:37.100
+<v hans-ulrichschmincke>Und dann dachte ich, fachlich wäre es ganz klar gewesen, dass ich in den USA bleibe,
+
+00:06:37.101 --> 00:06:47.500
+<v hans-ulrichschmincke>weil die akademische Atmosphäre und der Akzent auf sehr harter Wissenschaft ganz was anderes war
+
+00:06:47.501 --> 00:06:51.500
+<v hans-ulrichschmincke>als das, was ich in Deutschland erlebt hatte als Student.
+
+00:06:51.501 --> 00:06:57.200
+<v hans-ulrichschmincke>Auch die menschliche Stimmung war angenehmer und man war als Doktorand akzeptiert.
+
+00:06:57.201 --> 00:07:07.800
+<v hans-ulrichschmincke>In Deutschland, was ich erlebt hatte, selbst die Dozenten waren noch von den Ordinarien, den kleinen Königen nicht richtig anerkannt.
+
+00:07:07.801 --> 00:07:10.100
+<v timpritlove>Von welchem Jahrzehnt sprechen wir gerade?
+
+00:07:10.101 --> 00:07:12.600
+<v hans-ulrichschmincke>60-64.
+
+00:07:12.601 --> 00:07:21.200
+<v hans-ulrichschmincke>60 bin ich hin, 64 war ich promoviert, also ich war 26 damals, also sehr früh promoviert.
+
+00:07:21.201 --> 00:07:25.300
+<v hans-ulrichschmincke>Ich hatte auch erlebt in Deutschland in Freiburg die ersten beiden Jahre,
+
+00:07:25.301 --> 00:07:31.900
+<v hans-ulrichschmincke>wie da Diplomanten immer noch an ihrer Diplomarbeit saßen, waren schon Anfang 30 und hatten Familien.
+
+00:07:31.901 --> 00:07:34.600
+<v hans-ulrichschmincke>Habe ich gedacht, das darf es nicht sein.
+
+00:07:34.601 --> 00:07:40.500
+<v hans-ulrichschmincke>Und bin dann zurück nach Deutschland, ich hatte einen deutschen Professor kennengelernt,
+
+00:07:40.501 --> 00:07:48.200
+<v hans-ulrichschmincke>der hat mich in einem Forschungsprojekt angestellt und auf den Kanaren,
+
+00:07:48.201 --> 00:07:54.500
+<v hans-ulrichschmincke>da bin ich dann zur Vulkanologie endgültig gekommen und bin dabei geblieben.
+
+00:07:54.501 --> 00:08:03.300
+<v hans-ulrichschmincke>Er hat mir dann nach zwei Jahren angeboten, eine Feststelle zu kriegen, wenn ich die Richtung meiner Arbeit ändere,
+
+00:08:03.301 --> 00:08:09.200
+<v hans-ulrichschmincke>und da habe ich ihm gesagt, nein ich möchte meine Arbeit die Vulkanologie weiter machen
+
+00:08:09.201 --> 00:08:19.700
+<v hans-ulrichschmincke>und habe mich dann über Stipendien, Habilitandenstipendien da weiter zwei Jahre lang finanzieren lassen.
+
+00:08:19.701 --> 00:08:23.400
+<v hans-ulrichschmincke>Und kriegte dann einen Job an der Ruhruniversität Bochum, die war ganz neu,
+
+00:08:23.401 --> 00:08:30.900
+<v hans-ulrichschmincke>das Institut war ganz neu, es war damals ein großer Bedarf in Deutschland an Universitäten.
+
+00:08:30.901 --> 00:08:35.900
+<v hans-ulrichschmincke>Viele viele neue Universitäten wurden gegründet und eine davon war die Ruhruniversität Bochum.
+
+00:08:35.901 --> 00:08:39.200
+<v hans-ulrichschmincke>Und danach kam dann auch Dortmund und Essen und so weiter.
+
+00:08:39.201 --> 00:08:50.500
+<v hans-ulrichschmincke>Und da habe ich, ich habe mich schon in Heidelberg während der letzten beiden Jahre,
+
+00:08:50.501 --> 00:08:58.500
+<v hans-ulrichschmincke>also 67 bis 69 sehr stark engagiert für Reformen in der deutschen Universität.
+
+00:08:58.501 --> 00:09:06.400
+<v hans-ulrichschmincke>Ein Verein hat sich gegründet für eine neue deutsche Universität, der wurde von der Volkswagen Stiftung finanziert, 
+
+00:09:06.401 --> 00:09:09.500
+<v hans-ulrichschmincke>aber das Ganze hat sich dann totgelaufen.
+
+00:09:09.501 --> 00:09:16.100
+<v hans-ulrichschmincke>Jedenfalls als ich nach Bochum kam, sagte mir ein Kollege, ja ich bin aus Heidelberg angekündigt worden als jemand,
+
+00:09:16.101 --> 00:09:24.500
+<v hans-ulrichschmincke>der wissenschaftlich in Ordnung sei, aber politisch völlig unzuverlässig.
+
+00:09:24.501 --> 00:09:25.600
+<v hans-ulrichschmincke>So lief das damals.
+
+00:09:25.601 --> 00:09:33.000
+<v hans-ulrichschmincke>Und ich habe dann Reformen in Bochum in der Fakultät durchsetzen können über meine Studenten,
+
+00:09:33.001 --> 00:09:37.300
+<v hans-ulrichschmincke>die in der Studentenvertretung waren, weil die hatten damals relativ viel Gewicht.
+
+00:09:37.301 --> 00:09:46.000
+<v hans-ulrichschmincke>Das ging da auf 68 zu und 68 war ja die große Umwälzung in der Gesellschaft hier.
+
+00:09:46.001 --> 00:09:57.800
+<v hans-ulrichschmincke>Angefangen hat es schon in Berkley 64 mit Savio mit seiner berühmten Rede.
+
+00:09:57.801 --> 00:10:08.200
+<v hans-ulrichschmincke>So also in Bochum waren die Reformen ja mäßig verwirklicht, weil die Professoren an den Instituten sich alle immer noch wie kleine Könige fühlten
+
+00:10:08.201 --> 00:10:16.300
+<v hans-ulrichschmincke>und die jüngeren, die Dozenten und Assistenten die wurden halt so als, mussten halt gehorchen,
+
+00:10:16.301 --> 00:10:22.000
+<v hans-ulrichschmincke>was bei mir natürlich nicht klappte, weil ich war nicht so, das war nicht meine Natur.
+
+00:10:22.001 --> 00:10:28.600
+<v hans-ulrichschmincke>Das liegt vielleicht auch daran, weil ich selbst Flüchtling bin und mir schon früh klar war,
+
+00:10:28.601 --> 00:10:34.300
+<v hans-ulrichschmincke>dass ich mir selber meinen Weg bauen muss.
+
+00:10:34.301 --> 00:10:43.600
+<v hans-ulrichschmincke>Ich bin dann da weiter, war dann Privatdozent und dann Associate Professor, also wissenschaftlicher Rat und Professor.
+
+00:10:43.601 --> 00:10:49.900
+<v hans-ulrichschmincke>Und habe dann durch unsere Forschungen mir auch mein eigenes Reich bilden können,
+
+00:10:49.901 --> 00:10:56.800
+<v hans-ulrichschmincke>wo ich relativ viele Doktoranden hatte, und zwar sehr gute.
+
+00:10:56.801 --> 00:10:59.600
+<v hans-ulrichschmincke>Und einige von den vollen Professoren haben dann die Studenten angesprochen,
+
+00:10:59.601 --> 00:11:04.400
+<v hans-ulrichschmincke>ob sie nicht bei ihnen promovieren wollten, das ist also mehrfach passiert.
+
+00:11:04.401 --> 00:11:11.500
+<v hans-ulrichschmincke>Und die haben gesagt, nein ich will bei dem Herrn Schmincke promovieren.
+
+00:11:11.501 --> 00:11:17.100
+<v hans-ulrichschmincke>Ich habe auch meine Studenten immer geduzt, was die meisten meiner Kollegen ganz schlimm fanden,
+
+00:11:17.101 --> 00:11:21.800
+<v hans-ulrichschmincke>weil sie sagten, ich muss die doch mal prüfen in einem Examen.
+
+00:11:21.801 --> 00:11:28.900
+<v hans-ulrichschmincke>Das hat mich nie überzeugt, weil für mich sind Studenten junge Kollegen, die noch nicht erfahren sind.
+
+00:11:28.901 --> 00:11:35.900
+<v hans-ulrichschmincke>Und nicht Leute, die man unter einer Knute ausbilden muss und in Abhängigkeit halten muss.
+
+00:11:35.901 --> 00:11:39.900
+<v timpritlove>Stimmt das, dass Sie alle dann nur HU genannt haben?
+
+00:11:39.901 --> 00:11:41.900
+<v hans-ulrichschmincke>Ja.
+
+00:11:41.901 --> 00:11:42.700
+<v timpritlove>Für Hans Ullrich?
+
+00:11:42.701 --> 00:11:44.400
+<v hans-ulrichschmincke>Ja, das ist kürzer.
+
+00:11:44.401 --> 00:11:50.400
+<v hans-ulrichschmincke>Leute, die aus USA kommen, die nennen mich Hans, weil die können Ullrich nicht aussprechen.
+
+00:11:50.401 --> 00:11:53.500
+<v hans-ulrichschmincke>Aber meine /unverständlich/, die nennen mich HU.
+
+00:11:53.501 --> 00:12:00.400
+<v hans-ulrichschmincke>Na jedenfalls hatte ich eine Reihe von sehr guten Studenten, wir waren eine eingeschworene Truppen,
+
+00:12:00.401 --> 00:12:07.000
+<v hans-ulrichschmincke>hatten dann uns auch selber Räume besorgt, wo wir uns unterbringen konnten
+
+00:12:07.001 --> 00:12:13.000
+<v hans-ulrichschmincke>und ich habe mit meiner wissenschaftlichen Arbeit dann angefangen in den ersten Jahren,
+
+00:12:13.001 --> 00:12:17.400
+<v hans-ulrichschmincke>auf den kanarischen Inseln zu arbeiten, insbesondere Gran Canaria, da haben wir viele Arbeiten gemacht,
+
+00:12:17.401 --> 00:12:22.600
+<v hans-ulrichschmincke>später auch Diplomanden und Dokotoranden.
+
+00:12:22.601 --> 00:12:30.800
+<v hans-ulrichschmincke>Und dann später auch Teneriffa und La Palma, wir haben die 1949 Eruption als erste und einzige sehr detailliert untersucht
+
+00:12:30.801 --> 00:12:35.400
+<v hans-ulrichschmincke>mit einem Doktoranden und Diplomandin.
+
+00:12:35.401 --> 00:12:36.200
+<v timpritlove>Eruption auf La Palma?
+
+00:12:36.201 --> 00:12:44.400
+<v hans-ulrichschmincke>Die Eruption auf La Palma, das ist die bisher detaillierteste Arbeit über eine historische Eruption.
+
+00:12:44.401 --> 00:12:52.900
+<v hans-ulrichschmincke>Und dann habe ich 1970 angefangen, in der Eifel zu arbeiten, weil das nicht so weit weg war von Bochum.
+
+00:12:52.901 --> 00:12:58.700
+<v hans-ulrichschmincke>Und die vulkanologischen Fragen, es war vulkanologisches Brachland,
+
+00:12:58.701 --> 00:13:03.800
+<v hans-ulrichschmincke>weil keine Leute da gearbeitet hatten, die wirklich an den Vulkanen interessiert waren.
+
+00:13:03.801 --> 00:13:11.000
+<v hans-ulrichschmincke>Der Unterschied zu den früheren Zeiten vor 100 Jahren, also 1910, 1920 gab es einen sehr guten Geologen
+
+00:13:11.001 --> 00:13:21.500
+<v hans-ulrichschmincke>und auch schon 1820 aus Trier, einen berühmten Gymnasiallehrer, der dann der Lehrer von Karl Marx war.
+
+00:13:21.501 --> 00:13:27.200
+<v hans-ulrichschmincke>Und das ist dann Hauptgebiet geworden und dann kam 1973 die erste Energiekrise,
+
+00:13:27.201 --> 00:13:34.200
+<v hans-ulrichschmincke>wo ich meine kleine Tochter noch im Kinderwagen über die Autobahn gefahren habe,
+
+00:13:34.201 --> 00:13:41.200
+<v hans-ulrichschmincke>weil am Wochenende war die Autobahn geschlossen in Deutschland.
+
+00:13:41.201 --> 00:13:48.900
+<v hans-ulrichschmincke>Und dann wurde in Deutschland vom Bund und in Brüssel in Europa sehr viel Schwergewicht gelegt auf alternative Energien
+
+00:13:48.901 --> 00:13:52.300
+<v hans-ulrichschmincke>und dazu gehörte auch die geothermische Energie.
+
+00:13:52.301 --> 00:14:01.900
+<v hans-ulrichschmincke>Und dann sind wir mehrere Jahre relativ breit finanziert worden, und zwar relativ schnell.
+
+00:14:01.901 --> 00:14:05.400
+<v hans-ulrichschmincke>Das war zu Anfang sehr kompliziert mit Brüssel, weil die ganzen Verfahrensweisen,
+
+00:14:05.401 --> 00:14:09.700
+<v hans-ulrichschmincke>wie man jetzt europäische Forschung finanzierte ganz neu war.
+
+00:14:09.701 --> 00:14:15.500
+<v hans-ulrichschmincke>Und ich musste angeben im Institut, wie das Gehalt der Sekretäre, die gar nicht meine Sekretärinnen waren,
+
+00:14:15.501 --> 00:14:19.600
+<v hans-ulrichschmincke>das war alles auch für die Uni, die wollten erst und der Professor da wo ich war sagte,
+
+00:14:19.601 --> 00:14:27.400
+<v hans-ulrichschmincke>Herr Schmincke, lassen Sie das, aber das habe ich natürlich nicht gelassen.
+
+00:14:27.401 --> 00:14:31.800
+<v hans-ulrichschmincke>Und ich habe dann auch harte Briefe geschrieben nach Brüssel, die dann auch wohl eingeschlagen sind,
+
+00:14:31.801 --> 00:14:40.900
+<v hans-ulrichschmincke>weil durch meine frühe Kindheit und meine ganze Entwicklung war ich kein sehr angstbesetzter Mensch
+
+00:14:40.901 --> 00:14:46.700
+<v hans-ulrichschmincke>und habe Autoritäre immer angesprochen, wenn es sachliche Gründe gab.
+
+00:14:46.701 --> 00:14:52.000
+<v hans-ulrichschmincke>Und das ist natürlich auch etwas, was sich in der Wissenschaft dann auch niederschlägt,
+
+00:14:52.001 --> 00:14:58.000
+<v hans-ulrichschmincke>wenn man Paradigmen, die über Jahre oder Jahrzehnte bestand haben, infrage stellt, weil man merkt,
+
+00:14:58.001 --> 00:15:01.300
+<v hans-ulrichschmincke>das ist nicht die richtige Erklärung.
+
+00:15:01.301 --> 00:15:07.900
+<v hans-ulrichschmincke>Und da gibt es mehrere Fälle in meiner Wissenschaftsgeschichte, wo ich das gemacht habe.
+
+00:15:07.901 --> 00:15:17.900
+<v hans-ulrichschmincke>Wo es zu Anfang immer ein bisschen Trouble gibt, wenn viele Kollegen denken, das ist sozusagen des Teufels diese neuen Ideen,
+
+00:15:17.901 --> 00:15:21.900
+<v hans-ulrichschmincke>aber irgendwann wenn sie solide sind und das habe ich auch versucht, meinen Studenten beizubringen,
+
+00:15:21.901 --> 00:15:32.000
+<v hans-ulrichschmincke>alles sehr gut zu dokumentieren und sehr sauber zu arbeiten und darauf dann die Hypothesen oder gerade die Theorien aufzubauen.
+
+00:15:32.001 --> 00:15:40.700
+<v hans-ulrichschmincke>Das ist also so ein Grundverhalten gewesen und ich glaube, sechs, sieben meiner Doktoranden,
+
+00:15:40.701 --> 00:15:47.700
+<v hans-ulrichschmincke>oder inzwischen sind es, glaube ich, noch mehr, sind Professoren in Deutschland, in Schweden, USA.
+
+00:15:47.701 --> 00:15:51.000
+<v timpritlove>Was haben Sie denn ursprünglich genau studiert?
+
+00:15:51.001 --> 00:15:56.000
+<v timpritlove>Wenn es die Vulkanologie noch nicht gab, was waren dann jetzt konkret die Felder, die Sie studiert haben?
+
+00:15:56.001 --> 00:16:05.100
+<v hans-ulrichschmincke>Also Vulkanologie als Studienfach gibt es eigentlich nicht, man studiert, je nachdem in welchem Richtung man gehen will.
+
+00:16:05.101 --> 00:16:09.800
+<v hans-ulrichschmincke>Man kann Geophysik studieren, dann macht man die seismische Erkundung der Vulkane,
+
+00:16:09.801 --> 00:16:14.000
+<v hans-ulrichschmincke>der Aufstiegswege, des Erdmantels, dann ist man mehr Geophysiker.
+
+00:16:14.001 --> 00:16:23.200
+<v hans-ulrichschmincke>Man kann, was klassischerweise früher in Deutschland viel gemacht wurde, mehr Mineralogie machen und Gesteinschemie,
+
+00:16:23.201 --> 00:16:27.100
+<v hans-ulrichschmincke>das sind aber dann oft Leute, die gucken sich die Vulkane gar nicht an.
+
+00:16:27.101 --> 00:16:35.000
+<v hans-ulrichschmincke>Die sind interessiert an den physikochemischen Vorgängen bei der Kristallisation eines Magmas.
+
+00:16:35.001 --> 00:16:40.900
+<v hans-ulrichschmincke>Was passiert bei welchen Drucken, bei welchem Sauerstoff, Partialdruck und so weiter.
+
+00:16:40.901 --> 00:16:46.500
+<v hans-ulrichschmincke>Welchen Wassergehalt, welchen CO2-Gehalt bildet sich dieses Mineral und so weiter.
+
+00:16:46.501 --> 00:16:54.800
+<v hans-ulrichschmincke>Was passiert, wenn ein Magma abkühlt, basaltisches Magma, das sind die normalen Magmen auf der Erde und auf dem Mond und so weiter.
+
+00:16:54.801 --> 00:17:01.100
+<v hans-ulrichschmincke>Wenn die abkühlen in einer Magmakammer, dann können sich daraus ganz andere Magmen bilden.
+
+00:17:01.101 --> 00:17:11.000
+<v hans-ulrichschmincke>Weil zuerst bestimmte Elemente, wie Eisen, Magnesium, Chrom, Nickel in einigen Mineralen eingebaut werden
+
+00:17:11.001 --> 00:17:18.500
+<v hans-ulrichschmincke>und die sinken dann ab oder bleiben an der Seite von einer Magmakammer und dann ändert sich die Zusammensetzung der Schmelze.
+
+00:17:18.501 --> 00:17:22.100
+<v hans-ulrichschmincke>Wir nennen das Fraktionierung oder Differenziation.
+
+00:17:22.101 --> 00:17:30.400
+<v hans-ulrichschmincke>Und die großen explosiven Vulkane und einer, den wir intensiv bearbeitet haben, mehrere Diplomanden und Doktoranden,
+
+00:17:30.401 --> 00:17:37.700
+<v hans-ulrichschmincke>ist der Laacher See Vulkan, das ist die größte Eruption in Europa, in Mitteleuropa außerhalb Italiens
+
+00:17:37.701 --> 00:17:39.100
+<v hans-ulrichschmincke>in den letzten paar hunderttausend Jahren.
+
+00:17:39.101 --> 00:17:44.500
+<v hans-ulrichschmincke>Die Eruption vor 11000 Jahren war größer als die des Vesuvs.
+
+00:17:44.501 --> 00:17:56.100
+<v hans-ulrichschmincke>Die berühmte Pompeji-Eruption, es war also sehr große Eruption und die Asche finden wir noch in Schweden und in Dänemark und in Polen.
+
+00:17:56.101 --> 00:18:02.500
+<v hans-ulrichschmincke>War ein riesen… und das war auch eine sehr schwefelreiche Eruption, das haben wir dann auch untersucht später,
+
+00:18:02.501 --> 00:18:07.100
+<v hans-ulrichschmincke>die wohl auch dann das Klima eine Zeit lang beeinflusst hat.
+
+00:18:07.101 --> 00:18:14.300
+<v timpritlove>Mich würde noch mal interessieren, welche Fächer sozusagen einen zur Vulkanologie führen können.
+
+00:18:14.301 --> 00:18:17.100
+<v timpritlove>Also wir hatten die Geophysik,…
+
+00:18:17.101 --> 00:18:18.200
+<v hans-ulrichschmincke>Mineralogie.
+
+00:18:18.201 --> 00:18:21.200
+<v timpritlove>Mineralogie, es gibt ja auch noch die Petrologie.
+
+00:18:21.201 --> 00:18:27.400
+<v hans-ulrichschmincke>Die Petrologie gehört mit der Mineralogie ein bisschen zusammen, da ist der Übergang sehr eng zu den Kristallographen,
+
+00:18:27.401 --> 00:18:30.900
+<v hans-ulrichschmincke>die interessieren sich nur für die Kristalle.
+
+00:18:30.901 --> 00:18:38.000
+<v hans-ulrichschmincke>Die Petrologen interessieren sich für ein größeres System, ein Magma oder ein metamorphes Gestein.
+
+00:18:38.001 --> 00:18:43.400
+<v hans-ulrichschmincke>Und das ist das, was mich in Deutschland so gestört hat.
+
+00:18:43.401 --> 00:18:49.500
+<v hans-ulrichschmincke>In den USA an der Johns Hopkins Universität nur Doktoranden, 20 Doktoranden und acht Professoren,
+
+00:18:49.501 --> 00:18:53.800
+<v hans-ulrichschmincke>das waren also paradiesische Zustände, aber sehr harte Arbeit.
+
+00:18:53.801 --> 00:19:00.800
+<v hans-ulrichschmincke>Alle Doktoranden haben von morgens 9 bis nachts um 23 Uhr gearbeitet die ganze Woche.
+
+00:19:00.801 --> 00:19:05.900
+<v hans-ulrichschmincke>Viel härter als in Deutschland die Doktoranden und das ist sehr weit verbreitet dort.
+
+00:19:05.901 --> 00:19:09.900
+<v hans-ulrichschmincke>Und da studiert man dann nur Geologie.
+
+00:19:09.901 --> 00:19:17.300
+<v hans-ulrichschmincke>Und da sind experimentelle Leute, die produzieren künstliche Kristalle bei verschiedenen Drucken und Temperaturen,
+
+00:19:17.301 --> 00:19:26.000
+<v hans-ulrichschmincke>und dort sind Leute, die gucken sich Sedimente an in den Gebirgen, Appalachengebirge oder die Paläontologen
+
+00:19:26.001 --> 00:19:31.400
+<v hans-ulrichschmincke>und die heißen alle Geologist und da gibt es nicht diese Aufteilung wie bei uns.
+
+00:19:31.401 --> 00:19:38.400
+<v hans-ulrichschmincke>Und das ist das, was mich so geärgert und deprimiert hat in Deutschland, diese Institute.
+
+00:19:38.401 --> 00:19:44.300
+<v hans-ulrichschmincke>Wo die Professoren sich so als mini Max Planck Institute fühlen.
+
+00:19:44.301 --> 00:19:48.400
+<v hans-ulrichschmincke>Das ist diese Hierarchie, die sich ja auch in den Titeln ausdrückt.
+
+00:19:48.401 --> 00:19:56.300
+<v hans-ulrichschmincke>Herr Professor Doktor, das ist etwas, was mir immer sehr komisch vorkam.
+
+00:19:56.301 --> 00:19:59.800
+<v timpritlove>Nicht Ihr Ding, ja, kann ich verstehen.
+
+00:19:59.801 --> 00:20:04.500
+<v hans-ulrichschmincke>Und darum habe ich es auch nie benutzt.
+
+00:20:04.501 --> 00:20:13.600
+<v hans-ulrichschmincke>Und diese Aufteilung hat dazu geführt, dass viele Teile der deutschen Wissenschaft international nicht mehr so anerkannt waren.
+
+00:20:13.601 --> 00:20:25.400
+<v hans-ulrichschmincke>Und dann, ich kann mich erinnern, 64, als ich fertig war, hat ein Physiker Moosbacher, glaube ich, oder so ähnlich,
+
+00:20:25.401 --> 00:20:31.300
+<v hans-ulrichschmincke>der hat am Caltech, California Institute of Technologie 64, ich weiß nicht, ob er da promoviert hat
+
+00:20:31.301 --> 00:20:37.800
+<v hans-ulrichschmincke>oder als Postdoc da war, und als der dann …
+
+00:20:37.801 --> 00:20:42.700
+<v hans-ulrichschmincke>oder hat den Nobelpreis gekriegt, ja, der hat den Nobelpreis gekriegt, stimmt.
+
+00:20:42.701 --> 00:20:48.300
+<v hans-ulrichschmincke>Da war er, glaube ich, noch in Passadena am California Institute of Technology,
+
+00:20:48.301 --> 00:20:50.900
+<v hans-ulrichschmincke>und dann hat man in München gesagt, den Mann müssen wir uns holen.
+
+00:20:50.901 --> 00:20:55.900
+<v hans-ulrichschmincke>Und dann hat er gesagt, ich komme nur, wenn ihr ein Departement macht.
+
+00:20:55.901 --> 00:21:03.100
+<v hans-ulrichschmincke>Wenn ihr also von dieser Einzelstruktur der Institute weggeht und dein Departement macht.
+
+00:21:03.101 --> 00:21:07.500
+<v hans-ulrichschmincke>Und das habe ich mir lange gewünscht in den Erdwissenschaften.
+
+00:21:07.501 --> 00:21:14.900
+<v hans-ulrichschmincke>In Bochum war es nicht möglich und in Kiel das war nun ein Forschungsinstitut, wo ich 1990 berufen wurde,
+
+00:21:14.901 --> 00:21:21.200
+<v hans-ulrichschmincke>das war keine Universität, das war hauptsächlich Forschung und das war ein bisschen eine andere Struktur.
+
+00:21:21.201 --> 00:21:29.400
+<v hans-ulrichschmincke>Aber ich glaube, im Laufe der Jahre sind dann die Leute auch in Kiel und anderen Universitäten auf den Trichter gekommen zu sagen,
+
+00:21:29.401 --> 00:21:34.700
+<v hans-ulrichschmincke>es ist doch viel besser, wir machen ein Departement mit einzelnen Richtungen.
+
+00:21:34.701 --> 00:21:41.800
+<v hans-ulrichschmincke>Und dass ein Geophysiker dann auch mal was über Fossilien lernt, ist ja gar nicht so schlimm und umgekehrt.
+
+00:21:41.801 --> 00:21:49.200
+<v hans-ulrichschmincke>Und das war wirklich so ein zentrales strukturelles Defizit an unseren Universitäten.
+
+00:21:49.201 --> 00:21:56.000
+<v hans-ulrichschmincke>Und da habe ich versucht, wegen meiner Ausbildung in den USA und weil ich gerne Sachen infrage gestellt habe,
+
+00:21:56.001 --> 00:22:00.000
+<v hans-ulrichschmincke>versucht, das zu überwinden.
+
+00:22:00.001 --> 00:22:04.000
+<v timpritlove>Okay, also Sie hatten ein Grundstudium in Deutschland, ich glaube, in Göttingen ging es sogar los?
+
+00:22:04.001 --> 00:22:05.500
+<v hans-ulrichschmincke>Ja, ein Semester nur.
+
+00:22:05.501 --> 00:22:15.100
+<v timpritlove>Und Freiburg und dann Aachen und dann halt den Ausflug in die USA, kennenlernen eines anderen Forschungsverständnisses.
+
+00:22:15.101 --> 00:22:15.400
+<v hans-ulrichschmincke>Völlig.
+
+00:22:15.401 --> 00:22:22.200
+<v timpritlove>So würde ich das mal sagen, anderer Umgang, ein etwas übergreifenderer Ansatz,
+
+00:22:22.201 --> 00:22:29.500
+<v timpritlove>Dass man eben versucht, da würde ich es mal als holistischen Ansatz interpretieren, man blickt auf alles
+
+00:22:29.501 --> 00:22:32.800
+<v timpritlove>und dann kann man eben auch die Verbindungen herstellen.
+
+00:22:32.801 --> 00:22:37.500
+<v timpritlove>Da ist so ein bisschen mein Eindruck, bei den Vulkanen kommt dann so alles zusammen.
+
+00:22:37.501 --> 00:22:46.200
+<v timpritlove>Während sich die Mineralogen sehr im Detail verfangen können, wie auch andere Spezialitäten,
+
+00:22:46.201 --> 00:22:55.000
+<v timpritlove>ist irgendwie das große und ganze Verschmelzen und Explodieren eines Vulkans betrifft irgendwie alle diese Felder.
+
+00:22:55.001 --> 00:22:57.300
+<v hans-ulrichschmincke>Ja, das ist eine gute Analogie.
+
+00:22:57.301 --> 00:23:03.900
+<v hans-ulrichschmincke>Vielleicht müsste man sagen, dass in den USA nicht nur diese gemeinsame Ausbildung wichtig ist,
+
+00:23:03.901 --> 00:23:09.500
+<v hans-ulrichschmincke>sondern auch das menschliche Verhältnis der Professoren zu den Studenten.
+
+00:23:09.501 --> 00:23:17.100
+<v hans-ulrichschmincke>Ein ernst nehmen, ganz anders ist als in Deutschland, wo die Professoren doch immer noch die Herrgötter in weiß waren,
+
+00:23:17.101 --> 00:23:20.200
+<v hans-ulrichschmincke>so wie in manchen Kliniken.
+
+00:23:20.201 --> 00:23:24.700
+<v hans-ulrichschmincke>Und das ist natürlich ganz wichtig für die Ausbildung, man hat dann auch sehr viel Mut,
+
+00:23:24.701 --> 00:23:29.200
+<v hans-ulrichschmincke>seine eigenen Ideen zu formulieren und die vorzutragen, man wird ernst genommen.
+
+00:23:29.201 --> 00:23:34.700
+<v hans-ulrichschmincke>Und da was ich auch versucht habe, in meinen Studenten zu verwirklichen.
+
+00:23:34.701 --> 00:23:37.700
+<v hans-ulrichschmincke>Zurück zu den Vulkanen.
+
+00:23:37.701 --> 00:23:47.800
+<v hans-ulrichschmincke>Ich habe dann versucht von Anfang an, die Vulkane in den Doktorarbeiten, in den Exkursionen, in den anderen Kursen
+
+00:23:47.801 --> 00:23:53.000
+<v hans-ulrichschmincke>immer als System zu sehen, das reicht vom Erdmantel bis zur Atmosphäre.
+
+00:23:53.001 --> 00:24:02.100
+<v hans-ulrichschmincke>Und wir waren dann relativ früh auch dabei, mit zu untersuchen, welche klimatischen Auswirkungen können welche Vulkane haben.
+
+00:24:02.101 --> 00:24:08.900
+<v hans-ulrichschmincke>Wir haben am Laacher See Doktorarbeit und dann habe ich eine in Nordkorea.
+
+00:24:08.901 --> 00:24:15.800
+<v hans-ulrichschmincke>ich war, glaube ich, der erste westlich Wissenschaftler, der da gearbeitet hat an einem Vulkan, der vor 1000 Jahren ausgebrochen ist.
+
+00:24:15.801 --> 00:24:28.800
+<v hans-ulrichschmincke>Und wollte ich rauskriegen, ob die mögliche Klimaveränderung auch die politischen Verhältnisse in dem Korea jener Zeit beeinflusst hat,
+
+00:24:28.801 --> 00:24:36.700
+<v hans-ulrichschmincke>dadurch dass durch eine große Klimaveränderung natürlich Wanderungen ausgelöst werden.
+
+00:24:36.701 --> 00:24:45.000
+<v hans-ulrichschmincke>Die größten Wanderungen in den USA waren 1816 nach der Eruption eines Vulkans in Indonesien,
+
+00:24:45.001 --> 00:24:52.000
+<v hans-ulrichschmincke>der den größten Klima Impact hatte in der Geschichte, in den letzten 200 Jahren,
+
+00:24:52.001 --> 00:25:01.900
+<v hans-ulrichschmincke>der auch in Deutschland große Hungersnöte hervorgerufen hat, nicht nur im Süden, sondern auch hier in Norddeutschland.
+
+00:25:01.901 --> 00:25:08.700
+<v hans-ulrichschmincke>Im Juni/Juli fiel in Neuengland in den USA noch Schnee und dann gab es eine große Völkerwanderung.
+
+00:25:08.701 --> 00:25:12.600
+<v hans-ulrichschmincke>Und das war auch ein sehr schwefelreicher Vulkan ähnlich wie der Laacher See Vulkan.
+
+00:25:12.601 --> 00:25:22.100
+<v hans-ulrichschmincke>Also der Vulkan als System, zu dem dann auch die Atmosphäre gehört und darüber dann der Impact auf die Gesellschaft.
+
+00:25:22.101 --> 00:25:31.300
+<v hans-ulrichschmincke>Das ist ja die andere Richtung, weil alle Vulkane haben immer die Gesellschaft beeinflusst in den ursprünglichen Gesellschaften.
+
+00:25:31.301 --> 00:25:38.500
+<v hans-ulrichschmincke>Ich nenne es immer so, ob das nun in Südamerika ist oder in Indonesien, Bali oder so,
+
+00:25:38.501 --> 00:25:44.700
+<v hans-ulrichschmincke>haben die Menschen, die frühen Gesellschaften immer ein duales Bild gehabt von den Vulkanen.
+
+00:25:44.701 --> 00:25:52.200
+<v hans-ulrichschmincke>Auf der einen Seite die Fruchtbarkeit, die fruchtbaren Böden und vielleicht Baumaterial
+
+00:25:52.201 --> 00:25:57.600
+<v hans-ulrichschmincke>und auf der anderen Seite die Furcht, indem sie dann Götter erfunden haben,
+
+00:25:57.601 --> 00:26:02.900
+<v hans-ulrichschmincke>und dann dem gehuldigt haben und Opfergaben gebracht haben, um sie zu beschützen,
+
+00:26:02.901 --> 00:26:10.400
+<v hans-ulrichschmincke>damit die Götter nicht ärgerlich werden und die Leute dann töten durch Glutlawinen oder Lavaströme.
+
+00:26:10.401 --> 00:26:16.600
+<v hans-ulrichschmincke>Das ist immer das duale Bild eigentlich von vielen Naturgefahren.
+
+00:26:16.601 --> 00:26:20.400
+<v hans-ulrichschmincke>Und das gehört, wenn man Vulkane untersucht, immer dazu.
+
+00:26:20.401 --> 00:26:31.600
+<v hans-ulrichschmincke>Während zum Beispiel die letzte Doktorarbeit, die gerade fertig wird, von einer sehr hochbegabten Doktorandin,
+
+00:26:31.601 --> 00:26:42.300
+<v hans-ulrichschmincke>wir haben rausgekriegt, dass die Eruption des Laacher See Vulkans während der Eruption einen extremen Einfluss hatte auf den Rhein.
+
+00:26:42.301 --> 00:26:48.100
+<v hans-ulrichschmincke>Es hat sich erst ein großer Stausee gebildet bei Koblenz, und dann brach der Damm mehrfach
+
+00:26:48.101 --> 00:26:55.100
+<v hans-ulrichschmincke>und dann wurde das Ganze, das Neuwieder Becken ist so ein tektonisches Becken,
+
+00:26:55.101 --> 00:27:00.300
+<v hans-ulrichschmincke>völlig verwüstet mehrfach und dann kamen Glutlawinen weiter nördlich durch ein tiefes Tal
+
+00:27:00.301 --> 00:27:05.000
+<v hans-ulrichschmincke>und haben den Rhein abgesperrt und haben einen vielleicht 100 Meter hohen Damm gebaut
+
+00:27:05.001 --> 00:27:13.400
+<v hans-ulrichschmincke>und dann hat sich ein See gebildet dahinter, der dann über den Mittelrhein bis nach Mainz ging.
+
+00:27:13.401 --> 00:27:16.500
+<v hans-ulrichschmincke>Das waren also mit Abstand die größten Auswirkungen.
+
+00:27:16.501 --> 00:27:21.300
+<v hans-ulrichschmincke>Das heißt, dieser Bereich der Gefahren und der Risiken, man muss das unterscheiden.
+
+00:27:21.301 --> 00:27:31.700
+<v hans-ulrichschmincke>Gefahren ist das, was Sachen oder Menschen beschädigt und Risiko ist das, was man in Heller und Pfennig abrechnen kann.
+
+00:27:31.701 --> 00:27:35.700
+<v hans-ulrichschmincke>Also das monetäre.
+
+00:27:35.701 --> 00:27:40.300
+<v timpritlove>Sie haben ja schon so ein wichtiges Stichwort genannt, Vulkansysteme.
+
+00:27:40.301 --> 00:27:45.600
+<v timpritlove>Man hat halt so auf den ersten Blick, da denkt man sich so, okay Vulkan, das ist da halt so der Berg,
+
+00:27:45.601 --> 00:27:49.100
+<v timpritlove>wo irgendwie so ein bisschen Lava rauskommt, so, das ist dann irgendwie der Vulkan,
+
+00:27:49.101 --> 00:27:55.600
+<v timpritlove>aber das ist ja im wahrsten Sinne des Wortes nur die Spitze des Feuerbergs.
+
+00:27:55.601 --> 00:28:03.100
+<v timpritlove>Man muss das Ganze ja viel größer aufspannen, um irgendwie zu verstehen, was eigentlich dort tatsächlich passiert.
+
+00:28:03.101 --> 00:28:07.900
+<v timpritlove>Wenn man jetzt mal wirklich das ganze System betrachtet und versucht zu verstehen,
+
+00:28:07.901 --> 00:28:17.600
+<v timpritlove>was führt dazu, dass diese Vulkane ausbrechen und was für Kräfte setzen sich dort eigentlich wirklich frei
+
+00:28:17.601 --> 00:28:21.300
+<v timpritlove>und vor allem, was für unterschiedliche Ausprägungen von Vulkanen gibt es,
+
+00:28:21.301 --> 00:28:30.700
+<v timpritlove>was muss man sich in diesem gesamten System als erstes anschauen, um zu verstehen, was letzten Endes passiert?
+
+00:28:30.701 --> 00:28:37.300
+<v timpritlove>Beginnt alles mit der Plattentektonik, ist das der erste Schlüssel, den man sich anschauen sollte?
+
+00:28:37.301 --> 00:28:46.900
+<v hans-ulrichschmincke>Ja, Sie haben das Stichwort genannte, Plattentektonik war das, was die Doppelhelix in der Biologie ein paar Jahre vorher war.
+
+00:28:46.901 --> 00:28:48.300
+<v hans-ulrichschmincke>Das war die große Revolution.
+
+00:28:48.301 --> 00:28:50.800
+<v timpritlove>Zu welchem Zeitpunkt?
+
+00:28:50.801 --> 00:29:00.200
+<v hans-ulrichschmincke>Das kann ich Ihnen ziemlich genau sagen, denn 64 wurde ich in den USA promoviert.
+
+00:29:00.201 --> 00:29:06.700
+<v hans-ulrichschmincke>An Johns Hopkins war man noch nicht so weit, das war eine ganz tolle Uni,
+
+00:29:06.701 --> 00:29:11.600
+<v hans-ulrichschmincke>mit Koryphäen auf verschiednen Gebieten, aber nicht Plattentektonik.
+
+00:29:11.601 --> 00:29:15.500
+<v hans-ulrichschmincke>Da war einer im benachbarten Princeton, mit denen hatten wir auch viel Austausch,
+
+00:29:15.501 --> 00:29:26.700
+<v hans-ulrichschmincke>der war ein spekulativer Mensch und der hat relativ früh die Vorzeichen für Plattentektonik begriffen und hat spekuliert.
+
+00:29:26.701 --> 00:29:37.400
+<v hans-ulrichschmincke>Die Plattentektonik hat nicht direkt was mit Alfred Wegner zu tun, der 1912 über die Verschiebung der Kontinente geschrieben hat,
+
+00:29:37.401 --> 00:29:47.300
+<v hans-ulrichschmincke>und ein brillanter Mensch war, mit brillanten Ideen, aber er hat nie über den Mechanismus damals nachdenken können,
+
+00:29:47.301 --> 00:29:50.900
+<v hans-ulrichschmincke>das hat erst die Meeresforschung gebracht.
+
+00:29:50.901 --> 00:29:59.400
+<v hans-ulrichschmincke>Die haben nämlich in der Mitte zunächst des Atlantiks, das waren englische und amerikanische Wissenschaftler,
+
+00:29:59.401 --> 00:30:07.900
+<v hans-ulrichschmincke>die haben gefunden, dass die Mitte des vulkanischen Meeresbodens zur Mitte hin immer jünger wird.
+
+00:30:07.901 --> 00:30:11.600
+<v hans-ulrichschmincke>Weil das unterschiedlich lange magnetische Orientierung hatte.
+
+00:30:11.601 --> 00:30:14.800
+<v hans-ulrichschmincke>Das kann man datieren.
+
+00:30:14.801 --> 00:30:27.000
+<v hans-ulrichschmincke>Die Paleomagentik ist ein zentrales Feld gewesen für die Entwicklung der Theorie der Plattentektonik.
+
+00:30:27.001 --> 00:30:36.500
+<v hans-ulrichschmincke>Die dann ein paar Jahre später ergänzt wurde durch die Arbeiten auch eines Princetoners Geophysikers,
+
+00:30:36.501 --> 00:30:43.100
+<v hans-ulrichschmincke>der auch mal ein halbes Jahr hier in Kiel war zu Besuch und mit dem wir auch auf die Kanaren gefahren sind,
+
+00:30:43.101 --> 00:30:47.400
+<v hans-ulrichschmincke>der hat die Plumetheorie erfunden oder das Modell vorgestellt.
+
+00:30:47.401 --> 00:30:57.400
+<v hans-ulrichschmincke>Das heißt, dass aus den Tiefen der Erde Material langsam aufsteigt und beim Aufschmelzen dann,
+
+00:30:57.401 --> 00:31:02.100
+<v hans-ulrichschmincke>ich sage mal, 100 Kilometer oder 200 Kilometer Tiefe anfängt zu schmelzen
+
+00:31:02.101 --> 00:31:05.300
+<v hans-ulrichschmincke>und dass so die Magmen produziert werden.
+
+00:31:05.301 --> 00:31:12.800
+<v hans-ulrichschmincke>Zum Beispiel Hawaii, man nennt das den Plume, den benutzt man auch auf Deutsch den Begriff Plume,
+
+00:31:12.801 --> 00:31:15.900
+<v hans-ulrichschmincke>das sind diese Tiefenwurzeln unter Vulkanen.
+
+00:31:15.901 --> 00:31:20.100
+<v hans-ulrichschmincke>Und wenn die Erdplatten, Sie hatten die Plattentektonik erwähnt, die wandern ja,
+
+00:31:20.101 --> 00:31:29.800
+<v hans-ulrichschmincke>gibt es sieben große und viele kleine Platten, und wenn die über diese, wir nennen das oft, Schmelzanomalie dann drüber wandern,
+
+00:31:29.801 --> 00:31:33.800
+<v hans-ulrichschmincke>dann können die Magmen aufsteigen und zum Beispiel Ozeaninseln bilden.
+
+00:31:33.801 --> 00:31:41.200
+<v hans-ulrichschmincke>So kann man sehen, es gibt die großen Hawaiianischen Inseln wie Hawaii, Oʻahu und so weiter
+
+00:31:41.201 --> 00:31:46.800
+<v hans-ulrichschmincke>und dann viele andere, die nennt man die Emperor Sea Mounts, die sind alle nach japanischen Kaisern benannt,
+
+00:31:46.801 --> 00:31:55.400
+<v hans-ulrichschmincke>und die ändern ihre Alter von dem jüngsten, Kīlauea-Vulkan und dann über diese alten in Richtung Japan,
+
+00:31:55.401 --> 00:32:01.800
+<v hans-ulrichschmincke>der älteste ist, glaube ich, 60 Millionen Jahre alt, das ist also eine Altersabfolge.
+
+00:32:01.801 --> 00:32:06.500
+<v hans-ulrichschmincke>Auch für die Kanaren kann man das sehen, die ältesten sind im Osten, Fuerte Ventura und Lanzarote
+
+00:32:06.501 --> 00:32:15.200
+<v hans-ulrichschmincke>und die jüngsten sind da wo gerade die großen Ausbrüche waren, La Palma und El Chichón.
+
+00:32:15.201 --> 00:32:21.900
+<v hans-ulrichschmincke>Und das ist die zweite große Theorie gewesen, die die Vulkanologie wesentlich befruchtet hat.
+
+00:32:21.901 --> 00:32:32.400
+<v timpritlove>Also der Paläomagnetismus, den Sie ansprechen, das ist ja sozusagen das, sich über die Jahrtausende und Jahrmillionen sich ändernde Magnetfeld der Erde,
+
+00:32:32.401 --> 00:32:39.900
+<v timpritlove>ist quasi in den Boden eingegraben, man kann an dem Gestein, was sich dort abgelagert hat, sehen,
+
+00:32:39.901 --> 00:32:42.700
+<v timpritlove>zu welchem Zeitpunkt es quasi geformt wurde.
+
+00:32:42.701 --> 00:32:48.300
+<v hans-ulrichschmincke>Genau, und zwar sind das die eisenhaltigen Minerale in den Basalten.
+
+00:32:48.301 --> 00:32:54.700
+<v hans-ulrichschmincke>Basalt ist das, 99 Prozent aller Magmen auf der Erde sind Basalt.
+
+00:32:54.701 --> 00:33:04.200
+<v hans-ulrichschmincke>Da gibt es verschiedene Typen von und wenn die auskristallisieren, dann bilden sie auch kleine Eisen- und Eisentitanoxyde und die sind magnetisch.
+
+00:33:04.201 --> 00:33:13.300
+<v hans-ulrichschmincke>Und die Erde hat ein Magnetfeld und wenn so ein Lavastrom ausfließt und abkühlt und dann bildet sich die Richtung,
+
+00:33:13.301 --> 00:33:18.200
+<v hans-ulrichschmincke>Nordpol oder Südpol, in diesem Lavastrom ab.
+
+00:33:18.201 --> 00:33:24.600
+<v hans-ulrichschmincke>Und wenn das nach ein paar hunderttausend Jahren der Nordpol am Süden ist und der Südpol am Norden,
+
+00:33:24.601 --> 00:33:30.200
+<v hans-ulrichschmincke>dann ist das die umgekehrte Orientierung und das kann man messen heute mit verschiedenen Instrumenten.
+
+00:33:30.201 --> 00:33:41.000
+<v hans-ulrichschmincke>Und das ist nicht in der Eifel, da hat man das auch gemacht, aber vor allem am Meeresboden die entscheidende Methode gewesen.
+
+00:33:41.001 --> 00:33:46.500
+<v hans-ulrichschmincke>Und später die Sedimente, die auf der vulkanischen Ozeankruste lagern.
+
+00:33:46.501 --> 00:33:54.000
+<v hans-ulrichschmincke>Ich habe ja auch viele Jahre mit dem Ocaen Drilling gearbeitet, vor allem im Atlantik, aber auch im Pazifik,
+
+00:33:54.001 --> 00:33:59.800
+<v hans-ulrichschmincke>da haben wir dann reingebohrt durch die Sedimente und bis in die vulkanischen Gesteine
+
+00:33:59.801 --> 00:34:10.500
+<v hans-ulrichschmincke>und haben die dann untersucht, um so die Entwicklung des Meeresbodens und die Plattentektonik natürlich zu rekonstruieren.
+
+00:34:10.501 --> 00:34:16.500
+<v hans-ulrichschmincke>Denn USA und Europa die hingen mal zusammen und die sind vor 200 Millionen Jahren,
+
+00:34:16.501 --> 00:34:21.100
+<v hans-ulrichschmincke>da hat sich da ein Riss gebildet und das geht weiter auseinander.
+
+00:34:21.101 --> 00:34:27.900
+<v hans-ulrichschmincke>Und wenn man das Glück hat, in Island in den zentralen Teil der Insel zu fahren, dann kann man sehen,
+
+00:34:27.901 --> 00:34:35.400
+<v hans-ulrichschmincke>wie über, weiß nicht, 10 Kilometer ist die Erdkruste eingebrochen und an beiden Seiten stehen die Basalte höher.
+
+00:34:35.401 --> 00:34:43.100
+<v hans-ulrichschmincke>Das ist also lebendiges Sea Floor Spreading, in der Mitte ist das jüngste und dann zu beiden Seiten wird es jeweils älter.
+
+00:34:43.101 --> 00:34:50.500
+<v timpritlove>Und sozusagen aus der Betrachtung dieses Paläomagnetismus, der sich im Boden abzeichnet,
+
+00:34:50.501 --> 00:34:55.800
+<v timpritlove>wurde sozusagen zu dem Zeitpunkt in den 60er Jahren klar, das muss sich verschieben,
+
+00:34:55.801 --> 00:35:03.700
+<v timpritlove>weil das sind alles unterschiedliche Zeiträume, die sich da unten abbilden und daraus entstand überhaupt erst dieses Modell,
+
+00:35:03.701 --> 00:35:12.400
+<v timpritlove>okay, diese ganzen Platten schieben sich übereinander, drücken sich hoch und dadurch entstehen diese Brüche quasi in der Erde,
+
+00:35:12.401 --> 00:35:17.500
+<v timpritlove>diese Gräben, diese Faltungen, ich weiß nicht genau, wie man es richtig bezeichnen soll
+
+00:35:17.501 --> 00:35:22.100
+<v timpritlove>und das ist quasi der Ursprung des Vulkanismus?
+
+00:35:22.101 --> 00:35:28.300
+<v hans-ulrichschmincke>Jain, man muss eigentlich zwei Hauptzonen voneinander unterscheiden.
+
+00:35:28.301 --> 00:35:35.200
+<v hans-ulrichschmincke>Das eine sind die Zonen, die mittelozeanischen Rücken, wo neue Erdkruste entsteht.
+
+00:35:35.201 --> 00:35:42.600
+<v hans-ulrichschmincke>Das wandet auseinander und dann an den Rändern an manchen Kontinenten, nicht an allen,
+
+00:35:42.601 --> 00:35:48.000
+<v hans-ulrichschmincke>aber vor allem rings um den Pazifik, das nennt man den pazifischen Feuerring,
+
+00:35:48.001 --> 00:35:52.600
+<v hans-ulrichschmincke>und auch in der Karibik, da tauchen diese Platten, das ist jetzt vulkanische Kruste
+
+00:35:52.601 --> 00:36:01.800
+<v hans-ulrichschmincke>und darauf liegen ein paar hunderte oder paar tausend Meter Sedimente aus Fossilien und so weiter, die tauchen dort ab.
+
+00:36:01.801 --> 00:36:14.600
+<v hans-ulrichschmincke>Rings um die Aleuten, Nordamerika, da wo mein Doktorarbeitsgebiet war, und dann Mexiko, Mittelamerika, Südamerika, bis nach Patagonien.
+
+00:36:14.601 --> 00:36:25.300
+<v hans-ulrichschmincke>Und bei diesem Abtauchen der Platten wird in ungefähr 100 Kilometern Tiefe das Wasser aus den Sedimenten frei.
+
+00:36:25.301 --> 00:36:32.300
+<v hans-ulrichschmincke>Und wenn das Wasser aufsteigt und mit dem Mantel darüber, da liegt ja dann wieder der Mantel /unverständlich/
+
+00:36:32.301 --> 00:36:38.700
+<v hans-ulrichschmincke>von den Kontinenten da drüber, dann kann das Mantelgestein etwas aufschmelzen, 
+
+00:36:38.701 --> 00:36:46.100
+<v hans-ulrichschmincke>weil die Zugabe von Wasser, das ist jetzt ein petrologisches Problem, erniedrigt den Schmelzpunkt.
+
+00:36:46.101 --> 00:36:50.900
+<v hans-ulrichschmincke>Und dann kann dieses Gestein, dieses Mantelgestein ein bisschen aufschmelzen
+
+00:36:50.901 --> 00:36:56.800
+<v hans-ulrichschmincke>und dann können die Magmen entstehen und aufsteigen und die sind relativ wasserreich
+
+00:36:56.801 --> 00:37:07.900
+<v hans-ulrichschmincke>und darum sind die Vulkane von Südamerika, über Mittelamerika über Aleuten, Japan, Philippinen bis nach Neuseeland,
+
+00:37:07.901 --> 00:37:11.100
+<v hans-ulrichschmincke>die sind alle überwiegend relativ explosiv.
+
+00:37:11.101 --> 00:37:18.100
+<v hans-ulrichschmincke>Das ist also das Wasser der Ozeansedimente, was dann wieder in dem Magma eingebaut wird
+
+00:37:18.101 --> 00:37:19.900
+<v hans-ulrichschmincke>und darum sind diese relativ explosiv.
+
+00:37:19.901 --> 00:37:27.300
+<v hans-ulrichschmincke>Die Magmen an den mittelozeanischen Rücken, also wo die /unverständlich/, die sind nicht explosiv, das sind Lavaströme.
+
+00:37:27.301 --> 00:37:29.400
+<v hans-ulrichschmincke>Oder untermeerische Lavaströme.
+
+00:37:29.401 --> 00:37:35.000
+<v timpritlove>Das heißt, diese Hitze des Magma selber, man würde sich ja jetzt erst mal vorstellen,
+
+00:37:35.001 --> 00:37:39.400
+<v timpritlove>so am heißesten ist es natürlich in der Mitte der Erde und da kommt das alles her.
+
+00:37:39.401 --> 00:37:46.100
+<v timpritlove>Das ist in dem Sinne gar nicht so, sondern es ist an der Stelle, wo diese Platten aufeinandertreffen
+
+00:37:46.101 --> 00:37:50.500
+<v timpritlove>bzw. in dem Moment, wo sie absinken, durch das Mischen mit dem Wasser entsteht überhaupt erst diese Hitze,
+
+00:37:50.501 --> 00:37:55.000
+<v timpritlove>die das Magma liefert, was letzten Endes die Vulkane bedient?
+
+00:37:55.001 --> 00:38:02.900
+<v hans-ulrichschmincke>Ja, aber nur die Vulkane, die über diesen Subduktionszonen, so nennt man das, liegen.
+
+00:38:02.901 --> 00:38:08.600
+<v hans-ulrichschmincke>Das sind auch Teile von Griechenland die Vulkane, Santorini und so oder auch die Äolischen Inseln,
+
+00:38:08.601 --> 00:38:12.900
+<v hans-ulrichschmincke>das sind alles solche Subduktionsvulkane.
+
+00:38:12.901 --> 00:38:20.600
+<v hans-ulrichschmincke>Der überwiegende Teil der Magmen auf der Erde entsteht durch Druckentlastung an den mittelozeanischen Rücken.
+
+00:38:20.601 --> 00:38:26.200
+<v hans-ulrichschmincke>Das ist mit Abstand das meiste Magma, das basaltische Magma, wie auf dem Mond zum Beispiel
+
+00:38:26.201 --> 00:38:30.600
+<v hans-ulrichschmincke>und einigen Planeten, das ist basaltisch, das ist das primitive Ausgangsmagma.
+
+00:38:30.601 --> 00:38:41.000
+<v hans-ulrichschmincke>Diese explosiven Vulkane, wie der Fuji San oder der Mount St .Helens oder Pinatubo,
+
+00:38:41.001 --> 00:38:51.600
+<v hans-ulrichschmincke>das sind sozusagen sekundäre Magmen, die entstehen beim Abtauchen, übrigens so im Pazifik oder rings um Japan,
+
+00:38:51.601 --> 00:38:59.400
+<v hans-ulrichschmincke>in Neuseeland, Philippinen, da gibt es auch so Subduktionszonen, da taucht also die ozeanische Platte ab
+
+00:38:59.401 --> 00:39:06.400
+<v hans-ulrichschmincke>und dann wird Wasser frei und das fördert die Aufschmelzung vom Mantel.
+
+00:39:06.401 --> 00:39:09.700
+<v hans-ulrichschmincke>Also das ist schon so, dass der Kern der Erde ganz heiß ist natürlich, der Erdkern.
+
+00:39:09.701 --> 00:39:17.900
+<v hans-ulrichschmincke>Und über dem Erdkern, so in 2900 Kilometer Tiefe, fängt der Erdmantel an.
+
+00:39:17.901 --> 00:39:27.800
+<v hans-ulrichschmincke>Und das ist ein Problem, wo viele Geophysiker dran arbeiten, warum fangen einige Teile vom Erdmantel an aufzusteigen?
+
+00:39:27.801 --> 00:39:37.100
+<v hans-ulrichschmincke>So wie in einem Wasserkochtopf, wenn von unten aufgeheizt wird, da steigt an einigen Stellen heißes Wasser nach oben und blubbert dann und dampft dann.
+
+00:39:37.101 --> 00:39:43.300
+<v hans-ulrichschmincke>Also der Erdmantel, ungefähr 2900 Kilometer dick, der ist nicht stationär,
+
+00:39:43.301 --> 00:39:47.700
+<v hans-ulrichschmincke>da finden ganz langsame Bewegungen statt.
+
+00:39:47.701 --> 00:39:59.300
+<v hans-ulrichschmincke>Und wenn dieses kristalline, also es besteht aus Kristallen der Erdmantel und wenn Teile davon aufsteigen in,
+
+00:39:59.301 --> 00:40:06.800
+<v hans-ulrichschmincke>sagen wir mal, 100 Kilometer oder ungefähr diese Tiefe, dann ist der Druck so niedrig,
+
+00:40:06.801 --> 00:40:11.200
+<v hans-ulrichschmincke>dann können einige Minerale anfangen zu schmelzen und Schmelze produzieren.
+
+00:40:11.201 --> 00:40:17.100
+<v hans-ulrichschmincke>Und die Schmelze, weil sie leichter ist, die kann dann an /unverständlich/-Grenzen aufsteigen
+
+00:40:17.101 --> 00:40:24.100
+<v hans-ulrichschmincke>und sammelt sich, so wie in der Eifel, meistens an der Grenze zwischen Erdmantel und Erdkruste.
+
+00:40:24.101 --> 00:40:27.400
+<v hans-ulrichschmincke>Die ist in der Eifel ungefähr 30 Kilometer.
+
+00:40:27.401 --> 00:40:34.700
+<v hans-ulrichschmincke>Die Erdkruste ist so der Schaum auf der Erde, der sich im Laufe der letzten 4,5 Milliarden Jahren gebildet hat.
+
+00:40:34.701 --> 00:40:35.200
+<v timpritlove>Da, wo wir drauf rumlaufen.
+
+00:40:35.201 --> 00:40:41.800
+<v hans-ulrichschmincke>Da, wo wir drauf rumlaufen, Sedimente gefaltet, metamorphisch /unverständlich/ und so weiter und so weiter.
+
+00:40:41.801 --> 00:40:49.200
+<v hans-ulrichschmincke>Wo hier wir aus dem Fenster hier die Bauern ihre Felder bestellen, ist die Erdkruste
+
+00:40:49.201 --> 00:40:52.600
+<v hans-ulrichschmincke>und die wird natürlich nach unten immer heißer.
+
+00:40:52.601 --> 00:40:59.000
+<v hans-ulrichschmincke>Und ungefähr in der Eifel, so ungefähr 30 Kilometer, hier in Schleswig-Holstein wahrscheinlich ähnlich,
+
+00:40:59.001 --> 00:41:06.600
+<v hans-ulrichschmincke>da kommt dann plötzlich ein Sprung und dann fangen die schweren, dichten Gesteine des Erdmantels an.
+
+00:41:06.601 --> 00:41:13.500
+<v hans-ulrichschmincke>Die bestehen aus Olivin, das ist so typisches Mineral vom Erdmantel und noch ein paar andere.
+
+00:41:13.501 --> 00:41:19.300
+<v hans-ulrichschmincke>Und in der Eifel hat man rausgefunden, die Geophysiker schon vor einigen Jahren, arbeiten jetzt wieder dran,
+
+00:41:19.301 --> 00:41:27.200
+<v hans-ulrichschmincke>ist das keine scharfe Grenze wie in manchen Gebieten, sondern das ist so paar Kilometer dick.
+
+00:41:27.201 --> 00:41:36.500
+<v hans-ulrichschmincke>Und das ist die Schicht, wo sich in der Eifel dann Magmen, wenn sie von unten aufsteigen, sammeln zu einem Reservoir.
+
+00:41:36.501 --> 00:41:44.400
+<v hans-ulrichschmincke>Da drüber folgen jetzt diese 30 Kilometer Erdkruste und manchmal wird es den Magmen da in der Tiefe zu viel
+
+00:41:44.401 --> 00:41:49.000
+<v hans-ulrichschmincke>oder es wird zu viel gefördert von unten und dann können sie aufsteigen.
+
+00:41:49.001 --> 00:41:54.900
+<v hans-ulrichschmincke>Dann bilden sie Risse in der Erdkruste und normalerweise steigen die nicht bis ganz nach oben,
+
+00:41:54.901 --> 00:42:01.100
+<v hans-ulrichschmincke>da reicht dann der Auftrieb nicht, dann bilden sie Magmakammern, das ist ein Problem, an dem wir gerade ganz aktuell arbeiten.
+
+00:42:01.101 --> 00:42:08.900
+<v hans-ulrichschmincke>In Mare in der Eifel, da haben wir Hinweise, dass sich da so in 20 Kilometern Magmakammern gebildet haben.
+
+00:42:08.901 --> 00:42:14.800
+<v hans-ulrichschmincke>Und von da aus kann es dann weitergehen, wenn wieder ein Schwung kommt, mit viel CO2,
+
+00:42:14.801 --> 00:42:20.400
+<v hans-ulrichschmincke>mit vielen magmatischen Gasen, dann kann es zu einer Eruption kommen.
+
+00:42:20.401 --> 00:42:28.200
+<v hans-ulrichschmincke>Also fast alle Magmen, die da von dieser Grenzschicht kommen, kommen nicht direkt an die Erdoberfläche.
+
+00:42:28.201 --> 00:42:35.600
+<v hans-ulrichschmincke>Dazu reicht der Auftrieb nicht und dann bilden sich Magmakammern und in Magmakammern können sich die Magmen wieder verändern,
+
+00:42:35.601 --> 00:42:39.900
+<v hans-ulrichschmincke>können sich mehr Gase ansammeln und die haben dann wieder ihren eigenen Druck
+
+00:42:39.901 --> 00:42:44.600
+<v hans-ulrichschmincke>und können dann die letzte Wegstrecke aufdrücken.
+
+00:42:44.601 --> 00:42:46.600
+<v timpritlove>Mehr oder weniger explosiv.
+
+00:42:46.601 --> 00:42:53.500
+<v hans-ulrichschmincke>Ja, die ersten Explosionen in so einem Vulkan die entstehen dann, wenn dieses heiße Magma,
+
+00:42:53.501 --> 00:43:03.300
+<v hans-ulrichschmincke>Basalte sind die häufigsten Magmen, die haben so 1100-1200 Grad, sind also sehr heiß,
+
+00:43:03.301 --> 00:43:09.700
+<v hans-ulrichschmincke>und wenn die in einen Bereich mit Grundwasser kommen, dann fängt die Explosivität erst richtig an,
+
+00:43:09.701 --> 00:43:14.900
+<v hans-ulrichschmincke>weil bei niedrigen Drucken, also paar hundert Meter unter der Erdoberfläche, wenn das Wasser aufgeheizt wird
+
+00:43:14.901 --> 00:43:21.800
+<v hans-ulrichschmincke>und zu Dampf umgewandelt wird, das ist dann ein Volumenzuwachs vom Faktor 1000.
+
+00:43:21.801 --> 00:43:31.200
+<v hans-ulrichschmincke>Das heißt, plötzlich entsteht da sehr viel Dampf und der übt einen Druck aus und dadurch können dann Teile der allerersten Erdkruste zerbrechen
+
+00:43:31.201 --> 00:43:33.000
+<v hans-ulrichschmincke>und dann kann das Magma dann nachkommen.
+
+00:43:33.001 --> 00:43:36.300
+<v hans-ulrichschmincke>Das finden wir also an vielen Vulkanen in der Eifel.
+
+00:43:36.301 --> 00:43:45.100
+<v hans-ulrichschmincke>Und darum sind wir und meine Studenten versuchen immer, nicht nur ein paar Proben zu nehmen von einem Vulkan,
+
+00:43:45.101 --> 00:43:50.700
+<v hans-ulrichschmincke>sondern zu gucken, wie hat was angefangen und wie hat es geendet.
+
+00:43:50.701 --> 00:43:57.100
+<v hans-ulrichschmincke>Und da sehen wir in vielen Vulkanen, müssen wir buddeln oft, wo sind die untersten Schichten,
+
+00:43:57.101 --> 00:44:06.400
+<v hans-ulrichschmincke>dass da dann Magma mit Wasser reagiert hat, dann findet man viel Nebengestein, also Schiefer oder Sandstein oder was immer
+
+00:44:06.401 --> 00:44:14.000
+<v hans-ulrichschmincke>und dass die Magmabestandteile sind vielleicht abgeschrägt, glasig, das zeigt alles, da war Wasser im Spiel.
+
+00:44:14.001 --> 00:44:25.400
+<v hans-ulrichschmincke>Und das ist jetzt dieses aktuelle Forschungsprojekt von mir, diese Mare, die für die Touristen besonders attraktiv sind in der Westeifel,
+
+00:44:25.401 --> 00:44:32.100
+<v hans-ulrichschmincke>das ist eigentlich der Hauptattraktionspunkt, sind diese Mare.
+
+00:44:32.101 --> 00:44:39.100
+<v hans-ulrichschmincke>Wenn man davor steht, dann wird man beinahe ganz ehrfürchtig, weil da offensichtlich eine große Explosion stattgefunden hat.
+
+00:44:39.101 --> 00:44:44.700
+<v timpritlove>Also Mare, so ein Vulkankrater, in der Regel mit Wasser gefüllt.
+
+00:44:44.701 --> 00:44:47.500
+<v hans-ulrichschmincke>Ja, in manchen trockenen Gegenden ist es auch trocken, aber in Deutschland ist das wassergefüllt.
+
+00:44:47.501 --> 00:44:51.600
+<v timpritlove>Und Maare mit AA.
+
+00:44:51.601 --> 00:44:51.500
+<v hans-ulrichschmincke>Mit AA.
+
+00:44:51.501 --> 00:44:58.300
+<v hans-ulrichschmincke>Und drum herum hat man dann so einen Kranz von ausgeworfenem Gestein, viel Nebengestein.
+
+00:44:58.301 --> 00:45:03.100
+<v hans-ulrichschmincke>Und die wurden die letzten 50 Jahre, auch ich selber habe an einigen gearbeitet,
+
+00:45:03.101 --> 00:45:11.500
+<v hans-ulrichschmincke>im Lacher See ist ein großes Maar, dass da sehr viel Wechselwirkung zwischen Magma und Grundwasser stattfand.
+
+00:45:11.501 --> 00:45:20.300
+<v hans-ulrichschmincke>Und jetzt sind wir dabei, das ist das aktuelle Forschungsprojekt, dass wir sehen im Süden der Westeifel
+
+00:45:20.301 --> 00:45:25.000
+<v hans-ulrichschmincke>waren die speziellen Maaren dort sehr sehr CO2-reich und niedrig viskos
+
+00:45:25.001 --> 00:45:32.700
+<v hans-ulrichschmincke>und da haben wir Hinweise, dass die schon in etwa 20 Kilometern zerrissen sind,
+
+00:45:32.701 --> 00:45:35.900
+<v hans-ulrichschmincke>und zwar bei hohen Temperaturen.
+
+00:45:35.901 --> 00:45:42.700
+<v hans-ulrichschmincke>Dass also nicht das Zusammentreffen von Magma und Wasser diese Krater, diese Maarkrater geschaffen hat,
+
+00:45:42.701 --> 00:45:44.500
+<v hans-ulrichschmincke>sondern wahrscheinlich Gasexplosionen.
+
+00:45:44.501 --> 00:45:49.700
+<v hans-ulrichschmincke>Sie kennen den Spruch, Diamonds are girls best friend.
+
+00:45:49.701 --> 00:45:51.300
+<v timpritlove>Schon mal gehört.
+
+00:45:51.301 --> 00:45:54.300
+<v hans-ulrichschmincke>Schon mal gehört, wo kommen die Diamanten her?
+
+00:45:54.301 --> 00:45:58.300
+<v hans-ulrichschmincke>Die kommen von bestimmten Vulkanen, die nennt man Kimberlit.
+
+00:45:58.301 --> 00:46:02.100
+<v hans-ulrichschmincke>In Südafrika, in Sibirien, in Brasilien, in Kanada.
+
+00:46:02.101 --> 00:46:07.300
+<v hans-ulrichschmincke>Und das sind ein ganz spezieller Typ von Vulkanen.
+
+00:46:07.301 --> 00:46:12.200
+<v hans-ulrichschmincke>Da kommt das Magma aus einer Tief von über 150 Kilometer Tiefe,
+
+00:46:12.201 --> 00:46:14.700
+<v hans-ulrichschmincke>also aus sehr großer Tiefe aus dem Erdmantel.
+
+00:46:14.701 --> 00:46:22.800
+<v hans-ulrichschmincke>Und nach allem, ich habe noch nie an Kimberliten selber gearbeitet, aber gibt es viele Spezialisten,
+
+00:46:22.801 --> 00:46:30.600
+<v hans-ulrichschmincke>sind das Gasvulkane, die durch Kohlendioxid, CO2, das ist ja heutzutage jedermann geläufig das CO2,
+
+00:46:30.601 --> 00:46:35.200
+<v hans-ulrichschmincke>was das für eine Rolle spielt, die werden da durchgebohrt durch den Erdmantel und die Kruste
+
+00:46:35.201 --> 00:46:43.900
+<v hans-ulrichschmincke>und bei den großen Drucken, über 150 Kilometer Tiefe, entstehen Diamanten, das ist ja Kohlenstoff.
+
+00:46:43.901 --> 00:46:48.600
+<v hans-ulrichschmincke>Und da ist dann auch noch die Gasphase dabei, denn auch im Erdmantel gibt es Karbonate.
+
+00:46:48.601 --> 00:46:53.100
+<v hans-ulrichschmincke>Also CO2-reiche Minerale, nennt man Dolomit oder Karbonat oder so.
+
+00:46:53.101 --> 00:47:01.200
+<v hans-ulrichschmincke>Und diese Maare, die wir jetzt bearbeiten, haben im Prinzip insofern Ähnlichkeit mit diesen Kimberliten,
+
+00:47:01.201 --> 00:47:07.600
+<v hans-ulrichschmincke>als sie allerdings nicht von der großen Tiefe, 150 Kilometer, sondern vielleicht 20 Kilometer,
+
+00:47:07.601 --> 00:47:17.100
+<v hans-ulrichschmincke>von da war sehr viel CO2 und hat das Magma zerrissen und ist dann als Jet, als Gasjet an die Oberfläche befördert worden.
+
+00:47:17.101 --> 00:47:23.700
+<v hans-ulrichschmincke>Ich habe in einem Kapitel in dem Buch, was ich gerade über die Eifel neu schreibe, geschrieben,
+
+00:47:23.701 --> 00:47:31.800
+<v hans-ulrichschmincke>es ist nicht so, dass die Orte da, Gillenfeld oder wie die heißen, da jetzt Anziehungspunkt für Diamantenschürfer werden sollen
+
+00:47:31.801 --> 00:47:38.700
+<v hans-ulrichschmincke>und auch De Beers hat noch keine Lizenzen beantragt, um da abzubauen.
+
+00:47:38.701 --> 00:47:46.600
+<v hans-ulrichschmincke>Das sind also keine Magmen direkt aus dem Erdmantel, sondern aus einer Zwischenstation.
+
+00:47:46.601 --> 00:47:50.400
+<v timpritlove>Wieviele Arten von Vulkanen muss man denn dann unterscheiden?
+
+00:47:50.401 --> 00:47:56.400
+<v timpritlove>Weil soviel habe ich jetzt schon gelernt, ein Vulkan ist nicht gleich dem anderen Vulkan.
+
+00:47:56.401 --> 00:48:02.600
+<v timpritlove>Nur weil irgendwo ein bisschen Magma aus der Erde austritt, ist es nicht unbedingt immer derselbe Prozess, der dort stattfindet.
+
+00:48:02.601 --> 00:48:07.300
+<v timpritlove>Sondern die Prozesse, die sich abspielen, hängen davon ab, wo ist es,
+
+00:48:07.301 --> 00:48:12.800
+<v timpritlove>was ist sozusagen überhaupt erst mal der Ursprung des aufsteigenden Magmas auf der einen Seite.
+
+00:48:12.801 --> 00:48:16.900
+<v timpritlove>Auf der anderen Seite, was die geologische Situation an der Stelle, was befindet sich da?
+
+00:48:16.901 --> 00:48:22.700
+<v timpritlove>Ist es da trocken, ist da viel Wasser, so kann man das auf jeden Fall schon mal unterscheiden.
+
+00:48:22.701 --> 00:48:30.100
+<v timpritlove>Wie unterschiedlich sind Vulkane und welche Gruppen muss man da unterscheiden?
+
+00:48:30.101 --> 00:48:33.900
+<v hans-ulrichschmincke>Also wieviele verschiedene Vulkane gibt es.
+
+00:48:33.901 --> 00:48:39.400
+<v hans-ulrichschmincke>Die Basis der Klassifikation ist ja zunächst nach der chemischen Zusammensetzung.
+
+00:48:39.401 --> 00:48:47.700
+<v hans-ulrichschmincke>Und damit zusammenhängend dann noch die Mineralogie und wenn man das ganz grob fasst,
+
+00:48:47.701 --> 00:48:52.900
+<v hans-ulrichschmincke>sind die mit Abstand meisten Vulkane basaltisch.
+
+00:48:52.901 --> 00:48:57.200
+<v hans-ulrichschmincke>Das sind die ganzen Ozeanböden, das sind zwei Drittel unserer Erdoberfläche.
+
+00:48:57.201 --> 00:49:03.900
+<v hans-ulrichschmincke>Ist also eine paar Kilometer mächtige basaltische Schicht aus Gängen und aus untermeerischen Laven.
+
+00:49:03.901 --> 00:49:11.600
+<v hans-ulrichschmincke>Und auch auf Kontinenten, wenn Sie von der Eifel über den Westerwald gehen und Vogelsberg und weiter nach Osten,
+
+00:49:11.601 --> 00:49:20.400
+<v hans-ulrichschmincke>nach Tschechien und in die Lausitz, da sind die allermeisten Vulkane, 95-99 Prozent basaltisch.
+
+00:49:20.401 --> 00:49:23.600
+<v hans-ulrichschmincke>Nur wie sie ausbrechen kann sehr unterschiedlich sein.
+
+00:49:23.601 --> 00:49:31.600
+<v hans-ulrichschmincke>In meinem Doktorarbeitsgebiet waren das Riesenflächen, da ist ein Basaltstrom, der bedeckte eine Fläche größer als Nordrhein-Westfalen.
+
+00:49:31.601 --> 00:49:35.100
+<v hans-ulrichschmincke>Das sind die sogenannten Flutbasalte.
+
+00:49:35.101 --> 00:49:41.200
+<v hans-ulrichschmincke>Die findet man auch nicht nur da in Washington und Oregon und Idaho,
+
+00:49:41.201 --> 00:49:53.200
+<v hans-ulrichschmincke>sondern auch in Südamerika und in Indien, der ganz südliche Teil von Indien ist von solchen Flutbasalten bedeckt.
+
+00:49:53.201 --> 00:49:59.300
+<v hans-ulrichschmincke>Dann gibt es natürlich die explosiven basaltischen Vulkane, wie die Schlackenkegel in der Eifel.
+
+00:49:59.301 --> 00:50:04.000
+<v hans-ulrichschmincke>Das sind entweder Schlackenkegel oder es sind Maare, diese Löcher, die ich eben beschrieben habe.
+
+00:50:04.001 --> 00:50:06.000
+<v timpritlove>Ja.
+
+00:50:06.001 --> 00:50:15.300
+<v hans-ulrichschmincke>So und dann gibt es die, wir sagen, höherdifferenzierten oder fraktionierten Vulkane,
+
+00:50:15.301 --> 00:50:21.600
+<v hans-ulrichschmincke>die mehr Gas haben, meistens mehr Silizium oder mehr Aluminium, weniger Magnesium,
+
+00:50:21.601 --> 00:50:25.500
+<v hans-ulrichschmincke>weniger Eisen und so weiter und so weiter.
+
+00:50:25.501 --> 00:50:29.400
+<v hans-ulrichschmincke>Dazu gehört Laacher See, die nennt man dann Phonolit oder Trachyt.
+
+00:50:29.401 --> 00:50:34.000
+<v hans-ulrichschmincke>Gibt es auch so bisschen im Vogelsberg, aber nicht viel.
+
+00:50:34.001 --> 00:50:43.300
+<v hans-ulrichschmincke>Vesuv zum Beispiel ist zum Teil sehr höherdifferenziert und natürlich die im pazifischen Feuerring
+
+00:50:43.301 --> 00:50:48.600
+<v hans-ulrichschmincke>von Neuseeland über Philippinen und Japan und Aleuten und so weiter,
+
+00:50:48.601 --> 00:50:53.800
+<v hans-ulrichschmincke>Kanada, USA bis Mittelamerika und Südamerika.
+
+00:50:53.801 --> 00:50:59.900
+<v hans-ulrichschmincke>Das sind explosive Vulkane, da gibt es Namen wie Andesit, ist da ein häufiges Gestein,
+
+00:50:59.901 --> 00:51:02.400
+<v hans-ulrichschmincke>kommt natürlich von den Anden.
+
+00:51:02.401 --> 00:51:10.200
+<v hans-ulrichschmincke>Das ist so zwischen Mylonit und Basalt, die sind noch nicht so ganz entwickelt, hochentwickelt,
+
+00:51:10.201 --> 00:51:17.100
+<v hans-ulrichschmincke>also viele dieser berühmten Vulkane in Chile oder in Peru oder Ecuador oder …
+
+00:51:17.101 --> 00:51:21.500
+<v timpritlove>Jetzt muss ich mal eine Erkenntnis reinwerfen, die für Sie wahrscheinlich vollkommen selbstverständlich ist,
+
+00:51:21.501 --> 00:51:26.000
+<v timpritlove>aber wo ich vorhin erst mal so ein bisschen meinen Kopf so drum herum legen musste.
+
+00:51:26.001 --> 00:51:33.300
+<v timpritlove>Sie klassifizieren die Vulkane nach den Gesteinen, die dort entstehen, die dort sozusagen auftreten
+
+00:51:33.301 --> 00:51:38.500
+<v timpritlove>und mit diesem Vulkan geboren werden.
+
+00:51:38.501 --> 00:51:43.500
+<v hans-ulrichschmincke>Ja, das ist deshalb richtig, und das ist wiederum mein aktuelles Forschungsprojekt,
+
+00:51:43.501 --> 00:51:50.700
+<v hans-ulrichschmincke>dass die Eigenschaften eines Magmas, seine chemischen Eigenschaften, seine Flüssigkeit,
+
+00:51:50.701 --> 00:51:58.000
+<v hans-ulrichschmincke>seine Viskosität, wie wir sagen, sein Gasgehalt, die bestimmen im Wesentlichen auch das Eruptionsverhalten.
+
+00:51:58.001 --> 00:52:00.500
+<v hans-ulrichschmincke>Und darum ist das für uns die primäre Sache.
+
+00:52:00.501 --> 00:52:08.400
+<v hans-ulrichschmincke>Das andere, ob Sie nun Stratovulkane sagen oder so und so, ist eher sekundär.
+
+00:52:08.401 --> 00:52:09.700
+<v timpritlove>Also wie der aufgebaut ist meinen Sie?
+
+00:52:09.701 --> 00:52:10.100
+<v hans-ulrichschmincke>Wie der aufgebaut ist.
+
+00:52:10.101 --> 00:52:21.700
+<v hans-ulrichschmincke>Zum Beispiel kann ich in der Eifel, das ist auch neu, das sehr viel von den Schlackenkegeln in der Westeifel und Osteifel sind ganz unterschiedlich.
+
+00:52:21.701 --> 00:52:28.300
+<v hans-ulrichschmincke>Einige haben viele viele kleine hochexplosive ausgebrochen und wenn ich mir angucke,
+
+00:52:28.301 --> 00:52:29.900
+<v hans-ulrichschmincke>die haben eine andere Zusammensetzung.
+
+00:52:29.901 --> 00:52:35.000
+<v hans-ulrichschmincke>Das ist auch das, was auch ich in der Vergangenheit so pauschal Schlackenkegel genannt habe,
+
+00:52:35.001 --> 00:52:39.700
+<v hans-ulrichschmincke>teile ich jetzt in zwei Gruppen unter, weil die Produkte sind so unterschiedlich.
+
+00:52:39.701 --> 00:52:44.700
+<v hans-ulrichschmincke>Und wenn ich mir da die Chemie angucken, aha deshalb.
+
+00:52:44.701 --> 00:52:50.000
+<v hans-ulrichschmincke>Weil das war so dünnflüssiges Magma und so viel Gas, die sind anders ausgebrochen.
+
+00:52:50.001 --> 00:52:57.100
+<v timpritlove>Ich sehe schon, also Ihr Blick auf den Vulkan ist eigentlich viel mehr, das ist so eine Art Gesteinsfabrik.
+
+00:52:57.101 --> 00:52:57.800
+<v hans-ulrichschmincke>Ja.
+
+00:52:57.801 --> 00:53:02.700
+<v timpritlove>Das ist einfach so der Ort, wo einfach spezielle Gesteinsverbindungen entstehen,
+
+00:53:02.701 --> 00:53:12.900
+<v timpritlove>weil es eben der vulkanische Prozess primär ist, der letzten Endes den Erdmantel mit all diesen unterschiedlichen Ausprägungen versorgt.
+
+00:53:12.901 --> 00:53:22.300
+<v timpritlove>Und was an einem Vulkan entsteht, ist die Gesamtmischung aus allem, was da zusammengekommen ist
+
+00:53:22.301 --> 00:53:25.200
+<v timpritlove>und unter welchen Bedingungen es zusammengekommen ist.
+
+00:53:25.201 --> 00:53:29.600
+<v hans-ulrichschmincke>Muss ich ein bisschen ergänzen und modifizieren.
+
+00:53:29.601 --> 00:53:37.400
+<v hans-ulrichschmincke>Es ist so, die Erdplatten bestehen aus zwei Teilen, wie gesagt, ob der Schaum der Erde die Erdkruste,
+
+00:53:37.401 --> 00:53:43.400
+<v hans-ulrichschmincke>die in der Eifel 30 Kilometer dick ist und hier in Schleswig-Holstein auch so ähnlich,
+
+00:53:43.401 --> 00:53:50.900
+<v hans-ulrichschmincke>und dann kommt eine oberste Schicht vom Mantel, die ist in der Eifel 50-100 Kilometer dick
+
+00:53:50.901 --> 00:53:56.700
+<v hans-ulrichschmincke>und die ist mit der Erdkruste verschweißt und das sind die Platten.
+
+00:53:56.701 --> 00:53:59.800
+<v hans-ulrichschmincke>Und das geht selbst bei Geologen manchmal durcheinander, wenn ich es lese.
+
+00:53:59.801 --> 00:54:07.800
+<v hans-ulrichschmincke>Also die Platten bestehen, hat nichts zu tun mit der Erdkruste, die Erdkruste ist nur wie auf einem Kuchen das Frosting oben drauf,
+
+00:54:07.801 --> 00:54:13.900
+<v hans-ulrichschmincke>die ist aber mechanisch gekoppelt mit der obersten Schicht vom Mantel.
+
+00:54:13.901 --> 00:54:19.900
+<v hans-ulrichschmincke>Und man nennt diese Erdkruste plus diesen Mantel zusammen auch Lithosphäre,
+
+00:54:19.901 --> 00:54:23.400
+<v hans-ulrichschmincke>Lithos ist der Stein, die Gesteinsschicht.
+
+00:54:23.401 --> 00:54:28.700
+<v hans-ulrichschmincke>So und da drunter folgt, das nennt man dann Asthenosphäre, der mehr primitivere Mantel.
+
+00:54:28.701 --> 00:54:39.000
+<v hans-ulrichschmincke>So, wenn jetzt, und das kann man sich als Laie gut vorstellen, im Laufe der Erdgeschichte wird in den tieferen Teilen des Erdmantels,
+
+00:54:39.001 --> 00:54:47.200
+<v hans-ulrichschmincke>also in der sogenannten Asthenosphäre, wenn das langsam aufsteigt, entsteht Schmelze, das Magma.
+
+00:54:47.201 --> 00:54:53.900
+<v hans-ulrichschmincke>Und die steigt auf, aber hat manchmal nicht die Kraft, bis zur Moho, bis zur Kruste aufzusteigen,
+
+00:54:53.901 --> 00:54:57.100
+<v hans-ulrichschmincke>sondern bleibt in der Lithosphäre stecken.
+
+00:54:57.101 --> 00:55:02.100
+<v hans-ulrichschmincke>Ich nenne das die Kompostschicht des Mantels, nur ganz privater Ausdruck.
+
+00:55:02.101 --> 00:55:07.500
+<v hans-ulrichschmincke>Weil im Laufe der Zeit immer Magma aufsteigt und stecken bleibt.
+
+00:55:07.501 --> 00:55:12.500
+<v hans-ulrichschmincke>Ich habe das mal gesehen in Neufundland in Kanada, da ist schon ein Stück Erdmantel hochgehoben,
+
+00:55:12.501 --> 00:55:18.100
+<v hans-ulrichschmincke>da kann man diese Gänge sehen, aber sonst ist nur Olivin, sonst ist nur normaler Erdmantel.
+
+00:55:18.101 --> 00:55:27.600
+<v hans-ulrichschmincke>So und jetzt kommt wieder so ein, wie gesagt, Plum, so heißer langsamer Strom aus Kristall,
+
+00:55:27.601 --> 00:55:33.900
+<v hans-ulrichschmincke>aus größeren Erdtiefen, ist heiß und trifft dann an diese Kompostschicht,
+
+00:55:33.901 --> 00:55:39.700
+<v hans-ulrichschmincke>das ist jetzt also ein Ausdruck, den ich jetzt zum ersten Mal in einer Auflage benutze,
+
+00:55:39.701 --> 00:55:40.000
+<v hans-ulrichschmincke>ich glaube, den hat niemand benutzt.
+
+00:55:40.001 --> 00:55:42.200
+<v timpritlove>Gibt es hier ganz exklusiv vorab.
+
+00:55:42.201 --> 00:55:43.300
+<v hans-ulrichschmincke>Ganz exklusiv.
+
+00:55:43.301 --> 00:55:45.300
+<v hans-ulrichschmincke>Aber ich glaube, er ist verständlich für einen Laien.
+
+00:55:45.301 --> 00:55:46.100
+<v timpritlove>Absolut.
+
+00:55:46.101 --> 00:55:48.000
+<v hans-ulrichschmincke>Und jetzt wird das aufgeschmolzen.
+
+00:55:48.001 --> 00:55:48.800
+<v hans-ulrichschmincke>Und was schmilzt als erstes?
+
+00:55:48.801 --> 00:55:53.600
+<v hans-ulrichschmincke>Das sind die Gänge, nicht die Olivine, nicht das alte Mantelgestein.
+
+00:55:53.601 --> 00:55:59.000
+<v hans-ulrichschmincke>Da braucht mehr Temperaturen, sondern diese Gänge schmelzen zuerst.
+
+00:55:59.001 --> 00:56:08.100
+<v hans-ulrichschmincke>So und diese Gänge, die vielleicht, was weiß ich, 50 Millionen Jahre alt oder 100 oder 300 Millionen Jahre alt sind die da drin,
+
+00:56:08.101 --> 00:56:12.100
+<v hans-ulrichschmincke>die werden jetzt wieder bisschen aufgeschmolzen.
+
+00:56:12.101 --> 00:56:17.400
+<v hans-ulrichschmincke>Das heißt, das Magma, was dann an der Moho, an der Grenze zwischen Erdkruste und Erdmantel kommt,
+
+00:56:17.401 --> 00:56:25.700
+<v hans-ulrichschmincke>das kommt zum Teil aus größeren Pristinen, ursprünglichen und dann aus dieser Kompostschicht.
+
+00:56:25.701 --> 00:56:33.200
+<v hans-ulrichschmincke>Und die Geochemiker, ganz spezielle Arbeitsmethoden, die Isotopen-Geochemiker,
+
+00:56:33.201 --> 00:56:39.700
+<v hans-ulrichschmincke>die können, wenn sie jetzt so ein Stück Basalt haben und versuchen da Strontium und Neodym und Blei und so weiter,
+
+00:56:39.701 --> 00:56:47.200
+<v hans-ulrichschmincke>Isotopen zu messen, sie sind ja unterschiedlich, jedes Element hat verschiedene Isotopen.
+
+00:56:47.201 --> 00:56:50.200
+<v hans-ulrichschmincke>Dann können Sie rauskriegen, okay, das kommt wahrscheinlich aus der Lithosphäre,
+
+00:56:50.201 --> 00:56:57.300
+<v hans-ulrichschmincke>das hat da schon lange Zeit gesessen, vielleicht schon seit dem Paläozoikum und ist jetzt wieder aufgeschmolzen.
+
+00:56:57.301 --> 00:57:04.500
+<v hans-ulrichschmincke>So, das, was wir hier gerade, ich komme jetzt wieder auf das aktuelle Forschungsprojekt zurück,
+
+00:57:04.501 --> 00:57:11.200
+<v hans-ulrichschmincke>die Maare, die wir untersuchen, von denen wir annehmen, dass sie durch magmatische Gase entstanden sind,
+
+00:57:11.201 --> 00:57:14.700
+<v hans-ulrichschmincke>die sind wahrscheinlich aus dieser Lithosphäre, die sind, wir sagen, hoch angereichert.
+
+00:57:14.701 --> 00:57:20.700
+<v hans-ulrichschmincke>Und dann direkt südlich davon, ganz am jüngsten Zipfel der Westeifel Vulkanfeldes,
+
+00:57:20.701 --> 00:57:27.600
+<v hans-ulrichschmincke>da sind ein paar Vulkane, die sind ganz anders und die kommen wahrscheinlich aus größeren Tiefen,
+
+00:57:27.601 --> 00:57:32.000
+<v hans-ulrichschmincke>haben eine höhere Viskosität, die haben Schlacken gebildet, haben keine Maare gebildet,
+
+00:57:32.001 --> 00:57:38.700
+<v hans-ulrichschmincke>so dass ich annehme, dass dieser Forschungsansatz jetzt ist eigentlich ganz speziell da drauf,
+
+00:57:38.701 --> 00:57:46.900
+<v hans-ulrichschmincke>die Eruptionsmechanismen der Vulkane ganz stark mit ihrer chemischen Zusammensetzung zu erklären.
+
+00:57:46.901 --> 00:57:54.300
+<v hans-ulrichschmincke>In der Osteifel, da östlich vom Laacher See, Neuwieder Becken, das sind alles sogenannte Basanite,
+
+00:57:54.301 --> 00:57:58.800
+<v hans-ulrichschmincke>die sind relativ viskos, da gibt es auch keine Maare in der Osteifel,
+
+00:57:58.801 --> 00:58:03.200
+<v hans-ulrichschmincke>die gibt es nur in der Westeifel, wo diese speziellen Magmen vorkommen.
+
+00:58:03.201 --> 00:58:09.900
+<v hans-ulrichschmincke>Also man unterscheidet im Erdmantel diese zwei Schichten mindestens.
+
+00:58:09.901 --> 00:58:19.600
+<v hans-ulrichschmincke>Das immer neu heißere aufsteigende Material in diesen Plums und dann treffen die auf die,
+
+00:58:19.601 --> 00:58:24.700
+<v hans-ulrichschmincke>wie ich es jetzt locker benannt habe, Kompostschicht, wo die alten Gänge drinstecken
+
+00:58:24.701 --> 00:58:30.000
+<v hans-ulrichschmincke>und das wird aufgeschmolzen, weil das heißer ist das aufsteigende Material.
+
+00:58:30.001 --> 00:58:37.000
+<v hans-ulrichschmincke>Dann können Magmen entstehen und die steigen dann normalerweise nur bis zur Moho,
+
+00:58:37.001 --> 00:58:42.500
+<v hans-ulrichschmincke>das ist die Grenze zwischen Kruste und Mantel.
+
+00:58:42.501 --> 00:58:52.500
+<v hans-ulrichschmincke>Wobei man nicht immer im Auge behalten muss, dass da eine Grenze ist, die man seismisch sehr gut untersuchen kann,
+
+00:58:52.501 --> 00:58:59.400
+<v hans-ulrichschmincke>weil die Geschwindigkeiten sind hoch im Mantel und wenn Erdbebenwellen durch die Erde laufen,
+
+00:58:59.401 --> 00:59:05.100
+<v hans-ulrichschmincke>dann sind die ganz anders im Erdmantel als in der Erdkruste, so hat man die Moho ja definiert.
+
+00:59:05.101 --> 00:59:09.500
+<v hans-ulrichschmincke>Und die Magmen, die sich dann in dieser Sammelschicht entlang der Moho,
+
+00:59:09.501 --> 00:59:19.600
+<v hans-ulrichschmincke>die wie gesagt in der Eifel mehrere Kilometer dick ist, sammelt, ist eine Mischung von Magmen aus der Kompostschicht und Magmen aus der Tiefe.
+
+00:59:19.601 --> 00:59:24.400
+<v hans-ulrichschmincke>Und das ist jetzt unser Job, an der Chemie und Mineralogie und so weiter rauszukriegen,
+
+00:59:24.401 --> 00:59:27.000
+<v hans-ulrichschmincke>aus welchen Bereich kommen die?
+
+00:59:27.001 --> 00:59:32.700
+<v hans-ulrichschmincke>Und wenn wir jetzt auch gleichzeitig vulkanologisch arbeiten, das heißt, uns die Gesteine angucken,
+
+00:59:32.701 --> 00:59:37.700
+<v hans-ulrichschmincke>wie explosiv war das, wie sind die geschichtet, war daneben Gestein und so weiter und so weiter,
+
+00:59:37.701 --> 00:59:42.500
+<v hans-ulrichschmincke>sind das Schlacken, dann können wir eins und eins zusammenzählen,
+
+00:59:42.501 --> 00:59:51.700
+<v hans-ulrichschmincke>dann merken wir plötzlich, dass einige Vulkane haben sich ganz anders entwickelt als andere.
+
+00:59:51.701 --> 00:59:57.800
+<v hans-ulrichschmincke>Und wenn wir die dann chemisch analysieren, dann merken wir, das liegt an den unterschiedlichen Magmen,
+
+00:59:57.801 --> 01:00:06.300
+<v hans-ulrichschmincke>unterschiedliche Viskosität, unterschiedlicher Gasgehalt, weniger Silizium und Aluminium,
+
+01:00:06.301 --> 01:00:13.000
+<v hans-ulrichschmincke>das sind Elemente, die machen ein Magma sehr zähflüssig, Silizium und Aluminium.
+
+01:00:13.001 --> 01:00:20.600
+<v timpritlove>Das heißt, wenn ich mir jetzt mal so Ihren Forschungsalltag vorstelle, nehmen wir jetzt mal an,
+
+01:00:20.601 --> 01:00:26.500
+<v timpritlove>es gibt jetzt irgendwo einen komplett neuen Vulkanausbruch irgendwo.
+
+01:00:26.501 --> 01:00:31.700
+<v timpritlove>Also ich weiß nicht, es gibt wahrscheinlich keine Orte wirklich, wo man nicht schon längst damit gerechnet hat,
+
+01:00:31.701 --> 01:00:37.500
+<v timpritlove>wo es schon mal irgendwelche gab so, aber wenn man jetzt vielleicht mal so einen neuen Ausbruch hat
+
+01:00:37.501 --> 01:00:41.500
+<v timpritlove>und dann dort anreist und sich irgendwie das ganze Geschehen anschaut.
+
+01:00:41.501 --> 01:00:46.900
+<v timpritlove>Ich weiß nicht, aber Sie das mal so aktiv gemacht, jetzt wirklich an einem frischen Vulkan?
+
+01:00:46.901 --> 01:00:56.100
+<v timpritlove>Ich glaube so, Ihr Fokus war immer eher, die Orte zu untersuchen, wo im Prinzip das Geschehen schon eine Weile vorbei ist,
+
+01:00:56.101 --> 01:01:04.100
+<v timpritlove>aber das dann wirklich von A bis Z aufzuarbeiten oder haben Sie auch mal so direkt am blubbernden Vulkan geforscht?
+
+01:01:04.101 --> 01:01:07.600
+<v hans-ulrichschmincke>Ja, habe ich.
+
+01:01:07.601 --> 01:01:17.400
+<v hans-ulrichschmincke>69/70 sagte mir ein Studienkollege, der war dann einer der Geologen am Hawaiian Volcano Observatory,
+
+01:01:17.401 --> 01:01:21.900
+<v hans-ulrichschmincke>das ist das größte und bekannteste Vulkanobservatorium auf der Welt,
+
+01:01:21.901 --> 01:01:28.900
+<v hans-ulrichschmincke>die sitzen auf dem Kilauea-Vulkan und haben da viele klassische Untersuchungen gemacht über die Jahrzehnte.
+
+01:01:28.901 --> 01:01:32.300
+<v hans-ulrichschmincke>Auch gerade in den letzten Jahren war es da ja sehr aktiv.
+
+01:01:32.301 --> 01:01:40.400
+<v hans-ulrichschmincke>Und der hat gesagt, Hans, wenn du mal einen aktiven Vulkan sehen willst, Ausbrüche, dann komm jetzt.
+
+01:01:40.401 --> 01:01:47.300
+<v hans-ulrichschmincke>Ich hatte gerade in Bochum angefangen und habe mich dann ein halbes Jahr beurlauben lassen,
+
+01:01:47.301 --> 01:01:53.800
+<v hans-ulrichschmincke>kriegte dann ein Stipendium oder eine Reisebeihilfe, mein Gehalt wurde um die Hälfte gekürzt
+
+01:01:53.801 --> 01:02:03.800
+<v hans-ulrichschmincke>und dann habe ich in der Tat viele sehr dramatische Eruptionen beobachten und mit messen können.
+
+01:02:03.801 --> 01:02:08.800
+<v hans-ulrichschmincke>Das heißt, die Vorhersage von dem Kollegen war genau richtig.
+
+01:02:08.801 --> 01:02:12.300
+<v hans-ulrichschmincke>Er hat gesagt, der Vulkan ist angeschwollen.
+
+01:02:12.301 --> 01:02:14.700
+<v timpritlove>Welcher war das?
+
+01:02:14.701 --> 01:02:21.000
+<v hans-ulrichschmincke>Kilauea-Vulkan, das ist der aktivste Vulkan auf Hawaii, der Insel Hawaii.
+
+01:02:21.001 --> 01:02:27.400
+<v hans-ulrichschmincke>Und die hatten das erste Laser-Geodimeter, Messgerät überhaupt.
+
+01:02:27.401 --> 01:02:33.600
+<v hans-ulrichschmincke>Man hat einen Laser und die Laserstrahlen werden rausgeschickt und in zwei-drei Kilometern Tiefe ist ein Spiegel
+
+01:02:33.601 --> 01:02:38.000
+<v hans-ulrichschmincke>und da werden die Strahlen zurückgeschickt und aus der Zeitverzögerung kann man die Entfernung.
+
+01:02:38.001 --> 01:02:43.400
+<v hans-ulrichschmincke>Und wenn man das alle drei Tage macht, dann kann man messen, ob sich die Strecke vergrößert,
+
+01:02:43.401 --> 01:02:48.500
+<v hans-ulrichschmincke>ob der Bauch anschwillt oder ob er in sich zusammensackt.
+
+01:02:48.501 --> 01:02:51.200
+<v hans-ulrichschmincke>Das war also damals eine ganz heiße, ganz moderne Methode.
+
+01:02:51.201 --> 01:02:55.600
+<v timpritlove>So ein Distanzmesser im Prinzip, wie man ihn heute auch im Baumarkt kriegt, aber halt in dick und fest und ganz neu.
+
+01:02:55.601 --> 01:03:03.000
+<v hans-ulrichschmincke>Damals war das brand new, das war ganz neu und hat mich auch sehr beeindruckt.
+
+01:03:03.001 --> 01:03:16.000
+<v hans-ulrichschmincke>Und jedenfalls war seine Vorhersage auf den Punkt richtig und darum habe ich die Entwicklung eines neuen Vulkans da im großen Detail beobachten können.
+
+01:03:16.001 --> 01:03:20.100
+<v timpritlove>War das dann auch der erste Vulkan, den Sie wirklich aktiv selber haben ausbrechen sehen?
+
+01:03:20.101 --> 01:03:22.100
+<v hans-ulrichschmincke>Aber sicher, sicher.
+
+01:03:22.101 --> 01:03:23.100
+<v timpritlove>Ja okay.
+
+01:03:23.101 --> 01:03:27.600
+<v hans-ulrichschmincke>Darum bin ich ja auch gleich darauf angesprungen, hic rhodus hic salta sozusagen.
+
+01:03:27.601 --> 01:03:32.300
+<v timpritlove>Also hätte ja sein können, dass Sie schon mal einen gesehen haben, aber eben nicht gleich parallel dazu aktiv beforscht haben.
+
+01:03:32.301 --> 01:03:34.800
+<v hans-ulrichschmincke>Nein, hatte ich nicht.
+
+01:03:34.801 --> 01:03:37.600
+<v timpritlove>Aber jetzt kam sozusagen beides gleich zusammen.
+
+01:03:37.601 --> 01:03:47.000
+<v hans-ulrichschmincke>Ja, in meinem Arbeitsgebiet, meinem Doktorarbeitsgebiet, die waren so 8-10 Millionen Jahre alt, diese riesigen Lavaströme.
+
+01:03:47.001 --> 01:03:54.300
+<v hans-ulrichschmincke>Und ich habe große Lavafontänen, die bis 300 Meter hoch waren, habe ich beobachtet, war so einen Kilometer weg
+
+01:03:54.301 --> 01:04:00.600
+<v hans-ulrichschmincke>und dann fielen nachher die obersten Schlacke zurück auf unsere Helme.
+
+01:04:00.601 --> 01:04:05.100
+<v hans-ulrichschmincke>Ich war mit einem Studenten, der Nationalparkservice hat uns immer mit dem Walkie-Talkie,
+
+01:04:05.101 --> 01:04:09.000
+<v hans-ulrichschmincke>ihr müsst da weg, ihr müsst da weg, aber wir waren so fasziniert.
+
+01:04:09.001 --> 01:04:16.700
+<v hans-ulrichschmincke>Wir sind dann weg von diesem kleinen Hügel im Dschungel und dann, als wir weg waren, halbe Stunde später,
+
+01:04:16.701 --> 01:04:24.300
+<v hans-ulrichschmincke>war das Gebiet mit einem Meter heißer Schlacke bedeckt, da sind wir also rechtzeitig weg.
+
+01:04:24.301 --> 01:04:33.100
+<v hans-ulrichschmincke>Ja und dann die Lavaströme zu beobachten und bis zu einem beinahe Unfall nach dieser großen Eruption,
+
+01:04:33.101 --> 01:04:37.900
+<v hans-ulrichschmincke>die den ganzen Tag gedauert hat mit riesigen Lavaströmen und Lavafontänen,
+
+01:04:37.901 --> 01:04:47.300
+<v hans-ulrichschmincke>sind wir am nächsten Morgen hin, bin ich mit dem Kollegen hin, um Messungen zu machen
+
+01:04:47.301 --> 01:04:52.600
+<v hans-ulrichschmincke>und war ein dünner Lavastrom, der hatte schon eine graue Haut, der war schon bisschen abgekühlt.
+
+01:04:52.601 --> 01:04:56.800
+<v hans-ulrichschmincke>Der war nicht sehr tief, vielleicht halben Meter oder so und dann sind wir drüber gegangen
+
+01:04:56.801 --> 01:05:02.300
+<v hans-ulrichschmincke>und plötzlich haben wir gemerkt, das bewegt sich noch.
+
+01:05:02.301 --> 01:05:06.700
+<v hans-ulrichschmincke>Jetzt war die Frage, zurücklaufen oder drüben bis ans rettende Ufer
+
+01:05:06.701 --> 01:05:12.400
+<v hans-ulrichschmincke>und dann sind wir ganz vorsichtig, um nicht zu fallen, sonst wären unsere Hände,
+
+01:05:12.401 --> 01:05:19.700
+<v hans-ulrichschmincke>da sind 1000 Grad heiß, sind wir drüber, ich kannte das, ich habe ja mal ein halbes Jahr im Stahlwerk gearbeitet,
+
+01:05:19.701 --> 01:05:21.800
+<v hans-ulrichschmincke>daher kannte ich diese heißen Temperaturen.
+
+01:05:21.801 --> 01:05:33.100
+<v hans-ulrichschmincke>Und auf der anderen Seite, wir hatten immer unsere Khakihosen und Schuhe, die Hosenbeine waren Zunder,
+
+01:05:33.101 --> 01:05:39.600
+<v hans-ulrichschmincke>einfach durch die Strahlungshitze von dem Dings und auch die Sohlen waren kaputt von den Schuhen.
+
+01:05:39.601 --> 01:05:42.600
+<v timpritlove>Wieviele Meter mussten Sie da jetzt überbrücken?
+
+01:05:42.601 --> 01:05:45.000
+<v hans-ulrichschmincke>Vielleicht so zehn Meter oder so, waren keine riesigen.
+
+01:05:45.001 --> 01:05:48.000
+<v timpritlove>Wie weit waren Sie schon, bis Sie gemerkt haben, dass es zu heiß ist?
+
+01:05:48.001 --> 01:05:54.600
+<v hans-ulrichschmincke>Es war ungefähr Halbe Halbe, so zehn und zehn Meter.
+
+01:05:54.601 --> 01:05:59.400
+<v hans-ulrichschmincke>Naja, Vulkanologen sind normal sehr vorsichtige Leute.
+
+01:05:59.401 --> 01:06:09.900
+<v hans-ulrichschmincke>Sie müssen natürlich, das sind ja keine Abenteurer, und die Leute, die Sie manchmal sehen im Fernsehen mit den Aluminiummänteln,
+
+01:06:09.901 --> 01:06:12.100
+<v hans-ulrichschmincke>das ist immer nur für das Fernsehen.
+
+01:06:12.101 --> 01:06:19.500
+<v hans-ulrichschmincke>Die Leute in der Vulkanologie die hatten auch mal so Aluminiummäntel, die haben sie der Feuerwehr geschenkt.
+
+01:06:19.501 --> 01:06:25.300
+<v hans-ulrichschmincke>Weil in diesem Aluminium kann man nicht arbeiten und auch mit Gasmasken kann man nicht arbeiten.
+
+01:06:25.301 --> 01:06:27.900
+<v hans-ulrichschmincke>Gasmasken sind was schreckliches.
+
+01:06:27.901 --> 01:06:32.700
+<v hans-ulrichschmincke>Mir hat immer gereicht ein Taschentuch gegen das Schwefel.
+
+01:06:32.701 --> 01:06:38.500
+<v hans-ulrichschmincke>Schwefel ist, das war auch in La Palma ein Problem, die waren sehr schwefelreich die Eruptionen,
+
+01:06:38.501 --> 01:06:41.400
+<v hans-ulrichschmincke>jetzt im vergangenen halben Jahr. 
+
+01:06:41.401 --> 01:06:43.800
+<v hans-ulrichschmincke>Das ist ein unangenehmes Problem.
+
+01:06:43.801 --> 01:06:48.300
+<v hans-ulrichschmincke>Wenn man direkt vor Ort arbeitet an einem Krater, dann kann man schon eine Gasmaske benutzen,
+
+01:06:48.301 --> 01:06:55.800
+<v hans-ulrichschmincke>aber wenn man viel rumläuft und Proben sammelt und Messungen, dann sind Gasmasken sehr hinderlich
+
+01:06:55.801 --> 01:06:58.900
+<v hans-ulrichschmincke>und Aluminiummäntel im Normalfall sowieso.
+
+01:06:58.901 --> 01:07:02.100
+<v hans-ulrichschmincke>Das ist also meistens for Show, was man sieht.
+
+01:07:02.101 --> 01:07:04.200
+<v timpritlove>Wie sind Sie denn jetzt über den Lavastrom rübergekommen?
+
+01:07:04.201 --> 01:07:06.100
+<v hans-ulrichschmincke>Vorsichtig.
+
+01:07:06.101 --> 01:07:06.600
+<v timpritlove>Aber dann einfach weitergelaufen?
+
+01:07:06.601 --> 01:07:09.700
+<v hans-ulrichschmincke>Ja und danach da war das Ende von dem Frischen.
+
+01:07:09.701 --> 01:07:16.200
+<v hans-ulrichschmincke>Da waren also viele Lavaströme vom vergangenen Tag und auf der anderen Seite, der war aber nicht so groß,
+
+01:07:16.201 --> 01:07:21.500
+<v hans-ulrichschmincke>der hat dann irgendwo aufgehört, dann sind wir halt drumrum gegangen natürlich.
+
+01:07:21.501 --> 01:07:23.600
+<v timpritlove>Okay, ich sehe schon, Sie sehen das alles ganz cool.
+
+01:07:23.601 --> 01:07:25.200
+<v hans-ulrichschmincke>Ja, es passiert auch selten was.
+
+01:07:25.201 --> 01:07:30.900
+<v hans-ulrichschmincke>Einmal ist ein Student mit dem Fuß in so eine fließende Lava gekommen,
+
+01:07:30.901 --> 01:07:37.000
+<v hans-ulrichschmincke>der war dann ein paar Wochen im Krankenhaus, aber die Leute sind alle sehr vorsichtig.
+
+01:07:37.001 --> 01:07:49.700
+<v timpritlove>Ich war ja gerade in La Palma und ich habe mir die Überbleibsel des letzten Ausbruchs am Cumbre Vieja angeschaut.
+
+01:07:49.701 --> 01:07:54.500
+<v timpritlove>Mein erster Kontakt, muss ich sagen, mit etwas, was noch so frisch und auch noch warm war.
+
+01:07:54.501 --> 01:08:00.200
+<v timpritlove>Also es war jetzt nicht heiß, aber es war, wenn man drüber gelaufen ist, über dieses Lavalfeld,
+
+01:08:00.201 --> 01:08:09.200
+<v timpritlove>hat man nach ein paar Metern schon gemerkt, so da ist was drunter, da ist irgendwie eine ganze Menge an Wärme am Start.
+
+01:08:09.201 --> 01:08:19.600
+<v timpritlove>Und alles war, es war irgendwie ein irres Gefühl, weil es klirrt alles, als würde man über Glas laufen.
+
+01:08:19.601 --> 01:08:23.400
+<v timpritlove>Man hat ja irgendwie mehr so das Gefühl, ja das ist ja alles Stein, was da rauskommt, scharfkantig.
+
+01:08:23.401 --> 01:08:25.600
+<v hans-ulrichschmincke>Und noch viel Schwefel wahrscheinlich in der Luft.
+
+01:08:25.601 --> 01:08:36.000
+<v timpritlove>Habe ich jetzt nicht so gerochen, also vom Geruch her war ich jetzt nicht alarmiert.
+
+01:08:36.001 --> 01:08:41.800
+<v timpritlove>Aber was mir dann die Leute alle gesagt haben, die den Ausbruch jetzt auch wirklich miterlebt haben,
+
+01:08:41.801 --> 01:08:47.200
+<v timpritlove>teilweise auch viel Glück gehabt haben, weil der Lavastrom so direkt neben ihrem Haus lang gezogen ist,
+
+01:08:47.201 --> 01:08:57.000
+<v timpritlove>dass es halt ein unfassbarer Lärm gewesen wäre, 24 Stunden am Tag, als würde man direkt neben so einem Flughafen,
+
+01:08:57.001 --> 01:08:59.200
+<v timpritlove>wo die ganze Zeit Flugzeuge.
+
+01:08:59.201 --> 01:08:59.700
+<v hans-ulrichschmincke>Das Röhren in den Schloten, ja.
+
+01:08:59.701 --> 01:09:04.200
+<v timpritlove>Ich kann das nicht beschreiben, also es machte auf mich auch so den Eindruck,
+
+01:09:04.201 --> 01:09:09.000
+<v timpritlove>dass man es nicht beschreiben kann, aber wie war es denn in Hawaii in dem Moment?
+
+01:09:09.001 --> 01:09:12.000
+<v timpritlove>Mit was für Geräuschen geht denn das einher?
+
+01:09:12.001 --> 01:09:16.200
+<v timpritlove>Weil die Bilder kennt man, aber mit den Geräuschen eines Vulkans,
+
+01:09:16.201 --> 01:09:21.200
+<v timpritlove>das ist genauso, als wenn man sich so ein Video anschaut, wie eine Rakete startet,
+
+01:09:21.201 --> 01:09:23.300
+<v timpritlove>das kann man sich dann irgendwie akustisch auch nicht vorstellen.
+
+01:09:23.301 --> 01:09:28.300
+<v hans-ulrichschmincke>Es ist praktisch das gleiche Geräusch wie ein großer Jet.
+
+01:09:28.301 --> 01:09:37.100
+<v hans-ulrichschmincke>Wenn ein großes Flugzeug startet, da werden ja auch die Gase mit großer Geschwindigkeit rausgezischt,
+
+01:09:37.101 --> 01:09:40.700
+<v hans-ulrichschmincke>rausgedrückt, ich weiß nicht, wie man das beschreiben soll.
+
+01:09:40.701 --> 01:09:44.300
+<v hans-ulrichschmincke>Denn es ist ja ein Strom von Gas mit Partikeln,
+
+01:09:44.301 --> 01:09:56.400
+<v hans-ulrichschmincke>die jetzt mit großer Geschwindigkeit durch eine Öffnung von vielleicht 50 Metern, nicht viel mehr, durchgeschossen wird.
+
+01:09:56.401 --> 01:10:06.600
+<v hans-ulrichschmincke>Und der Auftrieb kommt von den Gasen, was ich vorhin versucht habe zu erklären mit der Eifel, mit den Vulkanen.
+
+01:10:06.601 --> 01:10:08.200
+<v hans-ulrichschmincke>Es gibt ja verschiedene Gase.
+
+01:10:08.201 --> 01:10:15.900
+<v hans-ulrichschmincke>Die drei bekanntesten, CO2, H2O und Schwefel.
+
+01:10:15.901 --> 01:10:19.900
+<v hans-ulrichschmincke>CO2, Kohlendioxid, ist am wenigsten löslich.
+
+01:10:19.901 --> 01:10:23.700
+<v hans-ulrichschmincke>Also was zuerst auch am berühmten Kīlauea-Lava-See,
+
+01:10:23.701 --> 01:10:27.600
+<v hans-ulrichschmincke>das ist so der zentrale Lavasee da am Kīlauea.
+
+01:10:27.601 --> 01:10:34.700
+<v hans-ulrichschmincke>Das erste Gas, was rauskommt, ist immer CO2, Kohlendioxid.
+
+01:10:34.701 --> 01:10:40.000
+<v hans-ulrichschmincke>Und dann, wenn Lava oder Magma ein paar hundert Meter unter der Erdoberfläche,
+
+01:10:40.001 --> 01:10:47.400
+<v hans-ulrichschmincke>das ist so typisch in Hawaii, lateral wandert, innerhalb von Gängen
+
+01:10:47.401 --> 01:10:55.400
+<v hans-ulrichschmincke>und dann ausbricht an irgendeiner Stelle, wie die meisten Vulkane am Kilauea, dann ist CO2 zum Teil schon weg,
+
+01:10:55.401 --> 01:11:01.000
+<v hans-ulrichschmincke>das geht durch das Zentrum weg und dann ist das Hauptgas H2O.
+
+01:11:01.001 --> 01:11:10.000
+<v hans-ulrichschmincke>So und dann ist es interessant, wenn man so einen Lavastrom, Kilauea, der braucht ungefähr 10 Kilometer bis zum Pazifik
+
+01:11:10.001 --> 01:11:17.600
+<v hans-ulrichschmincke>und manchmal gibt es Fenster, das ist eingebrochen, da kann man sehen, da fließt der Lavastrom unterirdisch,
+
+01:11:17.601 --> 01:11:20.300
+<v hans-ulrichschmincke>so ein, zwei Meter da drunter.
+
+01:11:20.301 --> 01:11:24.100
+<v hans-ulrichschmincke>Und wenn man da misst, dann hat man meistens Schwefel.
+
+01:11:24.101 --> 01:11:28.700
+<v hans-ulrichschmincke>Und wenn der Lavastrom nach 10 Kilometern am Pazifik ist, dann ist auch Schwefel weg.
+
+01:11:28.701 --> 01:11:37.700
+<v hans-ulrichschmincke>Das heißt, diese verschiedenen Gasspezies, CO2, H2O und Schwefel, die haben unterschiedliche Löslichkeiten.
+
+01:11:37.701 --> 01:11:44.800
+<v hans-ulrichschmincke>Am wenigsten löslich ist CO2, darum ist das auch, nicht umsonst gibt es viele Sprudelfirmen in der Eifel.
+
+01:11:44.801 --> 01:11:47.700
+<v timpritlove>Mineralwasser.
+
+01:11:47.701 --> 01:11:57.400
+<v hans-ulrichschmincke>Mineralwasser. Und zum Teil ist das natürliches CO2, was da bis zur Erdoberfläche kommt
+
+01:11:57.401 --> 01:12:01.900
+<v hans-ulrichschmincke>und Säuerlinge macht, so Sauerquellen und so.
+
+01:12:01.901 --> 01:12:06.100
+<v hans-ulrichschmincke>Das heißt, ein Teil der Magmen, die jetzt an der Moho, was ich vorhin beschrieben habe,
+
+01:12:06.101 --> 01:12:11.900
+<v hans-ulrichschmincke>zwischengelagert werden, die können da schon ihr Gas loswerden.
+
+01:12:11.901 --> 01:12:18.400
+<v hans-ulrichschmincke>Und da gibt es in der Eifel auch große Verwerfungen, also die Kruste ist nicht so homogen,
+
+01:12:18.401 --> 01:12:22.900
+<v hans-ulrichschmincke>die ist nicht nur geschichtet, sondern da sind auch große Verwerfungen drin.
+
+01:12:22.901 --> 01:12:28.900
+<v hans-ulrichschmincke>Und so ein Gas ist ja nicht blöd, das versucht natürlich da aufzusteigen, wo so tektonische Verwerfungen sind.
+
+01:12:28.901 --> 01:12:38.500
+<v hans-ulrichschmincke>Und an diesen großen Verwerfungen da findet man dann oft so vor allem CO2 und auch Vulkaneruptionen.
+
+01:12:38.501 --> 01:12:44.500
+<v hans-ulrichschmincke>So wie unser Projekt, was wir gerade anfangen, da ist auch eine große Verwertung in der Gegend.
+
+01:12:44.501 --> 01:12:55.500
+<v timpritlove>Okay und das heißt vor allem, dass der Wasserdampf drückt jetzt quasi mit dem Magma aus diesem überschaubaren Krater raus
+
+01:12:55.501 --> 01:12:59.500
+<v timpritlove>und das erzeugt diesen Lärm?
+
+01:12:59.501 --> 01:13:08.900
+<v hans-ulrichschmincke>Ich weiß nicht, soweit ich gehört habe, waren die Zusammensetzungen in La Palma, jetzt im vergangenen Jahr die Eruption,
+
+01:13:08.901 --> 01:13:12.100
+<v hans-ulrichschmincke>relativ schwefelreich.
+
+01:13:12.101 --> 01:13:17.000
+<v timpritlove>Okay, gut, also welche Gase auch immer es in dem Moment sind, aber das ist sozusagen der Effekt,
+
+01:13:17.001 --> 01:13:20.800
+<v timpritlove>der letzten Endes diesen Lärm erzeugt, zusätzlich mit den ganzen…
+
+01:13:20.801 --> 01:13:26.200
+<v hans-ulrichschmincke>Wenn Sie einen Wasserkessel haben mit einer Pfeife oben drauf und dann kriegen Sie genug Dampf.
+
+01:13:26.201 --> 01:13:29.700
+<v timpritlove>Das heißt, ich muss mir das jetzt wirklich so vorstellen, als würde man wirklich direkt neben einem Flugzeug stehen?
+
+01:13:29.701 --> 01:13:30.400
+<v hans-ulrichschmincke>Ja.
+
+01:13:30.401 --> 01:13:33.200
+<v timpritlove>So laut die ganze Zeit?
+
+01:13:33.201 --> 01:13:34.100
+<v hans-ulrichschmincke>Ja.
+
+01:13:34.101 --> 01:13:35.800
+<v timpritlove>So, dass man sich gar nicht unterhalten kann?
+
+01:13:35.801 --> 01:13:38.200
+<v hans-ulrichschmincke>Also im Prinzip der Wasserkessel.
+
+01:13:38.201 --> 01:13:40.000
+<v timpritlove>Ja, da steht man auch nicht so gerne die ganze Zeit daneben.
+
+01:13:40.001 --> 01:13:41.900
+<v hans-ulrichschmincke>Der altertümliche, der noch pfeift.
+
+01:13:41.901 --> 01:13:44.400
+<v hans-ulrichschmincke>Haben wir gar nicht mehr.
+
+01:13:44.401 --> 01:13:44.600
+<v timpritlove>Ich habe so was noch.
+
+01:13:44.601 --> 01:13:44.900
+<v hans-ulrichschmincke>Sie kennen es noch?
+
+01:13:44.901 --> 01:13:48.100
+<v timpritlove>Ja, Milchtopf.
+
+01:13:48.101 --> 01:13:50.700
+<v hans-ulrichschmincke>Also es ist das gleiche physikalische Prinzip.
+
+01:13:50.701 --> 01:13:51.700
+<v timpritlove>Wie ging es Ihnen denn dann?
+
+01:13:51.701 --> 01:13:58.500
+<v timpritlove>Also ich meine, das ist doch irgendwie ein monumentales Ereignis, wenn man so was das erste Mal irgendwie so,
+
+01:13:58.501 --> 01:14:04.000
+<v timpritlove>also man nähert sich dem ja aus der Ferne, da muss man das ja schon über Kilometer grollen hören oder nicht?
+
+01:14:04.001 --> 01:14:06.600
+<v hans-ulrichschmincke>Ja, natürlich.
+
+01:14:06.601 --> 01:14:11.700
+<v hans-ulrichschmincke>Und das zusammen mit dem Optischen.
+
+01:14:11.701 --> 01:14:19.300
+<v hans-ulrichschmincke>Also diese vier, fünf Stunden, die ich da mit dem einen Kollegen verbracht habe, auf diesem alten kleinen Schlackenkegel im Dschungel
+
+01:14:19.301 --> 01:14:24.800
+<v hans-ulrichschmincke>und das andere Gebiet hatte ich schon Wochen vorher immer wieder besucht und Messungen gemacht und so weiter,
+
+01:14:24.801 --> 01:14:32.000
+<v hans-ulrichschmincke>und da kam nur die Lava an der einen Stelle raus, floss ein bisschen und da war ein Loch 50 Meter weiter und verschwand wieder.
+
+01:14:32.001 --> 01:14:39.400
+<v hans-ulrichschmincke>Und dann waren die Messungen mit dem Lasergerät waren dann so, dass wir wussten,
+
+01:14:39.401 --> 01:14:48.600
+<v hans-ulrichschmincke>der Vulkan ist angeschwollen und man dann heutzutage schon Vulkaneruptionen relativ gut vorhersagen.
+
+01:14:48.601 --> 01:14:56.800
+<v hans-ulrichschmincke>Man weiß ja, wann das Dach nachgibt, das sind Erfahrungswerte.
+
+01:14:56.801 --> 01:14:59.200
+<v timpritlove>Also wenn man zumindest einen Krater schon hat, den man beobachten kann.
+
+01:14:59.201 --> 01:15:00.600
+<v hans-ulrichschmincke>Muss kein Krater sein.
+
+01:15:00.601 --> 01:15:08.300
+<v timpritlove>Aber in La Palma da wusste man es ja nicht, dass der Ausbruch bevorsteht so richtig oder?
+
+01:15:08.301 --> 01:15:15.600
+<v hans-ulrichschmincke>Also die 49er Eruption, die wir ja nun sehr genau bearbeitet haben, da war ein Krater,
+
+01:15:15.601 --> 01:15:24.600
+<v hans-ulrichschmincke>der war direkt neben dem jetzigen und dann waren noch zwei oben auf der Cumbre, auf dem Gipfel.
+
+01:15:24.601 --> 01:15:32.300
+<v hans-ulrichschmincke>Das eine war eine Eruption Magma und Wasser und das andere war eine normale heiße Eruption.
+
+01:15:32.301 --> 01:15:37.700
+<v hans-ulrichschmincke>Ein Lavastrom ist auf die andere Seite geflossen, in den Atlantik.
+
+01:15:37.701 --> 01:15:39.400
+<v hans-ulrichschmincke>Also da waren drei Stellen.
+
+01:15:39.401 --> 01:15:48.900
+<v hans-ulrichschmincke>Dieser Vulkan hat nur im Prinzip eine Stelle gehabt, da am Fuße der Cumbre Vieja.
+
+01:15:48.901 --> 01:15:54.700
+<v hans-ulrichschmincke>Aber ganz daneben und der Lavastrom vom 49er, den wir bearbeitet haben, der auch ein Delta gebildet hat,
+
+01:15:54.701 --> 01:16:03.700
+<v hans-ulrichschmincke>der ist ja direkt daneben, in Karten, wenn man sieht, wo der neue ist, der ist direkt neben dem.
+
+01:16:03.701 --> 01:16:11.400
+<v hans-ulrichschmincke>Das heißt, das ist jetzt wieder das Problem, wie lang hält das Gedächtnis bei den Menschen an,
+
+01:16:11.401 --> 01:16:20.000
+<v hans-ulrichschmincke>wenn einem Gebiet, wo es sogenannte Naturereignisse, die manchmal Naturkatastrophen genannt werden, sind.
+
+01:16:20.001 --> 01:16:27.700
+<v hans-ulrichschmincke>Das kennt man sehr gut aus den USA, weil dort die Bevölkerung in den kleinen Städten sehr mobil ist.
+
+01:16:27.701 --> 01:16:34.800
+<v hans-ulrichschmincke>Eine mittlere Stadt, 30.000 Leute, die wechselt einmal in, weiß nicht, 50 Jahren, die sind sehr mobil.
+
+01:16:34.801 --> 01:16:41.000
+<v hans-ulrichschmincke>Und es gibt Bereiche in Oregon und Kalifornien, wo Leute ihre Häuser an den Steilküsten bauen.
+
+01:16:41.001 --> 01:16:47.200
+<v hans-ulrichschmincke>Und nach zwei Jahren, nach einem großen Sturm, fallen die meisten Häuser wieder ins Wasser.
+
+01:16:47.201 --> 01:16:56.000
+<v hans-ulrichschmincke>Das heißt, das Gedächtnis der Leute, was Naturereignisse oder sogenannte Naturgefahren betrifft, ist sehr kurz.
+
+01:16:56.001 --> 01:17:00.700
+<v hans-ulrichschmincke>Und das jetzt auf La Palma übertragen.
+
+01:17:00.701 --> 01:17:02.500
+<v hans-ulrichschmincke>Die 49er Eruption war ja nicht die erste.
+
+01:17:02.501 --> 01:17:11.300
+<v hans-ulrichschmincke>Es gibt ja nun seit die Spanier oder ihre Vorfahren da im 14. Jahrhundert auf La Palma kam,
+
+01:17:11.301 --> 01:17:17.000
+<v hans-ulrichschmincke>hat man ja ein halbes Dutzend Eruption, die sind auch kartiert und so.
+
+01:17:17.001 --> 01:17:26.100
+<v hans-ulrichschmincke>Das heißt, die Leute dort wissen, alle paar Dekaden im Mittel, weiß nicht, 50 oder 60 Jahren bricht da ein Vulkan aus.
+
+01:17:26.101 --> 01:17:33.000
+<v hans-ulrichschmincke>Wenn ich Versicherungsmakler wäre, ich weiß nicht, wie die Leute mit ihren Häusern da versichert waren,
+
+01:17:33.001 --> 01:17:39.300
+<v hans-ulrichschmincke>wenn ich Versicherungsmakler wäre und geologisch, vulkanologisch fit, dann würde ich sagen,
+
+01:17:39.301 --> 01:17:50.900
+<v hans-ulrichschmincke>hier das war 1949 und da waren die anderen, in einem Umkreis von so vielen Quadratkilometern müsst ihr das vierfache bezahlen an Hausversicherung.
+
+01:17:50.901 --> 01:17:58.200
+<v hans-ulrichschmincke>Denn innerhalb von einem halben Jahrhundert wird hier wieder ein Lavastrom langließen.
+
+01:17:58.201 --> 01:18:04.100
+<v hans-ulrichschmincke>Die Menschen denken aber nicht so weit, die denken kurzfristiger.
+
+01:18:04.101 --> 01:18:08.200
+<v hans-ulrichschmincke>Nicht hier auf dem Land in Schleswig-Holstein, hier ist ein …
+
+01:18:08.201 --> 01:18:10.700
+<v timpritlove>Gibt es nicht so viele Vulkane.
+
+01:18:10.701 --> 01:18:11.800
+<v hans-ulrichschmincke>Da gibt es nicht so viele Vulkane.
+
+01:18:11.801 --> 01:18:14.800
+<v timpritlove>Also versichert waren tatsächlich nicht so viele auf La Palma.
+
+01:18:14.801 --> 01:18:19.700
+<v timpritlove>Wie ich gehört habe, hat der Staat dann kurzfristig den Leuten noch die Möglichkeit gegeben,
+
+01:18:19.701 --> 01:18:25.800
+<v timpritlove>abgesichert durch den Staat, noch eine Versicherung abzuschließen, die dann greift,
+
+01:18:25.801 --> 01:18:30.900
+<v timpritlove>wenn ihr Haus und Hof nicht innerhalb der nächsten sieben Tage betroffen ist.
+
+01:18:30.901 --> 01:18:33.400
+<v timpritlove>Also man konnte sich dann sozusagen noch retten.
+
+01:18:33.401 --> 01:18:36.600
+<v timpritlove>Wieviele das dann getan haben, darüber habe ich keine Erkenntnis,
+
+01:18:36.601 --> 01:18:39.800
+<v timpritlove>aber das war dann so bisschen die Notlösung, die man dort gefunden hat.
+
+01:18:39.801 --> 01:18:48.300
+<v hans-ulrichschmincke>Ja, also wenn ich über Vulkangefahren in der Eifel spreche, als ich anfing 1970, da hieß es,
+
+01:18:48.301 --> 01:18:51.100
+<v hans-ulrichschmincke>der Vulkanismus ist erloschen.
+
+01:18:51.101 --> 01:18:57.600
+<v hans-ulrichschmincke>Und ein paar Jahre später, ich weiß nicht, 1976 hat der damalige Präsident der DFG,
+
+01:18:57.601 --> 01:19:02.400
+<v hans-ulrichschmincke>Deutschen Forschungsgemeinschaft, ein Geologe, ein Buch geschrieben über Naturgefahren
+
+01:19:02.401 --> 01:19:08.600
+<v hans-ulrichschmincke>und da steht der klassische Satz drin, zum Glück ist der Vulkanismus in der Eifel erloschen.
+
+01:19:08.601 --> 01:19:18.000
+<v hans-ulrichschmincke>Das war schon damals absoluter Unsinn, denn man wusste vorher die Laacher See Eruption, eine sehr große Eruption,
+
+01:19:18.001 --> 01:19:24.500
+<v hans-ulrichschmincke>war nicht die letzte, Ulmen in /unverständlich/ ist noch jünger, ist 11.000 Jahre alt.
+
+01:19:24.501 --> 01:19:28.700
+<v hans-ulrichschmincke>Und die ersten Datierungen /unverständlich/, der Erfinder der C14 Datierungsmethoden gemacht hat,
+
+01:19:28.701 --> 01:19:34.300
+<v hans-ulrichschmincke>das erste Holz war vom Laacher See.
+
+01:19:34.301 --> 01:19:37.200
+<v hans-ulrichschmincke>So 11.000 Jahre ist keine Zeit.
+
+01:19:37.201 --> 01:19:48.000
+<v hans-ulrichschmincke>Und wir in der Vulkanologie sagen, alle Eruptionen aller Vulkane, die noch nach der letzten Eiszeit ausgebrochen sind,
+
+01:19:48.001 --> 01:19:55.600
+<v hans-ulrichschmincke>also in den letzten 15.000 Jahren, die gelten definitionsgemäß als aktiv.
+
+01:19:55.601 --> 01:20:03.300
+<v hans-ulrichschmincke>Das heißt, der Laacher See Vulkan ist aktiv formal und Ulmen ist auch aktiv.
+
+01:20:03.301 --> 01:20:10.100
+<v hans-ulrichschmincke>So, ich habe also seit 1970 auch schon da in den Veröffentlichungen den Leuten gesagt,
+
+01:20:10.101 --> 01:20:16.500
+<v hans-ulrichschmincke>ihr müsst keine Angst haben, die Grundstückspreise müssen nicht fallen, hier rings um den Laacher See oder sonst wo,
+
+01:20:16.501 --> 01:20:24.800
+<v hans-ulrichschmincke>aber ihr müsst wissen, es kann jederzeit wieder ein neuer Vulkan ausbrechen und das wird es auch.
+
+01:20:24.801 --> 01:20:30.800
+<v hans-ulrichschmincke>Nur kann ich nicht sagen, niemand kann das sagen, ob das in 5.000 Jahren ist oder in 10.000.
+
+01:20:30.801 --> 01:20:42.900
+<v hans-ulrichschmincke>Und in dem Gebiet, wo ich jetzt arbeite, da ist der Unterschied zwischen Vulkanaltern 5000-7000 Jahre, das ist keine Zahl.
+
+01:20:42.901 --> 01:20:51.600
+<v hans-ulrichschmincke>Wenn wir die Klimakatastrophe überleben, dann sind ein paar tausend Jahre, das ist ein bisschen länger als La Palma,
+
+01:20:51.601 --> 01:21:00.900
+<v hans-ulrichschmincke>La Palma ist ein hochaktives Gebiet, aber in der Eifel kann auch jederzeit ein neuer Vulkan ausbrechen,
+
+01:21:00.901 --> 01:21:09.000
+<v hans-ulrichschmincke>nur müssen die Leute keine Angst haben und die müssen ihre Grundstücke nicht verkaufen.
+
+01:21:09.001 --> 01:21:15.400
+<v timpritlove>Also die Eifel hat es zwar noch vor sich, aber man muss jetzt nicht gleich in Panik ausbrechen, so deute ich das jetzt mal.
+
+01:21:15.401 --> 01:21:17.900
+<v timpritlove>Wir wollen ja den Leuten aus der Eifel ja jetzt nicht Angst machen.
+
+01:21:17.901 --> 01:21:23.200
+<v hans-ulrichschmincke>Sie können da durchaus Urlaub machen oder ein Grundstück kaufen oder was auch immer.
+
+01:21:23.201 --> 01:21:25.000
+<v timpritlove>Ich würde noch mal gerne auf die Forschung vor Ort kommen.
+
+01:21:25.001 --> 01:21:30.900
+<v timpritlove>Und vielleicht bleiben wir bei diesem Hawaii Beispiel, weil das ja so ein gutes Timing war.
+
+01:21:30.901 --> 01:21:37.400
+<v timpritlove>Abgesehen von diesen Laserdistanzmessungen, die gemacht wurden und die ja letzten Endes die Basis der Aussage war…
+
+01:21:37.401 --> 01:21:38.600
+<v hans-ulrichschmincke>Der Vorhersage, ja.
+
+01:21:38.601 --> 01:21:43.000
+<v timpritlove>…hier geht es bald los, genau, das war so die Vorhersage.
+
+01:21:43.001 --> 01:21:46.700
+<v timpritlove>Was haben Sie sich denn dann angeschaut?
+
+01:21:46.701 --> 01:21:50.200
+<v timpritlove>Also was genau macht man denn dann da?
+
+01:21:50.201 --> 01:21:55.700
+<v timpritlove>Ich meine, da ist ein riesiges Gebiet, das ist ein Höllenlärm, Lava strömt durch die Gegend,
+
+01:21:55.701 --> 01:22:02.000
+<v timpritlove>man muss aufpassen, dass man sich nicht mal eben seinen Fuß abbrüht.
+
+01:22:02.001 --> 01:22:05.800
+<v timpritlove>Was sind die Dinge, die Sie dann einfangen wollen?
+
+01:22:05.801 --> 01:22:07.900
+<v timpritlove>Was wird gemessen?
+
+01:22:07.901 --> 01:22:10.800
+<v timpritlove>Worauf stürzt man sich da und wie plant man das?
+
+01:22:10.801 --> 01:22:17.600
+<v hans-ulrichschmincke>Ja, also in dem Augenblick, was man macht, abgesehen davon, dass man ganz tief beeindruckt ist,
+
+01:22:17.601 --> 01:22:27.500
+<v hans-ulrichschmincke>fotografiert man und ich habe ja dann auch zum ersten und einzigen Mal in meinem Leben mir einen Kodak-Filmgerät geliehen da
+
+01:22:27.501 --> 01:22:33.800
+<v hans-ulrichschmincke>und einen Film, ich weiß nicht, 10 Millimeter, glaube ich, und das war nachher die Basis,
+
+01:22:33.801 --> 01:22:38.500
+<v hans-ulrichschmincke>weil mein Gehalt ja gekürzt war in Bochum.
+
+01:22:38.501 --> 01:22:39.400
+<v timpritlove>In welchem Jahr war das jetzt dieser Ausbruch?
+
+01:22:39.401 --> 01:22:41.000
+<v hans-ulrichschmincke>1970.
+
+01:22:41.001 --> 01:22:41.000
+<v timpritlove>70.
+
+01:22:41.001 --> 01:22:51.100
+<v hans-ulrichschmincke>Dass ich den an das WDR verkauft habe, die fanden den so toll und dadurch einen Teil von dem Verlust dadurch ausgeglichen habe.
+
+01:22:51.101 --> 01:22:58.400
+<v hans-ulrichschmincke>Also das ist das eine und auch viele 6x6 Fotos, ich hatte noch meine Rollei Damals.
+
+01:22:58.401 --> 01:23:03.300
+<v timpritlove>Okay, aber das war ja jetzt eher die Wissenschaftsfinanzierung, noch nicht die Wissenschaft selber.
+
+01:23:03.301 --> 01:23:07.200
+<v hans-ulrichschmincke>Doch doch, das ist natürlich Wissenschaft, die fotografische Dokumentation.
+
+01:23:07.201 --> 01:23:13.200
+<v hans-ulrichschmincke>Die ist in all unseren Büchern ganz zentral.
+
+01:23:13.201 --> 01:23:22.800
+<v hans-ulrichschmincke>Und bei diesem Buch „Vulcanism“, was das Standarbuch war oder die japanische Übersetzung, ist ja oft beschrieben worden
+
+01:23:22.801 --> 01:23:29.200
+<v hans-ulrichschmincke>und ein bekannter Kollege hat geschrieben, das seien die besten Vulkanfotos, die er gesehen hat.
+
+01:23:29.201 --> 01:23:36.300
+<v hans-ulrichschmincke>Und das liegt daran, man nimmt meistens Menschen als Maßstab, wenn möglich
+
+01:23:36.301 --> 01:23:42.600
+<v hans-ulrichschmincke>und normalerweise stellen sich die Menschen dann so hin und gucken einen doof an und dann kann man ein Foto machen.
+
+01:23:42.601 --> 01:23:47.300
+<v hans-ulrichschmincke>Ich habe die Menschen immer umgedreht, das heißt, dass die Menschen auf den Gegenstand gucken,
+
+01:23:47.301 --> 01:23:55.300
+<v hans-ulrichschmincke>um den Betrachter da mit einzubinden, dass er sozusagen diesem Maßstabmenschen folgt.
+
+01:23:55.301 --> 01:23:57.600
+<v timpritlove>Damit man auch gleich weiß, worauf man achten soll.
+
+01:23:57.601 --> 01:24:03.500
+<v hans-ulrichschmincke>Genau, zum Beispiel, das ist so ein automatischer, kein erdachter Trick, der von mir ganz automatisch,
+
+01:24:03.501 --> 01:24:08.800
+<v hans-ulrichschmincke>um die Beobachter zu zwingen, da hinzugucken.
+
+01:24:08.801 --> 01:24:20.100
+<v hans-ulrichschmincke>Also die fotografische Dokumentation oder durch Film oder was immer heutzutage Podcasts oder so mit den Geräuschen, ist schon ganz zentral.
+
+01:24:20.101 --> 01:24:27.300
+<v hans-ulrichschmincke>Und man hat meistens, das ist ja sehr heiß und sehr laut und dramatisch.
+
+01:24:27.301 --> 01:24:33.600
+<v hans-ulrichschmincke>Die genauen Messungen kommen dann hinterher, wenn die Eruption vorbei ist.
+
+01:24:33.601 --> 01:24:38.200
+<v hans-ulrichschmincke>Wenn man ganz spezialisiert ist, kann man an einer Stelle Gase messen
+
+01:24:38.201 --> 01:24:45.000
+<v hans-ulrichschmincke>oder Temperaturen messen, das sind so zwei ganz häufige Sachen.
+
+01:24:45.001 --> 01:24:55.300
+<v hans-ulrichschmincke>Und dann nimmt man Proben, da macht man Dünnschliffe, bis hin zu 25.000tel Millimeter dick
+
+01:24:55.301 --> 01:25:00.700
+<v hans-ulrichschmincke>und die kann man dann im Mikroskop untersuchen, ich habe oben meine Mikroskope, mache ich alle paar Tage.
+
+01:25:00.701 --> 01:25:07.700
+<v hans-ulrichschmincke>Und dann im mikroskopischen Bild kann man die Kristalle sehen, die aus der Schmelze auskristallisiert sind
+
+01:25:07.701 --> 01:25:14.400
+<v hans-ulrichschmincke>und kann sehen, ist das Glas, wieviele Blasen, was für Blasen sind da, welche Korngröße und alle diese Sachen,
+
+01:25:14.401 --> 01:25:17.200
+<v hans-ulrichschmincke>die wir standardmäßig machen.
+
+01:25:17.201 --> 01:25:24.900
+<v hans-ulrichschmincke>Und dann kann man eine Probe zermahlen in so einem bestimmten Apparat zu Pulver
+
+01:25:24.901 --> 01:25:28.200
+<v hans-ulrichschmincke>und die dann chemisch analysieren.
+
+01:25:28.201 --> 01:25:35.900
+<v hans-ulrichschmincke>Und die Dünnschliffe kann man unter ein Gerät legen, das nennen wir Elektronmikrosonde,
+
+01:25:35.901 --> 01:25:39.900
+<v hans-ulrichschmincke>das habe ich hier auch, damals von meinem Preis gekauft, als ich hier anfing in Kiel.
+
+01:25:39.901 --> 01:25:44.100
+<v hans-ulrichschmincke>Jetzt haben wir schon die zweite Generation oder meine Nachfolger.
+
+01:25:44.101 --> 01:25:49.000
+<v hans-ulrichschmincke>Ich bin ja schon etliche Jahre nicht mehr dabei.
+
+01:25:49.001 --> 01:25:54.500
+<v hans-ulrichschmincke>Aber meine Frau hat gestern wieder Messungen gemacht da am Geomar, das ist so 20 Kilometer weg von hier.
+
+01:25:54.501 --> 01:25:59.900
+<v hans-ulrichschmincke>Und dann kann man das Glas analysieren, die Mineralen, die einzelnen Elementverteilungen
+
+01:25:59.901 --> 01:26:08.400
+<v hans-ulrichschmincke>und das braucht man so als Grundlage, um das ganze chemisch und mineralogisch in den Griff zu kriegen.
+
+01:26:08.401 --> 01:26:14.300
+<v hans-ulrichschmincke>Also Ihre Frage vorher, ich weiß nicht, vielleicht war das neu für Sie,
+
+01:26:14.301 --> 01:26:19.700
+<v hans-ulrichschmincke>dass man Vulkane auch ganz zentral von der Chemie und Mineralogie her begreift.
+
+01:26:19.701 --> 01:26:24.500
+<v hans-ulrichschmincke>Weil die Art, wie ein Vulkan ausbricht, hängt ganz wesentlich davon ab.
+
+01:26:24.501 --> 01:26:26.400
+<v timpritlove>Woraus er beschaffen ist.
+
+01:26:26.401 --> 01:26:31.300
+<v hans-ulrichschmincke>Woraus er beschaffen ist, was er mitgekriegt hat als Erbe aus dem Mantel
+
+01:26:31.301 --> 01:26:35.700
+<v hans-ulrichschmincke>oder was er in einer Magmakammer dann entwickelt hat, als es ein bisschen kühler war
+
+01:26:35.701 --> 01:26:41.100
+<v hans-ulrichschmincke>und dann sind einzelne Kristalle ausgeschieden und so weiter und so fort.
+
+01:26:41.101 --> 01:26:48.600
+<v hans-ulrichschmincke>Also bei allen unseren Arbeiten spielt immer die Chemie, die Glaschemie, die Gesteinschemie, die Mineralen eine Rolle.
+
+01:26:48.601 --> 01:26:56.800
+<v hans-ulrichschmincke>Und man kann auch der Chemie ausrechnen, welche Viskosität hatte das Magma, wie dünnflüssig oder schwerflüssig.
+
+01:26:56.801 --> 01:27:00.800
+<v hans-ulrichschmincke>Ich habe zum Beispiel bei den Bildern von La Palma mich ein bisschen gewundert.
+
+01:27:00.801 --> 01:27:11.100
+<v hans-ulrichschmincke>Was mir aufgefallen ist, dass die Lavaströme relativ dick waren und zerbrochen sind in so Schlacken.
+
+01:27:11.101 --> 01:27:16.800
+<v hans-ulrichschmincke>Bei der 49er-Eruption, die wir ja sehr gut kennen, ist der Lavastrom,
+
+01:27:16.801 --> 01:27:26.600
+<v hans-ulrichschmincke>der direkt neben den jetzigen Kratern ausgebrochen ist, das war eine sehr primitive Zusammensetzung und dünnflüssig.
+
+01:27:26.601 --> 01:27:32.600
+<v hans-ulrichschmincke>Der ist also runtergeflossen bis zum Meer und hat da ein Delta gebildet.
+
+01:27:32.601 --> 01:27:39.700
+<v hans-ulrichschmincke>Während mit ein bisschen Zeitverschiebung waren drei Stellen, die sich oben gebildet haben auf dem Gipfel, auf der Cumbre,
+
+01:27:39.701 --> 01:27:48.800
+<v hans-ulrichschmincke>die waren viskoser und ich glaube, ich habe die chemischen Zusammensetzungen nicht gesehen von der jetzigen Lava,
+
+01:27:48.801 --> 01:27:56.400
+<v hans-ulrichschmincke>wenn ich mir die angucke, dann würde ich erwarten, dass die im Vergleich zu dem neuen /unverständlich/-Lavastrom,
+
+01:27:56.401 --> 01:28:02.600
+<v hans-ulrichschmincke>der von ganz daneben runtergekommen ist, dass da Unterschiede sind.
+
+01:28:02.601 --> 01:28:10.800
+<v hans-ulrichschmincke>Dieser 49er da, das war das Hauptvolumen, der ist sehr schnell geflossen, wie man aus Berichten ablesen kann,
+
+01:28:10.801 --> 01:28:19.400
+<v hans-ulrichschmincke>der hat sich seinen Kanal gefressen, Lava kann auch den Untergrund aufschmelzen
+
+01:28:19.401 --> 01:28:23.100
+<v hans-ulrichschmincke>und ist dann runter und am Meer hat er dann das Delta gebildet.
+
+01:28:23.101 --> 01:28:36.300
+<v hans-ulrichschmincke>Während die jetzigen nach meiner phänomenologischen Analyse vom Fernsehen wohl eine andere Zusammensetzung gehabt haben müssen.
+
+01:28:36.301 --> 01:28:38.700
+<v timpritlove>Also dünnflüssig kam mir das jetzt nicht vor, aber ich habe auch keine Ahnung, 
+
+01:28:38.701 --> 01:28:41.400
+<v timpritlove>wie das alles dann am Ende aussehen soll, wenn es kalt ist.
+
+01:28:41.401 --> 01:28:46.600
+<v timpritlove>Wie gesagt, das war ein einziges Geklirre und alles war sehr unzusammenhängend.
+
+01:28:46.601 --> 01:28:53.200
+<v timpritlove>Also es war nicht so, man hätte sich jetzt ja vielleicht vorgestellt, dass es irgendwie so ein dicker geschmolzener Block von Stein,
+
+01:28:53.201 --> 01:28:58.200
+<v timpritlove>der dann da einfach so rumliegt, aber ich hatte eher das Gefühl, ich habe so eine ganze Badewanne voll mit kleinen Steinchen,
+
+01:28:58.201 --> 01:28:59.600
+<v timpritlove>in denen ich irgendwie herumlaufe.
+
+01:28:59.601 --> 01:29:05.600
+<v hans-ulrichschmincke>Ja, also Sie haben vorhin gefragt, wie man Vulkane voneinander unterscheidet,
+
+01:29:05.601 --> 01:29:14.600
+<v hans-ulrichschmincke>bei den Lavaströmen gibt es zwei altbekannte Unterscheidungen.
+
+01:29:14.601 --> 01:29:20.100
+<v hans-ulrichschmincke>Das eine sind die wulstförmigen Laven, die sogenannte Pahoehoe-Laven,
+
+01:29:20.101 --> 01:29:25.400
+<v hans-ulrichschmincke>die bildet sich bei dünnflüssigen Lavaströmen, man kann das auch am Vesuv sehen.
+
+01:29:25.401 --> 01:29:33.900
+<v hans-ulrichschmincke>Was ich gesehen habe von den Lavaströmen im vergangenen Jahr in La Palma aus den Fernsehberichten
+
+01:29:33.901 --> 01:29:39.700
+<v hans-ulrichschmincke>und ich habe ja ein paarmal auch kommentiert, was man da sieht, das sah für mich so aus,
+
+01:29:39.701 --> 01:29:51.200
+<v hans-ulrichschmincke>als ob das eine zähflüssigere Schmelze war, die dann zerbrochen ist in einzelne mehr oder weniger blasige Brocken beim Fließen.
+
+01:29:51.201 --> 01:29:56.500
+<v hans-ulrichschmincke>Man kann das auch Brockenlava nennen, da gibt es so verschiedene Begriffe.
+
+01:29:56.501 --> 01:30:00.500
+<v hans-ulrichschmincke>Insofern kann ich als doch ziemlich erfahrener Vulkanologe sagen,
+
+01:30:00.501 --> 01:30:08.700
+<v hans-ulrichschmincke>von der chemischen Zusammensetzung her muss das anders sein als diese Seillava,
+
+01:30:08.701 --> 01:30:17.100
+<v hans-ulrichschmincke>die bei der einen Phase, nicht bei der ersten, bei der zweiten Phase der 49er Eruption.
+
+01:30:17.101 --> 01:30:20.900
+<v hans-ulrichschmincke>Das ist wie ein Wasser den Berg runtegelaufen.
+
+01:30:20.901 --> 01:30:29.000
+<v timpritlove>Wenn man jetzt mal so heute auf die Welt schaut, was sind denn so die aktivsten
+
+01:30:29.001 --> 01:30:35.200
+<v timpritlove>oder könnte man vielleicht auch sagen, interessantestes Gebiete aus Ihrer Perspektive,
+
+01:30:35.201 --> 01:30:43.200
+<v timpritlove>wo am meisten interessantes passiert, also auch aus einer wissenschaftlichen Perspektive.
+
+01:30:43.201 --> 01:30:48.700
+<v timpritlove>Ich meine, es gab ja sehr unterschiedliche Ausbrüche, gerade jetzt so in der letzten Zeit war ja irgendwie eine ganze Menge los.
+
+01:30:48.701 --> 01:30:51.300
+<v timpritlove>Vielleicht ist auch immer so viel los, ich weiß nicht, ob da noch mehr drüber berichtet wird
+
+01:30:51.301 --> 01:30:55.000
+<v timpritlove>oder ich es nur mehr wahrgenommen habe, es gab diesen Ausbruch auf Island,
+
+01:30:55.001 --> 01:31:02.100
+<v timpritlove>der irgendwie eine Weile alle ganz gut unterhalten hat, dann natürlich der große Ausbruch in La Palma,
+
+01:31:02.101 --> 01:31:08.000
+<v timpritlove>den wir schon angesprochen haben, der Ätna kommt irgendwie alle paar Monate und sagt irgendwie kurz Bescheid.
+
+01:31:08.001 --> 01:31:14.100
+<v timpritlove>Daran hat man sich schon irgendwie so ein bisschen gewöhnt.
+
+01:31:14.101 --> 01:31:22.500
+<v timpritlove>Wo würden Sie mich denn jetzt als erstes hinschicken, wenn Ausbruch ist,
+
+01:31:22.501 --> 01:31:26.000
+<v timpritlove>weil das irgendwie besonders interessant sein könnte.
+
+01:31:26.001 --> 01:31:33.600
+<v hans-ulrichschmincke>So wie Beauty is in the eye of the beholder, das hängt jetzt ab von dem Interesse eines Menschen.
+
+01:31:33.601 --> 01:31:36.700
+<v hans-ulrichschmincke>Für mich zum Beispiel ist im Augenblick interessanter das Pulvermaar und die /unverständlich/-Maare,
+
+01:31:36.701 --> 01:31:43.700
+<v hans-ulrichschmincke>weil wir da ein neues Paradigma, das alte schon, das hängt also da mit dem Interesse ab.
+
+01:31:43.701 --> 01:31:49.200
+<v hans-ulrichschmincke>Wenn Sie fragen wollen oder wissen wollen, wo ist die größte Wahrscheinlichkeit,
+
+01:31:49.201 --> 01:31:55.500
+<v hans-ulrichschmincke>dann würde ich sagen, nehmen Sie sich ein Flugticket zum Kilauea-Vulkan auf Hawaii, 
+
+01:31:55.501 --> 01:32:03.600
+<v hans-ulrichschmincke>da ist die Wahrscheinlichkeit am größten, das ist der aktivste Vulkan mit Lavaströmen, die Wahrscheinlichkeit ist dann groß.
+
+01:32:03.601 --> 01:32:09.500
+<v hans-ulrichschmincke>Es hat mal einen Wissenschaftler gegeben, früher durften die nur alle zwei Jahre da arbeiten,
+
+01:32:09.501 --> 01:32:16.300
+<v hans-ulrichschmincke>dann wurden sie ausgetauscht vom US /unverständlich/ Survey und der hat Zeit seines Lebens nicht vergessen,
+
+01:32:16.301 --> 01:32:25.200
+<v hans-ulrichschmincke>dass er während seines zweijährigen Aufenthaltes keine einzige Eruption gesehen hat, das muss aber der einzige sein.
+
+01:32:25.201 --> 01:32:31.700
+<v hans-ulrichschmincke>Wenn Sie auf jeden Fall eine Eruption sehen wollen, morgen oder übermorgen oder überübermorgen,
+
+01:32:31.701 --> 01:32:36.900
+<v hans-ulrichschmincke>dann fahren Sie nach Neapel und fahren dann mit dem Schiff zum Stromboli.
+
+01:32:36.901 --> 01:32:42.500
+<v hans-ulrichschmincke>Der hieß im Mittelalter oder vorher noch schon, der Leuchtturm des Mittelalters,
+
+01:32:42.501 --> 01:32:45.900
+<v hans-ulrichschmincke>weil der alle sagen wir mal 20 Minuten ausbricht.
+
+01:32:45.901 --> 01:32:52.400
+<v hans-ulrichschmincke>Dann kriegen Sie kleine Lavafontänen, ganz selten, dass da mal eine längere Pause ist.
+
+01:32:52.401 --> 01:32:57.100
+<v hans-ulrichschmincke>Also Stromboli da können Sie drauf wetten.
+
+01:32:57.101 --> 01:32:58.200
+<v timpritlove>Da ist richtig was los.
+
+01:32:58.201 --> 01:33:00.300
+<v hans-ulrichschmincke>Da ist immer was los.
+
+01:33:00.301 --> 01:33:01.200
+<v timpritlove>Okay.
+
+01:33:01.201 --> 01:33:05.400
+<v hans-ulrichschmincke>Wenn Sie richtig große Eruptionen, dann gehen Sie nach Hawaii.
+
+01:33:05.401 --> 01:33:15.500
+<v hans-ulrichschmincke>Wenn Sie auch gern mal japanische Kultur kennenlernen wollen, dann fahren Sie nach Kyushu, im Süden von Japan.
+
+01:33:15.501 --> 01:33:28.300
+<v hans-ulrichschmincke>Da ist eine Stadt, Kagoshima und gegenüber ist der aktivste Vulkan Japans, der fast dauertätig ist.
+
+01:33:28.301 --> 01:33:35.700
+<v hans-ulrichschmincke>Das sieht man von der Entfernung, dann spuckt der und hat mal große Aschesäulen, die dann entstehen,
+
+01:33:35.701 --> 01:33:40.200
+<v hans-ulrichschmincke>mal stärker und mal weniger stark, der Sakurajima, so heißt der.
+
+01:33:40.201 --> 01:33:45.500
+<v hans-ulrichschmincke>Das ist der aktivste Vulkan Japans, praktisch daueraktiv.
+
+01:33:45.501 --> 01:33:54.400
+<v hans-ulrichschmincke>Natürlich ist Island in fast regelmäßigen Abständen aktiv, aber nicht jedes Jahr.
+
+01:33:54.401 --> 01:33:55.800
+<v timpritlove>Nicht immer an der gleichen Stelle.
+
+01:33:55.801 --> 01:34:00.000
+<v hans-ulrichschmincke>Nicht jedes Jahr, nicht die gleiche Stelle.
+
+01:34:00.001 --> 01:34:04.000
+<v hans-ulrichschmincke>Natürlich, wir haben auch am Merapi gearbeitet, das ist der aktivste Vulkan in Indonesien,
+
+01:34:04.001 --> 01:34:14.700
+<v hans-ulrichschmincke>der ist jetzt gerade im Augenblick wieder aktiv und da sind die Zeiten zwischen aktiven Perioden nur kurz,
+
+01:34:14.701 --> 01:34:23.100
+<v hans-ulrichschmincke>so ein paar Jahre, aber der ist nicht einfach, um hinzugehen, geht meistens nicht oder nicht ganz nah dran,
+
+01:34:23.101 --> 01:34:26.600
+<v hans-ulrichschmincke>weil da heiße Schmelze rauskommt, das nennen wir Dome.
+
+01:34:26.601 --> 01:34:29.800
+<v hans-ulrichschmincke>Und wenn die kollabieren, dann gibt es Glutlawinen.
+
+01:34:29.801 --> 01:34:38.300
+<v hans-ulrichschmincke>Und Glutlawinen sind mit das gefährlichste bei Vulkanen, das ein Gemisch ist von Partikeln und aufgeheizter Luft
+
+01:34:38.301 --> 01:34:43.300
+<v hans-ulrichschmincke>und heißen Gasen und die können mit großer Geschwindigkeit durch die Täler fließen,
+
+01:34:43.301 --> 01:34:46.800
+<v hans-ulrichschmincke>da wo auch die Menschen sich bewegen.
+
+01:34:46.801 --> 01:34:49.800
+<v timpritlove>Ist das jetzt identisch mit den pyroklastischen?
+
+01:34:49.801 --> 01:34:58.100
+<v hans-ulrichschmincke>Ist dasselbe, ich benutze für Laien den Begriff Glutlawinen, aber einige Leute wissen heutzutage,
+
+01:34:58.101 --> 01:35:02.600
+<v hans-ulrichschmincke>kennen schon den Begriff pyroklastische Ströme.
+
+01:35:02.601 --> 01:35:09.200
+<v hans-ulrichschmincke>Und wenn man noch weiter in die ganz spezielle Wissenschaft geht, dann nennt man die Density Currents,
+
+01:35:09.201 --> 01:35:14.000
+<v hans-ulrichschmincke>aber ich benutze eigentlich pyroklastische Ströme normalerweise auch in meinen Büchern.
+
+01:35:14.001 --> 01:35:19.500
+<v hans-ulrichschmincke>Oder wir haben ja auch mal ein Kinderbuch geschrieben hier, was auch Erwachsene gerne sich angucken,
+
+01:35:19.501 --> 01:35:23.400
+<v hans-ulrichschmincke>da spreche ich natürlich von Glutlawinen.
+
+01:35:23.401 --> 01:35:26.700
+<v timpritlove>Das bringt es natürlich ganz gut rüber, dass es hier sich um einen sehr schnellen Prozess handelt,
+
+01:35:26.701 --> 01:35:31.200
+<v timpritlove>der halt auch potentiell gefährlich sein kann.
+
+01:35:31.201 --> 01:35:34.400
+<v timpritlove>Was sind denn so die anderen Gefährdungen, die von den Vulkanen noch ausgehen?
+
+01:35:34.401 --> 01:35:42.600
+<v timpritlove>Ich erinnere mich noch an den Ausbruch in Island.
+
+01:35:42.601 --> 01:35:44.200
+<v hans-ulrichschmincke>Eyjafjallajökull?
+
+01:35:44.201 --> 01:35:48.400
+<v timpritlove>Super. Wie lange muss man das üben?
+
+01:35:48.401 --> 01:35:52.800
+<v hans-ulrichschmincke>Wir haben ja auf Island gearbeitet, also…
+
+01:35:52.801 --> 01:35:57.500
+<v timpritlove>Da hat man es drauf, die Wikipedia sagt, man kann auch Eyjafjöllgletscher sagen und dann ist auch alles super.
+
+01:35:57.501 --> 01:35:58.800
+<v hans-ulrichschmincke>Okay.
+
+01:35:58.801 --> 01:36:06.900
+<v timpritlove>Auf jeden Fall das war ja ein interessanter Ausbruch, ist jetzt zwölf Jahre her, ich glaube, 2010 war das,
+
+01:36:06.901 --> 01:36:12.300
+<v timpritlove>weil dort Unmengen an Vulkanasche ausgestoßen wurden und das hatte ja dann zur Folge,
+
+01:36:12.301 --> 01:36:16.800
+<v timpritlove>dass in Europa die Flüge ausgesetzt werden mussten für ein paar Tage
+
+01:36:16.801 --> 01:36:27.500
+<v timpritlove>und der Flugverkehr enorm davon betroffen war, weil einfach diese Vielzahl von Aschepartikeln in der Luft potenziell die Turbinen der Jets hätte zerstören können,
+
+01:36:27.501 --> 01:36:31.500
+<v timpritlove>so war zumindest die Befürchtung.
+
+01:36:31.501 --> 01:36:33.600
+<v timpritlove>Jetzt ist ja nicht jeder Ausbruch so.
+
+01:36:33.601 --> 01:36:41.400
+<v timpritlove>Es gab ja jetzt diesen anderen Ausbruch in Island paar Meter weiter, da war von Asche nicht die Rede.
+
+01:36:41.401 --> 01:36:52.200
+<v timpritlove>Was führt denn dazu, dass so ein gigantischer Ascheausstoß stattfindet, was ist denn da sozusagen das Wesen dieses Vulkans gewesen?
+
+01:36:52.201 --> 01:37:01.900
+<v hans-ulrichschmincke>Das Transportmittel für Asche außerhalb der Eruptionssäule, wir nennen das, was in de Luft geht, Eruptionssäule.
+
+01:37:01.901 --> 01:37:11.600
+<v hans-ulrichschmincke>Die Kraft der Eruptionssäulen beruht einmal auf der Temperatur der Partikel und dann der aufgeheizten kalten Luft, die gesaugt wird.
+
+01:37:11.601 --> 01:37:17.300
+<v hans-ulrichschmincke>Das ist oft der Hauptteil, die wiederum kriegt dann einen Auftrieb, wie heiße Luft im Sommer aufsteigt.
+
+01:37:17.301 --> 01:37:26.500
+<v hans-ulrichschmincke>Die feinen Aschen, das sind ja alles Glaspartikel und Mineralpartikel, hat ja nichts mit normaler Asche zu tun.
+
+01:37:26.501 --> 01:37:32.900
+<v hans-ulrichschmincke>Das ist immer die Schwierigkeit mit normalen Laien und Aschen, dann denken sie an Lagerfeuer
+
+01:37:32.901 --> 01:37:38.500
+<v hans-ulrichschmincke>oder an die Zigarette oder was weiß ich, sondern das sind Glassplitter und Mineralsplitter.
+
+01:37:38.501 --> 01:37:43.400
+<v hans-ulrichschmincke>Manchmal mit Blasen wie bei Bims und manchmal mit weniger Blasen.
+
+01:37:43.401 --> 01:37:50.100
+<v hans-ulrichschmincke>So, wenn die jetzt in die Troposphäre und bei 12 Kilometer bis in die Stratosphäre,
+
+01:37:50.101 --> 01:37:55.000
+<v hans-ulrichschmincke>da fängt die Stratosphäre an, wo es keine Wolken mehr gibt und keinen Regen,
+
+01:37:55.001 --> 01:38:00.000
+<v hans-ulrichschmincke>transportiert werden, aufsteigen, dann werden sie lateral transportiert,
+
+01:38:00.001 --> 01:38:06.000
+<v hans-ulrichschmincke>vor allem von dem Jet, von den Höhenwinden und das kann über tausende Kilometer sein.
+
+01:38:06.001 --> 01:38:19.600
+<v hans-ulrichschmincke>So, das Problem ist, dass die Höhe der unteren Luftschicht, der Troposphäre, zu den Polen hin immer niedriger wird.
+
+01:38:19.601 --> 01:38:28.000
+<v hans-ulrichschmincke>Die ist bei dem Äquator ungefähr 16 Kilometer hoch diese Grenze zwischen der unteren Atmosphäre und dann der Stratosphäre
+
+01:38:28.001 --> 01:38:29.700
+<v hans-ulrichschmincke>und zu den Polen hin wird es eben dann niedriger.
+
+01:38:29.701 --> 01:38:36.400
+<v hans-ulrichschmincke>Und Island hat den Vorteil oder den Nachteil, je nachdem, dass diese Grenze niedrig ist.
+
+01:38:36.401 --> 01:38:37.900
+<v timpritlove>Verstehe.
+
+01:38:37.901 --> 01:38:45.800
+<v hans-ulrichschmincke>Das heißt, die Eruption war gar nicht so außergewöhnlich, aber es wehten starke Winde,
+
+01:38:45.801 --> 01:38:50.900
+<v hans-ulrichschmincke>die diese Glaspartikel, also diese Asche hier hingetrieben haben.
+
+01:38:50.901 --> 01:38:58.000
+<v hans-ulrichschmincke>So übrigens der Kollege und Studienkollege, der mich nach Hawaii eingeladen hat 1969,
+
+01:38:58.001 --> 01:39:04.100
+<v hans-ulrichschmincke>da war ich ja ein Dreivierteljahr da, der war gerade auf dem Weg zu einem Ferienaufenthalt,
+
+01:39:04.101 --> 01:39:12.600
+<v hans-ulrichschmincke>ich glaube, in Ägypten und der kam nur bis Paris und konnte nicht weiter wegen der Eruption
+
+01:39:12.601 --> 01:39:14.700
+<v hans-ulrichschmincke>als Vulkanologe in Island.
+
+01:39:14.701 --> 01:39:20.300
+<v hans-ulrichschmincke>So und in Island ist diese Grenze nur 9 Kilometer, bei uns ist sie 12.
+
+01:39:20.301 --> 01:39:27.600
+<v hans-ulrichschmincke>Das heißt, obwohl die Eruptionssäule gar nicht so extrem hoch war, waren die Höhenwinde schon
+
+01:39:27.601 --> 01:39:36.800
+<v hans-ulrichschmincke>und das war ein starker Westwind zu der Zeit, das ist ein Teil von diesem Dilemma.
+
+01:39:36.801 --> 01:39:38.600
+<v hans-ulrichschmincke>Und das andere sind bestimmte Politika.
+
+01:39:38.601 --> 01:39:43.000
+<v hans-ulrichschmincke>Das ist der andere Teil der ganzen Story.
+
+01:39:43.001 --> 01:39:47.700
+<v hans-ulrichschmincke>Vor allem der deutsche Verkehrsminister, der sich da ins Zeug gelegt hat,
+
+01:39:47.701 --> 01:39:54.700
+<v hans-ulrichschmincke>und Wissenschaftler, die sind schon mit kleinen Flugzeugen schon am nächsten Tag hoch geflogen in den Bereich
+
+01:39:54.701 --> 01:39:59.000
+<v hans-ulrichschmincke>und haben gesagt, da ist fast gar nichts.
+
+01:39:59.001 --> 01:40:03.500
+<v hans-ulrichschmincke>Das heißt, ich glaube, ein Teil von diesem Billionenschaden, der entstanden ist,
+
+01:40:03.501 --> 01:40:12.000
+<v hans-ulrichschmincke>geht auf das Konto von öffentlichkeitsaffinen Politikern, die dann gesagt haben,
+
+01:40:12.001 --> 01:40:16.800
+<v hans-ulrichschmincke>jetzt muss das noch mal und noch einen Tag und noch einen Tag verlängert werden.
+
+01:40:16.801 --> 01:40:25.100
+<v hans-ulrichschmincke>Einige Wissenschaftler, die dann nicht direkt so mit der Politik verbunden waren, die sagen, das ist Quatsch.
+
+01:40:25.101 --> 01:40:30.800
+<v hans-ulrichschmincke>Die haben also direkt gemessen, wieviel Glaspartikel gibt es da.
+
+01:40:30.801 --> 01:40:36.800
+<v timpritlove>Wer war denn das, Peter Ramsauer war der Verkehrsminister damals.
+
+01:40:36.801 --> 01:40:39.300
+<v hans-ulrichschmincke>Das muss ich nicht weiter kommentieren.
+
+01:40:39.301 --> 01:40:40.900
+<v timpritlove>Nein, ich auch nicht.
+
+01:40:40.901 --> 01:40:48.300
+<v timpritlove>Jetzt kommen sozusagen mehrere Sachen zusammen, wo ist der Vulkan, je nachdem wie dann eben der Zugang zur Stratosphäre ist
+
+01:40:48.301 --> 01:40:51.700
+<v timpritlove>und natürlich auch das Wetter sozusagen und das kann alles dazu führen.
+
+01:40:51.701 --> 01:40:58.500
+<v timpritlove>Aber im Prinzip gibt es diese „Asche“, also diesen kleinen Glaspartikel, eigentlich immer.
+
+01:40:58.501 --> 01:41:03.900
+<v timpritlove>Das war ja auch in La Palma ein Problem, die Leute mussten sich dann mit Mundschutz auch absichern,
+
+01:41:03.901 --> 01:41:10.400
+<v timpritlove>weil das einzuatmen dann auch zu Lungenschäden führen kann etc..
+
+01:41:10.401 --> 01:41:11.300
+<v hans-ulrichschmincke>Staublunge.
+
+01:41:11.301 --> 01:41:14.000
+<v timpritlove>Staublunge.
+
+01:41:14.001 --> 01:41:20.300
+<v timpritlove>Jetzt gab es ja auch vor kurzem den starken Vulkanausbruch in Tonga.
+
+01:41:20.301 --> 01:41:30.500
+<v timpritlove>Und das ist ja insofern was anderes gewesen, als dass hier der Ausbruch unter dem Meeresspiegel stattgefunden hat.
+
+01:41:30.501 --> 01:41:37.900
+<v timpritlove>War ein extrem starker Ausbruch, der ja dann vor allem diesen Tsunami ausgelöst hat.
+
+01:41:37.901 --> 01:41:46.100
+<v timpritlove>Inwiefern unterscheiden sich dann sozusagen die Auswirkungen von solchen unterirdischen Ausbrüchen?
+
+01:41:46.101 --> 01:41:49.300
+<v timpritlove>Was sind da, abgesehen jetzt von dem Tsunami, den ich schon genannt habe,
+
+01:41:49.301 --> 01:41:52.100
+<v timpritlove>noch die Aspekte, auf die man schauen muss?
+
+01:41:52.101 --> 01:41:59.600
+<v hans-ulrichschmincke>Ja, ein Kollege, der mal ein Jahr bei mir als Postdoc war, ich glaube, 1990/91,
+
+01:41:59.601 --> 01:42:04.500
+<v hans-ulrichschmincke>der ist da Professor in Neuseeland und der kennt den Vulkan.
+
+01:42:04.501 --> 01:42:10.800
+<v hans-ulrichschmincke>Ich habe dem gleich eine Email geschickt, direkt nachdem ich davon gehört habe.
+
+01:42:10.801 --> 01:42:18.300
+<v hans-ulrichschmincke>Und der hat die Anfangssituation geschildert, das war ein untermeerischer Vulkan,
+
+01:42:18.301 --> 01:42:24.600
+<v hans-ulrichschmincke>der, glaube ich, insgesamt, ich weiß nicht, ich habe die Zahlen vergessen, 3.000 Meter hoch war
+
+01:42:24.601 --> 01:42:29.400
+<v hans-ulrichschmincke>oder irgendwie, jedenfalls ein sehr sehr großer Vulkan.
+
+01:42:29.401 --> 01:42:36.000
+<v hans-ulrichschmincke>Und der hatte in vorigen Ausbrüchen, die paar Jahre oder Jahrzehnte zurück waren,
+
+01:42:36.001 --> 01:42:39.600
+<v hans-ulrichschmincke>so eine kleine Insel geschaffen.
+
+01:42:39.601 --> 01:42:44.300
+<v hans-ulrichschmincke>Aber der eigentliche Top, der eigentliche /unverständlich/ war noch unter dem Wasser,
+
+01:42:44.301 --> 01:42:49.800
+<v hans-ulrichschmincke>unter der Meeresoberfläche, aber nicht sehr tief.
+
+01:42:49.801 --> 01:42:56.800
+<v hans-ulrichschmincke>Und weil das so flach war das Wasser, konnte der Druck des Magmas sich auswirken
+
+01:42:56.801 --> 01:43:01.200
+<v hans-ulrichschmincke>und zu dieser großen Eruption führen.
+
+01:43:01.201 --> 01:43:03.600
+<v hans-ulrichschmincke>Jetzt kommen wir wieder auf was, worüber wir zu Anfang gesprochen haben,
+
+01:43:03.601 --> 01:43:06.100
+<v hans-ulrichschmincke>die Wechselwirkung zwischen Magma und der Umgebung.
+
+01:43:06.101 --> 01:43:07.800
+<v timpritlove>Und Wasser.
+
+01:43:07.801 --> 01:43:09.700
+<v hans-ulrichschmincke>Und insbesondere Wasser.
+
+01:43:09.701 --> 01:43:14.500
+<v hans-ulrichschmincke>Und das war wohl der entscheidende Faktor.
+
+01:43:14.501 --> 01:43:22.600
+<v hans-ulrichschmincke>Das Magma war, wenn ich mich recht erinnere, war wohl eine, wie wir sagen, ein höherdifferenziertes,
+
+01:43:22.601 --> 01:43:29.900
+<v hans-ulrichschmincke>also ein gasreiches Magma und zusammen mit der Wechselwirkung mit dem Meerwasser,
+
+01:43:29.901 --> 01:43:33.200
+<v hans-ulrichschmincke>das waren wohl die entscheidenden Faktoren für diese gigantische Eruption,
+
+01:43:33.201 --> 01:43:38.100
+<v hans-ulrichschmincke>die ja hier in Deutschland auch mit allen möglichen Instrumenten gemessen wurde.
+
+01:43:38.101 --> 01:43:40.800
+<v timpritlove>Ja, sogar mit so ganz normalen Wetterstationen konnte man es messen.
+
+01:43:40.801 --> 01:43:52.800
+<v hans-ulrichschmincke>Die Bodenneigung wurde gemessen, der Luftdruck und so weiter an vielen Stationen hier in Deutschland.
+
+01:43:52.801 --> 01:43:57.500
+<v timpritlove>Ja, eine unfassbare Druckwelle, die ja auch nicht nur von Tonga hier hergekommen ist,
+
+01:43:57.501 --> 01:44:03.500
+<v timpritlove>ich glaube, es kreuzte sich über Algerien war, glaube ich, so der genau gegenüberliegende Ort,
+
+01:44:03.501 --> 01:44:08.900
+<v timpritlove>an dem alles zusammengekommen ist, aber dann ist die Druckwelle auch noch wieder weitergelaufen
+
+01:44:08.901 --> 01:44:13.400
+<v timpritlove>und es gab ja auch verschiedene Satellitenfotos, wo diese Druckwelle richtig zu sehen war.
+
+01:44:13.401 --> 01:44:13.700
+<v hans-ulrichschmincke>Ja.
+
+01:44:13.701 --> 01:44:18.900
+<v timpritlove>Also so eine extreme Kraft, die sich dann dort ausgebreitet hat.
+
+01:44:18.901 --> 01:44:24.300
+<v hans-ulrichschmincke>Das war auch noch sehr dramatisch.
+
+01:44:24.301 --> 01:44:32.500
+<v hans-ulrichschmincke>Also ich denke, um mehr drüber sagen zu können, muss man und muss ich natürlich abwarten,
+
+01:44:32.501 --> 01:44:34.300
+<v hans-ulrichschmincke>ob der Kollege, der war natürlich dann …
+
+01:44:34.301 --> 01:44:40.600
+<v hans-ulrichschmincke>er hat mir zwar gleich geschrieben, zurückgeantwortet eine Email
+
+01:44:40.601 --> 01:44:42.900
+<v hans-ulrichschmincke>und der wird das weiter verfolgt haben.
+
+01:44:42.901 --> 01:44:47.600
+<v hans-ulrichschmincke>Und die Leute, die dann vor Ort sind, die haben meistens keine, die müssen einfach arbeiten.
+
+01:44:47.601 --> 01:44:49.700
+<v timpritlove>Klar.
+
+01:44:49.701 --> 01:44:54.900
+<v timpritlove>Aber es gab ja noch einen zweiten Aspekt in Tonga, und zwar so einen kurzen Moment der Hoffnung.
+
+01:44:54.901 --> 01:45:06.000
+<v timpritlove>Es gab ja auch eine extreme Rauchwolke oder Schwefelgasentladung mit diesem Ausbruch, die sehr hoch stieg.
+
+01:45:06.001 --> 01:45:13.200
+<v timpritlove>Und das war so bisschen die „Hoffnung“, dass die so hoch steigen würde in solche Gebiete,
+
+01:45:13.201 --> 01:45:18.900
+<v timpritlove>dass sie sich dort länger halten könnte, weil das dann potenziell dem Klimawandel entgegenwirken könnte,
+
+01:45:18.901 --> 01:45:27.400
+<v timpritlove>weil wir ja dann durch verschiedene große Vulkanausbrüche solche Effekte auf der Erde ja auch schon gehabt haben und gesehen haben.
+
+01:45:27.401 --> 01:45:35.300
+<v timpritlove>Was ist das für ein Prozess, der an der Stelle sich hätte entfalten können, wenn das jetzt hier in Tonga auch, glaube ich, so nicht der Fall war?
+
+01:45:35.301 --> 01:45:40.000
+<v hans-ulrichschmincke>Bei diesen Klimabeeinflussungen von Vulkaneruptionen braucht man zweierlei.
+
+01:45:40.001 --> 01:45:48.600
+<v hans-ulrichschmincke>Erstens ein Magma, was viel Schwefel enthält, Tambora 1815 ist so ein Fall,
+
+01:45:48.601 --> 01:45:53.600
+<v hans-ulrichschmincke>Laacher See ist ein anderer Fall, Pinatubo hatte nicht so viel Schwefel.
+
+01:45:53.601 --> 01:45:57.800
+<v hans-ulrichschmincke>Und das muss auch in der Schmelze noch sein, nicht nur in schwefelhaltigen Mineralen,
+
+01:45:57.801 --> 01:46:02.900
+<v hans-ulrichschmincke>so wie der blaue Halbedelstein im Laacher See Haüyn.
+
+01:46:02.901 --> 01:46:07.800
+<v hans-ulrichschmincke>Also es muss Schwefel enthalten und es muss eine hochenergetische Eruption sein,
+
+01:46:07.801 --> 01:46:16.100
+<v hans-ulrichschmincke>eine, wie wir sagen, Eruptionssäule, die, wie ich vorhin sagte, angetrieben wird von der Ausdehnung der magmatischen Gase
+
+01:46:16.101 --> 01:46:21.700
+<v hans-ulrichschmincke>plus der aufgeheizten und eingesaugten Luft, das ist eine Kombination von beiden.
+
+01:46:21.701 --> 01:46:27.200
+<v hans-ulrichschmincke>Und wenn die Eruption sehr viel Energie hat, sehr viel Magma ausgebrochen ist
+
+01:46:27.201 --> 01:46:35.700
+<v hans-ulrichschmincke>und die Eruptionssäule dann bis in die Stratosphäre reicht, also das ist ganz entscheidend.
+
+01:46:35.701 --> 01:46:40.600
+<v hans-ulrichschmincke>Denn wenn Sie in der Troposphäre bleibt, dann wird es schnell rausgewaschen,
+
+01:46:40.601 --> 01:46:48.400
+<v hans-ulrichschmincke>aber in der Stratosphäre, die ist trocken und da können sich dann H2SO4 Aerosole bilden.
+
+01:46:48.401 --> 01:46:58.000
+<v hans-ulrichschmincke>Also kleine Teilchen aus H2O und SO2, Schwefel kann in verschiedener Form an den Vulkanen aussteigen,
+
+01:46:58.001 --> 01:47:04.300
+<v hans-ulrichschmincke>am Boden meistens H2S, das ist reduziert, aber dann auch SO2, das ist das oxidierte
+
+01:47:04.301 --> 01:47:18.100
+<v hans-ulrichschmincke>und das sind die Erkenntnisse, die man gewonnen hat nach der Eruption eines vergleichsweise kleinen Vulkans,
+
+01:47:18.101 --> 01:47:25.400
+<v hans-ulrichschmincke>ein ehemaliger deutscher Banker würde die Peanut, das sind Peanutvulkane, wahrscheinlich nennen.
+
+01:47:25.401 --> 01:47:37.200
+<v hans-ulrichschmincke>Aber im Süden von Mexiko, und zwar im Jahr 1982 und da hat man zum ersten Mal die Eruptionswolken,
+
+01:47:37.201 --> 01:47:45.700
+<v hans-ulrichschmincke>die dann in der Stratosphäre zirkulierten um die Erde, von drei verschiedenen Instrumenten gemessen.
+
+01:47:45.701 --> 01:47:55.800
+<v hans-ulrichschmincke>Einmal einem alten Spionageflugzeug, das berühmt wurde, dass ein amerikanischer Spion mal über Sibirien abgeschossen wurde,
+
+01:47:55.801 --> 01:47:58.100
+<v hans-ulrichschmincke>U2 hieß das, glaube ich.
+
+01:47:58.101 --> 01:48:06.900
+<v hans-ulrichschmincke>Und dann an einem anderen Messflugzeug mit Möglichkeiten, diese sogenannten Aschenpartikel einzusammeln
+
+01:48:06.901 --> 01:48:14.000
+<v hans-ulrichschmincke>und dann hatte man einen Satelliten mit einem Spectrometer, der konnte Schwefel messen.
+
+01:48:14.001 --> 01:48:15.500
+<v hans-ulrichschmincke>Also das waren die Vorbedingungen.
+
+01:48:15.501 --> 01:48:17.700
+<v timpritlove>El Chichón war das der Vulkan.
+
+01:48:17.701 --> 01:48:19.400
+<v hans-ulrichschmincke>El Chichón ja.
+
+01:48:19.401 --> 01:48:24.600
+<v hans-ulrichschmincke>Und das Magma war also relativ schwefelreich und die Eruptionssäule ging bis in die Stratosphäre
+
+01:48:24.601 --> 01:48:31.900
+<v hans-ulrichschmincke>und dann hat man das verfolgt über den Globus, wie die gewandet ist, diese Aerosolwolke
+
+01:48:31.901 --> 01:48:41.200
+<v hans-ulrichschmincke>und das war so der Beginn eines der zentralen Wechsel im Paradigma.
+
+01:48:41.201 --> 01:48:47.000
+<v hans-ulrichschmincke>bis dahin hat man geglaubt, seit Krakatau, das war im August 1883 und vorher schon
+
+01:48:47.001 --> 01:48:52.900
+<v hans-ulrichschmincke>und immer danach auch, und auch jetzt noch, selbst Geologen hört man das sagen,
+
+01:48:52.901 --> 01:48:59.300
+<v hans-ulrichschmincke>dass es die Aschenpartikel sind, die das Klima beeinflussen, die haben aber nichts damit zu tun.
+
+01:48:59.301 --> 01:49:04.900
+<v hans-ulrichschmincke>Denn die Aschenpartikel, also die Glasstückchen, die Mineralstückchen und manchmal Nebengestein
+
+01:49:04.901 --> 01:49:09.000
+<v hans-ulrichschmincke>die fallen nach ein paar Tagen wieder auf die Erde zurück.
+
+01:49:09.001 --> 01:49:19.300
+<v hans-ulrichschmincke>Aber wenn sich diese Aerosolpartikel bilden, die sind so ganz klein, dann können sie mehrere Jahre um den Globus wandern,
+
+01:49:19.301 --> 01:49:25.600
+<v hans-ulrichschmincke>bis sie zusammenpappen und dann größer Partikel bilden, die können dann aussedimentiert werden.
+
+01:49:25.601 --> 01:49:33.400
+<v hans-ulrichschmincke>Also man braucht einen schwefelreichen Vulkan, man braucht eine sogenannte plinianische Eruptionssäule, die sehr hoch geht,
+
+01:49:33.401 --> 01:49:44.100
+<v hans-ulrichschmincke>die bis in die Stratosphäre geht und dann die sind so zwischen 23 und 30 oder 40 Kilometern kann diese Aerosolschicht zirkulieren
+
+01:49:44.101 --> 01:49:45.900
+<v hans-ulrichschmincke>ein paar Jahre lang.
+
+01:49:45.901 --> 01:49:52.500
+<v hans-ulrichschmincke>Beim Pinatubo gibt es schöne Aufnahmen, das war ja schon Satellitenzeitalter,
+
+01:49:52.501 --> 01:49:59.000
+<v hans-ulrichschmincke>das war 91, wenn ich mich recht erinnere, war Pinatubo und dann kann man sehen,
+
+01:49:59.001 --> 01:50:03.600
+<v hans-ulrichschmincke>wie lange diese Aerosole aus verschiedenen Bildern von einzelnen Satelliten,
+
+01:50:03.601 --> 01:50:08.500
+<v hans-ulrichschmincke>die waren, glaube ich, zwei, drei Jahre lang zu sehen.
+
+01:50:08.501 --> 01:50:14.500
+<v hans-ulrichschmincke>So und dann kommt die Frage, wie wirkt sich die reduzierte Sonneneinstrahlung,
+
+01:50:14.501 --> 01:50:20.000
+<v hans-ulrichschmincke>das ist ja im Prinzip auf die Erde aus?
+
+01:50:20.001 --> 01:50:25.800
+<v hans-ulrichschmincke>Und da gibt es verschiedene Sachen, die man bedenken muss.
+
+01:50:25.801 --> 01:50:33.700
+<v hans-ulrichschmincke>Die Pinatubo-Eruption, da gibt es hunderte von wissenschaftliche Veröffentlichungen drüber,
+
+01:50:33.701 --> 01:50:38.500
+<v hans-ulrichschmincke>da in dem Sommer war ich gerade ein Jahr in Kiel, da hat es hier viel geregnet im Sommer,
+
+01:50:38.501 --> 01:50:46.200
+<v hans-ulrichschmincke>ich glaube, das war Mitte Juni die Eruption, und dann hatten wir hier im Fernsehen eine Livesendung,
+
+01:50:46.201 --> 01:50:51.900
+<v hans-ulrichschmincke>und die haben zwei Meteorologen eingeladen, einen Bauern, der an seinen Hühnern sieht,
+
+01:50:51.901 --> 01:50:57.100
+<v hans-ulrichschmincke>wie sich das Klima entwickelt und mich als Vulkanologen.
+
+01:50:57.101 --> 01:50:59.600
+<v hans-ulrichschmincke>Und das war sehr spannend.
+
+01:50:59.601 --> 01:51:06.400
+<v hans-ulrichschmincke>Der eine Meteorologe, der war so älter, so meine Generation, der hat gesagt,
+
+01:51:06.401 --> 01:51:09.800
+<v hans-ulrichschmincke>im nächsten Jahr wird es kalt.
+
+01:51:09.801 --> 01:51:15.800
+<v hans-ulrichschmincke>Der andere, der arbeitete am Max-Planck-Institut, der war jünger, wir haben danach paar Jahre zusammengearbeitet,
+
+01:51:15.801 --> 01:51:23.800
+<v hans-ulrichschmincke>der sagte, nein, es wird wärmer, aber im nächsten Jahr wird es kühler im östlichen Mittelmeer und so weiter.
+
+01:51:23.801 --> 01:51:27.300
+<v hans-ulrichschmincke>In der modernen Meteorologie wird ja viel mit Computermodellen gerechnet.
+
+01:51:27.301 --> 01:51:30.800
+<v hans-ulrichschmincke>Und Hamburg und Princeton sind so die Führenden.
+
+01:51:30.801 --> 01:51:36.100
+<v hans-ulrichschmincke>Der eine hat ja gerade einen Nobelpreis gekriegt, der eine Mathematiker, der Hasselmann.
+
+01:51:36.101 --> 01:51:41.300
+<v hans-ulrichschmincke>Das ist also das Institut und die machen Modelle.
+
+01:51:41.301 --> 01:51:48.200
+<v hans-ulrichschmincke>Und während der Fernsehsendung hat der gesagt, dieser Kollege Graf, der später nach Cambridge ging,
+
+01:51:48.201 --> 01:51:56.000
+<v hans-ulrichschmincke>es wird demnächst ein Kältespot sein über Grönland und dann hat er gesagt,
+
+01:51:56.001 --> 01:52:02.700
+<v hans-ulrichschmincke>die siebenjährige Trockenheit in Kalifornien wird enden, die werden Wasser haben,
+
+01:52:02.701 --> 01:52:07.900
+<v hans-ulrichschmincke>im östlichen Mittelmeer, weil die kalten Luftmassen kommen so über den Ural,
+
+01:52:07.901 --> 01:52:14.200
+<v hans-ulrichschmincke>da wird es kälter werden und im Meer bleiben diese Klimabeeinflussungen immer länger,
+
+01:52:14.201 --> 01:52:16.600
+<v hans-ulrichschmincke>weil das Wasser ist träge.
+
+01:52:16.601 --> 01:52:18.800
+<v hans-ulrichschmincke>So, es ist alles eingetroffen.
+
+01:52:18.801 --> 01:52:26.600
+<v hans-ulrichschmincke>Ich war mit Studenten im nächsten Sommer in Zypern, um da den Aufbau der Kruste zu studieren
+
+01:52:26.601 --> 01:52:33.700
+<v hans-ulrichschmincke>und Mount Olympus ist da der höchste Teil, und da war im Mai ein halber Meter Schnee, das war ganz ungewöhnlich.
+
+01:52:33.701 --> 01:52:42.000
+<v hans-ulrichschmincke>Also diese Wanderung der kalten Luftmassen über Nordural bis dahin ist alles eingetreten.
+
+01:52:42.001 --> 01:52:46.300
+<v hans-ulrichschmincke>Und das fand ich sehr beeindruckend für die Präzision,
+
+01:52:46.301 --> 01:52:53.300
+<v hans-ulrichschmincke>mit der man heute so Auswirkungen von Vulkaneruptionen auf das Klima berechnen kann.
+
+01:52:53.301 --> 01:52:55.700
+<v timpritlove>Wie wahrscheinlich ist es denn, dass wir noch einen Vulkanausbruch bekommen,
+
+01:52:55.701 --> 01:52:59.800
+<v timpritlove>der genau diese Kriterien erfüllt?
+
+01:52:59.801 --> 01:53:03.600
+<v timpritlove>Ich meine, da muss ja einiges zusammenkommen, da muss eine extreme Intensität sein,
+
+01:53:03.601 --> 01:53:13.600
+<v timpritlove>da muss irgendwie der richtige Schwefelanteil dabei sein, so an der richtigen Stelle auf der Erde.
+
+01:53:13.601 --> 01:53:20.000
+<v hans-ulrichschmincke>Also eine Gruppe von Physikern in Harvard, die will ja darauf nicht warten.
+
+01:53:20.001 --> 01:53:24.200
+<v hans-ulrichschmincke>Und die haben ja schon seit, weiß ich nicht, sechs Jahren Modelle erarbeitet,
+
+01:53:24.201 --> 01:53:30.900
+<v hans-ulrichschmincke>wie man künstlich Schwefel in die Stratosphäre bringt, um diese Aerosole zu erzeugen.
+
+01:53:30.901 --> 01:53:36.100
+<v hans-ulrichschmincke>Ist natürlich eine zweischneidige Sache, wie weit die sind weiß ich nicht,
+
+01:53:36.101 --> 01:53:39.900
+<v hans-ulrichschmincke>ich bin damit nicht vertraut, mit dem Fortschritt der Arbeiten.
+
+01:53:39.901 --> 01:53:44.900
+<v hans-ulrichschmincke>Aber da arbeiten schon einige Leute dran, die die jetzt wissen von El Chichón,
+
+01:53:44.901 --> 01:53:52.900
+<v hans-ulrichschmincke>dass es das Schwefel ist und jetzt wollen sie, jetzt überlegen sie, wie kann man Schwefel in die Stratosphäre bringen.
+
+01:53:52.901 --> 01:53:55.100
+<v timpritlove>Okay, da ist ja ein bisschen geschummelt.
+
+01:53:55.101 --> 01:53:59.200
+<v timpritlove>Aber ich meine, wie wahrscheinlich ist es, dass so ein Vulkanereignis zusammenkommt,
+
+01:53:59.201 --> 01:54:07.100
+<v timpritlove>wenn man jetzt so die Häufigkeit nimmt und wie oft ein Vulkan solche Kriterien wirklich erfüllt,
+
+01:54:07.101 --> 01:54:09.900
+<v timpritlove>das scheint mir ja dann doch eher selten zu sein.
+
+01:54:09.901 --> 01:54:14.500
+<v hans-ulrichschmincke>Da braucht auch ein Vulkanologe eine Glaskugel.
+
+01:54:14.501 --> 01:54:16.900
+<v timpritlove>Haben Sie keine?
+
+01:54:16.901 --> 01:54:19.800
+<v hans-ulrichschmincke>Nein, ich habe zwar ein paar Kugeln hier, aber keine Glaskugel.
+
+01:54:19.801 --> 01:54:22.300
+<v timpritlove>Ich dachte jetzt nur so auf Basis von Wahrscheinlichkeiten.
+
+01:54:22.301 --> 01:54:25.800
+<v timpritlove>Also es lohnt sich nicht, darauf zu warten, so höre ich das mal raus.
+
+01:54:25.801 --> 01:54:27.600
+<v hans-ulrichschmincke>Nein, das sind dann hunderte von Jahren, die man gucken muss.
+
+01:54:27.601 --> 01:54:36.400
+<v hans-ulrichschmincke>Also Tambora war 1815, Krakatau war nicht sehr schwefelreich, 83.
+
+01:54:36.401 --> 01:54:45.100
+<v hans-ulrichschmincke>Der hat zwar viele Partikel produziert, Santorin war auch nicht, da fragen mich manchmal Archäologen mit Klimabeeinflussung durch Santorin,
+
+01:54:45.101 --> 01:54:52.800
+<v hans-ulrichschmincke>ich sage, der Schwefelgehalt beim Santorin-Magma im Mittelmeer der war nicht sehr hoch.
+
+01:54:52.801 --> 01:54:58.700
+<v hans-ulrichschmincke>Und auch wo wir dran gearbeitet haben, /unverständlich/ in Nordkorea, Grenze Nordkorea China,
+
+01:54:58.701 --> 01:55:00.100
+<v hans-ulrichschmincke>hat auch nicht so viel Schwefel gebracht.
+
+01:55:00.101 --> 01:55:04.600
+<v hans-ulrichschmincke>Also wir haben dann, unser Ergebnis von unserer Arbeit, eine Doktorarbeit,
+
+01:55:04.601 --> 01:55:14.100
+<v hans-ulrichschmincke>es war wohl kein Schwefelinput in die Stratosphäre vergleichbar mit Tambora 1815.
+
+01:55:14.101 --> 01:55:24.600
+<v hans-ulrichschmincke>Also wenn Sie ein Paläorheinländer vor 700.000 Jahren gefragt hätten, wann bricht da ein großer Vulkan aus,
+
+01:55:24.601 --> 01:55:28.400
+<v hans-ulrichschmincke>dann hätte er das auch nicht wissen müssen.
+
+01:55:28.401 --> 01:55:30.200
+<v timpritlove>Okay, ich habe auch nur ein bisschen gescherzt.
+
+01:55:30.201 --> 01:55:34.600
+<v timpritlove>Aber ich kann noch mal so zusammenfassen, wir haben den Vulkanen eigentlich alles zu verdanken so,
+
+01:55:34.601 --> 01:55:40.900
+<v timpritlove>aber retten werden sie uns jetzt wahrscheinlich nicht mehr, da müssen wir uns schon was anderes einfallen lassen,
+
+01:55:40.901 --> 01:55:41.900
+<v timpritlove>um irgendwie die Klimakatastrophe in den Griff zu kriegen.
+
+01:55:41.901 --> 01:55:50.800
+<v hans-ulrichschmincke>Ja, das ist eine gute Summary, also Klimakatastrophe und Vulkane und was die Physiker da in Harvard machen,
+
+01:55:50.801 --> 01:55:53.800
+<v hans-ulrichschmincke>ist eine sehr zwiespältige Geschichte.
+
+01:55:53.801 --> 01:55:57.500
+<v timpritlove>Am Ende müssen wir uns doch einfach nur mal am Riemen reißen.
+
+01:55:57.501 --> 01:55:58.400
+<v hans-ulrichschmincke>Kommen wir nicht drumherum.
+
+01:55:58.401 --> 01:55:59.800
+<v timpritlove>Kommen wir nicht drumherum.
+
+01:55:59.801 --> 01:56:04.100
+<v timpritlove>Ja, Herr Schmincke, ich sage, vielen Dank für die Ausführungen.
+
+01:56:04.101 --> 01:56:10.300
+<v timpritlove>Das war ein interessanter Ritt durch die Welt der Vulkane und ich werde mal zusehen,
+
+01:56:10.301 --> 01:56:14.900
+<v timpritlove>dass ich, wenn das nächste mal wieder eine Meldung ist, dass irgendwo was ausgebrochen ist
+
+01:56:14.901 --> 01:56:18.500
+<v timpritlove>und es ist nicht gleich auf der anderen Seite des Planeten, dann muss ich da mal ein bisschen näher ran,
+
+01:56:18.501 --> 01:56:25.400
+<v timpritlove>weil das war dann schon eine ganz interessante Erfahrung, die ich da jetzt habe einsammeln können.
+
+01:56:25.401 --> 01:56:31.100
+<v timpritlove>Ich wünsche Ihnen noch alles Gute für Ihre weitere Forschung, weil Sie scheinen ja keine Ruhe zu geben.
+
+01:56:31.101 --> 01:56:37.200
+<v timpritlove>So mit irgendwann mal aufhören und so weiter, das scheint bei Ihnen ja überhaupt gar kein Thema zu sein.
+
+01:56:37.201 --> 01:56:44.100
+<v hans-ulrichschmincke>Nein, wenn es wärmer wird, Sie können es da sehen, die beiden Seiten, ich baue fast alle Salate hier an
+
+01:56:44.101 --> 01:56:48.700
+<v hans-ulrichschmincke>und die Mohrrüben halten den ganzen Winter, die ich hier anbaue,
+
+01:56:48.701 --> 01:56:53.400
+<v hans-ulrichschmincke>jetzt die letzten Tage war es abends immer sehr kalt, ich habe zwar vorher den Kachelofen angemacht,
+
+01:56:53.401 --> 01:57:00.200
+<v hans-ulrichschmincke>aber ich glaube, jetzt wird es etwas wärmer und im Sommer, ich bin ein Gärtner hier.
+
+01:57:00.201 --> 01:57:03.600
+<v timpritlove>Dann wenden Sie sich auch anderen Themen zu.
+
+01:57:03.601 --> 01:57:09.300
+<v hans-ulrichschmincke>Nur im Winter ist es, weil ich keine Ananas und Bananen anbaue, ist es schwierig.
+
+01:57:09.301 --> 01:57:11.200
+<v timpritlove>Da muss dann doch noch bisschen geforscht werden.
+
+01:57:11.201 --> 01:57:11.200
+<v hans-ulrichschmincke>Ja.
+
+01:57:11.201 --> 01:57:12.200
+<v timpritlove>Okay.
+
+01:57:12.201 --> 01:57:15.600
+<v hans-ulrichschmincke>Brauchen wir ein paar Vulkane, die es wärmer machen.
+
+01:57:15.601 --> 01:57:17.900
+<v timpritlove>So hat so jeder sein eigenes Lagerfeuer.
+
+01:57:17.901 --> 01:57:19.700
+<v timpritlove>Ich sage noch mal vielen Dank.
+
+01:57:19.701 --> 01:57:21.000
+<v hans-ulrichschmincke>Bitte schön.
+
+01:57:21.001 --> 01:57:26.300
+<v timpritlove>Und klar, an alle, die zugehört haben, natürlich auch vielen Dank fürs Zuhören,
+
+01:57:26.301 --> 01:57:29.600
+<v timpritlove>bald geht es wieder weiter, bis dahin sage ich, tschüss und bis bald.
